@@ -1,0 +1,13 @@
+{
+  "block": 20,
+  "time_range": "95:00-100:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this problem that has another scale. So because this is another scale of problem, I need to approach let's say ah okay, this willingness problem",
+      "timestamp_abs": "95:00"
+    }
+  ]
+}

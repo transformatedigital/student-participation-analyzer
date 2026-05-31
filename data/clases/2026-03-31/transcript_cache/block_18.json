@@ -1,0 +1,77 @@
+{
+  "block": 18,
+  "time_range": "85:00-90:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the rest is just contextual. So, let's focus on the authentic. What is the authentic problem of your screens? As you explained the delivery of the material, the organization of the class, uh, the assignment and it working kind of project style, the communication between the lecture and the classroom, and, uh, um, the evaluation process, the document system of evaluation, which these are really deep down the components of this problem. The rest is contextual. So you can give me contextual at the beginning. It could be as I mentioned when you go down from now, when the moment you establish the problem is there, just let's zero the problem. Same as I told Mega, I don't want to listen about the core problem, about the problems of evaluation for the great in the country. That's enough. That already we, let's say, status quo. It's okay, you know, we're going to assume that and go directly to the problem and really focus on that. So, don't bring me all those things up. So that because then the reader or or or even the stakeholder will say, oh, is he going to do that or is he going to do this? So we need to really be very specific and also, I mean here, if you have a little bit of argue, it's great, if not, it's no worry.",
+      "timestamp_abs": "85:00"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Again, here, they give you general data, general. General internet data. And then I want to see I would add in here.",
+      "timestamp_abs": "86:19"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "How many for example. And news that says how long time it takes to graduate in Congo? Or to evaluate students, maybe a news outlet in your university newspaper? Where is it? Professors are complaining or students are complaining about errors in their grades because of manual process.",
+      "timestamp_abs": "86:33"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Actually,",
+      "timestamp_abs": "86:58"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Anything that's not, you see the difference on that? It's like what I'm giving you. This is level high. I'm hitting level really direct to our problems. The level like something that's related to the learning experience. Students that will complain because their I I finished my course, the first of December, and I can see my my grade until March because the process takes too long because it's manual. Something like that. Or, um, I could not submit the university regulations updated and that everything needs to be submitted on, I don't know, on that day. But because of student creativity and I don't have computer, you see, I couldn't submit my assignment on time and I missed the course.",
+      "timestamp_abs": "86:59"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This kind of very specific, even if it's not because I again, or you can find like a report, a national report where it really evaluated the college situation and really poor conditions of learning in the universities, only universities, just general. It could be in the region, I gave the example to Stephen, I told you, if I give you the comment that they give to you, I said, please, if you don't have anything about Rwanda, please come and something like in the region, blah blah blah, something about Africa, something about something. You can put something if it's something like that.",
+      "timestamp_abs": "87:51"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This data, is very general, internet. So I'm not saying it doesn't have to do two levels ahead. I want to get an example of the learning national issue.",
+      "timestamp_abs": "88:29"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "88:42"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "88:45"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Same, next one. Is by the way, it's just okay, that's great, that's a higher level. But is there the Ministry of Education in Congo? Has they, have they said something about or maybe, for example, made some other universities in Congo or nearby Congo, maybe in Africa and Congo. Other universities that are related to that to the university that you're working at. They already implement some solutions that are well known and well maybe all open for example, just general open open open source books. And do we have some news to say, other universities are already trying to do it, but they have these and these limitations. This kind of existing efforts. Very I am a member I told you of of a committee for invest for startups to invest in most of the technology startups. And one of the things I always tell startups in countries, if you're telling me there is nobody else, there's no existing solution that they what you're trying to do, there's only two options. Either you are a...",
+      "timestamp_abs": "88:47"
+    }
+  ]
+}

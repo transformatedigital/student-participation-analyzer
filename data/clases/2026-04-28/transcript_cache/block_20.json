@@ -1,0 +1,244 @@
+{
+  "block": 20,
+  "time_range": "95:00-100:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "allocation for this problem. Existing project failed attempts. So probably you can say, 'Ah, actually this already people tried to do it, but in your case the justification is we build the TFT, the TFT, blah blah blah blah blah.'",
+      "timestamp_abs": "95:00"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or for example, internal KPIs.",
+      "timestamp_abs": "95:12"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Within the national, within the BRL's recent plan, the we have an innovation KPI and the ER, what is it? The EDM, EDM department has some kind of KPI related to this project.",
+      "timestamp_abs": "95:16"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh, I",
+      "timestamp_abs": "95:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I cannot do it.",
+      "timestamp_abs": "95:30"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I can know it. It would be really good to go from context evidence to demand evidence.",
+      "timestamp_abs": "95:32"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Ah, okay.",
+      "timestamp_abs": "95:37"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But, but we need to be careful because if the KPI is just deploy AI related, it doesn't the KPI needs to match the story.",
+      "timestamp_abs": "95:39"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It just it cannot be just plugged there. This is the KPI. We need to connect it all.",
+      "timestamp_abs": "95:47"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "problem.",
+      "timestamp_abs": "95:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "95:53"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or the stakeholder urgency evidence. So right now for example, your TFT. That's very good.",
+      "timestamp_abs": "95:55"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, over-reliance on this problem.",
+      "timestamp_abs": "96:01"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, policy documents. Now this support importance now we need actually, in general, you guys have a lot of uh policy documents. Micro statistics. Already many of you complied with this, which I requested and it was okay.",
+      "timestamp_abs": "96:04"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because that give me a hint that it's an important issue. It's not something that Stephen and Grace think about it just after Thursday, after Tuesday afternoon, they say, 'Ah, yeah, just to complete my homework.' No, it's actually relevant.",
+      "timestamp_abs": "96:17"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we complete that part. But now we need to say, is it really urgent? Is it really prioritized?",
+      "timestamp_abs": "96:30"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "Sorry, what was the meaning of the national rankings?",
+      "timestamp_abs": "96:36"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For example, I asked some of them, uh, not in your case but in their their case I said because they didn't have internal data to show, I I asked, 'Please show me how what is the ranking of Nigeria in terms of uh investment in R&D or like that.' Because they didn't have internal a lot of them. I know, I asked them, 'Please show me, for example, in the case of Stephen,' I said, 'how what is the Rwanda uh comparison if you have with uh cybersecurity or like that.' So national rankings in different multi-level national level kind of in the Yeah, to know more or less what is the status. So we already completed context evidence. Check.",
+      "timestamp_abs": "96:39"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But we need to be more specific about demand.",
+      "timestamp_abs": "97:15"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh, for the professor from the",
+      "timestamp_abs": "97:20"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Why you don't say sorry?",
+      "timestamp_abs": "97:22"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "On this budget, budget, budget uh",
+      "timestamp_abs": "97:24"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh, budget, budget.",
+      "timestamp_abs": "97:28"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "allocation. You just said the budget allocation. If there is no budget allocation, so how can you get the budget?",
+      "timestamp_abs": "97:30"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, you don't need you have to say just write it.",
+      "timestamp_abs": "97:37"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Ah, okay.",
+      "timestamp_abs": "97:41"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's difficult for you. For example, if there is, for example, I will tell you if it was my NTIS, the condition of the NTIS was the following. The minister had already requested budget to the Congress to develop an R&D management system. And there was news, there was also the project bill, the budget bill of the next year where the minister had already requested. However, the response of the Congress was that because of the current, at that time, Costa Rica was struggling uh uh and the almost an IMF crisis. So the Congress had cut all the new project related kind of uh innovation or new project, new digital service related projects had been deprioritized. So there was a whole context that I could write about what was going on in my country related to that. So, the reality was there was no budget, but I was telling the story of why it's not because it's not important that there was no budget, there was a situation going on why there is no budget and therefore the minister was requesting uh the the Korean partner to uh but I was telling the story there. Okay?",
+      "timestamp_abs": "97:42"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So even if there is no budget, we need to tell, ah, okay, there was an existing project, there was a failed attempt to get the money, but blah blah blah blah blah. Or there was a procurement effort. For example, there is other projects where you say, 'Actually, there was a bid that we did with the fund of the World Bank, blah blah blah, but it failed because of these reasons.' For example.",
+      "timestamp_abs": "98:52"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "99:11"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or if those are not the cases because it doesn't apply this example, then I know, we don't have the budget yet, but there is an internal, everybody knows what a KPI is.",
+      "timestamp_abs": "99:13"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, [inaudible] performance indicator.",
+      "timestamp_abs": "99:21"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, yes, yes.",
+      "timestamp_abs": "99:22"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, there is an internal key performance indicator from that team, from the office or from the agency that is urging us to comply with this one actually, but until now we couldn't solve it because this is this is this. So right now we need to move from context to demand verification. Until now, while doing the demand verification, the first step is importance. Okay, this is a real problem. It's important. Now the next step is how urgent, how real, right? So my question to Chilaka, for example, I had, I told you I had good news.",
+      "timestamp_abs": "99:24"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, they asked me,",
+      "timestamp_abs": "99:58"
+    }
+  ]
+}

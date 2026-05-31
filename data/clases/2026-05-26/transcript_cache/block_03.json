@@ -1,0 +1,331 @@
+{
+  "block": 3,
+  "time_range": "10:00-15:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this one is like again, the logical jump in the sense that you're at the beginning, still talking about",
+      "timestamp_abs": "10:00"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, I like the beginning, actually. That's why I have the feeling in general, in your ICP also, at the beginning is the story goes well, but at some point you kind of",
+      "timestamp_abs": "10:07"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "put it in, like that.",
+      "timestamp_abs": "10:14"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's just like an a- an insight it still kicks in once in a while.",
+      "timestamp_abs": "10:15"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, the thing is the the solution itself it's not on the technology by itself. That's the very generic problem, generic uh generic situation in among all of.",
+      "timestamp_abs": "10:21"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like the solution itself, the technology will be probably one component, one element, right? But it's probably not the single it's not a silver bullet, right? If I plug in the NTS into the current Nigerian national ecosystem, will it really work?",
+      "timestamp_abs": "10:37"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Probably not, right? So, this is a very important thing that we need to keep in mind.",
+      "timestamp_abs": "10:54"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Any other like uh aha moments that you got from one to the other? Uh, your gap analysis? Okay.",
+      "timestamp_abs": "11:01"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So, um then I realized that there's need for to be really specific on the data that's really specific to the problem at hand.",
+      "timestamp_abs": "11:06"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But while doing the presentation you improved a lot that part, I think, right?",
+      "timestamp_abs": "11:16"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "11:19"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because it was not in your ICP before.",
+      "timestamp_abs": "11:20"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, yeah, exactly. So I'm not now more focused on the empirical data that has to that is related to my, not like a general data anymore. It's not specific to the problem at hand.",
+      "timestamp_abs": "11:21"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "And just tell your peers, what are the examples of empirical data that you have found?",
+      "timestamp_abs": "11:33"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay, like um the first, the the amount of uh funds that are lost by by having a so so many so many investments in different uh R&D in different agencies. And the the level of duplication of the same same projects in different agencies. And also in institutions like the third fund I talked about today, they've been funding R&D in for the same for the same same R&D project in different universities without that it would have saved the country a lot of money if they they could have harmonized, if this one is already working on this, let's just focus on this one. Then at least separate it in different R&D, not like multiplying same using the same funds on the same R&D in different universities.",
+      "timestamp_abs": "11:38"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "And how did you find out data?",
+      "timestamp_abs": "12:29"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "From Third FOND. Third FOND themselves they started they started picking data from each university. They started asking them what are you working on. Before they they would just your funds.",
+      "timestamp_abs": "12:32"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "But how how do you get to that point? You started looking at the budget or you started looking at newspapers?",
+      "timestamp_abs": "12:42"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Newspaper newspaper and Third FOND report.",
+      "timestamp_abs": "12:48"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Third FOND?",
+      "timestamp_abs": "12:51"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Third FOND.",
+      "timestamp_abs": "12:52"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, the stationery Education Trust Fund.",
+      "timestamp_abs": "12:53"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay.",
+      "timestamp_abs": "12:55"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "12:56"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Trust trust fund.",
+      "timestamp_abs": "12:57"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, trust fund. They they are publishing with Third FOND.",
+      "timestamp_abs": "12:58"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay.",
+      "timestamp_abs": "13:01"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So, and also ICPC. The the corruption commission of Independent Corrupt Practice of commission.",
+      "timestamp_abs": "13:02"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "It's like an audit body.",
+      "timestamp_abs": "13:10"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, yeah. So they they did an investigation and realized that there there are still so many R&D that's embedded, they keep on repeating those R&Ds every year for the same thing. Maybe even for the ones that they've they've already completed.",
+      "timestamp_abs": "13:11"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the same professor is getting extra R&D money for the same",
+      "timestamp_abs": "13:24"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "For the thing maybe he has already completed it. Then he he every year he still put the same projects in the system again and all that. So in different in different universities, different agencies.",
+      "timestamp_abs": "13:26"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the budget you got the news, uh you found some third-party secondary sources to where reporting.",
+      "timestamp_abs": "13:37"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, because ICPC is actually a government uh agency, yeah. So they released that report and the amount they realized that they've lost was running into so many billions of dollars for five years and all so. I mean, that money would have saved the country a lot of money. Yeah, money.",
+      "timestamp_abs": "13:42"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Interesting, very honest.",
+      "timestamp_abs": "14:04"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Anything you wanna add about your experience before and after the follow-up, please?",
+      "timestamp_abs": "14:05"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Well, um now, I need to really um",
+      "timestamp_abs": "14:09"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "How about your problem statement? How about your problem statement right now?",
+      "timestamp_abs": "14:13"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I need to totally extradite my mind from that uh technology. I'll try I'll try as much as I can not to allow it kick in. Yeah, I think we'll try so hard but along the line, it still finds a way to",
+      "timestamp_abs": "14:17"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Can I can I don't misunderstand me. The reason why I introduce is because sometimes and today, like in June you guys are gonna have a conference.",
+      "timestamp_abs": "14:30"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "You guys already know there's gonna be a conference, the AI plus forum?",
+      "timestamp_abs": "14:36"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "You already know from the forum?",
+      "timestamp_abs": "14:40"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "No, they haven't announced yet?",
+      "timestamp_abs": "14:42"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No.",
+      "timestamp_abs": "14:44"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay. June GDI will host a forum, a big forum on AI, it's gonna be in Kaisel and campus, a very fancy. We're gonna try to have a very interesting activity together with all the community. We're gonna invite partners, R&D centers, like that. And you're gonna see, you're gonna hear from the office, they're gonna",
+      "timestamp_abs": "14:45"
+    }
+  ]
+}

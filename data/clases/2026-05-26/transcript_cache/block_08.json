@@ -1,0 +1,380 @@
+{
+  "block": 8,
+  "time_range": "35:00-40:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay, what are these underlying causes?",
+      "timestamp_abs": "35:00"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, access to electricity is not the the need. This is the overall symptom.",
+      "timestamp_abs": "35:03"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There is a reason why this is not being possible.",
+      "timestamp_abs": "35:09"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because technical speaking is not a problem. You can do it.",
+      "timestamp_abs": "35:11"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, think about it maybe the other way, okay?",
+      "timestamp_abs": "35:14"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh uh.",
+      "timestamp_abs": "35:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "You wanna add?",
+      "timestamp_abs": "35:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, no, I I I just want to discuss this.",
+      "timestamp_abs": "35:21"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh, okay, okay.",
+      "timestamp_abs": "35:23"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Because if if uh I don't know about the situation in NTV.",
+      "timestamp_abs": "35:24"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "But let's say what if, what if, um, uh how can I say this?",
+      "timestamp_abs": "35:27"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh, what if because the government just didn't care?",
+      "timestamp_abs": "35:33"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "What if that's the real problem, then how can?",
+      "timestamp_abs": "35:36"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, then that's why, then this kind of problem is not appropriate, it's like poverty.",
+      "timestamp_abs": "35:39"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "What what if, only what if? I actually don't know.",
+      "timestamp_abs": "35:45"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, let me respond to that. In the case of, like that's why",
+      "timestamp_abs": "35:47"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We need to prove a problem. We need to find a problem, not any problem.",
+      "timestamp_abs": "35:51"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There is a very a lot of romantic problems like, I don't know, it's world poverty.",
+      "timestamp_abs": "35:54"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "There are issues like in this case, then is there a technology commercialization initiative that can solve that the government is not giving attention to the poor NVT people?",
+      "timestamp_abs": "36:00"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then that problem is is a really a relevant problem, I agree.",
+      "timestamp_abs": "36:11"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's not a relevant problem for this initiative that we're trying to do, because it cannot be solved through a GTC.",
+      "timestamp_abs": "36:15"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Unless unless I'm telling unless our our plan is to give them money.",
+      "timestamp_abs": "36:23"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Sorry, Professor.",
+      "timestamp_abs": "36:29"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "But what what I understand is uh GTC means like we",
+      "timestamp_abs": "36:30"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Sorry.",
+      "timestamp_abs": "36:34"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "We want to collaborate, right?",
+      "timestamp_abs": "36:35"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, collaborate and contribute.",
+      "timestamp_abs": "36:38"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But there are certain problems that act the way we can generate value.",
+      "timestamp_abs": "36:40"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let's talk about this. We want to generate value to the community.",
+      "timestamp_abs": "36:46"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if the problem is that the government doesn't even care about that community,",
+      "timestamp_abs": "36:49"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "it's a too complex problem for us to tackle with just a very humble commercialization initiative.",
+      "timestamp_abs": "36:55"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay, okay, I I I",
+      "timestamp_abs": "37:01"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "My question is only uh what if, but real case I don't know.",
+      "timestamp_abs": "37:03"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I know, but what I'm saying is what what if it's valid, your your hypothetical thinking is",
+      "timestamp_abs": "37:07"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "My response is if this is a problem where not even the government is caring, I agree with you, it's a very sad and very tragic and a very difficult problem.",
+      "timestamp_abs": "37:12"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's not a problem we can solve or even attempt to solve with a technology commercialization collaboration.",
+      "timestamp_abs": "37:22"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "that in in such cases the government has the",
+      "timestamp_abs": "37:30"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because for in order to be, in order to really come really contribute with the issue, the strength or the muscle that we have as a global commercialization initiative, it's too low.",
+      "timestamp_abs": "37:35"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think the minimum minimum minimum enabling or prerequisite for us to do.",
+      "timestamp_abs": "37:49"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "A prerequisite, then?",
+      "timestamp_abs": "37:55"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, it's a prerequisite.",
+      "timestamp_abs": "37:56"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If even not even the president gets can make a lone say, 'Go, go and the Kai-CDI together, go, please pay attention.'",
+      "timestamp_abs": "37:58"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We cannot, you know?",
+      "timestamp_abs": "38:06"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yep.",
+      "timestamp_abs": "38:08"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Even to build to bring in the Korean stakeholders who can help us,",
+      "timestamp_abs": "38:09"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "unless really she says, 'We have Professor, but my my grandma lives in NVT and I really want to help you.'",
+      "timestamp_abs": "38:13"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay then, I'm like, okay, okay, let's try. But my initial very early on, you might convince me otherwise, try, please try to convince me otherwise.",
+      "timestamp_abs": "38:18"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I I welcome all of these discussions.",
+      "timestamp_abs": "38:26"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But my preliminary says is, 'be careful because it might be a problem that it can be easily solved, but it's a problem of political willingness or there's for, you know?'",
+      "timestamp_abs": "38:28"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So there's certain problems that through our initiative, with our the power that we can through this kind of scope of technological commercialization collaboration, it's really, very hard to tackle with.",
+      "timestamp_abs": "38:38"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Uh professor.",
+      "timestamp_abs": "38:50"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "From my experience in 2021, I I have I had this type of project.",
+      "timestamp_abs": "38:52"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Actually after I've left ITTP.",
+      "timestamp_abs": "38:57"
+    }
+  ]
+}

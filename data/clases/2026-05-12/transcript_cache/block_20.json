@@ -1,0 +1,444 @@
+{
+  "block": 20,
+  "time_range": "95:00-100:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "mega, mega, it's just gonna be somebody hiring like consulting for like that, right?",
+      "timestamp_abs": "95:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "What you do?",
+      "timestamp_abs": "95:06"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "95:08"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "At you I was clearing up, you can do it. All of you can do it like that. You can do it.",
+      "timestamp_abs": "95:08"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But that will be a technology push, a technology push right rather than a problem driven.",
+      "timestamp_abs": "95:13"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Yeah. But but the thing that you said to me during the one-on-one session is um",
+      "timestamp_abs": "95:19"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "text": "is it worth to be the country report? country project? Yeah.",
+      "timestamp_abs": "95:24"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Because yeah, if you see it that way, especially like me more focused to the develop the TTS.",
+      "timestamp_abs": "95:30"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "text": "Is it? Just just like that? I mean in term of collaboration, isn't it should be bigger?",
+      "timestamp_abs": "95:37"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "That's why I told the professor maybe my mind was too small because my problem is very strict.",
+      "timestamp_abs": "95:42"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it's okay. You can, I mean I'm not saying don't do it. Do it.",
+      "timestamp_abs": "95:49"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But then I we have to strategically say, is it going to be the project, the project of of",
+      "timestamp_abs": "95:52"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I I did many of projects like that. Like they just called me, the demand was there and I just match-made and then they say",
+      "timestamp_abs": "95:59"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And it's going to give you track and experience. That's great.",
+      "timestamp_abs": "96:04"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I'm just being straight, very transparent to you. Maybe when we get to Professor Kim next week, next semester, she's gonna keep drilling you about this much more than me saying,",
+      "timestamp_abs": "96:07"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Don't do it.",
+      "timestamp_abs": "96:17"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Don't do that!",
+      "timestamp_abs": "96:18"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not lying.",
+      "timestamp_abs": "96:19"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Don't do that.",
+      "timestamp_abs": "96:20"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "That's what I'm just smiling.",
+      "timestamp_abs": "96:21"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Because when you never can really say, \"I'm okay,\" till till you get to a certain level and when they keep on asking you questions, then you'll be like, \"Have I really been doing anything?\"",
+      "timestamp_abs": "96:23"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, thank you.",
+      "timestamp_abs": "96:35"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's exactly. So, Grace, talk to Chilaka about this.",
+      "timestamp_abs": "96:36"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He knows what I'm talking about like is it really",
+      "timestamp_abs": "96:40"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Like is it really, the really straightforward like is it really the way you're gonna solve a very national level just like by the technology coming",
+      "timestamp_abs": "96:44"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "yourself",
+      "timestamp_abs": "96:51"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then we need to discuss. And I'm not saying it's not a real I",
+      "timestamp_abs": "96:52"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "probably it's a pain point, but can we really like maybe using like this kind of cases, can we really find a good way to say, no, actually, the really deep",
+      "timestamp_abs": "96:54"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "That's why I asked you like, do you have some specifics of a like, for example, the case of the fruit lady that uh, was was in jail for so many weeks just because of an incident like that or how many",
+      "timestamp_abs": "97:03"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "there was three cases of corruption because a professor gave a a grade in Korea, it happened like that, like some professors were giving the grade to some very rich people rich people's daughter or son.",
+      "timestamp_abs": "97:14"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the daughter or son, it was proven that they she didn't even attend the class.",
+      "timestamp_abs": "97:26"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And she was graduating as a master's in blah, blah, blah like wow.",
+      "timestamp_abs": "97:30"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like that kind of scandals like it is a really pain point because there is a this kind of very underlying corruption or like I don't wanna I don't I'm not saying it's your case.",
+      "timestamp_abs": "97:34"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm just saying it could be like the way you package it. It's just like a university needs to buy an academic blah, blah, blah.",
+      "timestamp_abs": "97:43"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "But it exists all those uh problems of uh corruption, but you know since",
+      "timestamp_abs": "97:49"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "it is not something visible, we know how it works.",
+      "timestamp_abs": "97:55"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why I told you, but I told you it could be like a news article.",
+      "timestamp_abs": "98:00"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Actually, it is difficult to be published as such, you know, when people are doing corruption.",
+      "timestamp_abs": "98:04"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "It's a double secret.",
+      "timestamp_abs": "98:10"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, but of course,",
+      "timestamp_abs": "98:12"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "we know",
+      "timestamp_abs": "98:14"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that it's happening.",
+      "timestamp_abs": "98:15"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "It's happening.",
+      "timestamp_abs": "98:16"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So maybe I can't exhibit.",
+      "timestamp_abs": "98:18"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, or any report of uh, for example, report uh in our country.",
+      "timestamp_abs": "98:19"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sometimes the controller, there is the education controller or the education uh how do you call this? The, come on, I'm sorry, what is, cómo se llama el uh, not the supervisor, the, Inspector no, what's the name? Uh the, Ay, cómo se dice la persona que super, no, no son eh asesores, no. I forgot the word in all my languages. Eh, is the",
+      "timestamp_abs": "98:24"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, it's not supervisor, it's like inspectors, like the",
+      "timestamp_abs": "98:52"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When there's corruption, you you have normally a team that is like doing the auditing.",
+      "timestamp_abs": "98:57"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Auditing.",
+      "timestamp_abs": "99:01"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So there are sometimes auditing reports in my country from the education commission like that where they're saying, uh they don't pinpoint any names or, there is a high risk of this, this, this, this.",
+      "timestamp_abs": "99:03"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The auditing reports or the controller office say because the current system in that university, there is some issues, blah, blah. So you they are pinpointed that you need to be fixed in this kind of thing.",
+      "timestamp_abs": "99:14"
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That kind of implicit I know explicitly it exists.",
+      "timestamp_abs": "99:23"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Actually, uh what happened is uh",
+      "timestamp_abs": "99:28"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Same for you, Chilaka, also in Chile, it must be like they probably",
+      "timestamp_abs": "99:31"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So auditors are the most corrupt in my country. right?",
+      "timestamp_abs": "99:33"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "What did I say? What did I say?",
+      "timestamp_abs": "99:36"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Auditors are something",
+      "timestamp_abs": "99:37"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Before before they come, you're already giving them something even before they arrive.",
+      "timestamp_abs": "99:38"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So they're most corrupt.",
+      "timestamp_abs": "99:42"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "When it happens maybe a case of corruption within uh maybe one professor could be uh caught in this issue.",
+      "timestamp_abs": "99:44"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "What is happened, they they did from the faculty first.",
+      "timestamp_abs": "99:54"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "As to",
+      "timestamp_abs": "99:59"
+    }
+  ]
+}

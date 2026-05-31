@@ -1,0 +1,476 @@
+{
+  "block": 14,
+  "time_range": "65:00-70:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "office, especially for global projects in HC.",
+      "timestamp_abs": "65:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I went up to her last Friday.",
+      "timestamp_abs": "65:02"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "also.",
+      "timestamp_abs": "65:05"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I kept saying like, hey, this is a professor, I want a normal digital condition.",
+      "timestamp_abs": "65:06"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So she was told to tell me, no, digital, this is the story behind the behind the curtain. And I'm like, ah, okay, okay, so now no more digital, no more digital.",
+      "timestamp_abs": "65:11"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So she kept asking me, but what is it that Indonesia needs? Is it like accuracy? They want to increase the accuracy level? like this.",
+      "timestamp_abs": "65:17"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "for the TTS.",
+      "timestamp_abs": "65:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah. So I said, actually, yes, they want to increase, not in general, like they already have some kind of AI agent, but specifically they're having problem in the text to speech.",
+      "timestamp_abs": "65:26"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So,",
+      "timestamp_abs": "65:34"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I briefly, without your permission, I'm sorry. I briefly shared because I needed to get her feedback exactly. So I shared yours I didn't share, I just showed, but his I sent because I had no chance to meet her in person.",
+      "timestamp_abs": "65:35"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I shared and then, um, and then she told, okay, let me let you know. I will check because I know from A3, there is a company who was founded by A3 researchers. who were members of the original GeniTalk project.",
+      "timestamp_abs": "65:48"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So GeniTalk died, but the people who developed GeniTalk are still working on these issues. So in a different company. So I said, okay, please find me who are the people.",
+      "timestamp_abs": "66:03"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So she told me that these people on Totoro's Lab, Totoro's Lab.",
+      "timestamp_abs": "66:11"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And they have an L, I'm going to say, L, on or time. So they are like L-based language model with language value development for text, uh, voice recognition and, uh, around common. So maybe like a, like an evaluation or assessment model.",
+      "timestamp_abs": "66:15"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let me just read it again just for the",
+      "timestamp_abs": "66:38"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "good.",
+      "timestamp_abs": "66:41"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Great. Thank you.",
+      "timestamp_abs": "66:43"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "I wish. I wish.",
+      "timestamp_abs": "66:44"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "make it ready.",
+      "timestamp_abs": "66:47"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The easy go camera.",
+      "timestamp_abs": "66:49"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "[inaudible]",
+      "timestamp_abs": "66:55"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, the company was",
+      "timestamp_abs": "66:59"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the company was founded by",
+      "timestamp_abs": "67:00"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "[inaudible]",
+      "timestamp_abs": "67:01"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the company was founded by three A3 researchers.",
+      "timestamp_abs": "67:09"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "[inaudible]",
+      "timestamp_abs": "67:17"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Uh-huh.",
+      "timestamp_abs": "67:19"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay, just the the the the the phone.",
+      "timestamp_abs": "67:20"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "67:23"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So you see, I mean, the reason why we are saying this is that we can",
+      "timestamp_abs": "67:24"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "67:29"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "[inaudible]",
+      "timestamp_abs": "67:30"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh yeah, sorry professor, just to make it clear, uh uh when I talk to my college.",
+      "timestamp_abs": "67:30"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So my goal is uh develop the model of the TTS of the Indonesian.",
+      "timestamp_abs": "67:35"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So what we develop the model.",
+      "timestamp_abs": "67:41"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "because the for example will be uh yeah, I mean, it's uh we we can wait ourselves. We we just need the the model of the TTS.",
+      "timestamp_abs": "67:43"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "for Indonesia.",
+      "timestamp_abs": "67:54"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is important because they ask me, they want to, they want to. So they want. And she. I said I don't know.",
+      "timestamp_abs": "67:55"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "[inaudible]",
+      "timestamp_abs": "68:01"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I said I don't know. I have to talk to my team.",
+      "timestamp_abs": "68:02"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "68:04"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I told her like, I will talk with this company because I'm meeting today and we just uh let's set up a meeting to discuss.",
+      "timestamp_abs": "68:05"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So also they want another project. She talked to the CEO of the company.",
+      "timestamp_abs": "68:14"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And she told me this is what the company is doing, let me, he told me, let me talk to the CEO and see if they are interested because I want to know what type of project we can do.",
+      "timestamp_abs": "68:18"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So he said, I'm like here, he said, we are I, Suho and I would like to have a meeting to understand what is their exact demand. Right?",
+      "timestamp_abs": "68:26"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, and I said, okay, like I will talk to her, because I was talking with the one who, so I said, I will talk to you and I will let you know when we can have a meeting.",
+      "timestamp_abs": "68:36"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "[murmuring]",
+      "timestamp_abs": "68:45"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "So",
+      "timestamp_abs": "68:51"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "now we are at this stage. Huh?",
+      "timestamp_abs": "68:52"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tinder first meeting.",
+      "timestamp_abs": "68:56"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? Tinder first meeting.",
+      "timestamp_abs": "68:58"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tinder first meeting.",
+      "timestamp_abs": "69:00"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? Swipe left.",
+      "timestamp_abs": "69:02"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "[laughing]",
+      "timestamp_abs": "69:04"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "[laughing]",
+      "timestamp_abs": "69:05"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "[laughing]",
+      "timestamp_abs": "69:06"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "[laughing]",
+      "timestamp_abs": "69:06"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Go to the left.",
+      "timestamp_abs": "69:07"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So.",
+      "timestamp_abs": "69:09"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then you, that's what I'm telling you, look, like I had really deep pivot. And then my finally he found this.",
+      "timestamp_abs": "69:11"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's really you don't know whoever will go, it's like a Korean horoscope, the the the mouse going ahead of the cow and they finish the race. right? But the rabbit didn't finish right.",
+      "timestamp_abs": "69:17"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So don't worry about this.",
+      "timestamp_abs": "69:27"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "[inaudible]",
+      "timestamp_abs": "69:28"
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, yeah, that's what the Koreans are saying, right?",
+      "timestamp_abs": "69:29"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you don't know exactly, don't worry about it. You feel sometimes like you're not progressing enough, but the rhythm is very different. Do not compare each other.",
+      "timestamp_abs": "69:31"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just feel assured that we need to like really start like, I think key part is really to keep talking to the people in your network to really know exactly what the real demand is, what the real intention behind the big bosses are.",
+      "timestamp_abs": "69:39"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because sometimes like as I tell you, like for example, Chilaka really your minister will sign up this, we don't know. It's only among some",
+      "timestamp_abs": "69:52"
+    }
+  ]
+}

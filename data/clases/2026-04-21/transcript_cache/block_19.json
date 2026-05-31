@@ -1,0 +1,476 @@
+{
+  "block": 19,
+  "time_range": "90:00-95:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I might need I might need a stake in.",
+      "timestamp_abs": "90:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "90:02"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "the emails for the evidence.",
+      "timestamp_abs": "90:03"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "you go through the emails.",
+      "timestamp_abs": "90:06"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, okay. I will check it.",
+      "timestamp_abs": "90:07"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "90:08"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, okay.",
+      "timestamp_abs": "90:09"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So because I think that like project I always tell I like here without any collaboration no project can happen.",
+      "timestamp_abs": "90:10"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Projects need people and organizations to work together and but strong needs to collaborate not just what we do.",
+      "timestamp_abs": "90:16"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think those I will check I haven't checked the last version.",
+      "timestamp_abs": "90:23"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "These ones after the last time, right?",
+      "timestamp_abs": "90:27"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I just wanted to manage.",
+      "timestamp_abs": "90:29"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sometimes my slides I go through them quickly you probably have a lot of things in your class, but they haven't worked, but then they have.",
+      "timestamp_abs": "90:31"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will be upload these ones one more time for you.",
+      "timestamp_abs": "90:38"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just check them up.",
+      "timestamp_abs": "90:41"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe you maybe you already over from this.",
+      "timestamp_abs": "90:42"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's okay.",
+      "timestamp_abs": "90:45"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Even here I always put check I always put check the specific camera.",
+      "timestamp_abs": "90:46"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I always put like kind of teams, collaboration, knowledge, like.",
+      "timestamp_abs": "90:52"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Really I try to help you especially because sometimes if you are like",
+      "timestamp_abs": "90:56"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "in the case of Grace, for example, he had to again pivot to previous idea.",
+      "timestamp_abs": "91:00"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So now he has to reframe all this storyline.",
+      "timestamp_abs": "91:05"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you want to double check it because maybe you double checked it with the previous storyline, but now that you did it something might be missing.",
+      "timestamp_abs": "91:08"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want you to",
+      "timestamp_abs": "91:14"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then",
+      "timestamp_abs": "91:16"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And when some of you, you know, when when we review the ICPs, the internally in GDI also, we give a lot of weight to that evidence because as I told you before, the demand should be real.",
+      "timestamp_abs": "91:17"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not something we imagine.",
+      "timestamp_abs": "91:28"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I gave you some examples of what could be good, good evidence.",
+      "timestamp_abs": "91:30"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like emails, or the what the memos, the stakeholder written or recording confirmation,",
+      "timestamp_abs": "91:34"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The reference, for example, like I told you like maybe sometimes you can attach the new regulation that was given or news.",
+      "timestamp_abs": "91:40"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I told you when I give you the paper, can you link the news that the president said, we are going 100% renewable, we do not want to close in the call.",
+      "timestamp_abs": "91:46"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "These kind of things and you can say, see exhibit A.",
+      "timestamp_abs": "91:54"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Very professional, very cool like see exhibit B, then it makes it very, ah, the argument is very robust.",
+      "timestamp_abs": "91:56"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mega is not making this up, it's for real and need the innovation has.",
+      "timestamp_abs": "92:02"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So these things.",
+      "timestamp_abs": "92:07"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this one is very important, explicit linkage to Korea's world-class capability.",
+      "timestamp_abs": "92:08"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you need to that's why I for especially for Grace's case,",
+      "timestamp_abs": "92:13"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We need to make sure that really we are doing this with Korea, not because you're in Kaist, not because you're in GDI, because it really makes sense to make it with a Korean partner.",
+      "timestamp_abs": "92:17"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "92:28"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Still we have to tell the Korean.",
+      "timestamp_abs": "92:29"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah, yeah.",
+      "timestamp_abs": "92:31"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, even the hand Korea is",
+      "timestamp_abs": "92:32"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "92:34"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, straight for that.",
+      "timestamp_abs": "92:35"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And finally, I want to take some time, like maybe five or 10 minutes to review this.",
+      "timestamp_abs": "92:37"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Why I I asked you a little bit about the SFA is because",
+      "timestamp_abs": "92:43"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the dimensions we use to evaluate and I will use to evaluate your report, they all have to do with that.",
+      "timestamp_abs": "92:48"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We use this kind of criteria.",
+      "timestamp_abs": "92:54"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And but it's very we tried to design this evaluation rubric",
+      "timestamp_abs": "92:58"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "in a way that it would be not only evaluating the value of the the value of the of this project for Kaist GDI performance.",
+      "timestamp_abs": "93:04"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But also the value of this project in our vision to enable you guys to become digital leaders of the world.",
+      "timestamp_abs": "93:14"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So in our vision to become a platform for Chilaka to become the next federal Minister of Science and Technology and Grace, the next president of the King Jase University.",
+      "timestamp_abs": "93:22"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We try to make projects that really helps you out in your career and the idea that this course including my course and the next course we will do.",
+      "timestamp_abs": "93:32"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Enable you to think in problem-driven way, to become better professional.",
+      "timestamp_abs": "93:41"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Whether you are in the public or private sector.",
+      "timestamp_abs": "93:47"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, if you see the way I will I will evaluate, we will evaluate sometimes is very related to the nature of the problem.",
+      "timestamp_abs": "93:50"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But sometimes it's also related to how you you will be given this project.",
+      "timestamp_abs": "93:59"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So look at the questions.",
+      "timestamp_abs": "94:04"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "First dimension, clarity and specificity.",
+      "timestamp_abs": "94:06"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why I'm very more double click, more double click more, right?",
+      "timestamp_abs": "94:09"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is the problem concretely defined and evidence-based in the beneficiary country context?",
+      "timestamp_abs": "94:13"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Second question, national importance and policy linkage.",
+      "timestamp_abs": "94:20"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So many of the comments I gave to last time, two weeks ago, I was giving you, can you please connect it to the national level? And all that. Some of you did it very, very smart with all this.",
+      "timestamp_abs": "94:24"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So strategy, plan, which KPI must be called.",
+      "timestamp_abs": "94:33"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So for example, Mega's case is very direct. Now you have a very good case.",
+      "timestamp_abs": "94:37"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You can like even set up our university policy, the latest plan or you can even set up uh the message from your even if it's in private, the first from the president, president has established it because of personal communication.",
+      "timestamp_abs": "94:41"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because for example, area, everything area in these slides is a source personal communication with",
+      "timestamp_abs": "94:54"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "block": 13,
+  "time_range": "60:00-65:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then they realize that the problem is not how I can develop an AI model, but how I can get the data, okay? So for me, this is what is called a pilot process, okay? You understand the problem. You define the problem. You check if the problem can be solved. You check if the solution is viable, and if the solution is viable, then you move to phase two. Okay, so that's what I was explaining about the stages, okay? We're discussing about the stages.",
+      "timestamp_abs": "60:00"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So I want you to remember this. Any questions on the stages here?",
+      "timestamp_abs": "60:46"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Uh, no.",
+      "timestamp_abs": "60:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No? Okay. Good. If you, if you have any questions just, just let me know.",
+      "timestamp_abs": "60:53"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Anybody wants to add anything? Any comments from the people in this room?",
+      "timestamp_abs": "60:57"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Thank you. Now, um, let's see. So this is what you have in the platform. Do you have access to the platform, right?",
+      "timestamp_abs": "61:04"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, what you're gonna have to be working on is on the problem definition, okay? So this is very, very important for me. So the proposal for this course, you're not going to be like working on a very developed business idea from like, you know, from the ground up, okay? You're going to pick a problem. This problem is going to be related to your thesis or if you're like, doing a capstone, or if you're like doing a, an internship, so related to your current work, okay?",
+      "timestamp_abs": "61:13"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the main idea is that the problem has to be backed up by evidence. Okay? So don't tell me, oh, I think, and, and, and I'm very aware that this is going to be in an early stage, okay? So it's not like you're going to have an, an already established report, but you have to like search for information that backs up the existence of the problem, okay? So, uh, I'm gonna give you an example. And one of the things that I told you from the very beginning, is that this is not like an AI course. This is not a technology course. Okay? This is a commercialization course. Okay? So for me, the commercialization, I always give the example of the, uh, you know, when you have like a really good restaurant, okay? So a really good restaurant, it's not just like good ingredients. It's not just good food. It's not just a good recipe. It's not just a good chef. It's also the location. It's also the market. It's also that, uh, you know, your customers are happy. It's also the finances. It's also the strategy. So that's what commercialization is. Commercialization is like the holistic view on a particular technology that you're going to be developing.",
+      "timestamp_abs": "62:08"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay?",
+      "timestamp_abs": "63:52"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why here in the course, we're not just going to like tell you about how to develop technology or like how to develop a fantastic technology, but how to commercialize it. Okay? So, uh, probably this is going to be one of the things that is going to be most challenging for many of you. Okay? You are very used to thinking as a scientist. You are very used to thinking as an engineer, okay? So you have your solution and you have your technology. I'm going to challenge you to think on the commercialization part, okay? So you are always like, okay, so this is my problem. This is my solution. This is how I'm going to develop it.",
+      "timestamp_abs": "63:52"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "But what about the commercialization? How are you going to get this to the market? How are you going to get customers? How are you going to generate revenue? How are you going to protect your intellectual property? How are you going to find the best partners to collaborate with? How are you going to find the funds to like develop that technology? So that's the main idea here, okay?",
+      "timestamp_abs": "64:47"
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "block": 5,
+  "time_range": "20:00-25:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We are wanting to go. This is kind of the phases in a very, I tried to just like quickly kind of summarize the Korea documents. And this is phase one. We are here.",
+      "timestamp_abs": "20:00"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is our course right now. So imagine,",
+      "timestamp_abs": "20:09"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "right now actually if you think about it, I already came here. We have somehow solution framing, we have somehow some ideas of what the where we are, the partners and like that.",
+      "timestamp_abs": "20:11"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But our course is just really, really just problem discovery and partner scope.",
+      "timestamp_abs": "20:22"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Only that.",
+      "timestamp_abs": "20:28"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So first of all, I want to tell you, your guys ICP already is further on that we actually already need it officially.",
+      "timestamp_abs": "20:29"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But of course, it's not perfect, right? It's still a draft. It has to be refined in several sections, especially the latest sections.",
+      "timestamp_abs": "20:37"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But we are this is our sketch, without the details of what we're doing during this course. So I just wanted to remind you and I wanted to let you know, we're just not going back. We are just iterating on the stage to improve what we have done.",
+      "timestamp_abs": "20:43"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But to do that, we really need to understand how to dig, how to really understand what's the difference and what's a problem. So what's the difference between symptom and problem?",
+      "timestamp_abs": "20:55"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Have you ever, anybody of you said to [inaudible]? Have you ever done the five-wise analysis?",
+      "timestamp_abs": "21:07"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "21:13"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Uh-huh. You have done? Yes.",
+      "timestamp_abs": "21:14"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "How about you, Grace?",
+      "timestamp_abs": "21:15"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "text": "In MBA, for example?",
+      "timestamp_abs": "21:16"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "In your MBA, for example, did you use the five-wise analysis framework?",
+      "timestamp_abs": "21:17"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "No.",
+      "timestamp_abs": "21:21"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "No. Mega? Aryan?",
+      "timestamp_abs": "21:22"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "In work?",
+      "timestamp_abs": "21:24"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Yeah, work or you're doing you doing your five-wise?",
+      "timestamp_abs": "21:25"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. I'm going to show you this video just because I know you guys have probably heard it. It's not a very long video, but I just want you to remember because we're going to use, try to use this to reconfirm the logical, the logical flow of your.",
+      "timestamp_abs": "21:29"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Years ago, the stone exterior was deteriorating at the Jefferson.",
+      "timestamp_abs": "21:48"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Years ago, the stone exterior was deteriorating at the Jefferson Memorial in Washington D.C., a popular monument in the United States.",
+      "timestamp_abs": "21:52"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Repairing the stone or painting over the worn areas was too expensive. So Park Rangers turned to root cause analysis and started asking why.",
+      "timestamp_abs": "22:00"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Why was the stone deteriorating?",
+      "timestamp_abs": "22:08"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Why was the stone deteriorating?",
+      "timestamp_abs": "22:09"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "High-powered sprayers were being used to wash the memorial.",
+      "timestamp_abs": "22:11"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sorry.",
+      "timestamp_abs": "22:15"
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Years ago, the stone exterior was deteriorating at the Jefferson Memorial in Washington D.C., a popular monument in the United States.",
+      "timestamp_abs": "22:21"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Repairing the stone or painting over the worn areas was too expensive. So Park Rangers turned to root cause analysis and started asking why.",
+      "timestamp_abs": "22:29"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Why was the stone deteriorating?",
+      "timestamp_abs": "22:37"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "High-powered sprayers were being used to wash the memorial every two weeks.",
+      "timestamp_abs": "22:40"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Why were high-powered washings needed every two weeks?",
+      "timestamp_abs": "22:45"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Because of bird droppings.",
+      "timestamp_abs": "22:48"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Asking why stopped because it seemed the cause was found. Workers put nets around the building but they were unsightly and the birds found ways around them.",
+      "timestamp_abs": "22:50"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "So it was back to the drawing board, or the five whys.",
+      "timestamp_abs": "23:00"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Why are there so many birds?",
+      "timestamp_abs": "23:03"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "They come to feed on spiders.",
+      "timestamp_abs": "23:05"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Why are there so many spiders?",
+      "timestamp_abs": "23:08"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "They feed on insects at night.",
+      "timestamp_abs": "23:10"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Why are there so many insects?",
+      "timestamp_abs": "23:12"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "They're attracted by lights that shine on the memorial at night.",
+      "timestamp_abs": "23:14"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "With a new cause found, questions stopped and a plan was created to reduce the amount of time the memorial spent in the spotlight at night, and it worked. The insects were reduced by 90% and with the root cause removed, the excessive cleaning was no longer needed.",
+      "timestamp_abs": "23:17"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "An unexpected benefit was a cost savings realized by using less electricity. This highlights how root cause analysis can involve trial and error and how the five whys isn't always limited to exactly five questions. Read more about root cause analysis and the Jefferson Memorial story at the link below.",
+      "timestamp_abs": "23:32"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Five whys.",
+      "timestamp_abs": "23:51"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Hi everyone. Welcome to our tour of Washington D.C. I'm Jose, exploring the monuments dedicated.",
+      "timestamp_abs": "23:54"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the five-wise method, I, I'm now thinking that maybe 90% of the class kind of have used it. Chilaka used it for his master's, I remember you guys, probably you, Chilaka your advisor was Professor...",
+      "timestamp_abs": "24:11"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Professor Professor Chemi, yeah, Chemi. Yes, he used it for assignment.",
+      "timestamp_abs": "24:22"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You already told me you used it. You have maybe you and Grace, right? You both used it.",
+      "timestamp_abs": "24:26"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Mega, you also used it before? Five whys?",
+      "timestamp_abs": "24:31"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so I will not explain in detail if you guys already know. But the most important thing is that many of of the symptoms I see in your not not every sentence. But when I compare the logical flow from the beginning until what you plan from the end, I see that kind of logical jumping and that is something I'm telling you, my PhD, I took almost four and a half years. I by by the year four, I started barely learning how to do this.",
+      "timestamp_abs": "24:34"
+    }
+  ]
+}

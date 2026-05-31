@@ -1,0 +1,547 @@
+{
+  "session": "2026-04-14",
+  "generated_at": "2026-05-29T13:46:52",
+  "count": 54,
+  "questions": [
+    {
+      "timestamp": "01:26",
+      "topic": "Audio Check",
+      "question": "Can you hear me?",
+      "raw_question": "can you hear me?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes. There's a little bit of delay, but we can see you perfectly.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "01:39",
+      "topic": "Audio Quality",
+      "question": "Regarding the audio, can you hear me well?",
+      "raw_question": "How about the audio? You can hear me well?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Yes, we can. There's a bit of delay.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "01:52",
+      "topic": "Audio Clarity",
+      "question": "Despite the delay when I speak, can you hear me well?",
+      "raw_question": "Can you hear me well? I can say I I can understand that there's a delay when you when I speak.",
+      "answered_by": "Aryang",
+      "score": 5,
+      "response_text": "There was just a little bit of delay, but if you continue talking, we can hear and understand you.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "02:12",
+      "topic": "Audio Improvement",
+      "question": "After I changed my headphones settings, is the audio quality better?",
+      "raw_question": "Is that better?",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "I think it's better.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "02:32",
+      "topic": "Internet & Audio",
+      "question": "After I changed my internet settings, is the audio better now?",
+      "raw_question": "Is the audio better now? I changed my internet settings.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, it's better.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "05:00",
+      "topic": "Screen Sharing",
+      "question": "Can you see my screen?",
+      "raw_question": "So are you able to see my screen?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "10:06",
+      "topic": "Presentation File Version",
+      "question": "For today's presentation, is the file you are showing me the 'presentation on version three' from the same assignment folder?",
+      "raw_question": "just the presentation on version three would be the file that you're showing me today, is that correct?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "11:28",
+      "topic": "Presentation Confirmation",
+      "question": "Is this the presentation you intend to show?",
+      "raw_question": "Is this your presentation?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "12:45",
+      "topic": "Miro Usage",
+      "question": "Grace, are you currently typing in the Miro board as instructed for the brainstorming activity?",
+      "raw_question": "Grace, are you typing in the Miro?",
+      "answered_by": "Grace",
+      "score": 4,
+      "response_text": "I am. I'm writing somewhere else then I will just copy-paste it there.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:23",
+      "topic": "Clarification",
+      "question": "Could you please clarify what you mean by the discrepancy in numbers on the slide?",
+      "raw_question": "What do you mean?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "My slide says 145.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:26",
+      "topic": "Number Confirmation",
+      "question": "You mentioned your slide says 145; are you confirming the number 'one-four-five'?",
+      "raw_question": "One four five?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:29",
+      "topic": "Number Confirmation",
+      "question": "Did you say '445'?",
+      "raw_question": "445?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "No, 145.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:31",
+      "topic": "Number Confirmation",
+      "question": "To confirm, the number is 145?",
+      "raw_question": "145?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:33",
+      "topic": "Acknowledgment",
+      "question": "Okay, I understand now. (Implicit: It was 145, not 445).",
+      "raw_question": "Oh.",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "It was for you.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:35",
+      "topic": "Apology",
+      "question": "My apologies for the confusion regarding the number.",
+      "raw_question": "Oh, my bad.",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:37",
+      "topic": "Number Correction",
+      "question": "Just to be clear, the correct number is 145.",
+      "raw_question": "It's 145.",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "Okay, that's what I was thinking. It was 145.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "21:07",
+      "topic": "Presentation Readiness",
+      "question": "Aryang, are you ready to start your presentation?",
+      "raw_question": "You're ready?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, I am.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "21:10",
+      "topic": "Presentation Readiness",
+      "question": "So you are ready, correct?",
+      "raw_question": "You're ready. Okay.",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "One quick question on the slide before this. Is this a new project, this new capital city project?",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "21:14",
+      "topic": "Project Status",
+      "question": "Regarding the 'new capital city project' on the previous slide, are you asking if it is a new project?",
+      "raw_question": "Is this a new project?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Yes, on your slide before. New capital city pilot. Is this a new project or an existing one that's been in the works for a while?",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "21:16",
+      "topic": "Slide Identification",
+      "question": "Are you referring to this specific slide?",
+      "raw_question": "On this slide? Oh, this one.",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Yes. New capital city pilot.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "21:22",
+      "topic": "Project Confirmation",
+      "question": "So, to confirm, this is a new project, correct?",
+      "raw_question": "It's new, right?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Okay. And what is the current energy mix in Indonesia right now? Is it heavily reliant on fossil fuels or is it more renewable based?",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "70:17",
+      "topic": "Stakeholder Differentiation Value",
+      "question": "Considering our discussion on the different stakeholders and levels (strategic, tactical, and operational) within an organization, could someone explain why distinguishing between these levels is crucial for achieving project success?",
+      "raw_question": "Can someone remind me why differentiating between these levels is crucial for project success?",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "It helps us tailor our communication strategy, Professor. A strategic stakeholder needs high-level summaries, while operational teams need very specific, actionable tasks.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "72:10",
+      "topic": "Project Champions Challenges",
+      "question": "Grace, considering your renewable energy project, what do you perceive as the biggest challenge in identifying project champions at the strategic, tactical, and operational levels within a typical utility company?",
+      "raw_question": "Grace, thinking about your current project on renewable energy, where do you see the biggest challenge in identifying these champions across different levels within, say, a utility company?",
+      "answered_by": "Grace",
+      "score": 6,
+      "response_text": "I think the challenge is often with the tactical level, Professor. They're usually busy with their own departmental goals and might not see the immediate benefit of a new project until it's directly tied to their KPIs. Strategic is easier to impress with long-term vision, and operational teams are usually keen if it makes their job easier.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "73:25",
+      "topic": "Stakeholder Politics",
+      "question": "Sthephen, based on our discussion of stakeholder mapping and understanding strategic, tactical, and operational levels, how does this concept relate to the 'political' aspect of projects that you brought up previously?",
+      "raw_question": "Sthepen, how does this stakeholder mapping concept apply to the 'political' aspect of projects you mentioned last time?",
+      "answered_by": "Sthepen",
+      "score": 5,
+      "response_text": "Well, Professor, understanding who is at which level helps us predict whose support we really need to push certain decisions. For example, a strategic level person can open doors, but a tactical manager might block something if it threatens their turf. It’s all about influence and power dynamics tied to their position.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "50:19",
+      "topic": "Next Presenter",
+      "question": "Who is the next student scheduled to present? Is it Sthephen?",
+      "raw_question": "Who's the next one? Uh, Sthephen?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "I'm Sthephen. I guess.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "51:11",
+      "topic": "Presentation Readiness",
+      "question": "Sthephen, are you ready to present now?",
+      "raw_question": "For, for you. Are you ready?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "I started. Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "61:45",
+      "topic": "Screen Sharing Confirmation",
+      "question": "Can you see my entire screen now, specifically a regular Google screen, after I changed my sharing settings?",
+      "raw_question": "Okay. Um, all right. So, can you see my whole screen now? That is just a regular Google screen, right?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "Yes, we can see.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "76:50",
+      "topic": "Absorptive Capacity Definition",
+      "question": "Can you define or explain what 'absorptive capacity' means?",
+      "raw_question": "You know what absorptive capacity is?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "It's the ability of the recipient organization to adopt technology.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "79:26",
+      "topic": "Project Know-how Transfer",
+      "question": "Does the explanation about ensuring local involvement from the beginning of the Rwanda project to facilitate know-how transfer and mitigate absorptive capacity risks make sense to you?",
+      "raw_question": "Does that make sense to you?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "79:33",
+      "topic": "Student Interruption",
+      "question": "César, I believe you were about to say something; would you like to speak?",
+      "raw_question": "César, you were saying something?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "Yeah, it's 2:30.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "80:13",
+      "topic": "General Questions",
+      "question": "Are there any other questions or comments from the class?",
+      "raw_question": "Uh, so, Any other questions? Um, or comments?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Uh, yeah, Ileana. Can I confirm for the final presentation, is the deadline tomorrow?",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "80:37",
+      "topic": "Class Questions",
+      "question": "Since there are no more questions from your side, I have a question for you all.",
+      "raw_question": "No? So, I have one question for you guys.",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yeah, I think I have one. Can we get like feedback from you from our presentation?",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "81:02",
+      "topic": "General Questions",
+      "question": "Are there any further questions or comments from anyone else in the class?",
+      "raw_question": "So, any other questions or comments from anyone?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "Um, Ileana. So for this presentation, should we use our previous topic, or can we change?",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "81:23",
+      "topic": "Class Questions",
+      "question": "Does anyone else have a question or comment before I proceed to ask a question to the class?",
+      "raw_question": "Okay. So, anyone else before I ask you a question?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "I have a question. I would just like to know when would the grades be released for the coursework?",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "82:14",
+      "topic": "Brainstorming Techniques",
+      "question": "You mentioned that a good way to brainstorm ideas is by 'getting as much ideas as possible and then filtering them down.' How would you specifically go about doing that to generate a wide range of ideas?",
+      "raw_question": "So, how do you do that?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "I would just, from the ideas I've seen from other people, like for example, what was said just now, for the previous presentations, I would try to take some of them and then filter it to what I need.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "82:30",
+      "topic": "Idea Generation Strategy",
+      "question": "So, when brainstorming, you rely on previous ideas you've encountered, correct?",
+      "raw_question": "right?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "82:45",
+      "topic": "Target Audience Research",
+      "question": "Grace, you suggested talking to your target audience to identify problems; could you elaborate on how you would approach that process?",
+      "raw_question": "How would you do that?",
+      "answered_by": "Grace",
+      "score": 3,
+      "response_text": "Um, so for example, if you are trying to target students, for example, you talk to students and then you ask them, what are the problems that you are facing right now? And then from there, you will collect those problems and find the root cause.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "83:04",
+      "topic": "Brainstorming Methods",
+      "question": "Would anyone else like to share their thoughts or methods for brainstorming ideas?",
+      "raw_question": "give their thoughts?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yeah, I think I have one. Um, for me, I think just a lot of research.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "83:10",
+      "topic": "Research Methods",
+      "question": "Chilaka, you mentioned using a lot of research for brainstorming; can you elaborate on your research methods?",
+      "raw_question": "Can you elaborate?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "Uh, like search on the internet. Uh, articles, journals, that kind of thing.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "83:17",
+      "topic": "Research Sources",
+      "question": "Regarding your research, what specific kind of articles and journals do you typically search for when brainstorming for problems or ideas?",
+      "raw_question": "What kind of journals do you search?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "Uh, like maybe recent problems or recent changes in the market. And then from there, we can come up with a problem.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "83:51",
+      "topic": "Online Research Strategy",
+      "question": "Aryang, you mentioned finding complaints or reviews as a source of problems or ideas; could you elaborate on how you would typically search for this kind of information?",
+      "raw_question": "How would you like, you know, search for this kind of information?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Ah, for example, I want to give something about the banking sector. Uh, so I will find the news about the banking sector. Or I will search for the hashtag of the bank name in X.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "84:14",
+      "topic": "Brainstorming Input",
+      "question": "Mega, do you have any thoughts or methods to share regarding effective brainstorming or problem identification?",
+      "raw_question": "Mega, do you have any thoughts?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Um, I think, um, for me personally, I like to use, uh, like YouTube videos in particular. Like, for example, if I'm looking for a problem, let's say about the education sector, right?",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "85:07",
+      "topic": "Data Sovereignty",
+      "question": "Aryang, you've described the issue with voice AI for Indonesian banks, particularly concerning Google Gemini not being hosted in an Indonesian data center, as the main problem. Am I correct in understanding that you characterize this as a data sovereignty issue?",
+      "raw_question": "So it's like a sovereignty issue, right? It's a sovereignty issue.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes. Yes, because we are a bank and everything should be in Indonesia.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "90:00",
+      "topic": "Company Structure",
+      "question": "Aryang, regarding the 'information gathering' aspect of your project, can you clarify whether EDM is a separate company or a unit within ETRI? My understanding is that it is a unit within ETRI; is that correct?",
+      "raw_question": "He used this calls. I want to understand this, uhm, Arya. Uh, EDM is a separate company or is within the ETRI like a unit? Within ETRI it's a unit.",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Yeah. It's within the ETRI.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "90:11",
+      "topic": "ICP Update Status",
+      "question": "Aryang, I'm pleased with the progress on your project idea. Have you been able to update your ICP (Innovation Commercialization Plan) document to reflect this new idea, or have you not done so yet?",
+      "raw_question": "Okay, great. Uh, and then the to your last question, I think I don't have a lot of comments. I'm just really happy. Have you been able to update already your ICP with this new idea or not yet?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "No, only make the presentation.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "190:52",
+      "topic": "Text-to-Speech Problem",
+      "question": "Sthephen, based on your presentation, am I correct in understanding that you've identified a significant text-to-speech issue specifically concerning the Indonesian language?",
+      "raw_question": "Your presentation has a you're you're telling me that you have an issue of text to speech where in Indonesian language, right?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Thank you, Professor.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "191:53",
+      "topic": "Next Presenters Confirmation",
+      "question": "We are taking a short break now; after the break, the remaining presenters will be Mega, Grace, and Chilaka, correct?",
+      "raw_question": "It's uh Mega, sorry, Grace and uh Chilaka, right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes. Yes. Yes. Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "103:10",
+      "topic": "Music Industry Modernization",
+      "question": "Considering the historical popularity of Congolese music versus the current rise of Nigerian music, what do you think is the fundamental difference, perhaps related to modernization or industrialization, that explains this shift?",
+      "raw_question": "But you know, um, I think, uh, the difference is what? Modernization now is now like, what, what has, what has really, what has gone, the difference is what?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "104:47",
+      "topic": "Rwandan Music Industry",
+      "question": "Following our discussion on the music industries in Congo and Nigeria, what is the situation like for the music industry in Rwanda?",
+      "raw_question": "How about Rwanda?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No, we are not. Rwanda is no music.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "117:03",
+      "topic": "APA Guidelines Knowledge",
+      "question": "Does anyone in the class know what APA (American Psychological Association) guidelines for citation are?",
+      "raw_question": "Somebody knows or doesn't know APA?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "I know. Citing.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "150:07",
+      "topic": "Miro Navigation",
+      "question": "Could you please share the Miro screen? I will then use the 'follow me' feature in Miro to guide everyone, okay?",
+      "raw_question": "Okay, just show the mirror. I will ask, I will ask the mirror to follow me, okay?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Aha, to follow me. Oh, sure.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "150:41",
+      "topic": "Miro Tool Familiarity",
+      "question": "Has anyone in the class used the Miro collaborative tool before?",
+      "raw_question": "Anybody already used this tool before?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Just Arya. Arya.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "161:46",
+      "topic": "Student Question",
+      "question": "Stephen, do you have a question or comment you would like to share?",
+      "raw_question": "Uh Stephen, you wanna say something?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yes. Yeah, I just wanted to understand its stakeholders mapping. Are we going to involve like stakeholders from here or we gonna consider our stakeholders?",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "162:42",
+      "topic": "General Questions",
+      "question": "Are there any other questions from the class at this time?",
+      "raw_question": "Any other questions?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No. Okay. Professor, I think we need to be added to the board to make a comment, to mention you in the Miro, right?",
+      "is_substantive": false
+    }
+  ]
+}

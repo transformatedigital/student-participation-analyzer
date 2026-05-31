@@ -1,0 +1,21 @@
+{
+  "block": 24,
+  "time_range": "115:00-120:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "So that landed you to that auditing report.",
+      "timestamp_abs": "115:00"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah. And then the third fund uh third fund issues. third one also complaining that most of their they're spending a lot of money in different places and realized that it's like a repetitive thing every year. And also they I also looked at the the current the most current initiative of my organization to make sure that it it it it encompass the one the one of some of the issues.",
+      "timestamp_abs": "115:03"
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "block": 31,
+  "time_range": "150:00-155:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "outputs and scientific management like R&D outputs and the other regional. So maybe you want to understand also what what",
+      "timestamp_abs": "150:00"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "What have these other good countries, France, Germany that invest a lot of money also, Israel? I would also look at Israel.",
+      "timestamp_abs": "150:07"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "What is Israel doing to solve their R&D management?",
+      "timestamp_abs": "150:15"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah, the OECD mentioned so much about NTAIS of.",
+      "timestamp_abs": "150:19"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "They always referencing them in some articles that I saw. There was always reference. So that was that was what actually shaped my mind to.",
+      "timestamp_abs": "150:23"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But then then you show today in your presentation, I told you, please show me, even in the appendings, why?",
+      "timestamp_abs": "150:33"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You are jump as a as I am doing the devil's advocate role, as Miss Nam was the first time to hear you. It looked like you already have a biased by Korea, but actually not.",
+      "timestamp_abs": "150:39"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Actually we know because we studied that Korea, that NTAIS is awarded worldwide, even by UN. It's a very, very, very good case, very good best case.",
+      "timestamp_abs": "150:48"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in your narrative, you need to convince me about it, okay?",
+      "timestamp_abs": "150:58"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why that kind of that's kind of global.",
+      "timestamp_abs": "151:02"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Why is it that really this uh this solution or this potential tech scouting or tech exploration that we're doing,",
+      "timestamp_abs": "151:05"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you have to show me the story of why that potential candidates that you're shortlisting could become relevant ones for this problem.",
+      "timestamp_abs": "151:12"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not because you chose them because you like the guy that is selling you the technology. No.",
+      "timestamp_abs": "151:20"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because there is a logical argumentation of why they are interesting part.",
+      "timestamp_abs": "151:25"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thank you, Chris. Sthepen and Michael.",
+      "timestamp_abs": "151:32"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah, uh, for me, the technology scouting I think here, I mean, the focused on the state and commerce itself.",
+      "timestamp_abs": "151:34"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because uh, it matched to my, with my problem. I thought it.",
+      "timestamp_abs": "151:43"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "It matches. And the number two, I tried to look around the world as I asked me today.",
+      "timestamp_abs": "151:50"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I found that there's so many common similarities between Uganda system and the Korea system in terms of I integrated with",
+      "timestamp_abs": "151:56"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "the same.",
+      "timestamp_abs": "152:06"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, that's interesting because then you did in the technology scouting or the technology exploration.",
+      "timestamp_abs": "152:07"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In this case, you were trying to compare ecosystems.",
+      "timestamp_abs": "152:12"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah, yeah, yeah.",
+      "timestamp_abs": "152:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is important. You want to compare like some certain thing like what Chilaka was saying. He was trying to compare the R&D management system.",
+      "timestamp_abs": "152:17"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "And another country maybe I saw is like relative to my solution is like",
+      "timestamp_abs": "152:26"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Singapore.",
+      "timestamp_abs": "152:31"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Singapore. So, but there is a slight difference in terms of.",
+      "timestamp_abs": "152:33"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Please tell me more about that.",
+      "timestamp_abs": "152:37"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "I mean, I mean you added in your presentation.",
+      "timestamp_abs": "152:38"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Uh, and another thing I I identified the KISA. KISA, this is",
+      "timestamp_abs": "152:41"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I got it from the Professor of uh we have a course called uh special topics in AI. Professor Song.",
+      "timestamp_abs": "152:46"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "And uh is mainly in in relation. So I even presented my case in terms of homework, so it's talked about that.",
+      "timestamp_abs": "152:58"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The same strategy, Arya, good.",
+      "timestamp_abs": "153:07"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So and uh I also am still interested to to meet with uh Rahul, Rahul.",
+      "timestamp_abs": "153:09"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, yeah, we're pending about that.",
+      "timestamp_abs": "153:16"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because I saw they have a product. Ah, but Rahul will come to our conference in June.",
+      "timestamp_abs": "153:17"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So what I was trying to do is look at your presentation today. I forgot about telling you about Rahul.",
+      "timestamp_abs": "153:22"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm going to I'm pending on your output today.",
+      "timestamp_abs": "153:27"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you improve that, I'm going to send the same, similar email that I'm going to send to KISA, I'm going to send it to Rahul, Vice President.",
+      "timestamp_abs": "153:31"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I'm going to try to schedule the the online meeting with him. It's going to be online so that the second meeting is in the June.",
+      "timestamp_abs": "153:37"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think our conference, I'm going to give you the heads-up the gossip. The head start.",
+      "timestamp_abs": "153:45"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The head start. Our conference is going to be",
+      "timestamp_abs": "153:49"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "in June 20, June 24.",
+      "timestamp_abs": "153:55"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "Okay, with the digitology event?",
+      "timestamp_abs": "154:01"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Yeah, I think. Or with SNU ITTP?",
+      "timestamp_abs": "154:03"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "154:05"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "154:06"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "Is it going to be here in who are going to come from different countries?",
+      "timestamp_abs": "154:07"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "In?",
+      "timestamp_abs": "154:10"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "Here in Korea?",
+      "timestamp_abs": "154:10"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's going to be in Pangyo today.",
+      "timestamp_abs": "154:12"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Ah, that's what I was thinking.",
+      "timestamp_abs": "154:13"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "What what what will happen there?",
+      "timestamp_abs": "154:14"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Five days.",
+      "timestamp_abs": "154:15"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "Five what will happen there?",
+      "timestamp_abs": "154:16"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We we all. It's going to be a big forum.",
+      "timestamp_abs": "154:19"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "No, I mean, we will will we present?",
+      "timestamp_abs": "154:22"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_response",
+      "text": "No, no, no, no.",
+      "timestamp_abs": "154:24"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There's going to be a lot of speakers.",
+      "timestamp_abs": "154:25"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "NIPA Vice President will speak at the end.",
+      "timestamp_abs": "154:28"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So there's going to be good chance for you to network with important people.",
+      "timestamp_abs": "154:31"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah, because they have a product that is more interesting. They call it Rahul mobile.",
+      "timestamp_abs": "154:34"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Aha.",
+      "timestamp_abs": "154:39"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So I saw they even they do idea identification.",
+      "timestamp_abs": "154:41"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So all of that activities, just put them down and just put pending, pending.",
+      "timestamp_abs": "154:45"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Pending because professor has been slow to coordinate.",
+      "timestamp_abs": "154:48"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah, yeah, not yet.",
+      "timestamp_abs": "154:51"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Come on!",
+      "timestamp_abs": "154:52"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Comments.",
+      "timestamp_abs": "154:53"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Professor, hurry up. And then the next one.",
+      "timestamp_abs": "154:54"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "PPT, I have been preparing the PPT for",
+      "timestamp_abs": "154:57"
+    }
+  ]
+}

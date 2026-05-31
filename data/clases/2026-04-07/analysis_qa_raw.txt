@@ -1,0 +1,264 @@
+{
+  "teacher_questions": [
+    {
+      "id": 1,
+      "timestamp": "00:05:15",
+      "question": "So, sorry, uh who make the adaptation, the ICE or the Soft Itech?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Dr. Ileana",
+        "response": "Together.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "The teacher answers their own question, providing a direct but brief response."
+      }
+    },
+    {
+      "id": 2,
+      "timestamp": "00:05:45",
+      "question": "You get it?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "",
+        "quality_score": "E",
+        "quality_label": "Weak",
+        "rationale": "The student provides no audible response directly after the question."
+      }
+    },
+    {
+      "id": 3,
+      "timestamp": "00:09:36",
+      "question": "Okay, okay, you need any help in the process, let me know and I will let you in front of Miss Nam. Okay?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "",
+        "quality_score": "E",
+        "quality_label": "Weak",
+        "rationale": "The student provides no audible response directly after the question."
+      }
+    },
+    {
+      "id": 4,
+      "timestamp": "00:09:59",
+      "question": "okay?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Uh and one more, maybe the Grace already asked this, but uh because there's no Korean here, I want to ask you, uh I am Korean.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "The student acknowledges the teacher's rhetorical question and then immediately transitions into their own question."
+      }
+    },
+    {
+      "id": 5,
+      "timestamp": "00:10:33",
+      "question": "Kisti, okay?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "No, no, not not for Kisti, for this for GDI. Yeah.",
+        "quality_score": "C",
+        "quality_label": "Good",
+        "rationale": "The student clarifies the scope of his previous question, showing he is following the discussion."
+      }
+    },
+    {
+      "id": 6,
+      "timestamp": "00:10:53",
+      "question": "right?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Mhm.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "The student provides a minimal affirmative response."
+      }
+    },
+    {
+      "id": 7,
+      "timestamp": "00:10:59",
+      "question": "Okay?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Uh and one more, maybe the Grace already asked this, but uh because there's no Korean here, I want to ask you, uh I am Korean.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "The student uses the opportunity of the rhetorical question to ask a new question, albeit somewhat off-topic."
+      }
+    },
+    {
+      "id": 8,
+      "timestamp": "00:11:23",
+      "question": "It's there, right?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yeah, it is.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "The student provides a simple affirmative response."
+      }
+    },
+    {
+      "id": 9,
+      "timestamp": "00:12:28",
+      "question": "right?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "You said it was a good way to do it. It was not not a good way to do it.",
+        "quality_score": "C",
+        "quality_label": "Good",
+        "rationale": "The student provides a relevant comment by reinterpreting the teacher's rhetorical question in light of a previous discussion."
+      }
+    },
+    {
+      "id": 10,
+      "timestamp": "00:13:31",
+      "question": "Anyway, anything else from ICP? Anybody else dropped in their ICP?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Why why not after you finish your presentation, then we can discuss maybe something.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "The student responds to the open-ended question by proposing a different timing for discussion, showing a practical concern."
+      }
+    },
+    {
+      "id": 11,
+      "timestamp": "00:14:28",
+      "question": "High higher education portal, okay?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yeah, yeah.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "The student provides a simple affirmative response to the teacher's question."
+      }
+    },
+    {
+      "id": 12,
+      "timestamp": "00:14:49",
+      "question": "Yeah, send me a link so that I can check.",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yeah, I can check it. And you see, it's really recent, schedule. This is actually the training they have scheduled from April 15, 17. Mhm.",
+        "quality_score": "C",
+        "quality_label": "Good",
+        "rationale": "The student acknowledges the request and provides further details about the discussed topic, demonstrating engagement."
+      }
+    },
+    {
+      "id": 13,
+      "timestamp": "00:15:02",
+      "question": "How did I I wonder how deep this digital portal is.",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Uh actually it's useful.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "The student provides a brief and general answer to the question about the depth of the portal."
+      }
+    },
+    {
+      "id": 14,
+      "timestamp": "00:15:35",
+      "question": "But digitalizing means what? So, actually, are they having training online training?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Online training. That's this one. They are this is the training module they are going to have this this plan.",
+        "quality_score": "C",
+        "quality_label": "Good",
+        "rationale": "The student directly answers the question by confirming online training and providing more details about the training module."
+      }
+    },
+    {
+      "id": 15,
+      "timestamp": "00:15:55",
+      "question": "By connecting to whatever they're doing here, you this a framework.",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Uh actually, I wanted to bring it as a the project for the Ministry of Higher Education. If they can because they are already giving incentives in terms of digitalization, if they see something related like learning management system, the minister as the authority, if they see that something is better, they can now launch it to be implemented to public university. So, it will not be like, uh in a top-down, bottom-up approach. Yeah, it's all the authority see that something is valuable because we have we have already been giving the incentive of digitalization, but now we have really the tool like for management, digital learning management system. So, that's can spread to maybe public university. Maybe starting from Kinshasa because it's the capital city and later on, uh maybe to something. So, I was like trying to bring this project like that. It's interesting, but what I worry again is how how far how far or how close are you to the minister?",
+        "quality_score": "B",
+        "quality_label": "Very Good",
+        "rationale": "The student elaborates on how their project aligns with the ministry's framework, demonstrating a strategic and detailed understanding."
+      }
+    },
+    {
+      "id": 16,
+      "timestamp": "00:16:43",
+      "question": "He's academic advisor of this initiative or the Minister of Higher Education?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Of the Minister of Higher Education.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "The student provides a direct and concise answer to the clarifying question."
+      }
+    },
+    {
+      "id": 17,
+      "timestamp": "00:17:34",
+      "question": "I think this is important. Who's going to be the owner?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "No. Uh Higher Education, higher education.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "The student provides a direct answer, clarifying the owner is the Ministry of Higher Education."
+      }
+    }
+  ],
+  "student_contributions": [
+    {
+      "id": 1,
+      "timestamp": "00:03:29",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "No, but but but why didn't the Soft Itech come straight to the to the uh Costa Rica language? Why should be English and the ICE?",
+      "quality_score": "C",
+      "quality_label": "Good",
+      "rationale": "Aryang asks for clarification about Soft Itech's language choices, demonstrating partial understanding of the previous explanation."
+    },
+    {
+      "id": 2,
+      "timestamp": "00:04:00",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Sorry, I can't really tell you. I mean, I mean, uh why why didn't the Soft Itech the Kisti request the Soft Itech to provide the NIST version of Costa Rican language. Yes. Uh why not like that? Why not why must translate to English first and ICE?",
+      "quality_score": "C",
+      "quality_label": "Good",
+      "rationale": "Aryang rephrases his question, seeking deeper understanding of the language translation strategy."
+    },
+    {
+      "id": 3,
+      "timestamp": "00:05:15",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "So, sorry, uh who make the adaptation, the ICE or the Soft Itech?",
+      "quality_score": "C",
+      "quality_label": "Good",
+      "rationale": "Aryang asks a direct question about who performs the adaptation, indicating a specific point of confusion."
+    },
+    {
+      "id": 4,
+      "timestamp": "00:06:09",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Okay, just out of curiosity, why didn't the ICE create the system itself?",
+      "quality_score": "C",
+      "quality_label": "Good",
+      "rationale": "

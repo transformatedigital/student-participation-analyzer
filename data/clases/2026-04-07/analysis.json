@@ -1,0 +1,4534 @@
+{
+  "session": {
+    "id": "2026-04-07",
+    "date": "2026-04-07",
+    "instructor": "Ileana",
+    "students": [
+      "Aryang",
+      "Mega",
+      "Chilaka",
+      "Grace",
+      "Sthepen"
+    ],
+    "generated_at": "2026-05-11T16:02:30"
+  },
+  "full_transcription": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "topics that you, like, questions you have about your ICP progress that you need me to address now. And I thought we told you we're gonna discuss, right?",
+      "block": 1
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Can I know? Can I know?",
+      "block": 1
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, I'd rather have you share your problems because your problem might be related to many of their questions too. Or they can learn from your questions.",
+      "block": 1
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Alright, thank you, ma'am. Oh, so, um, for the for the collaboration, I already talked to my, uh, department. And actually they already moved, so they go strike partnership with the Microsoft.",
+      "block": 1
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "With Microsoft?",
+      "block": 1
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Microsoft Copilot for using the AI for, uh, you know, for knowledge. For knowledge management.",
+      "block": 1
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, but Copilot is little bit limited, but okay.",
+      "block": 1
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Nah, yeah, yeah. So, and I asked him, uh, is there any any other opportunity for for me to to join with the the the the project? And he said it's, yeah, that's still but or for for the they they they will need to.",
+      "block": 1
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "For the, hmm.",
+      "block": 1
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's exactly what I tell you. On the course of this, we are preparing and they're already moving, so they are, yeah.",
+      "block": 1
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh, wait, wait, wait, wait, wait a minute. They already j- they already doing the kick off. I think tomorrow they will do the kick off with the Microsoft. Uh, so the one that, uh, available for me is evaluate the system of the R&D from the Microsoft Copilot. And I don't know is it, is it possible to make it some technolo commercialization if it's only about evaluation, evaluating the system.",
+      "block": 1
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, I think Yeah, it's just it runs under another category. I mean, it's a business. Yeah, but that's what I'm trying to explain you late before. Like if you see here, if you see it from the broad concept of business, NTIAS from Costa Rica was a business, mind you, right? If you think about it. And then I see, like I will tell you this is the mother, M I C T.",
+      "block": 1
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then MSIT for you now, plus KISTI.",
+      "block": 1
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then E-SE makes some money, because E-SE charges some money to the, means I see.",
+      "block": 1
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "block": 1
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then SoftITech also makes some money, probably. They pay to KISTI money for the patent for the IP.",
+      "block": 1
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Sorry, sorry, sorry.",
+      "block": 1
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Not not not KISTI paid to SoftITech because KISTI asked SoftITech to convert the language?",
+      "block": 1
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. KISTI paid money, already KISTI paid money to SoftITech as a developer IT support service, like IT outsourcing, okay? So money comes here also. But if SoftITech wants to sell the service to E-SE, they have to pay a royalty to KISTI. Because the intellectual property of NTIAS is not solely of SoftITech, it's of KISTI.",
+      "block": 1
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So he didn't explain in detail, but the basic model is here. KISTI gets money from the royalty because they own the IP of NTIAS. So if SoftITech will use this IP to translate it into English, probably also the strategy of using the English and Spanish version is because if SoftITech used the Korean version, maybe this royalty is very expensive.",
+      "block": 1
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "No, but but that that, why didn't the SoftITech convert straight to the to the Costa Rican language? Why should it English and the ICC?",
+      "block": 1
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because because KISTI has the know-how and ownership of the old process. SoftITech is a private company to just provide IT support and of course they have some know-how of IT operation. But the design of the process, the R&D process, the know-how behind it, it's from the public sector.",
+      "block": 1
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "So I I mean I mean uh why why didn't the the KISTI request the SoftITech to provide the NIST version of Costa Rican language? Yes. Why not like that? Why not why must translate to English first and ICE?",
+      "block": 1
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because the process is not copy-paste. It's not like that. There is many alterations here. Remember he he said the system as it is, it's not perfectly workable for Costa Rica. The user interface has to change, modules need to be adapted, it's it needs to be tropicalized, so to say. It's made for Costa Rica, adapted.",
+      "block": 1
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's like inspired in NTIAS, made for Costa Rica.",
+      "block": 1
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this concept is the concept of adaptation, adapt, adoption, it's not it's not like I just say okay, this NTIAS copy-paste, using Costa Rica, copy, translate, using Costa Rica. It's not like that straight forward.",
+      "block": 1
+    },
+    {
+      "timestamp": "05:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because the process is not exactly the same, so the workflows need to be adapted.",
+      "block": 2
+    },
+    {
+      "timestamp": "05:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then he mentioned the bottom, some callers.",
+      "block": 2
+    },
+    {
+      "timestamp": "05:09",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Okay.",
+      "block": 2
+    },
+    {
+      "timestamp": "05:10",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "So, what not only about the language?",
+      "block": 2
+    },
+    {
+      "timestamp": "05:12",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Ah, ah. So, sorry.",
+      "block": 2
+    },
+    {
+      "timestamp": "05:15",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh, who make the adaptation? The IC or the soft ITEC?",
+      "block": 2
+    },
+    {
+      "timestamp": "05:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Together.",
+      "block": 2
+    },
+    {
+      "timestamp": "05:22",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh.",
+      "block": 2
+    },
+    {
+      "timestamp": "05:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because anyway you do the technology transfer, these guys, the engineers of IC need to learn about the whole, uh, IT architecture, the source code, everything, right? So they need to get.",
+      "block": 2
+    },
+    {
+      "timestamp": "05:37",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "They're doing.",
+      "block": 2
+    },
+    {
+      "timestamp": "05:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And Kissi also collaborating here because Kissi knows very well the logic in the system.",
+      "block": 2
+    },
+    {
+      "timestamp": "05:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Kissi designed the logic.",
+      "block": 2
+    },
+    {
+      "timestamp": "05:45",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "You get it?",
+      "block": 2
+    },
+    {
+      "timestamp": "05:46",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "So.",
+      "block": 2
+    },
+    {
+      "timestamp": "05:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So in your case, back back to your question, it's not something like that. It's just give me the LLM service, co-pilot license and that's it.",
+      "block": 2
+    },
+    {
+      "timestamp": "05:56",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So I don't see an opportunity for a Korean adaptation.",
+      "block": 2
+    },
+    {
+      "timestamp": "06:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, you need something",
+      "block": 2
+    },
+    {
+      "timestamp": "06:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "another new.",
+      "block": 2
+    },
+    {
+      "timestamp": "06:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You are back to square one.",
+      "block": 2
+    },
+    {
+      "timestamp": "06:04",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "That happened.",
+      "block": 2
+    },
+    {
+      "timestamp": "06:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's a straightforward answer to you.",
+      "block": 2
+    },
+    {
+      "timestamp": "06:09",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Okay, just one more quick. Why didn't the IC create the system itself?",
+      "block": 2
+    },
+    {
+      "timestamp": "06:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I told you.",
+      "block": 2
+    },
+    {
+      "timestamp": "06:17",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "No, no money, no people?",
+      "block": 2
+    },
+    {
+      "timestamp": "06:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no know-how.",
+      "block": 2
+    },
+    {
+      "timestamp": "06:21",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Do you think we see this willing to pay to a guy who company who has no know-how?",
+      "block": 2
+    },
+    {
+      "timestamp": "06:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just IT support and service.",
+      "block": 2
+    },
+    {
+      "timestamp": "06:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "These guys are, this guy is a telecom company.",
+      "block": 2
+    },
+    {
+      "timestamp": "06:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They don't know about R&D management. They have never operated R&D management platforms.",
+      "block": 2
+    },
+    {
+      "timestamp": "06:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, why in Missi is doing this business? Because it's joined to business.",
+      "block": 2
+    },
+    {
+      "timestamp": "06:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The value of this, okay, I need a local, remember last time Stephen mentioned, ah, very problematic because otherwise you have a dependency problem with the Korean company, like that. So.",
+      "block": 2
+    },
+    {
+      "timestamp": "06:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Our government don't want to have this kind of kind of dependency with the Korea.",
+      "block": 2
+    },
+    {
+      "timestamp": "06:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They want to have autonomy, and also they want to have their own source code, and they need to operate in Korean, very difficult to communicate with Korea, they need somebody support and all in Spanish.",
+      "block": 2
+    },
+    {
+      "timestamp": "07:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So they say I need a local person, a local entity who can help me operate the system in my context.",
+      "block": 2
+    },
+    {
+      "timestamp": "07:16",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Right?",
+      "block": 2
+    },
+    {
+      "timestamp": "07:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I don't need anybody, I need somebody who can get the know-how transfer from an expert, from a proven expert, somebody who has proven expertise.",
+      "block": 2
+    },
+    {
+      "timestamp": "07:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "20 years plus of operating a system that is with many users. So how many transactions, how many researchers, how many",
+      "block": 2
+    },
+    {
+      "timestamp": "07:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a lot, right?",
+      "block": 2
+    },
+    {
+      "timestamp": "07:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So any type all the standardization, all the experience and know-how collected by the whole trial and error, trial and error.",
+      "block": 2
+    },
+    {
+      "timestamp": "07:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you think about NTAS is the fourth generation currently.",
+      "block": 2
+    },
+    {
+      "timestamp": "07:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So they have redone NTAS platform four times already because they already operated it for many years, so they realize there is improvement needed, it's like that.",
+      "block": 2
+    },
+    {
+      "timestamp": "07:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's the key here, it's not just like, Am I able to just give me your LLM service? That's why I told you like, ah, in your case if you just do it like that it doesn't look like a technology commercialization project, right?",
+      "block": 2
+    },
+    {
+      "timestamp": "08:10",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "block": 2
+    },
+    {
+      "timestamp": "08:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if you, let's think about it, I I told you I already contacted a friend of mine who is very expert in Indonesia startup ecosystem and he's Korean, and he's working a lot with cybersecurity and Fintech and a lot of areas related.",
+      "block": 2
+    },
+    {
+      "timestamp": "08:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, he's on a busy street but I'm trying to set up a meeting, I believe he's willing to visit us on a Tuesday like today, Kissi.",
+      "block": 2
+    },
+    {
+      "timestamp": "08:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, and I think he could help help us have a brainstorming session of what opportunities for technology commercialization we would have with your...",
+      "block": 2
+    },
+    {
+      "timestamp": "08:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Actually tomorrow I will have, uh, you know, because I I feeling that it will not work so I try to another, another friends.",
+      "block": 2
+    },
+    {
+      "timestamp": "08:50",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And some of my friends told me that they have some also some TTS issue uh regardless the TTS text to speech and speech to text and AI because they want to use the mobile banking in my bank to use that service.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:07",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But right now they have difficulties because the the the percentage of success is very low and they want to improve.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The accuracy level.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:19",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, the accuracy level.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The outcome of the project.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:21",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I know it.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And so tomorrow maybe I will I have some meeting with them and",
+      "block": 2
+    },
+    {
+      "timestamp": "09:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe something comes up.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:29",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I'm sorry to you you have to rewrite your IC.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Shit happens.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:35",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay, okay.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You need any help in the process, let me know and I will let you contact to Miss Nam.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Don't worry, this course is exactly for that.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why you have all this.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:46",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Was it, sir?",
+      "block": 2
+    },
+    {
+      "timestamp": "09:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The good thing is like, it's not, I'm not going to evaluate you, I mean, you and, for example, you and Chilaka, Chilaka here it brought directly to the floor, right? But it's case by case.",
+      "block": 2
+    },
+    {
+      "timestamp": "09:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this is a",
+      "block": 2
+    },
+    {
+      "timestamp": "10:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "early commercialization, because it's really case-by-case. Business name Sure is very specific to each situation. I told you. This is almost like couple matchmaking situation, right? Business, business development. So,",
+      "block": 3
+    },
+    {
+      "timestamp": "10:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not evaluating your progress based on that. I'm evaluating what you are learning about the process in general, right? And because the most important is, this 16 weeks at some point you should really grab a thing that is dual. And we have to do all this demand verification. Um, it might happen to Chaletta, that he thought it is thorough, but then at some point during the demand verification something fell down. And you have to start. So it's like that. So this course is exactly to get you started, and also the the reason why I invite people like KISTI, it's I know it's not applicable to many of you, but thanks to his presentation, you can now imagine how we can do this kind of business while we are students and this kind of thing can happen for my country or for my entity. This is what I want, because it's going to be a long your way and also after you graduate. Okay?",
+      "block": 3
+    },
+    {
+      "timestamp": "11:00",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh, and one more. Ma, maybe the Grace already asked this, but uh, because there's no Korean here, I want to ask you, uh.",
+      "block": 3
+    },
+    {
+      "timestamp": "11:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I am Korean.",
+      "block": 3
+    },
+    {
+      "timestamp": "11:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh, I'm sorry.",
+      "block": 3
+    },
+    {
+      "timestamp": "11:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "저는 한국 며느리예요.",
+      "block": 3
+    },
+    {
+      "timestamp": "11:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "미안해요.",
+      "block": 3
+    },
+    {
+      "timestamp": "11:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "저는...",
+      "block": 3
+    },
+    {
+      "timestamp": "11:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "저는 한국 사람이에요.",
+      "block": 3
+    },
+    {
+      "timestamp": "11:19",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh. Besides the the the opportunity to do next business, but I I I believe about give and take and you already say it. So what's really their benefit doing this kind of thing?",
+      "block": 3
+    },
+    {
+      "timestamp": "11:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "KISTI? Okay?",
+      "block": 3
+    },
+    {
+      "timestamp": "11:34",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, no, no, not not for KISTI. For this.",
+      "block": 3
+    },
+    {
+      "timestamp": "11:36",
+      "speaker": "ILEANA",
+      "type": "teacher_response",
+      "text": "For GDI.",
+      "block": 3
+    },
+    {
+      "timestamp": "11:37",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "block": 3
+    },
+    {
+      "timestamp": "11:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah. We, when we, we our program, KAIST GDI, Graduate School of Innovation or Global Innovation. We have, we get R&D, we get Korean National Government funds, right? To sponsor your scholarship. That's why I told you. That's why I told Grace, your scholarship is your pay. No, it's not a lie. It's real. The way we, we tell KAIST, KAIST the School of KAIST or KAIST the university and the Ministry of that that funds us, or gives us some budget to operate your scholarships, is to say, okay, our program has a vision that we will create these global leaders to generate a global network of bridging people between Korea and the world. Okay? So we are investing in possible opportunities to create joint technology collaboration collaboration business opportunities for Korean companies and your country's companies.",
+      "block": 3
+    },
+    {
+      "timestamp": "12:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So right right now it's like burning money for the investing.",
+      "block": 3
+    },
+    {
+      "timestamp": "12:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You guys are Korean investment. Me, I am Korean investment. I am a result of Korea's investment because they invested in me, all my master's and PhD, and of course, you're not obliged. You're just applying applying here for a for a scholarship. But you must know that the vision of this program is to, if you read our website, read it carefully, the website of KAIST GDI. If you read carefully the words there, the words of Professor Han's message, introductory message and it's, it's very, it's there and it's not there, but it's there.",
+      "block": 3
+    },
+    {
+      "timestamp": "13:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's there, right? Yeah.",
+      "block": 3
+    },
+    {
+      "timestamp": "13:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, it is.",
+      "block": 3
+    },
+    {
+      "timestamp": "13:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It is, it is.",
+      "block": 3
+    },
+    {
+      "timestamp": "13:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not at all explicit. Just at the beginning when we read it as a applicant, we're not really acknowledging it, you know.",
+      "block": 3
+    },
+    {
+      "timestamp": "13:33",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "That's when you get almost at the school.",
+      "block": 3
+    },
+    {
+      "timestamp": "13:34",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "block": 3
+    },
+    {
+      "timestamp": "13:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's there. It's really there. But when you read it, you're just I my scholarship, I do my PhD, I that's all you see. When you reach it, like, why I have to do collaboration? Why? Why am I not here for the Korea? No. Right? So you put it no.",
+      "block": 3
+    },
+    {
+      "timestamp": "13:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I also I also felt like you, why why you are pushing me to do this. But if you think about, that's why I I was constantly tell you, do not I had a lot of peers in my life, in my batch. I had a lot of peers that were very they were very annoyed. Why these guys are pushing me to do technology collaboration? And I at that time I was just another peer, but I thought this is a good opportunity. It's a really good opportunity. I didn't think it was a I thought yes, it's hard work. I worked a lot. I was busy with my research and I did so many projects. So every night my WhatsApp is burning the phone, my husband about to divorce me, are you showing up at home today? Like it was hard because I'm having projects and I'm doing my research and I'm doing that's why at the beginning I also really encourage you try to do something related to the field where you're already interested. So in my case, I was I thought, if I'm going to do all this commercialization, I will do my PhD thesis about commercialization, because I want to become an expert in the field that joined my networks, right?",
+      "block": 3
+    },
+    {
+      "timestamp": "14:52",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "So",
+      "block": 3
+    },
+    {
+      "timestamp": "14:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's how I kind of made the synergy between my collaboration project and my theoretical",
+      "block": 3
+    },
+    {
+      "timestamp": "15:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that has no networking.",
+      "block": 4
+    },
+    {
+      "timestamp": "15:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Dissertation.",
+      "block": 4
+    },
+    {
+      "timestamp": "15:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, and dissertation. So, also think about that when you pick your collaboration. Like, like, if you're gonna do this project, maybe your PhD must be related to innovation management, R&D innovation management, or R&D efficiency, R&D productivity issues like that, no?",
+      "block": 4
+    },
+    {
+      "timestamp": "15:18",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "block": 4
+    },
+    {
+      "timestamp": "15:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'll give you some. So, um, this kind of thing, find the synergy, why not? Finally, but, but the thing is, you know, I, I, I am Christian, but I think God has interesting ways of playing in your life. Like, in my case, I never thought, I am, I come from business management field and foreign international relations field, and I come from management, not even engineering. So I never thought I will go to a IT technology and telecommunication program. And there I will start doing smart energy program and R&D management program and the copper and the graphene graphene project, like new materials program. I never knew, right? But thanks to those very random opportunities that came to me through my track of doing collaboration projects in ITTP. Now, World Bank calls me, \"Ileana, can you do the review of the this uh smart water metering companies?\" Or the Kaitak calls me, \"Can you deliver this lecture?\" Every time they call me, it's money. Every time I participate in these projects as an expert or as a reviewer or as a board member, I get payments, right? So at this point, Grace, some projects might deliver you money, yes. Some not. Some is just your activity as your professional activity as kind of your investment in yourself to expose, to get exposed into those companies. Now, I can call the NTA's president to say, \"Hey, listen, my blah blah blah.\" Or I can I receive the, you called, you you told me back then you asked me about an internship opportunity, for example. At that time, because I was working so hard in the smart energy program, I was able to meet the Posco CEO. And the Posco CEO gave me an opportunity to do the extenships. Ileana, you're collaborating so well for the smart energy program. I want you to participate in this program in my company because I want you to help us also make some other business in Central America, like that. And then they didn't give me a payment, but I they gave me an award at the end. And I didn't know, but the people I worked with, nowadays, they are, the Posco did some spin-offs. And you know the co- the all the IP EV electric vehicle charging stations, you know? One of the biggest electric vehicle charging station company. That guy who was just the manager at that time, he's now the CEO of that spin-off. He works in a very fancy office in Lotte Junction. Every time, \"Ileana, when you come to me to Lotte, please call me. I will invite you to very expensive dinner.\" Like that. So, it's I never knew it's just really the guy I was working with for the Posco project, like Dr. Lim, Dr. Choi. But now, we never know the the ways of the Lord, we say, right? They just how how you know. So, it's like it's like that. So, please don't think about it it's it's hard work.",
+      "block": 4
+    },
+    {
+      "timestamp": "18:06",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yes.",
+      "block": 4
+    },
+    {
+      "timestamp": "18:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's tough to just like trial and error. And also you don't know if it will work in your country. But in general, I really I really believe because I am a witness of that in my life, that all these doors you are knocking, at some point will connect to your own expertise, to your future role. Even when I participate, sometimes in the World Bank uh process, when I participate in World Bank or IADB uh or multilateral development bank projects. They I have to bid, because it's not direct contract, sometimes it's a bidding, it's a contested projects. And they ask, how many projects have you participated? And then I list of all even the collaboration projects, because I have all the process that I do as an. All that makes points. Many times I win the bids, I'm the expert with more projects than anybody. Because I was doing five years my PhD, but I burned up like 12 projects during my PhD.",
+      "block": 4
+    },
+    {
+      "timestamp": "18:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ooh.",
+      "block": 4
+    },
+    {
+      "timestamp": "18:59",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Twelve.",
+      "block": 4
+    },
+    {
+      "timestamp": "19:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "This is only small compared to Professor.",
+      "block": 4
+    },
+    {
+      "timestamp": "19:05",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh, professor, oh professor.",
+      "block": 4
+    },
+    {
+      "timestamp": "19:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, yeah, and I I think more than 12, but how many trial and errors I have? Maybe 100. Many times I started for years or five years, I work and then finally, no, that, no, that. No, that the guy changed, no the president changed, the minister changed, that, like. Okay. So, don't think about it that way. Think about it like the investment and the the opportunity to learn about some very interesting technology, very new. In this era, where we are living, all the knowledge is bigger. All the, these days with AI agents, you know, and very, every time I'm testing this these things, I'm like, oh my God, this thing is already doing everything for me almost. Like, it why is what is the power of me right now? Like, my expertise is the only power I have. What I have lived, what I have seen, what I have read, not even what I have read because the machine already read it for me and maybe sometimes they respond better than me. But it's really my logical thinking and what I really have confirmed through my own.",
+      "block": 4
+    },
+    {
+      "timestamp": "20:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "experience, the difference between that machine give me. I can correct that machine because I have lived for real what the project was or what the that expertise or that field was. And I can confirm that this machine is not telling the truth. There's a big gap between what they are giving me, the output is giving me and the reality. So, that is what becomes my power, my power to sell my knowledge or my expertise to Mayba.",
+      "block": 5
+    },
+    {
+      "timestamp": "20:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? Don't don't think about it in a limited way, think it about it in a broad way.",
+      "block": 5
+    },
+    {
+      "timestamp": "20:30",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Okay.",
+      "block": 5
+    },
+    {
+      "timestamp": "20:31",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Anything else from ICP? Anybody else drop in their ICP?",
+      "block": 5
+    },
+    {
+      "timestamp": "20:38",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh what would you uh after you finish your uh question then we can discuss maybe something.",
+      "block": 5
+    },
+    {
+      "timestamp": "20:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But today I have to take a train at five. So I don't have a lot of time. We can set up an a meeting with you and me or you can open up now, or we can set a meeting during this week, online and tomorrow, or next Tuesday. But use the time now because whatever you have, it's gonna be valid.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Be open. The worst thing you could have is a raw draft.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh for you.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "From you.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Actually, I wanted to to explain the the project in another way, or maybe to show you this.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Okay.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:17",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah. This is actually the the portal.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, higher education university. Ah, higher education. Yes.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:23",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The Ministry of AI Education.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I've been translating so now it's in English. Okay.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Higher education portal. Okay.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, yeah. So, it's going to be launched very recently. And then uh uh from there they are even trying to initiate already some of the digital uh incentives university. This is actually the Minister of Higher Education.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Can you be the link?",
+      "block": 5
+    },
+    {
+      "timestamp": "21:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, yeah.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one?",
+      "block": 5
+    },
+    {
+      "timestamp": "21:49",
+      "speaker": "ILEANG",
+      "type": "teacher_statement",
+      "text": "Yeah, send me the link so that I can check.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:51",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, I'll check it. And you see it's really with the schedule. This is actually the training they are scheduling from April 15, 17.",
+      "block": 5
+    },
+    {
+      "timestamp": "21:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Modernization of higher education, okay. How did I I wonder how deep this digital portal is.",
+      "block": 5
+    },
+    {
+      "timestamp": "22:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh actually, it's useful.",
+      "block": 5
+    },
+    {
+      "timestamp": "22:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "How I mean, okay, so they are trying to deploy the portal and it's gonna be officially launched, it was released to the house. So what is the scope?",
+      "block": 5
+    },
+    {
+      "timestamp": "22:16",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "It has been it was launched.",
+      "block": 5
+    },
+    {
+      "timestamp": "22:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. So what is the scope of this portal? It's very important to you for you to know what's the real scope.",
+      "block": 5
+    },
+    {
+      "timestamp": "22:23",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, actually it's a they are really focusing on digitalizing uh so I mean the academic uh sector. I mean the high education system.",
+      "block": 5
+    },
+    {
+      "timestamp": "22:35",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "But digitalizing means what? But training, online training, training.",
+      "block": 5
+    },
+    {
+      "timestamp": "22:39",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Online training. That's this one. They are this is the training module. Okay. You have this this time.",
+      "block": 5
+    },
+    {
+      "timestamp": "22:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah okay, okay.",
+      "block": 5
+    },
+    {
+      "timestamp": "22:47",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The training will be actually. They also have some things, okay? National platform for managing students cards, National Digital Library, the system of financial governance financial governance control, something like that. But since uh they are not fully talking about like a learning management system from now. So, I was like instead of like uh going directly to the university, like partnering directly with by university there, work on the Ministry of Higher Education.",
+      "block": 5
+    },
+    {
+      "timestamp": "22:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so.",
+      "block": 5
+    },
+    {
+      "timestamp": "23:22",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "In this context, if the the minister the minister.",
+      "block": 5
+    },
+    {
+      "timestamp": "23:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "By connecting to whatever they're doing here, using this as a framework?",
+      "block": 5
+    },
+    {
+      "timestamp": "23:28",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh actually, I wanted to bring it as uh the project for the Ministry of High Education. If they can, because they are already giving incentives in terms of digitalization, if they see something related like the learning management system, the minister has the authority, if they see that something is better, they can now launch it to be implemented to public university. So, it will not be like uh",
+      "block": 5
+    },
+    {
+      "timestamp": "23:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, it's not a bottom-up, it's a top-down. Yeah.",
+      "block": 5
+    },
+    {
+      "timestamp": "23:56",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, it's all the authority see that something is valuable because we need we have always been giving the incentive of digitalization, but now we have really the tool like for management, digital learning management system. So, that's like the spread of many public university, they are starting from the Kinshasa, because it's the capital city and later on uh maybe uh setting to something. So, I was like trying to bring this project like.",
+      "block": 5
+    },
+    {
+      "timestamp": "24:25",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "It's interesting but what I worry again is how how far your how far or how close are you to the minister of higher education?",
+      "block": 5
+    },
+    {
+      "timestamp": "24:33",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I am I am I am somehow closer because I am working with one of the professors who is academic advisor. So, through him I can contact him.",
+      "block": 5
+    },
+    {
+      "timestamp": "24:42",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "He's academic advisor of this initiative or the Minister of Higher Education?",
+      "block": 5
+    },
+    {
+      "timestamp": "24:46",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Of the Minister of Education.",
+      "block": 5
+    },
+    {
+      "timestamp": "24:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Yeah. I mean, why not? I don't think it's a big deal because what whether you it's how you it's how you tie it. I mean how you tie it. You can tie it through Kinshasa and the part of your amazing.",
+      "block": 5
+    },
+    {
+      "timestamp": "25:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "or no. And I will try to with digital, with the digital for this program, with the Ministry of Higher Education, and then I will",
+      "block": 6
+    },
+    {
+      "timestamp": "25:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "they have all these training modules, one of the modules will be the learning management module, which is Grace's project. Up to you how you tell the story. But, but what I what what's very important and I will go into this this, this is what we're going to discuss next time.",
+      "block": 6
+    },
+    {
+      "timestamp": "25:28",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "This your part, right?",
+      "block": 6
+    },
+    {
+      "timestamp": "25:29",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yes, your part.",
+      "block": 6
+    },
+    {
+      "timestamp": "25:30",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "No.",
+      "block": 6
+    },
+    {
+      "timestamp": "25:32",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "I have a question.",
+      "block": 6
+    },
+    {
+      "timestamp": "25:33",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "text": "I have a question.",
+      "block": 6
+    },
+    {
+      "timestamp": "25:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think this is important. Who's gonna be the owner? Who's gonna be the owner and who are gonna be your partners in the sense like if the learning management system is gonna be from the Ministry of Higher Higher Education,",
+      "block": 6
+    },
+    {
+      "timestamp": "25:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "maybe the Ministry of Education is just like the policy maker, who's just gonna provide the framework, but he's not gonna operate the learning management system.",
+      "block": 6
+    },
+    {
+      "timestamp": "25:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe they're going to say, no, I'm gonna ask the university of Chaco to be the first operator of the system, blah blah. And if they prove the concept, later on, we will make it available to the other public universities that operate like that.",
+      "block": 6
+    },
+    {
+      "timestamp": "26:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you have to tell me the story in terms of who are going to be the partners like like same as this, right?",
+      "block": 6
+    },
+    {
+      "timestamp": "26:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Who's gonna be the owner of the system? Okay, he's the he's the owner of the system, but they have a IT partner.",
+      "block": 6
+    },
+    {
+      "timestamp": "26:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then this IT partner is gonna be hired to collaborate in the team, but the owner of the system is gonna be me. However, the operator of the system and who's gonna get the knowledge is this IC.",
+      "block": 6
+    },
+    {
+      "timestamp": "26:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, saying you have to tell the story and that is not so easy. You can tell me from your imagination, but when you talk to the stakeholders, who's gonna be really the one able to",
+      "block": 6
+    },
+    {
+      "timestamp": "26:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "uptake, the recipient to uptake all this technology transfer. Who's gonna be the one committing to some budget, whatever it is.",
+      "block": 6
+    },
+    {
+      "timestamp": "26:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe the Ministry, because during these discussions at the beginning as I told you, Casey provided me some percentage.",
+      "block": 6
+    },
+    {
+      "timestamp": "26:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But then at the end the the Ministry requested, hey, if my budget is not approved, please IC invest initially, and later on I will contract you.",
+      "block": 6
+    },
+    {
+      "timestamp": "27:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the initial investment of the $300,000 was made by IC. So IC because it's a public entity, they don't need to get an approval of budget, because they have some funds to operate. It's easier from them than the ministry. The ministry, if they didn't approve the budget last year, they cannot, as you very well know, they cannot use any money, right?",
+      "block": 6
+    },
+    {
+      "timestamp": "27:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "IC has more flexibility, so IC did the initial investment in all behalf of the Ministry. And then Ministry later on they can contract and buy services or something, they need some kind of business model.",
+      "block": 6
+    },
+    {
+      "timestamp": "27:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this hooking this kind of arrangement takes very big coordinations, okay?",
+      "block": 6
+    },
+    {
+      "timestamp": "27:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I worry in your case like, uh, sometimes as I told you before, having the big whales, like I told you eventually Steven, Steven, you have big names there in the proposal.",
+      "block": 6
+    },
+    {
+      "timestamp": "27:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Having this whale make it like, for example, your question Megan, you said I took one month to sign a MOU between the two ministries, right? So putting a minister as a as a stakeholder and as a counterpart.",
+      "block": 6
+    },
+    {
+      "timestamp": "28:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It could be very good because it's a very heavy, heavy, heavy weight, heavy, heavy, very, very highly political stakeholder and with a lot of political power, great.",
+      "block": 6
+    },
+    {
+      "timestamp": "28:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But also very bureaucratic and very slow in the decision making and that might work against you.",
+      "block": 6
+    },
+    {
+      "timestamp": "28:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So far so as the case for like the university, like let's say by universities, like the first public university.",
+      "block": 6
+    },
+    {
+      "timestamp": "28:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Even if they want to like to implement this budget.",
+      "block": 6
+    },
+    {
+      "timestamp": "28:40",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I don't believe they have a direct fund.",
+      "block": 6
+    },
+    {
+      "timestamp": "28:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "The university?",
+      "block": 6
+    },
+    {
+      "timestamp": "28:44",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "The university to like support.",
+      "block": 6
+    },
+    {
+      "timestamp": "28:47",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So since they have to contact the authority, which is the Ministry of High Education.",
+      "block": 6
+    },
+    {
+      "timestamp": "28:54",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And the Ministry of Education based on its budget line, it's may be to contact the government you know for funding something such.",
+      "block": 6
+    },
+    {
+      "timestamp": "29:04",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You see, so it's not like uh the University of Kuchaza directly funding without uh any.",
+      "block": 6
+    },
+    {
+      "timestamp": "29:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So they have no, they don't have that funding capacity. Okay.",
+      "block": 6
+    },
+    {
+      "timestamp": "29:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh directly. So they need to contact the authority which is the Ministry of High Education through the minister, if he, uh she has also to contact, you see.",
+      "block": 6
+    },
+    {
+      "timestamp": "29:26",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The the the the government for any funding possibility something such.",
+      "block": 6
+    },
+    {
+      "timestamp": "29:32",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "block": 6
+    },
+    {
+      "timestamp": "29:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. I'll give you another example of another project.",
+      "block": 6
+    },
+    {
+      "timestamp": "29:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I'm gonna give you an homework that I already gave you but you didn't maybe you haven't done.",
+      "block": 6
+    },
+    {
+      "timestamp": "29:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There is an agency called the National Informatization, National IP industry promotion agency. National IT industry promotion agency called Nipa, N I P A. I already told you to look at it last time. They have an entity called K-Lab.",
+      "block": 6
+    },
+    {
+      "timestamp": "30:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "generate prototypes or to generate things to be fabricating that can help you prove certain products when you're trying to design something that is new to the market.",
+      "block": 7
+    },
+    {
+      "timestamp": "30:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is an innovation lab that includes the fab lab uh equipment.",
+      "block": 7
+    },
+    {
+      "timestamp": "30:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And some meeting rooms and collaboration rooms.",
+      "block": 7
+    },
+    {
+      "timestamp": "30:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, K-Lab last 2009 approved a budget for Costa Rica of almost $2.5 million for five years.",
+      "block": 7
+    },
+    {
+      "timestamp": "31:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is a very exceptional project.",
+      "block": 7
+    },
+    {
+      "timestamp": "31:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, it's not normal to get this kind of funding, but we already had a K-Lab Bolivian first.",
+      "block": 7
+    },
+    {
+      "timestamp": "31:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And now we just have the K-Lab Costa Rica. It's about to finish next year, we already started since 2019.",
+      "block": 7
+    },
+    {
+      "timestamp": "31:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm a member of the board of directors of this project. Knight invited me to be a member.",
+      "block": 7
+    },
+    {
+      "timestamp": "31:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And so it could be a very interesting way to start because this program, the interesting thing is Bolivia almost only included the equipment.",
+      "block": 7
+    },
+    {
+      "timestamp": "31:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just the construction of a small lab within a faculty and they provided the machines and the computers and blah blah blah.",
+      "block": 7
+    },
+    {
+      "timestamp": "31:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And it was a very interesting initiative. Nothing related to what you want.",
+      "block": 7
+    },
+    {
+      "timestamp": "31:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's just an example, okay?",
+      "block": 7
+    },
+    {
+      "timestamp": "31:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The interesting thing is that through this project, in the Bolivian case, it's almost equipment and course and training.",
+      "block": 7
+    },
+    {
+      "timestamp": "31:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in the Costa Rica case, we included a whole curriculum.",
+      "block": 7
+    },
+    {
+      "timestamp": "31:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, they provide they provide a whole ecosystem through Zoom and through web Facebook website, using kind of almost free resources and resources that are almost available to everybody.",
+      "block": 7
+    },
+    {
+      "timestamp": "32:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And they are the all the Costa Rican students from in this case, K-Lab gave the ODA project to the Ministry of Science and Technology in Costa Rica.",
+      "block": 7
+    },
+    {
+      "timestamp": "32:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the Ministry of Science and Technology selected the number two university in Costa Rica.",
+      "block": 7
+    },
+    {
+      "timestamp": "32:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is like IT. It's the the IT university, the Science and Technology University in Costa Rica. It's the number two public university.",
+      "block": 7
+    },
+    {
+      "timestamp": "32:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this university became the beneficiary. So, the K-Lab Costa Rica is situated under the TEC campus.",
+      "block": 7
+    },
+    {
+      "timestamp": "32:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the cooperation is from the Korean Ministry to the Costa Rican Ministry, but the beneficiary is the university.",
+      "block": 7
+    },
+    {
+      "timestamp": "32:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I'm just giving you an idea of how this kind of thing can happen if you do in the case of Colombia, it probably it's going to be ODA because Colombia is a very is a low income low income economy, a low-middle-income country. So,",
+      "block": 7
+    },
+    {
+      "timestamp": "32:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is most likely that they are, I'm not saying you can reach this amount because this was a very moonshot opportunity that they were able to catch.",
+      "block": 7
+    },
+    {
+      "timestamp": "33:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Until now, I don't this year they are trying to catch, I think they are providing that by to Thailand and some other countries.",
+      "block": 7
+    },
+    {
+      "timestamp": "33:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But please look at the K-Lab because maybe it could be a low hanging fruit to just say, you know what? I'm going to try to push to request the initial K-Lab.",
+      "block": 7
+    },
+    {
+      "timestamp": "33:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the K-Lab has the whole online learning management, I'm not going to say system because it's not a system, it's just like a ecosystem.",
+      "block": 7
+    },
+    {
+      "timestamp": "33:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That they make with free tools, Moodle and other free tools that they are building a whole online learning community.",
+      "block": 7
+    },
+    {
+      "timestamp": "33:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because all these robotics and robotics and ICT and other courses that the Korean professors are delivering, they are delivering through online Zoom or whatever and they provide a free platform.",
+      "block": 7
+    },
+    {
+      "timestamp": "33:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the Costa Rican students are receiving the know-how and they they the K-Lab budget hires the research that like a TA, Costa Rican TAs plus translators.",
+      "block": 7
+    },
+    {
+      "timestamp": "33:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And using the AI they are like subtitling the lecture of the Korean robotics professor in delivering to the Costa Rican students.",
+      "block": 7
+    },
+    {
+      "timestamp": "34:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And even Costa Rican lecturers and teachers, because Costa Rican universities still don't have the amount of technology and like advanced programs on robotics and AI that Korea has.",
+      "block": 7
+    },
+    {
+      "timestamp": "34:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So from Costa Rica's perspective, it's a great chance to really access Korean knowledge easily.",
+      "block": 7
+    },
+    {
+      "timestamp": "34:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is just an idea of how this kind of thing can happen.",
+      "block": 7
+    },
+    {
+      "timestamp": "34:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "K-Lab could be an interesting way to just say, you know what, our program initial program is going to be something related to the.",
+      "block": 7
+    },
+    {
+      "timestamp": "34:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Why not? I'm not sure it's going to be necessarily like that, but I'm just giving you an idea of how eventually that could happen.",
+      "block": 7
+    },
+    {
+      "timestamp": "34:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, I I agree that you're not like if you do something like that when your Ministry of Higher Education selects the Kinshasa University as the beneficiary.",
+      "block": 7
+    },
+    {
+      "timestamp": "34:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then there is some Korean side here who will provide something like the element.",
+      "block": 7
+    },
+    {
+      "timestamp": "35:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I would say, for example,",
+      "block": 8
+    },
+    {
+      "timestamp": "35:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not sure if it's could be, maybe it could be just like the master plan for like, I don't know, maybe it's going to be learning management system, like a solution. If it's a solution,",
+      "block": 8
+    },
+    {
+      "timestamp": "35:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "then maybe some kind of feasibility study for learning management, blah blah, or it could be like within the digital capabilities program.",
+      "block": 8
+    },
+    {
+      "timestamp": "35:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Within the digital capabilities program, because this is already now launched.",
+      "block": 8
+    },
+    {
+      "timestamp": "35:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the the issue, right? So something between the two.",
+      "block": 8
+    },
+    {
+      "timestamp": "35:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't know how you will connect this point of LMS within this. I think this is something you need to contact the academic advisor and say, hey, I'm trying to connect my project to this is how how to align it and how to justify it. So that I can present it to the Korean government and it makes sense for the Korean government to say, ah, we should invest here. If we invest as government, if we provide the ODA to the Congo ministry, maybe the Korean companies who are group players in LMS can have a chance to collaborate with the Congolese company and then they can create some value in providing LMS technology to Congolese academic sector.",
+      "block": 8
+    },
+    {
+      "timestamp": "36:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This kind of we need to create.",
+      "block": 8
+    },
+    {
+      "timestamp": "36:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "block": 8
+    },
+    {
+      "timestamp": "36:15",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Right?",
+      "block": 8
+    },
+    {
+      "timestamp": "36:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, please look at the example if this is something that could happen. If you're still saying, no, no, this is not going to make sense. I'm still interested in just the element as a tool. Then please check if the Korean LMS sort of can navigate you check those two.",
+      "block": 8
+    },
+    {
+      "timestamp": "36:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And please next week, please report me, I check the tools, this is the problem, this is where. I checked this one, this one, but no, I want that kind of feedback. So then we will contact the developers just to start writing what they can do.",
+      "block": 8
+    },
+    {
+      "timestamp": "36:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sometimes when we contact the company, for example, at this time, when it was the Rican case, when we didn't know where to get the budget. And then we contacted the and said, actually, I can apply to the night, night upon the project here and that will provide me some. So because Korean government support so many SMEs, the small and medium enterprises from Korea, sometimes the answer of the budget is in the company, the Korean company, they already know, actually, if you give me the LOI, I can apply to the Korean government through that, I can go to your country, invite your member, they get solid everything. So then sometimes the Korean companies, they know the process to get the money, but they don't have the source, the recipient. They don't have the territory. They have the source, they don't have the recipient. Who can catch my technology? Who is interested in my technology? They don't know that. So if you just fill that gap, they will figure out the rest. In many cases it could happen like that. So, like um don't be afraid to just, you know, pitch in the possible that we will try to find the way to solve it. part of the classes that we have. Sometimes we will succeed, sometimes we will partially succeed and then fail on the way, sometimes we will...",
+      "block": 8
+    },
+    {
+      "timestamp": "37:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, I'm not I don't think I'm going to look like that.",
+      "block": 8
+    },
+    {
+      "timestamp": "38:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, no, no, don't look like that.",
+      "block": 8
+    },
+    {
+      "timestamp": "38:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. Like Sincit, like Sincit is actually not a full success, it's a partial success. We succeeded until the proof of concept and prototype, but we couldn't scale it up because of the political situation.",
+      "block": 8
+    },
+    {
+      "timestamp": "38:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And that's the result of that project, right? It doesn't mean it's failed, it means, ah, we succeeded until certain stage and at some point that seed grew until these levels root. Some other seed grew until a tree. Some other seed became a forest. It isn't mean it didn't happen, it happened. So it's okay. Don't need to be shy about that. It's a it's a result, just it's not the full result we expect it.",
+      "block": 8
+    },
+    {
+      "timestamp": "38:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But who knows? If I ask Sincit, if I ask SopTech, have you ever had other clients in Latin America where you reused the effort that was invested through the Sincit project? Maybe they already are using that investment to sell other services to other Latin American countries. I don't know.",
+      "block": 8
+    },
+    {
+      "timestamp": "38:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So from our perspective of Korea, it might have a very good return on investment.",
+      "block": 8
+    },
+    {
+      "timestamp": "39:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Also from the perspective of KISTI, because they are an R&D center, they say, we collaborated that one Korean company has an opportunity to enter the foreign market. Only that becomes KISTI's performance.",
+      "block": 8
+    },
+    {
+      "timestamp": "39:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So don't think that they don't have, they also have a stake in the certain let's say non non capital benefit, right?",
+      "block": 8
+    },
+    {
+      "timestamp": "39:26",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Okay. And if is that Grace, is there anything else you want to?",
+      "block": 8
+    },
+    {
+      "timestamp": "39:31",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "No, actually I just wanted to tell that one so I will just try to restructure.",
+      "block": 8
+    },
+    {
+      "timestamp": "39:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Restructure with that. But before we structure, this is something I'm going to mention very, very right. I will follow through this next week.",
+      "block": 8
+    },
+    {
+      "timestamp": "39:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want to show you.",
+      "block": 8
+    },
+    {
+      "timestamp": "39:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Next week, when is it going to be the meeting, right?",
+      "block": 8
+    },
+    {
+      "timestamp": "39:53",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "22nd, right?",
+      "block": 8
+    },
+    {
+      "timestamp": "39:55",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Okay, so that's fine.",
+      "block": 8
+    },
+    {
+      "timestamp": "39:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Our, our calendar doesn't need to match your.",
+      "block": 8
+    },
+    {
+      "timestamp": "40:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the demand validation evidence.",
+      "block": 9
+    },
+    {
+      "timestamp": "40:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, one of the things that Grace is saying, or for example what you just did,",
+      "block": 9
+    },
+    {
+      "timestamp": "40:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the the due diligence, what you just did in my opinion is called due diligence.",
+      "block": 9
+    },
+    {
+      "timestamp": "40:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You were saying I'm trying to find the AIA operations, the operations.",
+      "block": 9
+    },
+    {
+      "timestamp": "40:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But you double check with your boss and your colleague, hey, how is it going? You still needing this?",
+      "block": 9
+    },
+    {
+      "timestamp": "40:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And he confirmed, ah no, you know why? You already hired a copilot, blah blah blah.",
+      "block": 9
+    },
+    {
+      "timestamp": "40:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It means your demand evaluation due diligence confirmed that the demand is no longer there.",
+      "block": 9
+    },
+    {
+      "timestamp": "40:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So,",
+      "block": 9
+    },
+    {
+      "timestamp": "40:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you turn out, okay?",
+      "block": 9
+    },
+    {
+      "timestamp": "40:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to pivot to another thing.",
+      "block": 9
+    },
+    {
+      "timestamp": "40:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, what is Chilaka doing now? Chilaka already, last Thursday you met, already?",
+      "block": 9
+    },
+    {
+      "timestamp": "40:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So he met with the directors and he met with he's continued to doing his demand validation.",
+      "block": 9
+    },
+    {
+      "timestamp": "40:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The difference between an A+ and an A- is, you're not going to get a C.",
+      "block": 9
+    },
+    {
+      "timestamp": "40:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You already are working the entire team with me. You get an A because you're doing right.",
+      "block": 9
+    },
+    {
+      "timestamp": "40:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But you're not going to get a C because you already did a lot of things.",
+      "block": 9
+    },
+    {
+      "timestamp": "41:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, the reason I I'm gonna really really look at these things. So please look carefully. I will provide these slides to you and I will explain one by one. But we are evaluating things in terms of three aspects: suitability, how suitable the project is, feasibility, how feasible the project is, and accept accept ability.",
+      "block": 9
+    },
+    {
+      "timestamp": "42:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And look at this, for example, this one. This is very important. Why? Because our vision, I-GDI vision is to provide a platform, global platform so that you guys become global digital leaders and Grace can become the future Minister of Science and Higher Education and then Chilaka can became the future, hopefully maybe the the what is it? The congressman in charge of the science and technology budget in Nigeria. Okay? So,",
+      "block": 9
+    },
+    {
+      "timestamp": "42:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this is very important, right? The linkage to your own role. So like for example you or you for example like in case of uh Mega, Mega, you are a researcher in the only and main research government fund, research center in Indonesia. And your project might be very meaningful to solve one very technical issue, but I think it's more than that. Your role will be, okay, you are a researcher, we deliver not a thesis, not a joint report, we deliver a proof of concept, feasibility study, proof of concept, or a real practical solution to the key problem in this region of Chilaka, right?",
+      "block": 9
+    },
+    {
+      "timestamp": "43:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, this will create some track for your career.",
+      "block": 9
+    },
+    {
+      "timestamp": "43:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I built this project together with Korea. So maybe later on who knows? In your agency, whenever there is another MOU issue with Korea, they're going to call Mega, Mega, please help us with this issue because the person bridging Korea for our agency is Mega.",
+      "block": 9
+    },
+    {
+      "timestamp": "43:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this kind of thing, I think we need to really, you see, does your institution own the problem or have influence over policy and adopted? This kind of question, key to Grace.",
+      "block": 9
+    },
+    {
+      "timestamp": "43:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "block": 9
+    },
+    {
+      "timestamp": "43:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Grace, are you going to so when you're asking me, should I ask, should I make the Minister of Higher Education my owner of this project or not? These questions are key.",
+      "block": 9
+    },
+    {
+      "timestamp": "43:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "My institution is the Kinshasa University.",
+      "block": 9
+    },
+    {
+      "timestamp": "43:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you want to decide what's going to be the institutional strategic linkage to these to your so think about these from, I I really tried to write it in kind of question mark so that you can check, am I am I using my logic to connect to that?",
+      "block": 9
+    },
+    {
+      "timestamp": "43:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that when I check, I say, oh okay.",
+      "block": 9
+    },
+    {
+      "timestamp": "43:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Of course, there's going to be many gaps because there are pictures not it's a puzzle.",
+      "block": 9
+    },
+    {
+      "timestamp": "44:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Still some parts are missing, right? Many parts.",
+      "block": 9
+    },
+    {
+      "timestamp": "44:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it should look like it should look like the puzzle is catching up, right?",
+      "block": 9
+    },
+    {
+      "timestamp": "44:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I will explain about this next time.",
+      "block": 9
+    },
+    {
+      "timestamp": "44:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And and you want to think about this when you are already improving your ICP key, yeah.",
+      "block": 9
+    },
+    {
+      "timestamp": "44:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This slide I'm I'm going to upload.",
+      "block": 9
+    },
+    {
+      "timestamp": "44:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Another thing I very quickly I want to show is you guys had, if you read my syllabus, you said you might have known that I suggested we can have a syllabus to do one thing of the sector labs.",
+      "block": 9
+    },
+    {
+      "timestamp": "44:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sector labs idea was to make one class like a pay tank of that topic. So my idea was, depending on the topic you choose, we're going to go one one session, one session we're going to go all become experts of energy management systems. Then all of us can have a chance to really understand a little bit of what is energy management systems or learning management systems. What is learning manage what is the marketplace that looks like? And where are the opportunities in the market and what policies are needed to do this?",
+      "block": 9
+    },
+    {
+      "timestamp": "45:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But because you are only five people, maybe you have to work.",
+      "block": 10
+    },
+    {
+      "timestamp": "45:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So for example, Grace, you are the CEO, and then Mega, you are the CTO, and then Aryang, you are the CFO, and then Chilaka, you are the C- What else? CPO? And then what else? And then you're all gonna fight together with your project. Uh, and then, and then, if, uh, if you, uh, I want you to prepare so much what would happen if they try to do a venture funding or if they try to do, um, you know, just expand. What would be the discussions that you would have, Grace, as a CEO, and then Mega as a CTO, and Aryang as a CFO. I want you to prepare those cases so that you, you tell me the strategies for your project.",
+      "block": 10
+    },
+    {
+      "timestamp": "45:43",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "So it's like a pitch, right?",
+      "block": 10
+    },
+    {
+      "timestamp": "45:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not a pitch. It's a debate.",
+      "block": 10
+    },
+    {
+      "timestamp": "45:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not a pitch.",
+      "block": 10
+    },
+    {
+      "timestamp": "45:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want you to defend. What are the key decisions that you as a team are gonna take for your project? And why is it? For example, your technology is too advanced. What are the problems with being too advanced for your market? And what are the solutions for that? Or what if your market is too immature for your project? So what are the problems with that? And what are the solutions that you will find?",
+      "block": 10
+    },
+    {
+      "timestamp": "45:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So like for example if it's too advanced and the market's too immature, what kind of challenges would we face when we're trying to integrate that into the market and what are the plans we have to put to make sure that we're successful, right?",
+      "block": 10
+    },
+    {
+      "timestamp": "46:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly. Exactly. And I want you to use the frameworks.",
+      "block": 10
+    },
+    {
+      "timestamp": "46:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So not like, uh, I want you to use the frameworks, uh, the STP and the and the, all of them, the ones that you were reading.",
+      "block": 10
+    },
+    {
+      "timestamp": "46:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So not like, uh, \"We're going to expand into Europe.\" Oh, how are you going to expand into Europe? And what does that mean from the strategic point of view? And what are the risks, right?",
+      "block": 10
+    },
+    {
+      "timestamp": "46:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So those are the discussions. So for example, I might call Grace, I'll say, \"Grace, you are the CEO. What do you think you have to do in this scenario?\" And then she's gonna tell me. And then I'll ask Mega, \"Okay, Mega, you are the CTO. Do you agree or do you have a different solution for that particular problem?\" And then she's gonna tell me. And then I'll ask Aryang.",
+      "block": 10
+    },
+    {
+      "timestamp": "46:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "\"Aryang, what is your suggestion on the finance side if they were to take that decision?\" And so on. So that you have to use the theories. And that's why I'm insisting, you need to read the theories of the handbook. If you don't read them, it's gonna be very difficult to debate. Because you need to tell me. So for example, Grace says, \"I'm gonna do a blue ocean strategy.\" Okay, Grace, what is a blue ocean strategy? And why do you think that's the one? And what are the risks of using a blue ocean strategy? So if you didn't read about it, you won't be able to debate. You just have to tell me, \"Oh, I'm just gonna open a new market.\" No, that's not a blue ocean strategy. What's the blue ocean strategy framework? And what does that mean, right?",
+      "block": 10
+    },
+    {
+      "timestamp": "47:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Mmm. So like the question will be based around the frameworks we've been reading or what we've been learning in class, right?",
+      "block": 10
+    },
+    {
+      "timestamp": "47:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you need to use the frameworks to explain your strategy. Not just, \"Oh, I'm gonna open a new market.\" And that's why, I mean, that's what's the, the, you know, the main point of this is to make you think more critically and more deeply.",
+      "block": 10
+    },
+    {
+      "timestamp": "47:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So not just on the surface, like, you're not just gonna tell me, \"Oh, I'm gonna make it cheaper.\" You know, that's not a strategy. Right?",
+      "block": 10
+    },
+    {
+      "timestamp": "47:22",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Right.",
+      "block": 10
+    },
+    {
+      "timestamp": "47:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You have to know what are the aspects around it. What does that mean to make it cheaper? Or what does that mean to make it more innovative? What does that mean? Right?",
+      "block": 10
+    },
+    {
+      "timestamp": "47:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why I'm insisting that you go deep in your explanation. That's what I want you to do. And that's the reason why I want you to do this because many of the things I tell you like in the class, like, oh, I remember a time, it's very difficult for me to be able to tell you all of these things and wait for you to assimilate it. So it's better if you read and then you apply them. Then you can assimilate them better.",
+      "block": 10
+    },
+    {
+      "timestamp": "47:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's the reason why I'm gonna be calling, uh, so I want to call you up and you, you have to be prepared as a team, as a startup team. You're a startup team now.",
+      "block": 10
+    },
+    {
+      "timestamp": "47:59",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "text": "So for the first week, we'll just have the debate, right? The discussion without presentation.",
+      "block": 10
+    },
+    {
+      "timestamp": "48:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly. Just discussion. You don't need any slides. Nothing. No, not because I want to make you even faster. Like, I want you to debate as soon as possible. Because sometimes when you do presentations, it's like, you know, you take a lot of time preparing the presentation, the slides, and all that. No, I want you to focus more on your thoughts and how you articulate your thoughts and how you bring to the discussion what you read in the handbook. That's the main point. So no need to prepare any slides.",
+      "block": 10
+    },
+    {
+      "timestamp": "48:26",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Okay.",
+      "block": 10
+    },
+    {
+      "timestamp": "48:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's gonna be the first week. The week of October 23rd, if I'm not wrong, will be the first round of debate.",
+      "block": 10
+    },
+    {
+      "timestamp": "48:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then, um, I was thinking because we're gonna be doing two different assignments. Because the second assignment is going to be the essay. Remember, the essay is still valid. That's not removed.",
+      "block": 10
+    },
+    {
+      "timestamp": "48:42",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Okay.",
+      "block": 10
+    },
+    {
+      "timestamp": "48:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is going to be your team project which is a debate of the cases that you have read for the handbook. Not for your project. This is not for your project.",
+      "block": 10
+    },
+    {
+      "timestamp": "48:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let me clarify that. The debate is on the cases that you have read from the handbook. Your project will be the second assignment.",
+      "block": 10
+    },
+    {
+      "timestamp": "48:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So for example, I might say, \"Grace, what does that mean in the context of your project?\" But the debate in itself is on the cases that you have read from the handbook. Because I want you to apply those frameworks. Right?",
+      "block": 10
+    },
+    {
+      "timestamp": "49:08",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Okay.",
+      "block": 10
+    },
+    {
+      "timestamp": "49:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "block": 10
+    },
+    {
+      "timestamp": "49:10",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "So we will have different themes assigned to each of us in that debate then?",
+      "block": 10
+    },
+    {
+      "timestamp": "49:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm gonna separate you as a team. So, for example, I will tell you, I'll say, \"Okay, Grace, Mega, Aryang, Chilaka, and Stephe, no, you don't have Stephe yet, right?\" Oh, sorry. Five. Five people. So Grace, Mega, Aryang, Chilaka, and who else? Uh, what was the last person?",
+      "block": 10
+    },
+    {
+      "timestamp": "49:31",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Myself.",
+      "block": 10
+    },
+    {
+      "timestamp": "49:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, that's you. Grace, Mega, Aryang, Chilaka, and...",
+      "block": 10
+    },
+    {
+      "timestamp": "49:36",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Sthephen.",
+      "block": 10
+    },
+    {
+      "timestamp": "49:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sthephen. Thank you.",
+      "block": 10
+    },
+    {
+      "timestamp": "49:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you're gonna be a team. But for your team, I'm going to say Grace, you are the CEO, Mega, you are the CTO. You know, you have different roles within the team, so you can play different roles, so you can debate from different perspectives.",
+      "block": 10
+    },
+    {
+      "timestamp": "49:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? So I want you to prepare, you know, okay, if I'm a CEO, what are the different things that I would analyze for that particular case? And what would be my strategy? What would be my debate strategy?",
+      "block": 10
+    },
+    {
+      "timestamp": "50:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then I'll just, uh, like I told you, I'll interrupt you. I'll tell you, \"What about this? What about that? Why do you think that's the right solution? What are the risks of that solution? What if it's not feasible?\" You know, all these things, I will ask you as a professor. Right?",
+      "block": 10
+    },
+    {
+      "timestamp": "50:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So it's like our own mini Shark Tank.",
+      "block": 10
+    },
+    {
+      "timestamp": "50:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. Like a Shark Tank, but not pitching a product, but pitching a solution or a strategy for a problem. You know?",
+      "block": 10
+    },
+    {
+      "timestamp": "50:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, um, I was thinking to do, uh, five different debates.",
+      "block": 10
+    },
+    {
+      "timestamp": "50:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, no, wait. Five different topics. One debate, one debate. So that's why I said you are only five. So five topics. So I might choose one topic for Grace, one topic for Mega, one topic for Chilaka, one topic for Aryang, and one topic for Sthephen.",
+      "block": 10
+    },
+    {
+      "timestamp": "50:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, sorry. This is for the second part. The essay. That's the other part. That's the individual part.",
+      "block": 10
+    },
+    {
+      "timestamp": "50:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is your group project. So I'm gonna tell you, \"Grace, Mega, Aryang, Chilaka, and Sthephen, you are a team. And I'm gonna give you a topic for your team.\" And I'm gonna tell you, \"You are the CEO, you are the CTO, you are the CFO, you are this and that.\" And you are going to debate with me, uh, about your proposed strategy for that particular topic based on the readings. Uh, so that's what it means. And if you are good in the debate, you will get a good grade.",
+      "block": 10
+    },
+    {
+      "timestamp": "51:17",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "text": "So one topic for the whole team.",
+      "block": 10
+    },
+    {
+      "timestamp": "51:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly. One topic for the whole team.",
+      "block": 10
+    },
+    {
+      "timestamp": "51:22",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Okay.",
+      "block": 10
+    },
+    {
+      "timestamp": "51:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because otherwise, it's very difficult because otherwise you will have to divide your time to five topics. It's too much.",
+      "block": 10
+    },
+    {
+      "timestamp": "50:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "on each other. Sometimes you are for Megas, you are the CEO, but then again when she is the CEO you're gonna be the whatever, you know? So we have to set it up.",
+      "block": 11
+    },
+    {
+      "timestamp": "50:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I just this was my idea to just present to you, some idea of how we can because the just the just topic discussion I think is not enough.",
+      "block": 11
+    },
+    {
+      "timestamp": "50:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I want you to really use the chance to see if you understand what you were reading.",
+      "block": 11
+    },
+    {
+      "timestamp": "50:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "One thing is to see this.",
+      "block": 11
+    },
+    {
+      "timestamp": "50:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This.",
+      "block": 11
+    },
+    {
+      "timestamp": "50:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This to read it, okay? It looks very simple, right?",
+      "block": 11
+    },
+    {
+      "timestamp": "50:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's like, okay, the technology is this, the action is this.",
+      "block": 11
+    },
+    {
+      "timestamp": "50:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But really do we understand what's behind in terms of what when I explain to you this kind of arrangements.",
+      "block": 11
+    },
+    {
+      "timestamp": "50:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm talking about all of these issues but just generally.",
+      "block": 11
+    },
+    {
+      "timestamp": "50:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But when you I want you to try to understand whatever this issue or this issue or or this framework in your own process, in your own case, to apply it to your own case.",
+      "block": 11
+    },
+    {
+      "timestamp": "50:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe we can choose maybe Chilaka, you remember I'm going to explain my old project.",
+      "block": 11
+    },
+    {
+      "timestamp": "51:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "To present you what my old hyp- up to certain expen- extent is real.",
+      "block": 11
+    },
+    {
+      "timestamp": "51:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Up to another one it's hypothetical because he hasn't called it yet.",
+      "block": 11
+    },
+    {
+      "timestamp": "51:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if he really tries to hypothetize, like really assume what will happen in his own story, okay?",
+      "block": 11
+    },
+    {
+      "timestamp": "51:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe it will help him later to write his ITP even in the next course following this course when you have to do the capstone project.",
+      "block": 11
+    },
+    {
+      "timestamp": "51:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This exercise will help you to say, 'Ah, this is how I want to build my project.'",
+      "block": 11
+    },
+    {
+      "timestamp": "51:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And when I say build your project and talk about what's gonna be the way you're gonna build this initiative, how the money will flow.",
+      "block": 11
+    },
+    {
+      "timestamp": "51:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You're not gonna build it by yourselves alone.",
+      "block": 11
+    },
+    {
+      "timestamp": "51:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They are going to suggest, the Ministry of Higher Education will say, 'No, I'm not willing to do like that, but I'm willing to do it this and this and this.'",
+      "block": 11
+    },
+    {
+      "timestamp": "51:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They will provide a lot of of the rules because they are your institution will be like, 'Ah, yeah.'",
+      "block": 11
+    },
+    {
+      "timestamp": "51:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just let me know how business money will, no.",
+      "block": 11
+    },
+    {
+      "timestamp": "51:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's gonna be a joint discussion, right?",
+      "block": 11
+    },
+    {
+      "timestamp": "51:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's good that you already, 'Ah, you know what? We could do it this way, we could do it some way.' You could please let me know what what arrangement you would like with a Korean company.",
+      "block": 11
+    },
+    {
+      "timestamp": "52:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "As an intermediary, we need to know what the different possibilities are so that we can help our stakeholders to brainstorm and to connect.",
+      "block": 11
+    },
+    {
+      "timestamp": "52:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So my role in this course is to give you this kind of tools.",
+      "block": 11
+    },
+    {
+      "timestamp": "52:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I think if I just give them to you like this, theoretically, it will be very difficult for you to apply it.",
+      "block": 11
+    },
+    {
+      "timestamp": "52:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "High level.",
+      "block": 11
+    },
+    {
+      "timestamp": "52:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want to use the practical class to apply it.",
+      "block": 11
+    },
+    {
+      "timestamp": "52:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe we can use one class to apply one framework to each one of your stories.",
+      "block": 11
+    },
+    {
+      "timestamp": "52:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And each one of you will contribute and discuss on how you think the story will go.",
+      "block": 11
+    },
+    {
+      "timestamp": "52:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just imagine how the story will go because up to up to some state.",
+      "block": 11
+    },
+    {
+      "timestamp": "52:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's only imagination, but we can discuss, right?",
+      "block": 11
+    },
+    {
+      "timestamp": "52:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's not gonna be empty imagination, it has to be evidence-based imagination, okay?",
+      "block": 11
+    },
+    {
+      "timestamp": "52:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So what our theory of technology commercialization, what we have read about the process of technology commercialization says, and based on that, what kind of possible risks, what kind of possible implications we can see.",
+      "block": 11
+    },
+    {
+      "timestamp": "53:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "block": 11
+    },
+    {
+      "timestamp": "53:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want to try to do that, maybe next class we will do ICP update and two classes from now we can prepare for this.",
+      "block": 11
+    },
+    {
+      "timestamp": "53:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I just wanted to give you the heads up that I'm planning to have this one.",
+      "block": 11
+    },
+    {
+      "timestamp": "53:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And in between at some point between the sector labs, these sector labs are five sector labs, we will have the deadline of midterm.",
+      "block": 11
+    },
+    {
+      "timestamp": "53:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's what because you're gonna keep progressing on ICP, on our class we're gonna be applying.",
+      "block": 11
+    },
+    {
+      "timestamp": "53:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This will help you a lot because some parts of your ICP, you have to imagine it because it's not real yet.",
+      "block": 11
+    },
+    {
+      "timestamp": "53:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You have to just imagine how it will happen to fill it up.",
+      "block": 11
+    },
+    {
+      "timestamp": "53:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think um at some point the sector labs will help you progress in your project.",
+      "block": 11
+    },
+    {
+      "timestamp": "53:52",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Okay?",
+      "block": 11
+    },
+    {
+      "timestamp": "53:53",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "block": 11
+    },
+    {
+      "timestamp": "53:54",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Sorry, I.",
+      "block": 11
+    },
+    {
+      "timestamp": "53:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, no.",
+      "block": 11
+    },
+    {
+      "timestamp": "53:57",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "I I I don't still get the sec sector the sectoring.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The sector lab.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:03",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Ah sector lab. Okay, okay.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sector lab is just the way.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The sector lab is just the way the the name I gave to that class.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The class that will focus it's kind of a focus lab, let's call focus.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Focus lecture, let's call it.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's like a workshop.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Is a workshop like.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that lecture is going to be to focus on AI operations, on energy management systems.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I didn't want to do it on on the technology.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because the technology at the end of the day one of the biggest lessons of technology global technology commercialization.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Is the technology is kind of the least of the problems.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:36",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Ah, I I I heard that.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The biggest issue is the market, the policy, the regulation, the stakeholders, there are all the bigger issues actually.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "NPA is the technology was there is perfect, it's running it's.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the political issues, the budget, the.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:51",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Right?",
+      "block": 11
+    },
+    {
+      "timestamp": "54:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want I thought rather than doing the technology itself.",
+      "block": 11
+    },
+    {
+      "timestamp": "54:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And because if there is some connections we can just do brief technology.",
+      "block": 11
+    },
+    {
+      "timestamp": "55:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "thirty breathe and then the rest up on the market. But since that the areas are so diverse, then I thought maybe the best way is to apply the framework to tell the technology commercial to imagine how will the technology commercial's in journey, how could it go?",
+      "block": 12
+    },
+    {
+      "timestamp": "55:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Especially in your stage and Grace stage and Steven stage, maybe they are more close to not imagination, maybe almost just really constructing a more secure, a more, let's say, concrete road map.",
+      "block": 12
+    },
+    {
+      "timestamp": "55:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But you guys are still really just assuming what will be doing happen because we didn't even begin to identify stakeholder, right?",
+      "block": 12
+    },
+    {
+      "timestamp": "55:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I think maybe him is going to be a little bit more closer to them. You two are in the same stage. So I think applying this could help and could could just bring up ideas on us from that session.",
+      "block": 12
+    },
+    {
+      "timestamp": "55:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "To just really every day, every way, everybody on that day, let's find all kinds of players, all kind of marketing, all prepare ourselves to discuss and to help Anya. What kind of solutions he will have to this particular problem?",
+      "block": 12
+    },
+    {
+      "timestamp": "56:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? So I'm going I'm thinking this we can do by the mid or end of April. And in that case, then I'm going to push the submission of that mid-term. I want you to discuss with Cesar, when the the submission of the mid-term could happen. It could happen maybe in week 11 or 13 when we finish the sector labs.",
+      "block": 12
+    },
+    {
+      "timestamp": "56:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, then you can everybody have to discuss everybody hypothetical framework application of the technology market push or uh the market pull market pull technology push or market pull or Dolly framework, how each technology commercial's in journey can go.",
+      "block": 12
+    },
+    {
+      "timestamp": "56:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And based on that you can like digest and then re-improve your ICP and then submit as a mid-term. Just to proceed with the formal formal process of this course.",
+      "block": 12
+    },
+    {
+      "timestamp": "56:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? So, um, yeah, I just wanted to announce you about that. So it's not, don't be afraid, it's not a big deal. It's just how I want us to to frame the discussion. Otherwise, it's going to be very open and very non-structured.",
+      "block": 12
+    },
+    {
+      "timestamp": "57:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "block": 12
+    },
+    {
+      "timestamp": "57:07",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "We're just going to get to discuss it, yeah?",
+      "block": 12
+    },
+    {
+      "timestamp": "57:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah, yeah. So I'm going to try to deliver more explanations through Cesar anyway through the week and maybe next week.",
+      "block": 12
+    },
+    {
+      "timestamp": "57:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Next week, please prepare your pitch of the current status. So in your case, it's a whole new pitch. In Grace's case, I want to see almost a whole new pitch. In your case, next week I will have lunch with here. So I will tell you my updates from my side.",
+      "block": 12
+    },
+    {
+      "timestamp": "57:35",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "And my side there is I just like to give to BLN.",
+      "block": 12
+    },
+    {
+      "timestamp": "57:40",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Uh, you mean BLN?",
+      "block": 12
+    },
+    {
+      "timestamp": "57:41",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yes.",
+      "block": 12
+    },
+    {
+      "timestamp": "57:43",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "BLN is this set on enterprise, is that the, uh, you know, their point?",
+      "block": 12
+    },
+    {
+      "timestamp": "57:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Yes, yeah, yeah.",
+      "block": 12
+    },
+    {
+      "timestamp": "57:47",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yeah, yeah.",
+      "block": 12
+    },
+    {
+      "timestamp": "57:49",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "So there is that just like, I don't know, talk to BLN.",
+      "block": 12
+    },
+    {
+      "timestamp": "57:51",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Talk to BLN? Ah, really?",
+      "block": 12
+    },
+    {
+      "timestamp": "57:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, then let me know the progress, let me know the progress of anything that happened because I will have the discussion with the Energy Research Center just to understand, for example, if there is a soft like them.",
+      "block": 12
+    },
+    {
+      "timestamp": "58:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want to understand here, from your family of startups or companies, who are having the good electricity management systems? Or here, do you have a good contact point at Samsung SBI? Can I contact Samsung directly with this project? What do you think? They are more closer to the ecosystem than me, than GDI, than Miznam. So the director of Technology Transfer will give me that insight. So I'm waiting for that.",
+      "block": 12
+    },
+    {
+      "timestamp": "58:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm also waiting for my friend who is from the Indonesia ecosystem. I think she's Korean, but she's been working, she's been working in many incubators in Indonesia. So I think he might have an interesting like he knows the Fintech market in Indonesia needs this kind of things where Korean companies have opportunities. So maybe he can give you something.",
+      "block": 12
+    },
+    {
+      "timestamp": "58:42",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, but maybe after I'm meeting with my",
+      "block": 12
+    },
+    {
+      "timestamp": "58:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, maybe you will have a more discussion. Okay?",
+      "block": 12
+    },
+    {
+      "timestamp": "58:48",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Thank you very much, guys.",
+      "block": 12
+    },
+    {
+      "timestamp": "58:49",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Thank you very much, professor.",
+      "block": 12
+    },
+    {
+      "timestamp": "58:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Very messy class today. Next time. Next time, so next week is pitching and the week after that is sector labs.",
+      "block": 12
+    },
+    {
+      "timestamp": "59:01",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Professor, is it going to still be EPT or the one?",
+      "block": 12
+    },
+    {
+      "timestamp": "59:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want you to practice.",
+      "block": 12
+    },
+    {
+      "timestamp": "59:08",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Presentation.",
+      "block": 12
+    },
+    {
+      "timestamp": "59:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But let's make it 10 minutes. Short? Because then if you did 10 minutes, it's 50 minutes, maybe one hour. And then we have two more hours to discuss deeply the problems of each one of you. So let's make the pitch shorter so that we have more time for discussion. Especially for you, you and Steven.",
+      "block": 12
+    }
+  ],
+  "teacher_questions": [
+    {
+      "id": 1,
+      "timestamp": "00:33",
+      "question": "With Microsoft?",
+      "directed_to": "Class",
+      "block": 1,
+      "student_response": null
+    },
+    {
+      "id": 2,
+      "timestamp": "05:45",
+      "question": "You get it?",
+      "directed_to": "Class",
+      "block": 2,
+      "student_response": null
+    },
+    {
+      "id": 3,
+      "timestamp": "06:21",
+      "question": "Do you think we see this willing to pay to a guy who company who has no know-how?",
+      "directed_to": "Class",
+      "block": 2,
+      "student_response": null
+    },
+    {
+      "id": 4,
+      "timestamp": "07:16",
+      "question": "Right?",
+      "directed_to": "Class",
+      "block": 2,
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yeah, the accuracy level.",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 5,
+      "timestamp": "11:33",
+      "question": "KISTI? Okay?",
+      "directed_to": "Class",
+      "block": 3,
+      "student_response": {
+        "student": "Aryang",
+        "response": "No, no, no, not not for KISTI. For this.",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 6,
+      "timestamp": "20:31",
+      "question": "Anything else from ICP? Anybody else drop in their ICP?",
+      "directed_to": "Class",
+      "block": 5,
+      "student_response": null
+    },
+    {
+      "id": 7,
+      "timestamp": "21:46",
+      "question": "Can you be the link?",
+      "directed_to": "Class",
+      "block": 5,
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yeah, yeah.",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 8,
+      "timestamp": "22:09",
+      "question": "How I mean, okay, so they are trying to deploy the portal and it's gonna be officially launched, it was released to the house. So what is the scope?",
+      "directed_to": "Class",
+      "block": 5,
+      "student_response": {
+        "student": "Aryang",
+        "response": "It has been it was launched.",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 9,
+      "timestamp": "22:35",
+      "question": "But digitalizing means what? But training, online training, training.",
+      "directed_to": "Class",
+      "block": 5,
+      "student_response": {
+        "student": "Aryang",
+        "response": "Online training. That's this one. They are this is the training module. Okay. You have this this time.",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 10,
+      "timestamp": "23:24",
+      "question": "By connecting to whatever they're doing here, using this as a framework?",
+      "directed_to": "Class",
+      "block": 5,
+      "student_response": {
+        "student": "Aryang",
+        "response": "Uh actually, I wanted to bring it as uh the project for the Ministry of High Education. If they can, because they are already giving incentives in terms of digitalization, if they see something related like the learning management system, the minister has the authority, if they see that something is better, they can now launch it to be implemented to public university. So, it will not be like uh",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 11,
+      "timestamp": "24:42",
+      "question": "He's academic advisor of this initiative or the Minister of Higher Education?",
+      "directed_to": "Class",
+      "block": 5,
+      "student_response": {
+        "student": "Aryang",
+        "response": "Of the Minister of Education.",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 12,
+      "timestamp": "28:43",
+      "question": "The university?",
+      "directed_to": "Class",
+      "block": 6,
+      "student_response": {
+        "student": "Aryang",
+        "response": "The university to like support.",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 13,
+      "timestamp": "36:15",
+      "question": "Right?",
+      "directed_to": "Class",
+      "block": 8,
+      "student_response": null
+    },
+    {
+      "id": 14,
+      "timestamp": "39:26",
+      "question": "Okay. And if is that Grace, is there anything else you want to?",
+      "directed_to": "Class",
+      "block": 8,
+      "student_response": {
+        "student": "Grace",
+        "response": "No, actually I just wanted to tell that one so I will just try to restructure.",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 15,
+      "timestamp": "39:49",
+      "question": "Next week, when is it going to be the meeting, right?",
+      "directed_to": "Class",
+      "block": 8,
+      "student_response": {
+        "student": "Aryang",
+        "response": "22nd, right?",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 16,
+      "timestamp": "53:52",
+      "question": "Okay?",
+      "directed_to": "Class",
+      "block": 11,
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yes.",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 17,
+      "timestamp": "54:51",
+      "question": "Right?",
+      "directed_to": "Class",
+      "block": 11,
+      "student_response": null
+    },
+    {
+      "id": 18,
+      "timestamp": "57:40",
+      "question": "Uh, you mean BLN?",
+      "directed_to": "Class",
+      "block": 12,
+      "student_response": {
+        "student": "Grace",
+        "response": "Yes.",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 19,
+      "timestamp": "57:46",
+      "question": "Yes, yeah, yeah.",
+      "directed_to": "Class",
+      "block": 12,
+      "student_response": {
+        "student": "Grace",
+        "response": "Yeah, yeah.",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 20,
+      "timestamp": "57:51",
+      "question": "Talk to BLN? Ah, really?",
+      "directed_to": "Class",
+      "block": 12,
+      "student_response": null
+    }
+  ],
+  "student_contributions": [
+    {
+      "id": 1,
+      "timestamp": "00:08",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Can I know? Can I know?",
+      "quality_score": "C",
+      "block": 1
+    },
+    {
+      "id": 2,
+      "timestamp": "00:18",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Alright, thank you, ma'am. Oh, so, um, for the for the collaboration, I already talked to my, uh, department. And actually they already moved, so they go strike partnership with the Microsoft.",
+      "quality_score": "C",
+      "block": 1
+    },
+    {
+      "id": 3,
+      "timestamp": "00:34",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Microsoft Copilot for using the AI for, uh, you know, for knowledge. For knowledge management.",
+      "quality_score": "C",
+      "block": 1
+    },
+    {
+      "id": 4,
+      "timestamp": "00:43",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Nah, yeah, yeah. So, and I asked him, uh, is there any any other opportunity for for me to to join with the the the the project? And he said it's, yeah, that's still but or for for the they they they will need to.",
+      "quality_score": "C",
+      "block": 1
+    },
+    {
+      "id": 5,
+      "timestamp": "01:02",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "For the, hmm.",
+      "quality_score": "C",
+      "block": 1
+    },
+    {
+      "id": 6,
+      "timestamp": "01:11",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Uh, wait, wait, wait, wait, wait a minute. They already j- they already doing the kick off. I think tomorrow they will do the kick off with the Microsoft. Uh, so the one that, uh, available for me is evaluate the system of the R&D from the Microsoft Copilot. And I don't know is it, is it possible to make it some technolo commercialization if it's only about evaluation, evaluating the system.",
+      "quality_score": "C",
+      "block": 1
+    },
+    {
+      "id": 7,
+      "timestamp": "02:32",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Sorry, sorry, sorry.",
+      "quality_score": "C",
+      "block": 1
+    },
+    {
+      "id": 8,
+      "timestamp": "02:33",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Not not not KISTI paid to SoftITech because KISTI asked SoftITech to convert the language?",
+      "quality_score": "C",
+      "block": 1
+    },
+    {
+      "id": 9,
+      "timestamp": "03:29",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "No, but but that that, why didn't the SoftITech convert straight to the to the Costa Rican language? Why should it English and the ICC?",
+      "quality_score": "C",
+      "block": 1
+    },
+    {
+      "id": 10,
+      "timestamp": "04:00",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "So I I mean I mean uh why why didn't the the KISTI request the SoftITech to provide the NIST version of Costa Rican language? Yes. Why not like that? Why not why must translate to English first and ICE?",
+      "quality_score": "C",
+      "block": 1
+    },
+    {
+      "id": 11,
+      "timestamp": "05:10",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "So, what not only about the language?",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 12,
+      "timestamp": "05:12",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Ah, ah. So, sorry.",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 13,
+      "timestamp": "05:15",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Uh, who make the adaptation? The IC or the soft ITEC?",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 14,
+      "timestamp": "05:22",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Oh.",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 15,
+      "timestamp": "05:56",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "So I don't see an opportunity for a Korean adaptation.",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 16,
+      "timestamp": "06:02",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "You are back to square one.",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 17,
+      "timestamp": "06:04",
+      "student": "Grace",
+      "type": "comment",
+      "content": "That happened.",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 18,
+      "timestamp": "06:09",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Okay, just one more quick. Why didn't the IC create the system itself?",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 19,
+      "timestamp": "06:17",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "No, no money, no people?",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 20,
+      "timestamp": "08:10",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Okay.",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 21,
+      "timestamp": "08:41",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Actually tomorrow I will have, uh, you know, because I I feeling that it will not work so I try to another, another friends.",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 22,
+      "timestamp": "08:50",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "And some of my friends told me that they have some also some TTS issue uh regardless the TTS text to speech and speech to text and AI because they want to use the mobile banking in my bank to use that service.",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 23,
+      "timestamp": "09:07",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "But right now they have difficulties because the the the percentage of success is very low and they want to improve.",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 24,
+      "timestamp": "09:19",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Yeah, the accuracy level.",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 25,
+      "timestamp": "09:21",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "I know it.",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 26,
+      "timestamp": "09:24",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "And so tomorrow maybe I will I have some meeting with them and",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 27,
+      "timestamp": "09:29",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Yeah.",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 28,
+      "timestamp": "09:35",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Okay, okay.",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 29,
+      "timestamp": "09:46",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Was it, sir?",
+      "quality_score": "C",
+      "block": 2
+    },
+    {
+      "id": 30,
+      "timestamp": "11:00",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Uh, and one more. Ma, maybe the Grace already asked this, but uh, because there's no Korean here, I want to ask you, uh.",
+      "quality_score": "C",
+      "block": 3
+    },
+    {
+      "id": 31,
+      "timestamp": "11:09",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Oh, I'm sorry.",
+      "quality_score": "C",
+      "block": 3
+    },
+    {
+      "id": 32,
+      "timestamp": "11:14",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "미안해요.",
+      "quality_score": "C",
+      "block": 3
+    },
+    {
+      "id": 33,
+      "timestamp": "11:16",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "저는...",
+      "quality_score": "C",
+      "block": 3
+    },
+    {
+      "id": 34,
+      "timestamp": "11:19",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Uh. Besides the the the opportunity to do next business, but I I I believe about give and take and you already say it. So what's really their benefit doing this kind of thing?",
+      "quality_score": "C",
+      "block": 3
+    },
+    {
+      "id": 35,
+      "timestamp": "11:34",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "No, no, no, not not for KISTI. For this.",
+      "quality_score": "C",
+      "block": 3
+    },
+    {
+      "id": 36,
+      "timestamp": "11:37",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Yeah.",
+      "quality_score": "C",
+      "block": 3
+    },
+    {
+      "id": 37,
+      "timestamp": "12:41",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "So right right now it's like burning money for the investing.",
+      "quality_score": "C",
+      "block": 3
+    },
+    {
+      "id": 38,
+      "timestamp": "13:24",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Yeah, it is.",
+      "quality_score": "C",
+      "block": 3
+    },
+    {
+      "id": 39,
+      "timestamp": "13:25",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "It is, it is.",
+      "quality_score": "C",
+      "block": 3
+    },
+    {
+      "id": 40,
+      "timestamp": "13:33",
+      "student": "Grace",
+      "type": "comment",
+      "content": "That's when you get almost at the school.",
+      "quality_score": "C",
+      "block": 3
+    },
+    {
+      "id": 41,
+      "timestamp": "13:34",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Yeah.",
+      "quality_score": "C",
+      "block": 3
+    },
+    {
+      "id": 42,
+      "timestamp": "14:52",
+      "student": "Grace",
+      "type": "comment",
+      "content": "So",
+      "quality_score": "C",
+      "block": 3
+    },
+    {
+      "id": 43,
+      "timestamp": "15:01",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Dissertation.",
+      "quality_score": "C",
+      "block": 4
+    },
+    {
+      "id": 44,
+      "timestamp": "15:18",
+      "student": "Grace",
+      "type": "comment",
+      "content": "[inaudible]",
+      "quality_score": "C",
+      "block": 4
+    },
+    {
+      "id": 45,
+      "timestamp": "18:06",
+      "student": "Grace",
+      "type": "comment",
+      "content": "Yes.",
+      "quality_score": "C",
+      "block": 4
+    },
+    {
+      "id": 46,
+      "timestamp": "18:58",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Ooh.",
+      "quality_score": "C",
+      "block": 4
+    },
+    {
+      "id": 47,
+      "timestamp": "18:59",
+      "student": "Grace",
+      "type": "comment",
+      "content": "Twelve.",
+      "quality_score": "C",
+      "block": 4
+    },
+    {
+      "id": 48,
+      "timestamp": "19:01",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "This is only small compared to Professor.",
+      "quality_score": "C",
+      "block": 4
+    },
+    {
+      "id": 49,
+      "timestamp": "19:05",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Oh, professor, oh professor.",
+      "quality_score": "C",
+      "block": 4
+    },
+    {
+      "id": 50,
+      "timestamp": "20:30",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Okay.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 51,
+      "timestamp": "20:38",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Uh what would you uh after you finish your uh question then we can discuss maybe something.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 52,
+      "timestamp": "21:01",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Okay.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 53,
+      "timestamp": "21:06",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Uh for you.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 54,
+      "timestamp": "21:09",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Actually, I wanted to to explain the the project in another way, or maybe to show you this.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 55,
+      "timestamp": "21:17",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Yeah. This is actually the the portal.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 56,
+      "timestamp": "21:23",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "The Ministry of AI Education.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 57,
+      "timestamp": "21:25",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "I've been translating so now it's in English. Okay.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 58,
+      "timestamp": "21:29",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Yeah, yeah. So, it's going to be launched very recently. And then uh uh from there they are even trying to initiate already some of the digital uh incentives university. This is actually the Minister of Higher Education.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 59,
+      "timestamp": "21:47",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Yeah, yeah.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 60,
+      "timestamp": "21:51",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Yeah, I'll check it. And you see it's really with the schedule. This is actually the training they are scheduling from April 15, 17.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 61,
+      "timestamp": "22:06",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Uh actually, it's useful.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 62,
+      "timestamp": "22:16",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "It has been it was launched.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 63,
+      "timestamp": "22:23",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Yeah, actually it's a they are really focusing on digitalizing uh so I mean the academic uh sector. I mean the high education system.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 64,
+      "timestamp": "22:39",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Online training. That's this one. They are this is the training module. Okay. You have this this time.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 65,
+      "timestamp": "22:47",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "The training will be actually. They also have some things, okay? National platform for managing students cards, National Digital Library, the system of financial governance financial governance control, something like that. But since uh they are not fully talking about like a learning management system from now. So, I was like instead of like uh going directly to the university, like partnering directly with by university there, work on the Ministry of Higher Education.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 66,
+      "timestamp": "23:22",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "In this context, if the the minister the minister.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 67,
+      "timestamp": "23:28",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Uh actually, I wanted to bring it as uh the project for the Ministry of High Education. If they can, because they are already giving incentives in terms of digitalization, if they see something related like the learning management system, the minister has the authority, if they see that something is better, they can now launch it to be implemented to public university. So, it will not be like uh",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 68,
+      "timestamp": "23:56",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Yeah, it's all the authority see that something is valuable because we need we have always been giving the incentive of digitalization, but now we have really the tool like for management, digital learning management system. So, that's like the spread of many public university, they are starting from the Kinshasa, because it's the capital city and later on uh maybe uh setting to something. So, I was like trying to bring this project like.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 69,
+      "timestamp": "24:33",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "I am I am I am somehow closer because I am working with one of the professors who is academic advisor. So, through him I can contact him.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 70,
+      "timestamp": "24:46",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Of the Minister of Education.",
+      "quality_score": "C",
+      "block": 5
+    },
+    {
+      "id": 71,
+      "timestamp": "25:32",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "I have a question.",
+      "quality_score": "C",
+      "block": 6
+    },
+    {
+      "id": 72,
+      "timestamp": "25:33",
+      "student": "Grace",
+      "type": "question_to_teacher",
+      "content": "I have a question.",
+      "quality_score": "C",
+      "block": 6
+    },
+    {
+      "id": 73,
+      "timestamp": "28:24",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "So far so as the case for like the university, like let's say by universities, like the first public university.",
+      "quality_score": "C",
+      "block": 6
+    },
+    {
+      "id": 74,
+      "timestamp": "28:35",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Even if they want to like to implement this budget.",
+      "quality_score": "C",
+      "block": 6
+    },
+    {
+      "id": 75,
+      "timestamp": "28:40",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "I don't believe they have a direct fund.",
+      "quality_score": "C",
+      "block": 6
+    },
+    {
+      "id": 76,
+      "timestamp": "28:44",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "The university to like support.",
+      "quality_score": "C",
+      "block": 6
+    },
+    {
+      "id": 77,
+      "timestamp": "28:47",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "So since they have to contact the authority, which is the Ministry of High Education.",
+      "quality_score": "C",
+      "block": 6
+    },
+    {
+      "id": 78,
+      "timestamp": "28:54",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "And the Ministry of Education based on its budget line, it's may be to contact the government you know for funding something such.",
+      "quality_score": "C",
+      "block": 6
+    },
+    {
+      "id": 79,
+      "timestamp": "29:04",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "You see, so it's not like uh the University of Kuchaza directly funding without uh any.",
+      "quality_score": "C",
+      "block": 6
+    },
+    {
+      "id": 80,
+      "timestamp": "29:14",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Uh directly. So they need to contact the authority which is the Ministry of High Education through the minister, if he, uh she has also to contact, you see.",
+      "quality_score": "C",
+      "block": 6
+    },
+    {
+      "id": 81,
+      "timestamp": "29:26",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "The the the the government for any funding possibility something such.",
+      "quality_score": "C",
+      "block": 6
+    },
+    {
+      "id": 82,
+      "timestamp": "29:32",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Yeah.",
+      "quality_score": "C",
+      "block": 6
+    },
+    {
+      "id": 83,
+      "timestamp": "36:14",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Yeah.",
+      "quality_score": "C",
+      "block": 8
+    },
+    {
+      "id": 84,
+      "timestamp": "38:00",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "No, no, no, don't look like that.",
+      "quality_score": "C",
+      "block": 8
+    },
+    {
+      "id": 85,
+      "timestamp": "39:31",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "No, actually I just wanted to tell that one so I will just try to restructure.",
+      "quality_score": "C",
+      "block": 8
+    },
+    {
+      "id": 86,
+      "timestamp": "39:53",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "22nd, right?",
+      "quality_score": "C",
+      "block": 8
+    },
+    {
+      "id": 87,
+      "timestamp": "39:55",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "Okay, so that's fine.",
+      "quality_score": "C",
+      "block": 8
+    },
+    {
+      "id": 88,
+      "timestamp": "45:43",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "So it's like a pitch, right?",
+      "quality_score": "C",
+      "block": 10
+    },
+    {
+      "id": 89,
+      "timestamp": "45:59",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "So like for example if it's too advanced and the market's too immature, what kind of challenges would we face when we're trying to integrate that into the market and what are the plans we have to put to make sure that we're successful, right?",
+      "quality_score": "C",
+      "block": 10
+    },
+    {
+      "id": 90,
+      "timestamp": "47:00",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Mmm. So like the question will be based around the frameworks we've been reading or what we've been learning in class, right?",
+      "quality_score": "C",
+      "block": 10
+    },
+    {
+      "id": 91,
+      "timestamp": "47:22",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Right.",
+      "quality_score": "C",
+      "block": 10
+    },
+    {
+      "id": 92,
+      "timestamp": "47:59",
+      "student": "Grace",
+      "type": "question_to_teacher",
+      "content": "So for the first week, we'll just have the debate, right? The discussion without presentation.",
+      "quality_score": "C",
+      "block": 10
+    },
+    {
+      "id": 93,
+      "timestamp": "48:26",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Okay.",
+      "quality_score": "C",
+      "block": 10
+    },
+    {
+      "id": 94,
+      "timestamp": "48:42",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Okay.",
+      "quality_score": "C",
+      "block": 10
+    },
+    {
+      "id": 95,
+      "timestamp": "49:08",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Okay.",
+      "quality_score": "C",
+      "block": 10
+    },
+    {
+      "id": 96,
+      "timestamp": "49:10",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "So we will have different themes assigned to each of us in that debate then?",
+      "quality_score": "C",
+      "block": 10
+    },
+    {
+      "id": 97,
+      "timestamp": "49:31",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Myself.",
+      "quality_score": "C",
+      "block": 10
+    },
+    {
+      "id": 98,
+      "timestamp": "49:36",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Sthephen.",
+      "quality_score": "C",
+      "block": 10
+    },
+    {
+      "id": 99,
+      "timestamp": "50:15",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "So it's like our own mini Shark Tank.",
+      "quality_score": "C",
+      "block": 10
+    },
+    {
+      "id": 100,
+      "timestamp": "51:17",
+      "student": "Grace",
+      "type": "question_to_teacher",
+      "content": "So one topic for the whole team.",
+      "quality_score": "C",
+      "block": 10
+    },
+    {
+      "id": 101,
+      "timestamp": "51:22",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Okay.",
+      "quality_score": "C",
+      "block": 10
+    },
+    {
+      "id": 102,
+      "timestamp": "53:53",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Yes.",
+      "quality_score": "C",
+      "block": 11
+    },
+    {
+      "id": 103,
+      "timestamp": "53:54",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Sorry, I.",
+      "quality_score": "C",
+      "block": 11
+    },
+    {
+      "id": 104,
+      "timestamp": "53:57",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "I I I don't still get the sec sector the sectoring.",
+      "quality_score": "C",
+      "block": 11
+    },
+    {
+      "id": 105,
+      "timestamp": "54:03",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Ah sector lab. Okay, okay.",
+      "quality_score": "C",
+      "block": 11
+    },
+    {
+      "id": 106,
+      "timestamp": "54:16",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "It's like a workshop.",
+      "quality_score": "C",
+      "block": 11
+    },
+    {
+      "id": 107,
+      "timestamp": "54:36",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Ah, I I I heard that.",
+      "quality_score": "C",
+      "block": 11
+    },
+    {
+      "id": 108,
+      "timestamp": "57:07",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "We're just going to get to discuss it, yeah?",
+      "quality_score": "C",
+      "block": 12
+    },
+    {
+      "id": 109,
+      "timestamp": "57:35",
+      "student": "Grace",
+      "type": "comment",
+      "content": "And my side there is I just like to give to BLN.",
+      "quality_score": "C",
+      "block": 12
+    },
+    {
+      "id": 110,
+      "timestamp": "57:41",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Yes.",
+      "quality_score": "C",
+      "block": 12
+    },
+    {
+      "id": 111,
+      "timestamp": "57:43",
+      "student": "Grace",
+      "type": "comment",
+      "content": "BLN is this set on enterprise, is that the, uh, you know, their point?",
+      "quality_score": "C",
+      "block": 12
+    },
+    {
+      "id": 112,
+      "timestamp": "57:47",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Yeah, yeah.",
+      "quality_score": "C",
+      "block": 12
+    },
+    {
+      "id": 113,
+      "timestamp": "57:49",
+      "student": "Grace",
+      "type": "comment",
+      "content": "So there is that just like, I don't know, talk to BLN.",
+      "quality_score": "C",
+      "block": 12
+    },
+    {
+      "id": 114,
+      "timestamp": "58:42",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Yeah, but maybe after I'm meeting with my",
+      "quality_score": "C",
+      "block": 12
+    },
+    {
+      "id": 115,
+      "timestamp": "58:48",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Thank you very much, guys.",
+      "quality_score": "C",
+      "block": 12
+    },
+    {
+      "id": 116,
+      "timestamp": "59:01",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Professor, is it going to still be EPT or the one?",
+      "quality_score": "C",
+      "block": 12
+    },
+    {
+      "id": 117,
+      "timestamp": "59:08",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Presentation.",
+      "quality_score": "C",
+      "block": 12
+    }
+  ]
+}

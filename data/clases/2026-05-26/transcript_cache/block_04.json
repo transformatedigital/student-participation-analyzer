@@ -1,0 +1,34 @@
+{
+  "block": 4,
+  "time_range": "15:00-20:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I ask you to meet companies like that.",
+      "timestamp_abs": "15:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "One of the things we're trying to push is, why I pushed you to meet, and I brought Kisti and I brought my friends from A3 or like that why try to help you find the meeting, is because",
+      "timestamp_abs": "15:01"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "even if it's kind of it somebody could say it's contradictory.",
+      "timestamp_abs": "15:11"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "While I'm saying please focus on the problem, not on the solution, I'm introducing to you some solutions.",
+      "timestamp_abs": "15:14"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "block": 24,
+  "time_range": "115:00-120:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "More and more you have to know about these kind of frameworks are as well, because you're gonna be starting to discuss strategic decisions, strategic projects. So you have to know about, ah, we can use this kind of framework to analyze this very complex problem and classify and simplify it, to lead some kind of decision making, okay?",
+      "timestamp_abs": "115:00"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it has several purposes to do this exercise.",
+      "timestamp_abs": "115:31"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, PM has these conditions. MPI has these conditions.",
+      "timestamp_abs": "115:35"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And, for me, all these frameworks can be used in different, different contexts. So you can pick and choose depending on the nature of your project.",
+      "timestamp_abs": "115:40"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, for example, for me, the key part of the Jolly framework is this middle part.",
+      "timestamp_abs": "115:52"
+    }
+  ]
+}

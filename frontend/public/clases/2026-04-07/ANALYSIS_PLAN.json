@@ -1,0 +1,76 @@
+{
+  "class_info": {
+    "date": "2026-04-07",
+    "teacher": "Ileana",
+    "duration_minutes": 69,
+    "confirmed_students": [
+      "Aryang",
+      "Grace",
+      "Chilaka",
+      "Sthepen",
+      "Mega"
+    ]
+  },
+  "verified_speakers": {
+    "Ileana": {
+      "role": "Teacher",
+      "samples": 9,
+      "total_duration_seconds": 220,
+      "confidence": "VERY HIGH",
+      "segments": [
+        {
+          "timestamp": "00:02:02-00:02:30",
+          "context": "Instruction"
+        },
+        {
+          "timestamp": "00:06:48-00:07:40",
+          "context": "Teaching"
+        },
+        {
+          "timestamp": "04:55-05:05",
+          "context": "Q&A"
+        },
+        {
+          "timestamp": "06:55-07:05",
+          "context": "Q&A"
+        }
+      ]
+    },
+    "Aryang": {
+      "role": "Student",
+      "samples": 5,
+      "total_duration_seconds": 103,
+      "segments": [
+        {
+          "timestamp": "00:23-00:55",
+          "duration": 32
+        },
+        {
+          "timestamp": "08:44-09:15",
+          "duration": 31
+        }
+      ]
+    },
+    "Grace": {
+      "role": "Student",
+      "origin": "Congo",
+      "samples": 3,
+      "total_duration_seconds": 64,
+      "segments": [
+        {
+          "timestamp": "21:10-21:20"
+        },
+        {
+          "timestamp": "28:26-29:10"
+        }
+      ]
+    }
+  },
+  "next_steps": [
+    "Use Gemini to analyze full audio",
+    "Identify teacher questions (Ileana \u2192 Students)",
+    "Identify student responses and questions",
+    "Extract Q&A pairs with timestamps",
+    "Generate comprehensive analysis report"
+  ]
+}

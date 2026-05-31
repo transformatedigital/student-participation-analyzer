@@ -1,0 +1,191 @@
+{
+  "block": 2,
+  "time_range": "05:00-10:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "So this... so this is the end of this course or we will continue this course?",
+      "timestamp_abs": "05:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no. This is the whole thing that happens in the end of this course. Probably you have to have something developed by the end of this course and probably you have it like some preliminary results in the first module, for example, or in the first course. This is like a cycle. This is this is an iterative process. So this is not, oh, I have to finish the product by the end of the course. No, no. You have to finish the gate.",
+      "timestamp_abs": "05:04"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "05:22"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that you can tell me, okay, uh, this is what I have and this is what I'm expecting and I think this problem has a has a big demand and I think this solution makes sense and I think this team could work for it and I think this technology exists. So it's about making sure that you have a viable product by the end of it but it's not actually developing the product.",
+      "timestamp_abs": "05:22"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "05:43"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. If it makes sense. Yeah. Uh, yeah, yeah, yeah, yeah. So, this is the gate, right? This is the gate. And then after that, we go to gate number two and we start talking about finances and we start talking about, um, um, uh, uh, uh, uh, market validation. And we keep going like that.",
+      "timestamp_abs": "05:43"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "05:59"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, so, but what I want you to be aware is that we're always reiterating. Okay, is this still the same specific problem? Is the problem still worth solving? Are we still addressing the same demand? That's what we're going to keep asking. So don't worry again, when I tell you, no, no, this is weak, this is like you didn't, you know, do enough work. It's like, no, it's just that the validation is not enough. You have to go back.",
+      "timestamp_abs": "05:59"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So it's just the validation. It's not because we are doing bad or doing good, but it's just about the validation.",
+      "timestamp_abs": "06:21"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's about validation, exactly. So don't take it personal. Don't take it personal.",
+      "timestamp_abs": "06:27"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "So we have to work on it till we get a confirmed solution for this one, right?",
+      "timestamp_abs": "06:31"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You have to confirm... no, you have to confirm the gate. That's what you have to confirm. You have to confirm that you pass the gate.",
+      "timestamp_abs": "06:35"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yes.",
+      "timestamp_abs": "06:40"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is like if you're developing an airplane, okay, you have gate one, you pass it. You can proceed with gate number two, you can proceed with gate number three.",
+      "timestamp_abs": "06:40"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "And I don't know if you're familiar with the Gate model. Are you familiar with the Gate model?",
+      "timestamp_abs": "06:48"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "No.",
+      "timestamp_abs": "06:50"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "No. Anyone? You have heard about the gate model?",
+      "timestamp_abs": "06:51"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "No.",
+      "timestamp_abs": "06:54"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "No. Okay. I guess, uh, uh, some of you are familiar with the Scrum methodology? Yeah?",
+      "timestamp_abs": "06:55"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "07:01"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's similar to Scrum, but I'm going to actually show you the gate model. But it's this idea that you have these checkpoints. So you have to develop a product that meets certain quality levels so that you can proceed to the next stage of your development. Okay? So it's just about going through a stage.",
+      "timestamp_abs": "07:01"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "And this will be used for your master thesis only? Or is it something that we can take with us and use elsewhere?",
+      "timestamp_abs": "07:16"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, no, you can take it with you. So, for example, the idea of this course is that if you go to industry and they give you a project, you can use this model and try to apply it. And the idea is that sometimes we develop products just because the boss told us, hey, this project is good. And sometimes the project is not good at all. Sometimes you spend a lot of resources. I used to tell this story. I used to work in the automotive industry and they told us, oh, we need to develop this this part. I'm going to actually try to draw something really fast. Maybe it's a a part of an exhaust pipe that is a little bit more robust, okay? So we start making it. We started making it, making it, making it. We spent like two years developing this thing because you have to make prototypes, you have to do simulation. It's a very long process. And then when we tried to sell it to the clients, you know, what they said? No, this is not good. So they rejected it because it was too heavy. It was too costly. And actually, the problem was not even a problem. Nobody was asking for that. It was just an idea from somebody in engineering saying, oh, it would be cool to have a stronger exhaust pipe. But it was not really a problem. So this model will keep you honest, let's say. It's going to keep you honest in making sure that you're always talking to the client, you're always talking to stakeholders, you're always talking to, um, uh, the user or the person that is requesting the product that it's going to buy the product and it's going to validate that this is a product that you need to develop.",
+      "timestamp_abs": "07:23"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "09:37"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. So it's always like an iterative process. It's never a straight line, which is another concept that I wanted to introduce that things are not linear. Things are not linear. Sometimes you have to go back. Sometimes you have to change. Okay? So if you do that, then that means that you will not develop a product that nobody wants to buy. So this is very common that you have products that nobody wants to buy. Nobody wants to use it. Or nobody wants to give you money for it. So this is to avoid that.",
+      "timestamp_abs": "09:37"
+    },
+    {
+      "timestamp": "05:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "10:00"
+    }
+  ]
+}

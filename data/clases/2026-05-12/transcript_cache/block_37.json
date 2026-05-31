@@ -1,0 +1,246 @@
+{
+  "block": 37,
+  "time_range": "180:00-185:00",
+  "utterances": [
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "180:46"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "180:58"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "[inaudible]",
+      "timestamp_abs": "181:03"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Eh... no.",
+      "timestamp_abs": "181:41"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Anexos, no.",
+      "timestamp_abs": "181:41"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Anexos.",
+      "timestamp_abs": "181:42"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Mmm... [inaudible]",
+      "timestamp_abs": "182:17"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "182:34"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "[inaudible]",
+      "timestamp_abs": "182:37"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "O a...",
+      "timestamp_abs": "182:40"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "[inaudible]",
+      "timestamp_abs": "182:40"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "182:48"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "182:51"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "182:51"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "No.",
+      "timestamp_abs": "182:53"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "No, profesora.",
+      "timestamp_abs": "182:55"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "No, no.",
+      "timestamp_abs": "182:56"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "182:59"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "183:07"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "183:12"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "No, no, no.",
+      "timestamp_abs": "183:19"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "No.",
+      "timestamp_abs": "183:20"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No. Okay.",
+      "timestamp_abs": "183:20"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "No, profesora.",
+      "timestamp_abs": "183:25"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "No, profesora.",
+      "timestamp_abs": "183:27"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "No. Okay. Mega.",
+      "timestamp_abs": "183:27"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "No, profesora.",
+      "timestamp_abs": "183:28"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No. Okay.",
+      "timestamp_abs": "183:28"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Bye.",
+      "timestamp_abs": "183:44"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Hasta luego.",
+      "timestamp_abs": "183:44"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Hasta luego.",
+      "timestamp_abs": "183:44"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Hasta luego.",
+      "timestamp_abs": "183:45"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Hasta luego.",
+      "timestamp_abs": "183:45"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Bye. Okay.",
+      "timestamp_abs": "183:46"
+    }
+  ]
+}

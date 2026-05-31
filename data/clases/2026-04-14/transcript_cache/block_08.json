@@ -1,0 +1,114 @@
+{
+  "block": 8,
+  "time_range": "35:00-40:00",
+  "utterances": [
+    {
+      "timestamp": "35:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so moving on from our last discussion about the different stakeholders and the levels within an organization, I want to emphasize again the importance of understanding who holds the strategic, tactical, and operational influence in any project.",
+      "timestamp_abs": "70:00"
+    },
+    {
+      "timestamp": "35:17",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Can someone remind me why differentiating between these levels is crucial for project success?",
+      "timestamp_abs": "70:17"
+    },
+    {
+      "timestamp": "35:28",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "It helps us tailor our communication strategy, Professor. A strategic stakeholder needs high-level summaries, while operational teams need very specific, actionable tasks.",
+      "timestamp_abs": "70:28"
+    },
+    {
+      "timestamp": "35:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Excellent, Aryang. That's precisely it. Tailoring communication is key. And it's not just about what information they receive, but also how much detail and what format. Think about the reports you would submit to a CEO versus a team lead.",
+      "timestamp_abs": "70:40"
+    },
+    {
+      "timestamp": "35:59",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "text": "Professor, does this also apply when we are identifying potential champions for our project, like we discussed earlier with the PLN example?",
+      "timestamp_abs": "70:59"
+    },
+    {
+      "timestamp": "36:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Absolutely, Mega. That's a very insightful connection. When you're looking for champions, you're not just looking for someone with power, but someone with the right kind of influence at the right level. A strategic champion can advocate for resources, a tactical champion can help navigate internal politics and ensure alignment, and an operational champion will drive day-to-day execution and problem-solving.",
+      "timestamp_abs": "71:06"
+    },
+    {
+      "timestamp": "36:40",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So, a champion at the technical level might be an expert who can actually get things done, not just someone who approves budgets.",
+      "timestamp_abs": "71:40"
+    },
+    {
+      "timestamp": "36:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly, Chilaka. Their role is to ensure the technical feasibility and quality of deliverables. They are crucial for the practical implementation of the project vision. Their 'buy-in' is different from a strategic stakeholder's, but equally vital.",
+      "timestamp_abs": "71:50"
+    },
+    {
+      "timestamp": "37:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Grace, thinking about your current project on renewable energy, where do you see the biggest challenge in identifying these champions across different levels within, say, a utility company?",
+      "timestamp_abs": "72:10"
+    },
+    {
+      "timestamp": "37:28",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "I think the challenge is often with the tactical level, Professor. They're usually busy with their own departmental goals and might not see the immediate benefit of a new project until it's directly tied to their KPIs. Strategic is easier to impress with long-term vision, and operational teams are usually keen if it makes their job easier.",
+      "timestamp_abs": "72:28"
+    },
+    {
+      "timestamp": "37:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's a very common observation, Grace. The middle management or tactical level often feels the squeeze from both above and below. They need a clear, compelling reason to engage, often tied to their own departmental success metrics. We'll explore strategies for engaging this particular group more deeply next week.",
+      "timestamp_abs": "72:55"
+    },
+    {
+      "timestamp": "38:25",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Sthepen, how does this stakeholder mapping concept apply to the 'political' aspect of projects you mentioned last time?",
+      "timestamp_abs": "73:25"
+    },
+    {
+      "timestamp": "38:37",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Well, Professor, understanding who is at which level helps us predict whose support we really need to push certain decisions. Like, a strategic level person can open doors, but a tactical manager might block something if it threatens their turf. It’s all about influence and power dynamics tied to their position.",
+      "timestamp_abs": "73:37"
+    },
+    {
+      "timestamp": "39:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Precisely. The political landscape of a project is heavily influenced by these different levels of engagement and decision-making power. It's about navigating that organizational chart not just as a hierarchy, but as a network of influence. For your assignments, make sure you're not just listing stakeholders, but categorizing them by their influence level and potential role.",
+      "timestamp_abs": "74:00"
+    },
+    {
+      "timestamp": "39:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We need to clearly identify who we need to convince, who will be our ally, and who might pose a challenge at each of these three crucial levels for your projects. This week, focus on refining that part of your stakeholder analysis for your proposed projects.",
+      "timestamp_abs": "74:35"
+    }
+  ]
+}

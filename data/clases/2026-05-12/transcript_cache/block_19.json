@@ -1,0 +1,364 @@
+{
+  "block": 19,
+  "time_range": "90:00-95:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and down to review the ICP for.",
+      "timestamp_abs": "90:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I uploaded my PPT.",
+      "timestamp_abs": "90:02"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But you told me I need to",
+      "timestamp_abs": "90:04"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But before I review it, you have to get the TA's approval.",
+      "timestamp_abs": "90:07"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "90:11"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You need to make sure better.",
+      "timestamp_abs": "90:12"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "You need to make sure to do better.",
+      "timestamp_abs": "90:13"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He has to review it, you have to fix whatever he asked you to review and then I will review it.",
+      "timestamp_abs": "90:14"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "90:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay?",
+      "timestamp_abs": "90:20"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "90:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because he knows now because he sit down and he knows very well and also he will become probably the next professor.",
+      "timestamp_abs": "90:21"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I wish.",
+      "timestamp_abs": "90:26"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "90:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, then I will review specially Chilaka. You for me urgently, you and Chilaka need to work on the PPT because I want to schedule the meetings with you guys already. I actually today I had a dinner with the Kizti president of I originally. But my baby is sick, so I have to move the dinner.",
+      "timestamp_abs": "90:30"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Wow.",
+      "timestamp_abs": "90:46"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I cannot have a dinner today because my baby had a fever, I have to go back to see my baby. So, but um, but I will schedule it for next week or the next week. So, but like ground is waiting for me to do the online meeting with you. They are waiting for me to say which date. But I didn't confirm to them because I want to see you prepared.",
+      "timestamp_abs": "90:47"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I'm prepared though.",
+      "timestamp_abs": "91:09"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want to see. If he tells me you're prepared you're more ready.",
+      "timestamp_abs": "91:10"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Bro, bro, bro.",
+      "timestamp_abs": "91:14"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, I know my idea is very clear. That's because even in real expo.",
+      "timestamp_abs": "91:15"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "91:21"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "comes to resolution maybe some But the problem is somehow If you say someone is losing money from the government if you",
+      "timestamp_abs": "91:21"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "91:30"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Mm-hmm.",
+      "timestamp_abs": "91:31"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "And how about you, Mega? You're thinking about",
+      "timestamp_abs": "91:32"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I make sure.",
+      "timestamp_abs": "91:34"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "I'm sure.",
+      "timestamp_abs": "91:35"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay, okay. Grace, how about you?",
+      "timestamp_abs": "91:36"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "What about you?",
+      "timestamp_abs": "91:37"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "91:38"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "You feel you are okay or you feel you",
+      "timestamp_abs": "91:40"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "I'm okay.",
+      "timestamp_abs": "91:43"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay, I I'm glad you're okay. How about your problem and your",
+      "timestamp_abs": "91:45"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yeah, so, uh, for me, the problem is really clear and since it is not an hypothecal problem. It is a real problem discussed with uh, the president of the university and he's it's even the priority for him to solve that problem.",
+      "timestamp_abs": "91:48"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "But just to buy the LMS. That's the problem.",
+      "timestamp_abs": "92:05"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "So, uh,",
+      "timestamp_abs": "92:10"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why I worry about that. I I of course those are I I agree with you, it's a real problem. Yeah, it's not an unreal problem. But is it worth a collaboration for this kind of like, just to buy the LMS itself? I feel like that's not I could say, okay, okay, Grace, go ahead, go ahead. I will not I will not I will not",
+      "timestamp_abs": "92:12"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "It's not only about just uh the learning process. It is the overall academics management.",
+      "timestamp_abs": "92:33"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, okay, yeah, yeah. Okay, so",
+      "timestamp_abs": "92:38"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "It is not the LMS. So that's one was the form. If you try to look at my ICP,",
+      "timestamp_abs": "92:40"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, but even if it's okay, I'm sorry. Okay. academic management. The whole academic management including the notes, the grades, the",
+      "timestamp_abs": "92:45"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Everything.",
+      "timestamp_abs": "92:52"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Again, they need I I have I keep having the notion that this is kind of something that already exists in the world. You just kind of buy it and use it. So what's the difficulty about that? That's why I keep asking myself, ah, is it that I really don't know about Compo's reality or or or is it that they need a very specific for example, again when we when he kept telling me about the issue of digital divide and that then maybe it's because you need a very specific very that is not like again, that is not a fully online system but it's kind of offline on online synchronized kind of tool. So maybe it is about the it has some particularity that is not just the issue of automatizing and integrating the information. I worry about that. Like me I could say, okay, okay, go ahead. That's the one you like. Go ahead. That's the one that politically will help you, help the the president. Okay, do it. But maybe maybe just maybe Professor Kim or Professor Han once you reach the conclly they might say, but that's not a technological commercialization project. That's just a buying project. Like an IT project, like just buying a technology. So I worry about I agree with you, it's a real thing. It's not a lie. It's a real thing. But is it worth developing for a collaboration opportunity? I keep having that in my mind.",
+      "timestamp_abs": "92:53"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yeah, it can because uh",
+      "timestamp_abs": "94:24"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then that's why we need to when we write I will review I'm just telling you when I review your version four, I will review it specifically that way. And I will try to find for the keywords that actually justify to me that it's not just a university who is buying So forth.",
+      "timestamp_abs": "94:27"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We need to package even if that's the end effect, we need to package it a little bit differently. If that's what you want to do.",
+      "timestamp_abs": "94:49"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "94:55"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay?",
+      "timestamp_abs": "94:56"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I worry about that. Same as in case of Mega also I worry about",
+      "timestamp_abs": "94:57"
+    }
+  ]
+}

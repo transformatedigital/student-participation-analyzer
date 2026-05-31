@@ -1,0 +1,49 @@
+{
+  "block": 18,
+  "time_range": "85:00-90:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "by Google Gemini, which is not in Indonesian data center. Ah, that's the the the main problem in in the voice AI for Indonesia.",
+      "timestamp_abs": "85:00"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So it's like a sovereignty issue, right? It's a sovereignty issue.",
+      "timestamp_abs": "85:07"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "85:10"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, because because we are a bank and you know everything should be in Indonesia. And from my uh research, yeah, maybe I have to, but still uh I need to that's why I I put uh uh in the mirror, yeah, both my problem because actually I have to to to problem collaboration. Let me next to. And the first is, uh, maybe I can get to the A3 because I saw that the they have the Gemini talks and it is 80% translation accuracy more more than 50% higher than Google Translate. So it means, uh, it should be good. And the second is, uh, you know, actually I know that, uh, Indonesia have New Tradisi that it already have collaboration with the Never code blah blah blah. But the point is I want to highlight the Never because Never already have the call off voice engine. And it's uh, can I open the the website now? Okay, thank you. You are sharing your screen. Yeah. It should be in this. Already they have they already have the the voice AI but it's not in Indonesian. There's no Indonesian in here and maybe yeah, uh, maybe we can maybe I can uh propose to to to, you know, adapt Indonesian language to this and I and I also talk to my friend in Telcom Telcom. New Tradisi is the subsidiary of the Telcom Indonesia Telcom Indonesia Telcom Indonesia is the Telco company in Indonesia. And he told me that, he told me that, uh, it is possible to this this engine to be installed or deployed in Indonesia. So I can just, so I yeah, about the regulatory, I think it should be fine. But you know, uh, I think that's that's for all. Yeah. Thank you.",
+      "timestamp_abs": "85:11"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, quick quick feedback. Thank you very much, Arya. Wow. Congratulations, first of all. I really like the presentation in general. I like the improvement in the short time. I can see the effort of um of uh totally like you guys, you are trying to dig in, dig in, try to get your own, like even your maybe your personal network of friends and colleagues that are um like gathering information on digging on how to evidence or even to how to evidence whether there is a real demand, right? Because that's what you're doing, like really to confirm. You could invent any kind of project, but you're actually trying to keep on, hey guys, what are you doing? Is there really really need? Uh, so I like that. I love that. Everybody please uh look at the slide where you put me the the phone calls, the zoom calls, the the the the slide that you call information gathering. I think it's your third slide or something.",
+      "timestamp_abs": "88:00"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, I really like that everybody take that into consideration. Remember that the the the proposal on our our proposal is about evidence. I always talk to you. It is very important to really confirm the demand. So this is the beginning stage, but he's really showing how he tried to understand and try to know to uh to to talk to different stakeholders to confirm and to kind of sniff where there could be a real problem and from that real problem how to find an opportunity of collaboration or value creation through technology commercialization. So really really congratulations about this and that's why that's where I tell you for especially for I think right now, uh, Stephen, uh, Grace, uh, many of you might be you're still trying to think, I still don't have something concrete. I couldn't manage to understand, but don't worry, like even Arya just started again, and look how well he's trying to dig and I'm not saying this is gonna be the target. Maybe this is also hopefully this is the good one, but we don't know if it's gonna really uh complete, but this effort of how she is showing that he's trying to find something real is what I wanna praise, uh, and the fact.",
+      "timestamp_abs": "88:53"
+    }
+  ]
+}

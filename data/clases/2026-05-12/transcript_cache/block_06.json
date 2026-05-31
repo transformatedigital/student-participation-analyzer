@@ -1,0 +1,34 @@
+{
+  "block": 6,
+  "time_range": "00:25-00:30",
+  "utterances": [
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "kind of similar I think.",
+      "timestamp_abs": "25:25"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "kind of similar.",
+      "timestamp_abs": "25:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And because the master's degree characteristics, the outcomes of the master's degree,",
+      "timestamp_abs": "25:26"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you can develop them almost parallelly very easily.",
+      "timestamp_abs": "25:30"
+    }
+  ]
+}

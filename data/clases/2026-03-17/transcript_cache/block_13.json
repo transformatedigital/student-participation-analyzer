@@ -1,0 +1,62 @@
+{
+  "block": 13,
+  "time_range": "60:00-65:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, at the end, the homework is very, nobody can tell me that you don't know what to do on next time, okay?",
+      "timestamp_abs": "60:00"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I bet three will do this other one, this other one will be this.",
+      "timestamp_abs": "60:08"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it's 2 PM. We can have a short break now, if you want. The next thing I'm gonna start is I'm gonna tell you my, I did my own homework. I did my own Ice cream. And I got very good scores. I run the simulation and I got very good scores for my own. But I was trying to tell a story of my own case. So, I'm gonna tell you a story about my own experience about NPIS, a purpose throw for NPIS case, for the Chilaka. Um, so, I'm gonna start talking about that case when I was carrying out my own ice cream. So, it's gonna be doing it live. Like, I would give, if I was a student, not because I want to brag about my projects, that's not the intent. My intention is because I wanna really relate to your challenge, relate and also give you an example, and then give you the feedback, give you an example that is more realistic, that you can actually relate to, even if it's not, well, Chilaka can benefit a lot from this one. But, uh, but I will try to do one case for Chilaka, one case, like I will try to change. Now I only focused on the first three sections that I told you to implement for this. So, um, I will tell you the story first, then I will go into this very carefully because I want to actually discuss your assignments with you. So, I wanna finish this story that is between five and twenty minutes, so that we'll have one to one and a half hours to really discuss everything with your assignments. And I will get into the stories so that you can understand the background of this project.",
+      "timestamp_abs": "60:11"
+    },
+    {
+      "timestamp": "04:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, NPIS is the National Science and Technology Information System of Korea.",
+      "timestamp_abs": "64:43"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The story was my minister came to, I'm sorry, it's not me.",
+      "timestamp_abs": "64:50"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, I will.",
+      "timestamp_abs": "64:54"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um,",
+      "timestamp_abs": "64:56"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I was about to get",
+      "timestamp_abs": "64:59"
+    }
+  ]
+}

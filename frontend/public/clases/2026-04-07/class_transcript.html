@@ -1,0 +1,2725 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class Transcription - April 7, 2026</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #ffffff; color: #1f2937; }
+        
+        header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px 20px; }
+        header h1 { margin-bottom: 5px; font-size: 28px; }
+        header .breadcrumb { font-size: 12px; opacity: 0.8; }
+        
+        .container { max-width: 1200px; margin: 0 auto; padding: 30px 20px; }
+        
+        .nav-buttons { margin-bottom: 30px; display: flex; gap: 10px; flex-wrap: wrap; }
+        .nav-buttons a { padding: 10px 20px; background: #667eea; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; }
+        .nav-buttons a:hover { background: #764ba2; }
+        
+        .overview-stats { background: #f0f9ff; border: 1px solid #bfdbfe; border-radius: 8px; padding: 20px; margin-bottom: 30px; }
+        .overview-stats h3 { margin-bottom: 15px; color: #1f2937; }
+        .stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 15px; }
+        .stat-item { background: white; padding: 12px; border-radius: 6px; text-align: center; }
+        .stat-value { font-size: 18px; font-weight: 700; color: #667eea; }
+        .stat-label { font-size: 11px; color: #6b7280; margin-top: 4px; }
+        
+        .section-title { font-size: 22px; font-weight: 700; color: #1f2937; margin-bottom: 20px; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
+        
+        .block-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px; margin-bottom: 30px; }
+        .block-card { background: white; border: 1px solid #e5e7eb; border-radius: 8px; padding: 16px; cursor: pointer; transition: all 0.3s; }
+        .block-card:hover { box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2); transform: translateY(-2px); border-color: #667eea; }
+        .block-num { font-size: 16px; font-weight: 700; color: #667eea; margin-bottom: 8px; }
+        .block-time { font-size: 12px; color: #6b7280; margin-bottom: 8px; }
+        .block-stats { display: flex; gap: 8px; font-size: 11px; }
+        .block-stat { background: #f3f4f6; padding: 4px 8px; border-radius: 4px; color: #4b5563; }
+        
+        .block-detail { background: white; border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin-bottom: 20px; }
+        .block-detail h3 { color: #1f2937; margin-bottom: 16px; font-size: 18px; }
+        
+        table { width: 100%; border-collapse: collapse; }
+        th { background: #667eea; color: white; padding: 12px; text-align: left; font-weight: 600; font-size: 13px; }
+        td { padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px; }
+        tr:hover { background: #f9fafb; }
+        
+        .speaker-ileana { color: #10b981; font-weight: 600; }
+        .speaker-student { color: #dc2626; font-weight: 600; }
+        .type-question { color: #0284c7; }
+        .type-response { color: #7c3aed; }
+        .type-comment { color: #f59e0b; }
+        
+        .back-link { display: inline-block; margin-bottom: 20px; padding: 8px 16px; background: #667eea; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; }
+        .back-link:hover { background: #764ba2; }
+        
+        footer { text-align: center; padding: 20px; color: #6b7280; font-size: 12px; border-top: 1px solid #e5e7eb; margin-top: 40px; }
+        
+        .hidden-detail { display: none; }
+        .hidden-detail.active { display: block; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🎤 Class Transcription — April 7, 2026</h1>
+        <div class="breadcrumb">← <a href="index.html" style="color: white; text-decoration: underline;">Dashboard</a> / Class Transcription</div>
+    </header>
+
+    <div class="container">
+        <div class="nav-buttons">
+            <a href="index.html">← Back to Dashboard</a>
+            <a href="overview.html">📊 Overview</a>
+            <a href="transcripcion.html">📝 All Statements (with Filter)</a>
+            <a href="evaluacion.html">🤖 Evaluations</a>
+            <a href="timeline.html">⏱️ Timeline</a>
+        </div>
+
+        <div class="overview-stats">
+            <h3>📊 Transcription Overview</h3>
+            <div class="stat-grid">
+                <div class="stat-item">
+                    <div class="stat-value">12/12</div>
+                    <div class="stat-label">blocks processed</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">464</div>
+                    <div class="stat-label">utterances</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">20</div>
+                    <div class="stat-label">Ileana's questions</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">126</div>
+                    <div class="stat-label">student participations</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section-title">🎬 Select a Block to View Details</div>
+        
+        <div class="block-grid">
+            <div class="block-card" onclick="toggleBlock(1)">
+                <div class="block-num">Block 01</div>
+                <div class="block-time">⏱ 00:00-05:00</div>
+                <div class="block-stats">
+                    <div class="block-stat">❓ 1 Qs</div>
+                    <div class="block-stat">💬 11 Ps</div>
+                </div>
+            </div>
+            <div class="block-card" onclick="toggleBlock(2)">
+                <div class="block-num">Block 02</div>
+                <div class="block-time">⏱ 05:00-10:00</div>
+                <div class="block-stats">
+                    <div class="block-stat">❓ 3 Qs</div>
+                    <div class="block-stat">💬 22 Ps</div>
+                </div>
+            </div>
+            <div class="block-card" onclick="toggleBlock(3)">
+                <div class="block-num">Block 03</div>
+                <div class="block-time">⏱ 10:00-15:00</div>
+                <div class="block-stats">
+                    <div class="block-stat">❓ 1 Qs</div>
+                    <div class="block-stat">💬 13 Ps</div>
+                </div>
+            </div>
+            <div class="block-card" onclick="toggleBlock(4)">
+                <div class="block-num">Block 04</div>
+                <div class="block-time">⏱ 15:00-20:00</div>
+                <div class="block-stats">
+                    <div class="block-stat">❓ 0 Qs</div>
+                    <div class="block-stat">💬 7 Ps</div>
+                </div>
+            </div>
+            <div class="block-card" onclick="toggleBlock(5)">
+                <div class="block-num">Block 05</div>
+                <div class="block-time">⏱ 20:00-25:00</div>
+                <div class="block-stats">
+                    <div class="block-stat">❓ 6 Qs</div>
+                    <div class="block-stat">💬 22 Ps</div>
+                </div>
+            </div>
+            <div class="block-card" onclick="toggleBlock(6)">
+                <div class="block-num">Block 06</div>
+                <div class="block-time">⏱ 25:00-30:00</div>
+                <div class="block-stats">
+                    <div class="block-stat">❓ 1 Qs</div>
+                    <div class="block-stat">💬 15 Ps</div>
+                </div>
+            </div>
+            <div class="block-card" onclick="toggleBlock(7)">
+                <div class="block-num">Block 07</div>
+                <div class="block-time">⏱ 30:00-35:00</div>
+                <div class="block-stats">
+                    <div class="block-stat">❓ 0 Qs</div>
+                    <div class="block-stat">💬 0 Ps</div>
+                </div>
+            </div>
+            <div class="block-card" onclick="toggleBlock(8)">
+                <div class="block-num">Block 08</div>
+                <div class="block-time">⏱ 35:00-40:00</div>
+                <div class="block-stats">
+                    <div class="block-stat">❓ 3 Qs</div>
+                    <div class="block-stat">💬 5 Ps</div>
+                </div>
+            </div>
+            <div class="block-card" onclick="toggleBlock(9)">
+                <div class="block-num">Block 09</div>
+                <div class="block-time">⏱ 40:00-45:00</div>
+                <div class="block-stats">
+                    <div class="block-stat">❓ 0 Qs</div>
+                    <div class="block-stat">💬 0 Ps</div>
+                </div>
+            </div>
+            <div class="block-card" onclick="toggleBlock(10)">
+                <div class="block-num">Block 10</div>
+                <div class="block-time">⏱ 45:00-50:00</div>
+                <div class="block-stats">
+                    <div class="block-stat">❓ 0 Qs</div>
+                    <div class="block-stat">💬 14 Ps</div>
+                </div>
+            </div>
+            <div class="block-card" onclick="toggleBlock(11)">
+                <div class="block-num">Block 11</div>
+                <div class="block-time">⏱ 50:00-55:00</div>
+                <div class="block-stats">
+                    <div class="block-stat">❓ 2 Qs</div>
+                    <div class="block-stat">💬 6 Ps</div>
+                </div>
+            </div>
+            <div class="block-card" onclick="toggleBlock(12)">
+                <div class="block-num">Block 12</div>
+                <div class="block-time">⏱ 55:00-59:30</div>
+                <div class="block-stats">
+                    <div class="block-stat">❓ 3 Qs</div>
+                    <div class="block-stat">💬 11 Ps</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section-title" id="detail-section" style="display: none;">Block Details</div>
+        <div class="block-detail hidden-detail" id="block-detail-1">
+            <h3>⏱ Block 01 (00:00-05:00)</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 10%;">Time</th>
+                        <th style="width: 25%;">Speaker / Type</th>
+                        <th style="width: 65%;">Transcription</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>00:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>topics that you, like, questions you have about your ICP progress that you need me to address now. And I thought we told you we're gonna discuss, right?</td>
+                    </tr>
+                    <tr>
+                        <td>00:08</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>Can I know? Can I know?</td>
+                    </tr>
+                    <tr>
+                        <td>00:10</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Yes, I'd rather have you share your problems because your problem might be related to many of their questions too. Or they can learn from your questions.</td>
+                    </tr>
+                    <tr>
+                        <td>00:18</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Alright, thank you, ma'am. Oh, so, um, for the for the collaboration, I already talked to my, uh, department. And actually they already moved, so they go strike partnership with the Microsoft.</td>
+                    </tr>
+                    <tr>
+                        <td>00:33</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>With Microsoft?</td>
+                    </tr>
+                    <tr>
+                        <td>00:34</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Microsoft Copilot for using the AI for, uh, you know, for knowledge. For knowledge management.</td>
+                    </tr>
+                    <tr>
+                        <td>00:41</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Oh, but Copilot is little bit limited, but okay.</td>
+                    </tr>
+                    <tr>
+                        <td>00:43</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Nah, yeah, yeah. So, and I asked him, uh, is there any any other opportunity for for me to to join with the the the the project? And he said it's, yeah, that's still but or for for the they they they ...</td>
+                    </tr>
+                    <tr>
+                        <td>01:02</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>For the, hmm.</td>
+                    </tr>
+                    <tr>
+                        <td>01:04</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>That's exactly what I tell you. On the course of this, we are preparing and they're already moving, so they are, yeah.</td>
+                    </tr>
+                    <tr>
+                        <td>01:11</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>Uh, wait, wait, wait, wait, wait a minute. They already j- they already doing the kick off. I think tomorrow they will do the kick off with the Microsoft. Uh, so the one that, uh, available for me is ...</td>
+                    </tr>
+                    <tr>
+                        <td>01:41</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>No, I think Yeah, it's just it runs under another category. I mean, it's a business. Yeah, but that's what I'm trying to explain you late before. Like if you see here, if you see it from the broad con...</td>
+                    </tr>
+                    <tr>
+                        <td>02:08</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And then MSIT for you now, plus KISTI.</td>
+                    </tr>
+                    <tr>
+                        <td>02:14</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And then E-SE makes some money, because E-SE charges some money to the, means I see.</td>
+                    </tr>
+                    <tr>
+                        <td>02:21</td>
+                        <td><span class="speaker-student">💬 UNKNOWN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>[inaudible]</td>
+                    </tr>
+                    <tr>
+                        <td>02:22</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And then SoftITech also makes some money, probably. They pay to KISTI money for the patent for the IP.</td>
+                    </tr>
+                    <tr>
+                        <td>02:32</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>Sorry, sorry, sorry.</td>
+                    </tr>
+                    <tr>
+                        <td>02:33</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>Not not not KISTI paid to SoftITech because KISTI asked SoftITech to convert the language?</td>
+                    </tr>
+                    <tr>
+                        <td>02:40</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Yes. KISTI paid money, already KISTI paid money to SoftITech as a developer IT support service, like IT outsourcing, okay? So money comes here also. But if SoftITech wants to sell the service to E-SE,...</td>
+                    </tr>
+                    <tr>
+                        <td>03:03</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So he didn't explain in detail, but the basic model is here. KISTI gets money from the royalty because they own the IP of NTIAS. So if SoftITech will use this IP to translate it into English, probably...</td>
+                    </tr>
+                    <tr>
+                        <td>03:29</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>No, but but that that, why didn't the SoftITech convert straight to the to the Costa Rican language? Why should it English and the ICC?</td>
+                    </tr>
+                    <tr>
+                        <td>03:40</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Because because KISTI has the know-how and ownership of the old process. SoftITech is a private company to just provide IT support and of course they have some know-how of IT operation. But the design...</td>
+                    </tr>
+                    <tr>
+                        <td>04:00</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>So I I mean I mean uh why why didn't the the KISTI request the SoftITech to provide the NIST version of Costa Rican language? Yes. Why not like that? Why not why must translate to English first and IC...</td>
+                    </tr>
+                    <tr>
+                        <td>04:18</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Because the process is not copy-paste. It's not like that. There is many alterations here. Remember he he said the system as it is, it's not perfectly workable for Costa Rica. The user interface has t...</td>
+                    </tr>
+                    <tr>
+                        <td>04:42</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So it's like inspired in NTIAS, made for Costa Rica.</td>
+                    </tr>
+                    <tr>
+                        <td>04:47</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So this concept is the concept of adaptation, adapt, adoption, it's not it's not like I just say okay, this NTIAS copy-paste, using Costa Rica, copy, translate, using Costa Rica. It's not like that st...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="block-detail hidden-detail" id="block-detail-2">
+            <h3>⏱ Block 02 (05:00-10:00)</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 10%;">Time</th>
+                        <th style="width: 25%;">Speaker / Type</th>
+                        <th style="width: 65%;">Transcription</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>00:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Because the process is not exactly the same, so the workflows need to be adapted.</td>
+                    </tr>
+                    <tr>
+                        <td>00:06</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Then he mentioned the bottom, some callers.</td>
+                    </tr>
+                    <tr>
+                        <td>00:09</td>
+                        <td><span class="speaker-student">💬 UNKNOWN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>00:10</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>So, what not only about the language?</td>
+                    </tr>
+                    <tr>
+                        <td>00:12</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>Ah, ah. So, sorry.</td>
+                    </tr>
+                    <tr>
+                        <td>00:15</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>Uh, who make the adaptation? The IC or the soft ITEC?</td>
+                    </tr>
+                    <tr>
+                        <td>00:21</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Together.</td>
+                    </tr>
+                    <tr>
+                        <td>00:22</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Oh.</td>
+                    </tr>
+                    <tr>
+                        <td>00:23</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Because anyway you do the technology transfer, these guys, the engineers of IC need to learn about the whole, uh, IT architecture, the source code, everything, right? So they need to get.</td>
+                    </tr>
+                    <tr>
+                        <td>00:37</td>
+                        <td><span class="speaker-student">💬 UNKNOWN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>They're doing.</td>
+                    </tr>
+                    <tr>
+                        <td>00:38</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And Kissi also collaborating here because Kissi knows very well the logic in the system.</td>
+                    </tr>
+                    <tr>
+                        <td>00:43</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Kissi designed the logic.</td>
+                    </tr>
+                    <tr>
+                        <td>00:45</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>You get it?</td>
+                    </tr>
+                    <tr>
+                        <td>00:46</td>
+                        <td><span class="speaker-student">💬 UNKNOWN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>So.</td>
+                    </tr>
+                    <tr>
+                        <td>00:47</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So in your case, back back to your question, it's not something like that. It's just give me the LLM service, co-pilot license and that's it.</td>
+                    </tr>
+                    <tr>
+                        <td>00:56</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>So I don't see an opportunity for a Korean adaptation.</td>
+                    </tr>
+                    <tr>
+                        <td>01:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>No, you need something</td>
+                    </tr>
+                    <tr>
+                        <td>01:01</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>another new.</td>
+                    </tr>
+                    <tr>
+                        <td>01:02</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>You are back to square one.</td>
+                    </tr>
+                    <tr>
+                        <td>01:04</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>That happened.</td>
+                    </tr>
+                    <tr>
+                        <td>01:07</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>That's a straightforward answer to you.</td>
+                    </tr>
+                    <tr>
+                        <td>01:09</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>Okay, just one more quick. Why didn't the IC create the system itself?</td>
+                    </tr>
+                    <tr>
+                        <td>01:14</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I told you.</td>
+                    </tr>
+                    <tr>
+                        <td>01:17</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>No, no money, no people?</td>
+                    </tr>
+                    <tr>
+                        <td>01:19</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>No, no know-how.</td>
+                    </tr>
+                    <tr>
+                        <td>01:21</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>Do you think we see this willing to pay to a guy who company who has no know-how?</td>
+                    </tr>
+                    <tr>
+                        <td>01:26</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Just IT support and service.</td>
+                    </tr>
+                    <tr>
+                        <td>01:29</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>These guys are, this guy is a telecom company.</td>
+                    </tr>
+                    <tr>
+                        <td>01:32</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>They don't know about R&D management. They have never operated R&D management platforms.</td>
+                    </tr>
+                    <tr>
+                        <td>01:38</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So, why in Missi is doing this business? Because it's joined to business.</td>
+                    </tr>
+                    <tr>
+                        <td>01:44</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>The value of this, okay, I need a local, remember last time Stephen mentioned, ah, very problematic because otherwise you have a dependency problem with the Korean company, like that. So.</td>
+                    </tr>
+                    <tr>
+                        <td>01:52</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Our government don't want to have this kind of kind of dependency with the Korea.</td>
+                    </tr>
+                    <tr>
+                        <td>01:59</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>They want to have autonomy, and also they want to have their own source code, and they need to operate in Korean, very difficult to communicate with Korea, they need somebody support and all in Spanis...</td>
+                    </tr>
+                    <tr>
+                        <td>02:09</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So they say I need a local person, a local entity who can help me operate the system in my context.</td>
+                    </tr>
+                    <tr>
+                        <td>02:16</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>Right?</td>
+                    </tr>
+                    <tr>
+                        <td>02:17</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But I don't need anybody, I need somebody who can get the know-how transfer from an expert, from a proven expert, somebody who has proven expertise.</td>
+                    </tr>
+                    <tr>
+                        <td>02:29</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>20 years plus of operating a system that is with many users. So how many transactions, how many researchers, how many</td>
+                    </tr>
+                    <tr>
+                        <td>02:37</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>It's a lot, right?</td>
+                    </tr>
+                    <tr>
+                        <td>02:39</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So any type all the standardization, all the experience and know-how collected by the whole trial and error, trial and error.</td>
+                    </tr>
+                    <tr>
+                        <td>02:46</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>If you think about NTAS is the fourth generation currently.</td>
+                    </tr>
+                    <tr>
+                        <td>02:49</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So they have redone NTAS platform four times already because they already operated it for many years, so they realize there is improvement needed, it's like that.</td>
+                    </tr>
+                    <tr>
+                        <td>02:59</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So that's the key here, it's not just like, Am I able to just give me your LLM service? That's why I told you like, ah, in your case if you just do it like that it doesn't look like a technology comme...</td>
+                    </tr>
+                    <tr>
+                        <td>03:10</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>03:12</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But if you, let's think about it, I I told you I already contacted a friend of mine who is very expert in Indonesia startup ecosystem and he's Korean, and he's working a lot with cybersecurity and Fin...</td>
+                    </tr>
+                    <tr>
+                        <td>03:27</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So, he's on a busy street but I'm trying to set up a meeting, I believe he's willing to visit us on a Tuesday like today, Kissi.</td>
+                    </tr>
+                    <tr>
+                        <td>03:33</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Uh, and I think he could help help us have a brainstorming session of what opportunities for technology commercialization we would have with your...</td>
+                    </tr>
+                    <tr>
+                        <td>03:41</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Actually tomorrow I will have, uh, you know, because I I feeling that it will not work so I try to another, another friends.</td>
+                    </tr>
+                    <tr>
+                        <td>03:50</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>And some of my friends told me that they have some also some TTS issue uh regardless the TTS text to speech and speech to text and AI because they want to use the mobile banking in my bank to use that...</td>
+                    </tr>
+                    <tr>
+                        <td>04:07</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>But right now they have difficulties because the the the percentage of success is very low and they want to improve.</td>
+                    </tr>
+                    <tr>
+                        <td>04:18</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>The accuracy level.</td>
+                    </tr>
+                    <tr>
+                        <td>04:19</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Yeah, the accuracy level.</td>
+                    </tr>
+                    <tr>
+                        <td>04:20</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>The outcome of the project.</td>
+                    </tr>
+                    <tr>
+                        <td>04:21</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>I know it.</td>
+                    </tr>
+                    <tr>
+                        <td>04:23</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>04:24</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>And so tomorrow maybe I will I have some meeting with them and</td>
+                    </tr>
+                    <tr>
+                        <td>04:28</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Maybe something comes up.</td>
+                    </tr>
+                    <tr>
+                        <td>04:29</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Yeah.</td>
+                    </tr>
+                    <tr>
+                        <td>04:30</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But I'm sorry to you you have to rewrite your IC.</td>
+                    </tr>
+                    <tr>
+                        <td>04:34</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Shit happens.</td>
+                    </tr>
+                    <tr>
+                        <td>04:35</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Okay, okay.</td>
+                    </tr>
+                    <tr>
+                        <td>04:36</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>You need any help in the process, let me know and I will let you contact to Miss Nam.</td>
+                    </tr>
+                    <tr>
+                        <td>04:39</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>04:41</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Don't worry, this course is exactly for that.</td>
+                    </tr>
+                    <tr>
+                        <td>04:45</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>That's why you have all this.</td>
+                    </tr>
+                    <tr>
+                        <td>04:46</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>Was it, sir?</td>
+                    </tr>
+                    <tr>
+                        <td>04:47</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>The good thing is like, it's not, I'm not going to evaluate you, I mean, you and, for example, you and Chilaka, Chilaka here it brought directly to the floor, right? But it's case by case.</td>
+                    </tr>
+                    <tr>
+                        <td>04:58</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And this is a</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="block-detail hidden-detail" id="block-detail-3">
+            <h3>⏱ Block 03 (10:00-15:00)</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 10%;">Time</th>
+                        <th style="width: 25%;">Speaker / Type</th>
+                        <th style="width: 65%;">Transcription</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>00:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>early commercialization, because it's really case-by-case. Business name Sure is very specific to each situation. I told you. This is almost like couple matchmaking situation, right? Business, busines...</td>
+                    </tr>
+                    <tr>
+                        <td>00:12</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I'm not evaluating your progress based on that. I'm evaluating what you are learning about the process in general, right? And because the most important is, this 16 weeks at some point you should real...</td>
+                    </tr>
+                    <tr>
+                        <td>01:00</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>Uh, and one more. Ma, maybe the Grace already asked this, but uh, because there's no Korean here, I want to ask you, uh.</td>
+                    </tr>
+                    <tr>
+                        <td>01:07</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I am Korean.</td>
+                    </tr>
+                    <tr>
+                        <td>01:09</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Oh, I'm sorry.</td>
+                    </tr>
+                    <tr>
+                        <td>01:12</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>저는 한국 며느리예요.</td>
+                    </tr>
+                    <tr>
+                        <td>01:14</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>미안해요.</td>
+                    </tr>
+                    <tr>
+                        <td>01:16</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>저는...</td>
+                    </tr>
+                    <tr>
+                        <td>01:17</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>저는 한국 사람이에요.</td>
+                    </tr>
+                    <tr>
+                        <td>01:19</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>Uh. Besides the the the opportunity to do next business, but I I I believe about give and take and you already say it. So what's really their benefit doing this kind of thing?</td>
+                    </tr>
+                    <tr>
+                        <td>01:33</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>KISTI? Okay?</td>
+                    </tr>
+                    <tr>
+                        <td>01:34</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>No, no, no, not not for KISTI. For this.</td>
+                    </tr>
+                    <tr>
+                        <td>01:36</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-response " style="font-size: 11px;">↩️ teacher_response</span></td>
+                        <td>For GDI.</td>
+                    </tr>
+                    <tr>
+                        <td>01:37</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Yeah.</td>
+                    </tr>
+                    <tr>
+                        <td>01:38</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Ah. We, when we, we our program, KAIST GDI, Graduate School of Innovation or Global Innovation. We have, we get R&D, we get Korean National Government funds, right? To sponsor your scholarship. That's...</td>
+                    </tr>
+                    <tr>
+                        <td>02:41</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>So right right now it's like burning money for the investing.</td>
+                    </tr>
+                    <tr>
+                        <td>02:46</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>You guys are Korean investment. Me, I am Korean investment. I am a result of Korea's investment because they invested in me, all my master's and PhD, and of course, you're not obliged. You're just app...</td>
+                    </tr>
+                    <tr>
+                        <td>03:22</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>It's there, right? Yeah.</td>
+                    </tr>
+                    <tr>
+                        <td>03:24</td>
+                        <td><span class="speaker-student">💬 STHEPEN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Yeah, it is.</td>
+                    </tr>
+                    <tr>
+                        <td>03:25</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>It is, it is.</td>
+                    </tr>
+                    <tr>
+                        <td>03:26</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>It's not at all explicit. Just at the beginning when we read it as a applicant, we're not really acknowledging it, you know.</td>
+                    </tr>
+                    <tr>
+                        <td>03:33</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>That's when you get almost at the school.</td>
+                    </tr>
+                    <tr>
+                        <td>03:34</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Yeah.</td>
+                    </tr>
+                    <tr>
+                        <td>03:35</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>It's there. It's really there. But when you read it, you're just I my scholarship, I do my PhD, I that's all you see. When you reach it, like, why I have to do collaboration? Why? Why am I not here fo...</td>
+                    </tr>
+                    <tr>
+                        <td>03:51</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I also I also felt like you, why why you are pushing me to do this. But if you think about, that's why I I was constantly tell you, do not I had a lot of peers in my life, in my batch. I had a lot of ...</td>
+                    </tr>
+                    <tr>
+                        <td>04:52</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>So</td>
+                    </tr>
+                    <tr>
+                        <td>04:53</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So that's how I kind of made the synergy between my collaboration project and my theoretical</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="block-detail hidden-detail" id="block-detail-4">
+            <h3>⏱ Block 04 (15:00-20:00)</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 10%;">Time</th>
+                        <th style="width: 25%;">Speaker / Type</th>
+                        <th style="width: 65%;">Transcription</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>00:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>que no tiene networking.</td>
+                    </tr>
+                    <tr>
+                        <td>00:01</td>
+                        <td><span class="speaker-student">💬 STHEPEN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Dissertation.</td>
+                    </tr>
+                    <tr>
+                        <td>00:02</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Yeah, and dissertation. So, also think about that when you pick your collaboration. Like, like, if you're gonna do this project, maybe your PhD must be related to innovation management, R&D innovation...</td>
+                    </tr>
+                    <tr>
+                        <td>00:18</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>[inaudible]</td>
+                    </tr>
+                    <tr>
+                        <td>00:19</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I'll give you some. So, um, this kind of thing, find the synergy, why not? Finally, but, but the thing is, you know, I, I, I am Christian, but I think God has interesting ways of playing in your life....</td>
+                    </tr>
+                    <tr>
+                        <td>03:06</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Yes.</td>
+                    </tr>
+                    <tr>
+                        <td>03:06</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>It's tough to just like trial and error. And also you don't know if it will work in your country. But in general, I really I really believe because I am a witness of that in my life, that all these do...</td>
+                    </tr>
+                    <tr>
+                        <td>03:58</td>
+                        <td><span class="speaker-student">💬 STHEPEN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Ooh.</td>
+                    </tr>
+                    <tr>
+                        <td>03:59</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Twelve.</td>
+                    </tr>
+                    <tr>
+                        <td>04:01</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>This is only small compared to Professor.</td>
+                    </tr>
+                    <tr>
+                        <td>04:05</td>
+                        <td><span class="speaker-student">💬 STHEPEN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Oh, professor, oh professor.</td>
+                    </tr>
+                    <tr>
+                        <td>04:06</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So, yeah, and I I think more than 12, but how many trial and errors I have? Maybe 100. Many times I started for years or five years, I work and then finally, no, that, no, that. No, that the guy chang...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="block-detail hidden-detail" id="block-detail-5">
+            <h3>⏱ Block 05 (20:00-25:00)</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 10%;">Time</th>
+                        <th style="width: 25%;">Speaker / Type</th>
+                        <th style="width: 65%;">Transcription</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>00:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>experience, the difference between that machine give me. I can correct that machine because I have lived for real what the project was or what the that expertise or that field was. And I can confirm t...</td>
+                    </tr>
+                    <tr>
+                        <td>00:24</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay? Don't don't think about it in a limited way, think it about it in a broad way.</td>
+                    </tr>
+                    <tr>
+                        <td>00:30</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>00:31</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>Anything else from ICP? Anybody else drop in their ICP?</td>
+                    </tr>
+                    <tr>
+                        <td>00:38</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>Uh what would you uh after you finish your uh question then we can discuss maybe something.</td>
+                    </tr>
+                    <tr>
+                        <td>00:45</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But today I have to take a train at five. So I don't have a lot of time. We can set up an a meeting with you and me or you can open up now, or we can set a meeting during this week, online and tomorro...</td>
+                    </tr>
+                    <tr>
+                        <td>01:01</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>01:02</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay. Be open. The worst thing you could have is a raw draft.</td>
+                    </tr>
+                    <tr>
+                        <td>01:06</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Uh for you.</td>
+                    </tr>
+                    <tr>
+                        <td>01:08</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>From you.</td>
+                    </tr>
+                    <tr>
+                        <td>01:09</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Actually, I wanted to to explain the the project in another way, or maybe to show you this.</td>
+                    </tr>
+                    <tr>
+                        <td>01:15</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay. Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>01:17</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Yeah. This is actually the the portal.</td>
+                    </tr>
+                    <tr>
+                        <td>01:21</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Ah, higher education university. Ah, higher education. Yes.</td>
+                    </tr>
+                    <tr>
+                        <td>01:23</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>The Ministry of AI Education.</td>
+                    </tr>
+                    <tr>
+                        <td>01:24</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>01:25</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>I've been translating so now it's in English. Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>01:27</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Higher education portal. Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>01:29</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Yeah, yeah. So, it's going to be launched very recently. And then uh uh from there they are even trying to initiate already some of the digital uh incentives university. This is actually the Minister ...</td>
+                    </tr>
+                    <tr>
+                        <td>01:43</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Mhm.</td>
+                    </tr>
+                    <tr>
+                        <td>01:46</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>Can you be the link?</td>
+                    </tr>
+                    <tr>
+                        <td>01:47</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Yeah, yeah.</td>
+                    </tr>
+                    <tr>
+                        <td>01:48</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>This one?</td>
+                    </tr>
+                    <tr>
+                        <td>01:49</td>
+                        <td><span class="speaker-student">💬 ILEANG</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Yeah, send me the link so that I can check.</td>
+                    </tr>
+                    <tr>
+                        <td>01:51</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Yeah, I'll check it. And you see it's really with the schedule. This is actually the training they are scheduling from April 15, 17.</td>
+                    </tr>
+                    <tr>
+                        <td>01:59</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Modernization of higher education, okay. How did I I wonder how deep this digital portal is.</td>
+                    </tr>
+                    <tr>
+                        <td>02:06</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Uh actually, it's useful.</td>
+                    </tr>
+                    <tr>
+                        <td>02:09</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>How I mean, okay, so they are trying to deploy the portal and it's gonna be officially launched, it was released to the house. So what is the scope?</td>
+                    </tr>
+                    <tr>
+                        <td>02:16</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>It has been it was launched.</td>
+                    </tr>
+                    <tr>
+                        <td>02:17</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Yes. So what is the scope of this portal? It's very important to you for you to know what's the real scope.</td>
+                    </tr>
+                    <tr>
+                        <td>02:23</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Yeah, actually it's a they are really focusing on digitalizing uh so I mean the academic uh sector. I mean the high education system.</td>
+                    </tr>
+                    <tr>
+                        <td>02:35</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>But digitalizing means what? But training, online training, training.</td>
+                    </tr>
+                    <tr>
+                        <td>02:39</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Online training. That's this one. They are this is the training module. Okay. You have this this time.</td>
+                    </tr>
+                    <tr>
+                        <td>02:43</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Ah okay, okay.</td>
+                    </tr>
+                    <tr>
+                        <td>02:47</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>The training will be actually. They also have some things, okay? National platform for managing students cards, National Digital Library, the system of financial governance financial governance contro...</td>
+                    </tr>
+                    <tr>
+                        <td>02:49</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay, so.</td>
+                    </tr>
+                    <tr>
+                        <td>03:22</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>In this context, if the the minister the minister.</td>
+                    </tr>
+                    <tr>
+                        <td>03:24</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>By connecting to whatever they're doing here, using this as a framework?</td>
+                    </tr>
+                    <tr>
+                        <td>03:28</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Uh actually, I wanted to bring it as uh the project for the Ministry of High Education. If they can, because they are already giving incentives in terms of digitalization, if they see something relate...</td>
+                    </tr>
+                    <tr>
+                        <td>03:54</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Yeah, it's not a bottom-up, it's a top-down. Yeah.</td>
+                    </tr>
+                    <tr>
+                        <td>03:56</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Yeah, it's all the authority see that something is valuable because we need we have always been giving the incentive of digitalization, but now we have really the tool like for management, digital lea...</td>
+                    </tr>
+                    <tr>
+                        <td>04:25</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_comment</span></td>
+                        <td>It's interesting but what I worry again is how how far your how far or how close are you to the minister of higher education?</td>
+                    </tr>
+                    <tr>
+                        <td>04:33</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>I am I am I am somehow closer because I am working with one of the professors who is academic advisor. So, through him I can contact him.</td>
+                    </tr>
+                    <tr>
+                        <td>04:42</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>He's academic advisor of this initiative or the Minister of Higher Education?</td>
+                    </tr>
+                    <tr>
+                        <td>04:46</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Of the Minister of Education.</td>
+                    </tr>
+                    <tr>
+                        <td>04:48</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay. Yeah. I mean, why not? I don't think it's a big deal because what whether you it's how you it's how you tie it. I mean how you tie it. You can tie it through Kinshasa and the part of your amazin...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="block-detail hidden-detail" id="block-detail-6">
+            <h3>⏱ Block 06 (25:00-30:00)</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 10%;">Time</th>
+                        <th style="width: 25%;">Speaker / Type</th>
+                        <th style="width: 65%;">Transcription</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>00:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>or no. And I will try to with digital, with the digital for this program, with the Ministry of Higher Education, and then I will</td>
+                    </tr>
+                    <tr>
+                        <td>00:08</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>they have all these training modules, one of the modules will be the learning management module, which is Grace's project. Up to you how you tell the story. But, but what I what what's very important ...</td>
+                    </tr>
+                    <tr>
+                        <td>00:28</td>
+                        <td><span class="speaker-student">💬 UNKNOWN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>This your part, right?</td>
+                    </tr>
+                    <tr>
+                        <td>00:29</td>
+                        <td><span class="speaker-student">💬 UNKNOWN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Yes, your part.</td>
+                    </tr>
+                    <tr>
+                        <td>00:30</td>
+                        <td><span class="speaker-student">💬 UNKNOWN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>No.</td>
+                    </tr>
+                    <tr>
+                        <td>00:32</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>I have a question.</td>
+                    </tr>
+                    <tr>
+                        <td>00:33</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>I have a question.</td>
+                    </tr>
+                    <tr>
+                        <td>00:34</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I think this is important. Who's gonna be the owner? Who's gonna be the owner and who are gonna be your partners in the sense like if the learning management system is gonna be from the Ministry of Hi...</td>
+                    </tr>
+                    <tr>
+                        <td>00:49</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>maybe the Ministry of Education is just like the policy maker, who's just gonna provide the framework, but he's not gonna operate the learning management system.</td>
+                    </tr>
+                    <tr>
+                        <td>00:57</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Maybe they're going to say, no, I'm gonna ask the university of Chaco to be the first operator of the system, blah blah. And if they prove the concept, later on, we will make it available to the other...</td>
+                    </tr>
+                    <tr>
+                        <td>01:10</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So you have to tell me the story in terms of who are going to be the partners like like same as this, right?</td>
+                    </tr>
+                    <tr>
+                        <td>01:16</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Who's gonna be the owner of the system? Okay, he's the he's the owner of the system, but they have a IT partner.</td>
+                    </tr>
+                    <tr>
+                        <td>01:23</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Then this IT partner is gonna be hired to collaborate in the team, but the owner of the system is gonna be me. However, the operator of the system and who's gonna get the knowledge is this IC.</td>
+                    </tr>
+                    <tr>
+                        <td>01:34</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So, saying you have to tell the story and that is not so easy. You can tell me from your imagination, but when you talk to the stakeholders, who's gonna be really the one able to</td>
+                    </tr>
+                    <tr>
+                        <td>01:44</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>uptake, the recipient to uptake all this technology transfer. Who's gonna be the one committing to some budget, whatever it is.</td>
+                    </tr>
+                    <tr>
+                        <td>01:54</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Maybe the Ministry, because during these discussions at the beginning as I told you, Casey provided me some percentage.</td>
+                    </tr>
+                    <tr>
+                        <td>01:59</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But then at the end the the Ministry requested, hey, if my budget is not approved, please IC invest initially, and later on I will contract you.</td>
+                    </tr>
+                    <tr>
+                        <td>02:08</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So the initial investment of the $300,000 was made by IC. So IC because it's a public entity, they don't need to get an approval of budget, because they have some funds to operate. It's easier from th...</td>
+                    </tr>
+                    <tr>
+                        <td>02:27</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>IC has more flexibility, so IC did the initial investment in all behalf of the Ministry. And then Ministry later on they can contract and buy services or something, they need some kind of business mod...</td>
+                    </tr>
+                    <tr>
+                        <td>02:38</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So this hooking this kind of arrangement takes very big coordinations, okay?</td>
+                    </tr>
+                    <tr>
+                        <td>02:45</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And I worry in your case like, uh, sometimes as I told you before, having the big whales, like I told you eventually Steven, Steven, you have big names there in the proposal.</td>
+                    </tr>
+                    <tr>
+                        <td>02:55</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Having this whale make it like, for example, your question Megan, you said I took one month to sign a MOU between the two ministries, right? So putting a minister as a as a stakeholder and as a counte...</td>
+                    </tr>
+                    <tr>
+                        <td>03:07</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>It could be very good because it's a very heavy, heavy, heavy weight, heavy, heavy, very, very highly political stakeholder and with a lot of political power, great.</td>
+                    </tr>
+                    <tr>
+                        <td>03:18</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But also very bureaucratic and very slow in the decision making and that might work against you.</td>
+                    </tr>
+                    <tr>
+                        <td>03:24</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>So far so as the case for like the university, like let's say by universities, like the first public university.</td>
+                    </tr>
+                    <tr>
+                        <td>03:35</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Even if they want to like to implement this budget.</td>
+                    </tr>
+                    <tr>
+                        <td>03:40</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>I don't believe they have a direct fund.</td>
+                    </tr>
+                    <tr>
+                        <td>03:43</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>The university?</td>
+                    </tr>
+                    <tr>
+                        <td>03:44</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>The university to like support.</td>
+                    </tr>
+                    <tr>
+                        <td>03:47</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>So since they have to contact the authority, which is the Ministry of High Education.</td>
+                    </tr>
+                    <tr>
+                        <td>03:54</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>And the Ministry of Education based on its budget line, it's may be to contact the government you know for funding something such.</td>
+                    </tr>
+                    <tr>
+                        <td>04:04</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>You see, so it's not like uh the University of Kuchaza directly funding without uh any.</td>
+                    </tr>
+                    <tr>
+                        <td>04:10</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So they have no, they don't have that funding capacity. Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>04:14</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Uh directly. So they need to contact the authority which is the Ministry of High Education through the minister, if he, uh she has also to contact, you see.</td>
+                    </tr>
+                    <tr>
+                        <td>04:26</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>The the the the government for any funding possibility something such.</td>
+                    </tr>
+                    <tr>
+                        <td>04:32</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Yeah.</td>
+                    </tr>
+                    <tr>
+                        <td>04:33</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay. I'll give you another example of another project.</td>
+                    </tr>
+                    <tr>
+                        <td>04:35</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And I'm gonna give you an homework that I already gave you but you didn't maybe you haven't done.</td>
+                    </tr>
+                    <tr>
+                        <td>04:42</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>There is an agency called the National Informatization, National IP industry promotion agency. National IT industry promotion agency called Nipa, N I P A. I already told you to look at it last time. T...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="block-detail hidden-detail" id="block-detail-7">
+            <h3>⏱ Block 07 (30:00-35:00)</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 10%;">Time</th>
+                        <th style="width: 25%;">Speaker / Type</th>
+                        <th style="width: 65%;">Transcription</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>00:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>generate prototypes or to generate things to be fabricating that can help you prove certain products when you're trying to design something that is new to the market.</td>
+                    </tr>
+                    <tr>
+                        <td>00:40</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So this is an innovation lab that includes the fab lab uh equipment.</td>
+                    </tr>
+                    <tr>
+                        <td>00:46</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And some meeting rooms and collaboration rooms.</td>
+                    </tr>
+                    <tr>
+                        <td>00:48</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So, K-Lab last 2009 approved a budget for Costa Rica of almost $2.5 million for five years.</td>
+                    </tr>
+                    <tr>
+                        <td>01:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>This is a very exceptional project.</td>
+                    </tr>
+                    <tr>
+                        <td>01:03</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Um, it's not normal to get this kind of funding, but we already had a K-Lab Bolivian first.</td>
+                    </tr>
+                    <tr>
+                        <td>01:09</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And now we just have the K-Lab Costa Rica. It's about to finish next year, we already started since 2019.</td>
+                    </tr>
+                    <tr>
+                        <td>01:15</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I'm a member of the board of directors of this project. Knight invited me to be a member.</td>
+                    </tr>
+                    <tr>
+                        <td>01:20</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And so it could be a very interesting way to start because this program, the interesting thing is Bolivia almost only included the equipment.</td>
+                    </tr>
+                    <tr>
+                        <td>01:28</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Just the construction of a small lab within a faculty and they provided the machines and the computers and blah blah blah.</td>
+                    </tr>
+                    <tr>
+                        <td>01:35</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And it was a very interesting initiative. Nothing related to what you want.</td>
+                    </tr>
+                    <tr>
+                        <td>01:39</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But it's just an example, okay?</td>
+                    </tr>
+                    <tr>
+                        <td>01:42</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>The interesting thing is that through this project, in the Bolivian case, it's almost equipment and course and training.</td>
+                    </tr>
+                    <tr>
+                        <td>01:48</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But in the Costa Rica case, we included a whole curriculum.</td>
+                    </tr>
+                    <tr>
+                        <td>01:52</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So, they provide they provide a whole ecosystem through Zoom and through web Facebook website, using kind of almost free resources and resources that are almost available to everybody.</td>
+                    </tr>
+                    <tr>
+                        <td>02:03</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And they are the all the Costa Rican students from in this case, K-Lab gave the ODA project to the Ministry of Science and Technology in Costa Rica.</td>
+                    </tr>
+                    <tr>
+                        <td>02:14</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And the Ministry of Science and Technology selected the number two university in Costa Rica.</td>
+                    </tr>
+                    <tr>
+                        <td>02:19</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>This is like IT. It's the the IT university, the Science and Technology University in Costa Rica. It's the number two public university.</td>
+                    </tr>
+                    <tr>
+                        <td>02:27</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And this university became the beneficiary. So, the K-Lab Costa Rica is situated under the TEC campus.</td>
+                    </tr>
+                    <tr>
+                        <td>02:35</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So the cooperation is from the Korean Ministry to the Costa Rican Ministry, but the beneficiary is the university.</td>
+                    </tr>
+                    <tr>
+                        <td>02:42</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So I'm just giving you an idea of how this kind of thing can happen if you do in the case of Colombia, it probably it's going to be ODA because Colombia is a very is a low income low income economy, a...</td>
+                    </tr>
+                    <tr>
+                        <td>02:54</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>is most likely that they are, I'm not saying you can reach this amount because this was a very moonshot opportunity that they were able to catch.</td>
+                    </tr>
+                    <tr>
+                        <td>03:04</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Until now, I don't this year they are trying to catch, I think they are providing that by to Thailand and some other countries.</td>
+                    </tr>
+                    <tr>
+                        <td>03:11</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But please look at the K-Lab because maybe it could be a low hanging fruit to just say, you know what? I'm going to try to push to request the initial K-Lab.</td>
+                    </tr>
+                    <tr>
+                        <td>03:19</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And the K-Lab has the whole online learning management, I'm not going to say system because it's not a system, it's just like a ecosystem.</td>
+                    </tr>
+                    <tr>
+                        <td>03:26</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>That they make with free tools, Moodle and other free tools that they are building a whole online learning community.</td>
+                    </tr>
+                    <tr>
+                        <td>03:34</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Because all these robotics and robotics and ICT and other courses that the Korean professors are delivering, they are delivering through online Zoom or whatever and they provide a free platform.</td>
+                    </tr>
+                    <tr>
+                        <td>03:46</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And the Costa Rican students are receiving the know-how and they they the K-Lab budget hires the research that like a TA, Costa Rican TAs plus translators.</td>
+                    </tr>
+                    <tr>
+                        <td>03:58</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And using the AI they are like subtitling the lecture of the Korean robotics professor in delivering to the Costa Rican students.</td>
+                    </tr>
+                    <tr>
+                        <td>04:08</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And even Costa Rican lecturers and teachers, because Costa Rican universities still don't have the amount of technology and like advanced programs on robotics and AI that Korea has.</td>
+                    </tr>
+                    <tr>
+                        <td>04:20</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So from Costa Rica's perspective, it's a great chance to really access Korean knowledge easily.</td>
+                    </tr>
+                    <tr>
+                        <td>04:26</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So this is just an idea of how this kind of thing can happen.</td>
+                    </tr>
+                    <tr>
+                        <td>04:30</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>K-Lab could be an interesting way to just say, you know what, our program initial program is going to be something related to the.</td>
+                    </tr>
+                    <tr>
+                        <td>04:36</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Why not? I'm not sure it's going to be necessarily like that, but I'm just giving you an idea of how eventually that could happen.</td>
+                    </tr>
+                    <tr>
+                        <td>04:44</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Um, I I agree that you're not like if you do something like that when your Ministry of Higher Education selects the Kinshasa University as the beneficiary.</td>
+                    </tr>
+                    <tr>
+                        <td>04:55</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And then there is some Korean side here who will provide something like the element.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="block-detail hidden-detail" id="block-detail-8">
+            <h3>⏱ Block 08 (35:00-40:00)</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 10%;">Time</th>
+                        <th style="width: 25%;">Speaker / Type</th>
+                        <th style="width: 65%;">Transcription</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>00:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I would say, for example,</td>
+                    </tr>
+                    <tr>
+                        <td>00:02</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I'm not sure if it's could be, maybe it could be just like the master plan for like, I don't know, maybe it's going to be learning management system, like a solution. If it's a solution,</td>
+                    </tr>
+                    <tr>
+                        <td>00:12</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>then maybe some kind of feasibility study for learning management, blah blah, or it could be like within the digital capabilities program.</td>
+                    </tr>
+                    <tr>
+                        <td>00:21</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Within the digital capabilities program, because this is already now launched.</td>
+                    </tr>
+                    <tr>
+                        <td>00:27</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>the the issue, right? So something between the two.</td>
+                    </tr>
+                    <tr>
+                        <td>00:31</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I don't know how you will connect this point of LMS within this. I think this is something you need to contact the academic advisor and say, hey, I'm trying to connect my project to this is how how to...</td>
+                    </tr>
+                    <tr>
+                        <td>01:12</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>This kind of we need to create.</td>
+                    </tr>
+                    <tr>
+                        <td>01:14</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Yeah.</td>
+                    </tr>
+                    <tr>
+                        <td>01:15</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>Right?</td>
+                    </tr>
+                    <tr>
+                        <td>01:16</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So, please look at the example if this is something that could happen. If you're still saying, no, no, this is not going to make sense. I'm still interested in just the element as a tool. Then please ...</td>
+                    </tr>
+                    <tr>
+                        <td>01:34</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And please next week, please report me, I check the tools, this is the problem, this is where. I checked this one, this one, but no, I want that kind of feedback. So then we will contact the developer...</td>
+                    </tr>
+                    <tr>
+                        <td>01:47</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Sometimes when we contact the company, for example, at this time, when it was the Rican case, when we didn't know where to get the budget. And then we contacted the and said, actually, I can apply to ...</td>
+                    </tr>
+                    <tr>
+                        <td>02:58</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>No, I'm not I don't think I'm going to look like that.</td>
+                    </tr>
+                    <tr>
+                        <td>03:00</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>No, no, no, don't look like that.</td>
+                    </tr>
+                    <tr>
+                        <td>03:01</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Yeah. Like Sincit, like Sincit is actually not a full success, it's a partial success. We succeeded until the proof of concept and prototype, but we couldn't scale it up because of the political situa...</td>
+                    </tr>
+                    <tr>
+                        <td>03:12</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And that's the result of that project, right? It doesn't mean it's failed, it means, ah, we succeeded until certain stage and at some point that seed grew until these levels root. Some other seed grew...</td>
+                    </tr>
+                    <tr>
+                        <td>03:39</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But who knows? If I ask Sincit, if I ask SopTech, have you ever had other clients in Latin America where you reused the effort that was invested through the Sincit project? Maybe they already are usin...</td>
+                    </tr>
+                    <tr>
+                        <td>03:58</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So from our perspective of Korea, it might have a very good return on investment.</td>
+                    </tr>
+                    <tr>
+                        <td>04:03</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Also from the perspective of KISTI, because they are an R&D center, they say, we collaborated that one Korean company has an opportunity to enter the foreign market. Only that becomes KISTI's performa...</td>
+                    </tr>
+                    <tr>
+                        <td>04:17</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So don't think that they don't have, they also have a stake in the certain let's say non non capital benefit, right?</td>
+                    </tr>
+                    <tr>
+                        <td>04:26</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>Okay. And if is that Grace, is there anything else you want to?</td>
+                    </tr>
+                    <tr>
+                        <td>04:31</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>No, actually I just wanted to tell that one so I will just try to restructure.</td>
+                    </tr>
+                    <tr>
+                        <td>04:35</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Restructure with that. But before we structure, this is something I'm going to mention very, very right. I will follow through this next week.</td>
+                    </tr>
+                    <tr>
+                        <td>04:43</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I want to show you.</td>
+                    </tr>
+                    <tr>
+                        <td>04:49</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>Next week, when is it going to be the meeting, right?</td>
+                    </tr>
+                    <tr>
+                        <td>04:53</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>22nd, right?</td>
+                    </tr>
+                    <tr>
+                        <td>04:55</td>
+                        <td><span class="speaker-student">💬 CHILAKA</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Okay, so that's fine.</td>
+                    </tr>
+                    <tr>
+                        <td>04:56</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Our, our calendar doesn't need to match your.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="block-detail hidden-detail" id="block-detail-9">
+            <h3>⏱ Block 09 (40:00-45:00)</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 10%;">Time</th>
+                        <th style="width: 25%;">Speaker / Type</th>
+                        <th style="width: 65%;">Transcription</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>00:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>the demand validation evidence.</td>
+                    </tr>
+                    <tr>
+                        <td>00:03</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So, one of the things that Grace is saying, or for example what you just did,</td>
+                    </tr>
+                    <tr>
+                        <td>00:07</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>the the due diligence, what you just did in my opinion is called due diligence.</td>
+                    </tr>
+                    <tr>
+                        <td>00:12</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>You were saying I'm trying to find the AIA operations, the operations.</td>
+                    </tr>
+                    <tr>
+                        <td>00:16</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But you double check with your boss and your colleague, hey, how is it going? You still needing this?</td>
+                    </tr>
+                    <tr>
+                        <td>00:21</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And he confirmed, ah no, you know why? You already hired a copilot, blah blah blah.</td>
+                    </tr>
+                    <tr>
+                        <td>00:26</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>It means your demand evaluation due diligence confirmed that the demand is no longer there.</td>
+                    </tr>
+                    <tr>
+                        <td>00:32</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So,</td>
+                    </tr>
+                    <tr>
+                        <td>00:34</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>you turn out, okay?</td>
+                    </tr>
+                    <tr>
+                        <td>00:36</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So we need to pivot to another thing.</td>
+                    </tr>
+                    <tr>
+                        <td>00:39</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So, what is Chilaka doing now? Chilaka already, last Thursday you met, already?</td>
+                    </tr>
+                    <tr>
+                        <td>00:43</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So he met with the directors and he met with he's continued to doing his demand validation.</td>
+                    </tr>
+                    <tr>
+                        <td>00:49</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>The difference between an A+ and an A- is, you're not going to get a C.</td>
+                    </tr>
+                    <tr>
+                        <td>00:52</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>You already are working the entire team with me. You get an A because you're doing right.</td>
+                    </tr>
+                    <tr>
+                        <td>00:57</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But you're not going to get a C because you already did a lot of things.</td>
+                    </tr>
+                    <tr>
+                        <td>01:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So, the reason I I'm gonna really really look at these things. So please look carefully. I will provide these slides to you and I will explain one by one. But we are evaluating things in terms of thre...</td>
+                    </tr>
+                    <tr>
+                        <td>02:02</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And look at this, for example, this one. This is very important. Why? Because our vision, I-GDI vision is to provide a platform, global platform so that you guys become global digital leaders and Grac...</td>
+                    </tr>
+                    <tr>
+                        <td>02:30</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>this is very important, right? The linkage to your own role. So like for example you or you for example like in case of uh Mega, Mega, you are a researcher in the only and main research government fun...</td>
+                    </tr>
+                    <tr>
+                        <td>03:04</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So, this will create some track for your career.</td>
+                    </tr>
+                    <tr>
+                        <td>03:06</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I built this project together with Korea. So maybe later on who knows? In your agency, whenever there is another MOU issue with Korea, they're going to call Mega, Mega, please help us with this issue ...</td>
+                    </tr>
+                    <tr>
+                        <td>03:20</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So this kind of thing, I think we need to really, you see, does your institution own the problem or have influence over policy and adopted? This kind of question, key to Grace.</td>
+                    </tr>
+                    <tr>
+                        <td>03:29</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Yeah.</td>
+                    </tr>
+                    <tr>
+                        <td>03:29</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Grace, are you going to so when you're asking me, should I ask, should I make the Minister of Higher Education my owner of this project or not? These questions are key.</td>
+                    </tr>
+                    <tr>
+                        <td>03:39</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>My institution is the Kinshasa University.</td>
+                    </tr>
+                    <tr>
+                        <td>03:41</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So you want to decide what's going to be the institutional strategic linkage to these to your so think about these from, I I really tried to write it in kind of question mark so that you can check, am...</td>
+                    </tr>
+                    <tr>
+                        <td>03:56</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So that when I check, I say, oh okay.</td>
+                    </tr>
+                    <tr>
+                        <td>03:59</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Of course, there's going to be many gaps because there are pictures not it's a puzzle.</td>
+                    </tr>
+                    <tr>
+                        <td>04:03</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Still some parts are missing, right? Many parts.</td>
+                    </tr>
+                    <tr>
+                        <td>04:07</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But it should look like it should look like the puzzle is catching up, right?</td>
+                    </tr>
+                    <tr>
+                        <td>04:12</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So, I will explain about this next time.</td>
+                    </tr>
+                    <tr>
+                        <td>04:15</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And and you want to think about this when you are already improving your ICP key, yeah.</td>
+                    </tr>
+                    <tr>
+                        <td>04:20</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>This slide I'm I'm going to upload.</td>
+                    </tr>
+                    <tr>
+                        <td>04:22</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Another thing I very quickly I want to show is you guys had, if you read my syllabus, you said you might have known that I suggested we can have a syllabus to do one thing of the sector labs.</td>
+                    </tr>
+                    <tr>
+                        <td>04:33</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Sector labs idea was to make one class like a pay tank of that topic. So my idea was, depending on the topic you choose, we're going to go one one session, one session we're going to go all become exp...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="block-detail hidden-detail" id="block-detail-10">
+            <h3>⏱ Block 10 (45:00-50:00)</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 10%;">Time</th>
+                        <th style="width: 25%;">Speaker / Type</th>
+                        <th style="width: 65%;">Transcription</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>00:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But because you are only five people, maybe you have to work.</td>
+                    </tr>
+                    <tr>
+                        <td>00:01</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So for example, Grace, you are the CEO, and then Mega, you are the CTO, and then Aryang, you are the CFO, and then Chilaka, you are the C- What else? CPO? And then what else? And then you're all gonna...</td>
+                    </tr>
+                    <tr>
+                        <td>00:43</td>
+                        <td><span class="speaker-student">💬 STHEPEN</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>So it's like a pitch, right?</td>
+                    </tr>
+                    <tr>
+                        <td>00:44</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Not a pitch. It's a debate.</td>
+                    </tr>
+                    <tr>
+                        <td>00:45</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>It's not a pitch.</td>
+                    </tr>
+                    <tr>
+                        <td>00:46</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I want you to defend. What are the key decisions that you as a team are gonna take for your project? And why is it? For example, your technology is too advanced. What are the problems with being too a...</td>
+                    </tr>
+                    <tr>
+                        <td>00:59</td>
+                        <td><span class="speaker-student">💬 STHEPEN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>So like for example if it's too advanced and the market's too immature, what kind of challenges would we face when we're trying to integrate that into the market and what are the plans we have to put ...</td>
+                    </tr>
+                    <tr>
+                        <td>01:06</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Exactly. Exactly. And I want you to use the frameworks.</td>
+                    </tr>
+                    <tr>
+                        <td>01:09</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So not like, uh, I want you to use the frameworks, uh, the STP and the and the, all of them, the ones that you were reading.</td>
+                    </tr>
+                    <tr>
+                        <td>01:16</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So not like, uh, "We're going to expand into Europe." Oh, how are you going to expand into Europe? And what does that mean from the strategic point of view? And what are the risks, right?</td>
+                    </tr>
+                    <tr>
+                        <td>01:23</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So those are the discussions. So for example, I might call Grace, I'll say, "Grace, you are the CEO. What do you think you have to do in this scenario?" And then she's gonna tell me. And then I'll ask...</td>
+                    </tr>
+                    <tr>
+                        <td>01:36</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>"Aryang, what is your suggestion on the finance side if they were to take that decision?" And so on. So that you have to use the theories. And that's why I'm insisting, you need to read the theories o...</td>
+                    </tr>
+                    <tr>
+                        <td>02:00</td>
+                        <td><span class="speaker-student">💬 STHEPEN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Mmm. So like the question will be based around the frameworks we've been reading or what we've been learning in class, right?</td>
+                    </tr>
+                    <tr>
+                        <td>02:05</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So you need to use the frameworks to explain your strategy. Not just, "Oh, I'm gonna open a new market." And that's why, I mean, that's what's the, the, you know, the main point of this is to make you...</td>
+                    </tr>
+                    <tr>
+                        <td>02:16</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So not just on the surface, like, you're not just gonna tell me, "Oh, I'm gonna make it cheaper." You know, that's not a strategy. Right?</td>
+                    </tr>
+                    <tr>
+                        <td>02:22</td>
+                        <td><span class="speaker-student">💬 STHEPEN</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Right.</td>
+                    </tr>
+                    <tr>
+                        <td>02:22</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>You have to know what are the aspects around it. What does that mean to make it cheaper? Or what does that mean to make it more innovative? What does that mean? Right?</td>
+                    </tr>
+                    <tr>
+                        <td>02:29</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>That's why I'm insisting that you go deep in your explanation. That's what I want you to do. And that's the reason why I want you to do this because many of the things I tell you like in the class, li...</td>
+                    </tr>
+                    <tr>
+                        <td>02:50</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So that's the reason why I'm gonna be calling, uh, so I want to call you up and you, you have to be prepared as a team, as a startup team. You're a startup team now.</td>
+                    </tr>
+                    <tr>
+                        <td>02:59</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>So for the first week, we'll just have the debate, right? The discussion without presentation.</td>
+                    </tr>
+                    <tr>
+                        <td>03:04</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Exactly. Just discussion. You don't need any slides. Nothing. No, not because I want to make you even faster. Like, I want you to debate as soon as possible. Because sometimes when you do presentation...</td>
+                    </tr>
+                    <tr>
+                        <td>03:26</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>03:26</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So that's gonna be the first week. The week of October 23rd, if I'm not wrong, will be the first round of debate.</td>
+                    </tr>
+                    <tr>
+                        <td>03:33</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Then, um, I was thinking because we're gonna be doing two different assignments. Because the second assignment is going to be the essay. Remember, the essay is still valid. That's not removed.</td>
+                    </tr>
+                    <tr>
+                        <td>03:42</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>03:43</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So this is going to be your team project which is a debate of the cases that you have read for the handbook. Not for your project. This is not for your project.</td>
+                    </tr>
+                    <tr>
+                        <td>03:50</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Let me clarify that. The debate is on the cases that you have read from the handbook. Your project will be the second assignment.</td>
+                    </tr>
+                    <tr>
+                        <td>03:57</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So for example, I might say, "Grace, what does that mean in the context of your project?" But the debate in itself is on the cases that you have read from the handbook. Because I want you to apply tho...</td>
+                    </tr>
+                    <tr>
+                        <td>04:08</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>04:09</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>04:10</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>So we will have different themes assigned to each of us in that debate then?</td>
+                    </tr>
+                    <tr>
+                        <td>04:14</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I'm gonna separate you as a team. So, for example, I will tell you, I'll say, "Okay, Grace, Mega, Aryang, Chilaka, and Stephe, no, you don't have Stephe yet, right?" Oh, sorry. Five. Five people. So G...</td>
+                    </tr>
+                    <tr>
+                        <td>04:31</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Myself.</td>
+                    </tr>
+                    <tr>
+                        <td>04:32</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>No, that's you. Grace, Mega, Aryang, Chilaka, and...</td>
+                    </tr>
+                    <tr>
+                        <td>04:36</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Sthephen.</td>
+                    </tr>
+                    <tr>
+                        <td>04:37</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Sthephen. Thank you.</td>
+                    </tr>
+                    <tr>
+                        <td>04:38</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So you're gonna be a team. But for your team, I'm going to say Grace, you are the CEO, Mega, you are the CTO. You know, you have different roles within the team, so you can play different roles, so yo...</td>
+                    </tr>
+                    <tr>
+                        <td>04:50</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Right? So I want you to prepare, you know, okay, if I'm a CEO, what are the different things that I would analyze for that particular case? And what would be my strategy? What would be my debate strat...</td>
+                    </tr>
+                    <tr>
+                        <td>05:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And then I'll just, uh, like I told you, I'll interrupt you. I'll tell you, "What about this? What about that? Why do you think that's the right solution? What are the risks of that solution? What if ...</td>
+                    </tr>
+                    <tr>
+                        <td>05:15</td>
+                        <td><span class="speaker-student">💬 STHEPEN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>So it's like our own mini Shark Tank.</td>
+                    </tr>
+                    <tr>
+                        <td>05:17</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Yeah. Like a Shark Tank, but not pitching a product, but pitching a solution or a strategy for a problem. You know?</td>
+                    </tr>
+                    <tr>
+                        <td>05:25</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So, um, I was thinking to do, uh, five different debates.</td>
+                    </tr>
+                    <tr>
+                        <td>05:31</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Uh, no, wait. Five different topics. One debate, one debate. So that's why I said you are only five. So five topics. So I might choose one topic for Grace, one topic for Mega, one topic for Chilaka, o...</td>
+                    </tr>
+                    <tr>
+                        <td>05:46</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>No, sorry. This is for the second part. The essay. That's the other part. That's the individual part.</td>
+                    </tr>
+                    <tr>
+                        <td>05:51</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>This is your group project. So I'm gonna tell you, "Grace, Mega, Aryang, Chilaka, and Sthephen, you are a team. And I'm gonna give you a topic for your team." And I'm gonna tell you, "You are the CEO,...</td>
+                    </tr>
+                    <tr>
+                        <td>06:17</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>So one topic for the whole team.</td>
+                    </tr>
+                    <tr>
+                        <td>06:19</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Exactly. One topic for the whole team.</td>
+                    </tr>
+                    <tr>
+                        <td>06:22</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>06:22</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Because otherwise, it's very difficult because otherwise you will have to divide your time to five topics. It's too much.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="block-detail hidden-detail" id="block-detail-11">
+            <h3>⏱ Block 11 (50:00-55:00)</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 10%;">Time</th>
+                        <th style="width: 25%;">Speaker / Type</th>
+                        <th style="width: 65%;">Transcription</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>00:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>on each other. Sometimes you are for Megas, you are the CEO, but then again when she is the CEO you're gonna be the whatever, you know? So we have to set it up.</td>
+                    </tr>
+                    <tr>
+                        <td>00:09</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So I just this was my idea to just present to you, some idea of how we can because the just the just topic discussion I think is not enough.</td>
+                    </tr>
+                    <tr>
+                        <td>00:20</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And I want you to really use the chance to see if you understand what you were reading.</td>
+                    </tr>
+                    <tr>
+                        <td>00:25</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>One thing is to see this.</td>
+                    </tr>
+                    <tr>
+                        <td>00:29</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>This.</td>
+                    </tr>
+                    <tr>
+                        <td>00:30</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>This to read it, okay? It looks very simple, right?</td>
+                    </tr>
+                    <tr>
+                        <td>00:33</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>It's like, okay, the technology is this, the action is this.</td>
+                    </tr>
+                    <tr>
+                        <td>00:36</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But really do we understand what's behind in terms of what when I explain to you this kind of arrangements.</td>
+                    </tr>
+                    <tr>
+                        <td>00:42</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I'm talking about all of these issues but just generally.</td>
+                    </tr>
+                    <tr>
+                        <td>00:45</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But when you I want you to try to understand whatever this issue or this issue or or this framework in your own process, in your own case, to apply it to your own case.</td>
+                    </tr>
+                    <tr>
+                        <td>00:58</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So maybe we can choose maybe Chilaka, you remember I'm going to explain my old project.</td>
+                    </tr>
+                    <tr>
+                        <td>01:05</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>To present you what my old hyp- up to certain expen- extent is real.</td>
+                    </tr>
+                    <tr>
+                        <td>01:07</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Up to another one it's hypothetical because he hasn't called it yet.</td>
+                    </tr>
+                    <tr>
+                        <td>01:14</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But if he really tries to hypothetize, like really assume what will happen in his own story, okay?</td>
+                    </tr>
+                    <tr>
+                        <td>01:22</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Maybe it will help him later to write his ITP even in the next course following this course when you have to do the capstone project.</td>
+                    </tr>
+                    <tr>
+                        <td>01:29</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>This exercise will help you to say, 'Ah, this is how I want to build my project.'</td>
+                    </tr>
+                    <tr>
+                        <td>01:34</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And when I say build your project and talk about what's gonna be the way you're gonna build this initiative, how the money will flow.</td>
+                    </tr>
+                    <tr>
+                        <td>01:39</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>You're not gonna build it by yourselves alone.</td>
+                    </tr>
+                    <tr>
+                        <td>01:42</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>They are going to suggest, the Ministry of Higher Education will say, 'No, I'm not willing to do like that, but I'm willing to do it this and this and this.'</td>
+                    </tr>
+                    <tr>
+                        <td>01:47</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>They will provide a lot of of the rules because they are your institution will be like, 'Ah, yeah.'</td>
+                    </tr>
+                    <tr>
+                        <td>01:52</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Just let me know how business money will, no.</td>
+                    </tr>
+                    <tr>
+                        <td>01:55</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>It's gonna be a joint discussion, right?</td>
+                    </tr>
+                    <tr>
+                        <td>01:57</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But it's good that you already, 'Ah, you know what? We could do it this way, we could do it some way.' You could please let me know what what arrangement you would like with a Korean company.</td>
+                    </tr>
+                    <tr>
+                        <td>02:05</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>As an intermediary, we need to know what the different possibilities are so that we can help our stakeholders to brainstorm and to connect.</td>
+                    </tr>
+                    <tr>
+                        <td>02:13</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So my role in this course is to give you this kind of tools.</td>
+                    </tr>
+                    <tr>
+                        <td>02:17</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But I think if I just give them to you like this, theoretically, it will be very difficult for you to apply it.</td>
+                    </tr>
+                    <tr>
+                        <td>02:24</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>High level.</td>
+                    </tr>
+                    <tr>
+                        <td>02:26</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So I want to use the practical class to apply it.</td>
+                    </tr>
+                    <tr>
+                        <td>02:31</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So maybe we can use one class to apply one framework to each one of your stories.</td>
+                    </tr>
+                    <tr>
+                        <td>02:37</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And each one of you will contribute and discuss on how you think the story will go.</td>
+                    </tr>
+                    <tr>
+                        <td>02:42</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Just imagine how the story will go because up to up to some state.</td>
+                    </tr>
+                    <tr>
+                        <td>02:44</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>It's only imagination, but we can discuss, right?</td>
+                    </tr>
+                    <tr>
+                        <td>02:48</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But it's not gonna be empty imagination, it has to be evidence-based imagination, okay?</td>
+                    </tr>
+                    <tr>
+                        <td>02:54</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So what our theory of technology commercialization, what we have read about the process of technology commercialization says, and based on that, what kind of possible risks, what kind of possible impl...</td>
+                    </tr>
+                    <tr>
+                        <td>03:06</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay?</td>
+                    </tr>
+                    <tr>
+                        <td>03:07</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So I want to try to do that, maybe next class we will do ICP update and two classes from now we can prepare for this.</td>
+                    </tr>
+                    <tr>
+                        <td>03:14</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So I just wanted to give you the heads up that I'm planning to have this one.</td>
+                    </tr>
+                    <tr>
+                        <td>03:19</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And in between at some point between the sector labs, these sector labs are five sector labs, we will have the deadline of midterm.</td>
+                    </tr>
+                    <tr>
+                        <td>03:28</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So that's what because you're gonna keep progressing on ICP, on our class we're gonna be applying.</td>
+                    </tr>
+                    <tr>
+                        <td>03:34</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>This will help you a lot because some parts of your ICP, you have to imagine it because it's not real yet.</td>
+                    </tr>
+                    <tr>
+                        <td>03:39</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>You have to just imagine how it will happen to fill it up.</td>
+                    </tr>
+                    <tr>
+                        <td>03:43</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So I think um at some point the sector labs will help you progress in your project.</td>
+                    </tr>
+                    <tr>
+                        <td>03:52</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>Okay?</td>
+                    </tr>
+                    <tr>
+                        <td>03:53</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Yes.</td>
+                    </tr>
+                    <tr>
+                        <td>03:54</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>Sorry, I.</td>
+                    </tr>
+                    <tr>
+                        <td>03:56</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay, no.</td>
+                    </tr>
+                    <tr>
+                        <td>03:57</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>I I I don't still get the sec sector the sectoring.</td>
+                    </tr>
+                    <tr>
+                        <td>04:02</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>The sector lab.</td>
+                    </tr>
+                    <tr>
+                        <td>04:03</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Ah sector lab. Okay, okay.</td>
+                    </tr>
+                    <tr>
+                        <td>04:04</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Sector lab is just the way.</td>
+                    </tr>
+                    <tr>
+                        <td>04:05</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>The sector lab is just the way the the name I gave to that class.</td>
+                    </tr>
+                    <tr>
+                        <td>04:11</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>The class that will focus it's kind of a focus lab, let's call focus.</td>
+                    </tr>
+                    <tr>
+                        <td>04:15</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Focus lecture, let's call it.</td>
+                    </tr>
+                    <tr>
+                        <td>04:16</td>
+                        <td><span class="speaker-student">💬 STHEPEN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>It's like a workshop.</td>
+                    </tr>
+                    <tr>
+                        <td>04:17</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Is a workshop like.</td>
+                    </tr>
+                    <tr>
+                        <td>04:19</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So that lecture is going to be to focus on AI operations, on energy management systems.</td>
+                    </tr>
+                    <tr>
+                        <td>04:24</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But I didn't want to do it on on the technology.</td>
+                    </tr>
+                    <tr>
+                        <td>04:26</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Because the technology at the end of the day one of the biggest lessons of technology global technology commercialization.</td>
+                    </tr>
+                    <tr>
+                        <td>04:33</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Is the technology is kind of the least of the problems.</td>
+                    </tr>
+                    <tr>
+                        <td>04:36</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Ah, I I I heard that.</td>
+                    </tr>
+                    <tr>
+                        <td>04:38</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Yeah.</td>
+                    </tr>
+                    <tr>
+                        <td>04:39</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>The biggest issue is the market, the policy, the regulation, the stakeholders, there are all the bigger issues actually.</td>
+                    </tr>
+                    <tr>
+                        <td>04:45</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>NPA is the technology was there is perfect, it's running it's.</td>
+                    </tr>
+                    <tr>
+                        <td>04:48</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But the political issues, the budget, the.</td>
+                    </tr>
+                    <tr>
+                        <td>04:51</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>Right?</td>
+                    </tr>
+                    <tr>
+                        <td>04:52</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So I want I thought rather than doing the technology itself.</td>
+                    </tr>
+                    <tr>
+                        <td>04:57</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And because if there is some connections we can just do brief technology.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="block-detail hidden-detail" id="block-detail-12">
+            <h3>⏱ Block 12 (55:00-59:30)</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 10%;">Time</th>
+                        <th style="width: 25%;">Speaker / Type</th>
+                        <th style="width: 65%;">Transcription</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>00:00</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>thirty breathe and then the rest up on the market. But since that the areas are so diverse, then I thought maybe the best way is to apply the framework to tell the technology commercial to imagine how...</td>
+                    </tr>
+                    <tr>
+                        <td>00:16</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Especially in your stage and Grace stage and Steven stage, maybe they are more close to not imagination, maybe almost just really constructing a more secure, a more, let's say, concrete road map.</td>
+                    </tr>
+                    <tr>
+                        <td>00:30</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But you guys are still really just assuming what will be doing happen because we didn't even begin to identify stakeholder, right?</td>
+                    </tr>
+                    <tr>
+                        <td>00:38</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So, I think maybe him is going to be a little bit more closer to them. You two are in the same stage. So I think applying this could help and could could just bring up ideas on us from that session.</td>
+                    </tr>
+                    <tr>
+                        <td>00:50</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>To just really every day, every way, everybody on that day, let's find all kinds of players, all kind of marketing, all prepare ourselves to discuss and to help Anya. What kind of solutions he will ha...</td>
+                    </tr>
+                    <tr>
+                        <td>01:03</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay? So I'm going I'm thinking this we can do by the mid or end of April. And in that case, then I'm going to push the submission of that mid-term. I want you to discuss with Cesar, when the the subm...</td>
+                    </tr>
+                    <tr>
+                        <td>01:22</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Uh, then you can everybody have to discuss everybody hypothetical framework application of the technology market push or uh the market pull market pull technology push or market pull or Dolly framewor...</td>
+                    </tr>
+                    <tr>
+                        <td>01:40</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>And based on that you can like digest and then re-improve your ICP and then submit as a mid-term. Just to proceed with the formal formal process of this course.</td>
+                    </tr>
+                    <tr>
+                        <td>01:52</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay? So, um, yeah, I just wanted to announce you about that. So it's not, don't be afraid, it's not a big deal. It's just how I want us to to frame the discussion. Otherwise, it's going to be very op...</td>
+                    </tr>
+                    <tr>
+                        <td>02:07</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay.</td>
+                    </tr>
+                    <tr>
+                        <td>02:07</td>
+                        <td><span class="speaker-student">💬 STHEPEN</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>We're just going to get to discuss it, yeah?</td>
+                    </tr>
+                    <tr>
+                        <td>02:10</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Yeah, yeah, yeah. So I'm going to try to deliver more explanations through Cesar anyway through the week and maybe next week.</td>
+                    </tr>
+                    <tr>
+                        <td>02:18</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Next week, please prepare your pitch of the current status. So in your case, it's a whole new pitch. In Grace's case, I want to see almost a whole new pitch. In your case, next week I will have lunch ...</td>
+                    </tr>
+                    <tr>
+                        <td>02:35</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>And my side there is I just like to give to BLN.</td>
+                    </tr>
+                    <tr>
+                        <td>02:40</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>Uh, you mean BLN?</td>
+                    </tr>
+                    <tr>
+                        <td>02:41</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Yes.</td>
+                    </tr>
+                    <tr>
+                        <td>02:43</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>BLN is this set on enterprise, is that the, uh, you know, their point?</td>
+                    </tr>
+                    <tr>
+                        <td>02:46</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>Yes, yeah, yeah.</td>
+                    </tr>
+                    <tr>
+                        <td>02:47</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-response " style="font-size: 11px;">↩️ student_response</span></td>
+                        <td>Yeah, yeah.</td>
+                    </tr>
+                    <tr>
+                        <td>02:49</td>
+                        <td><span class="speaker-student">💬 GRACE</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>So there is that just like, I don't know, talk to BLN.</td>
+                    </tr>
+                    <tr>
+                        <td>02:51</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-question " style="font-size: 11px;">❓ teacher_question</span></td>
+                        <td>Talk to BLN? Ah, really?</td>
+                    </tr>
+                    <tr>
+                        <td>02:53</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Okay, then let me know the progress, let me know the progress of anything that happened because I will have the discussion with the Energy Research Center just to understand, for example, if there is ...</td>
+                    </tr>
+                    <tr>
+                        <td>03:04</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>So I want to understand here, from your family of startups or companies, who are having the good electricity management systems? Or here, do you have a good contact point at Samsung SBI? Can I contact...</td>
+                    </tr>
+                    <tr>
+                        <td>03:25</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I'm also waiting for my friend who is from the Indonesia ecosystem. I think she's Korean, but she's been working, she's been working in many incubators in Indonesia. So I think he might have an intere...</td>
+                    </tr>
+                    <tr>
+                        <td>03:42</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Yeah, but maybe after I'm meeting with my</td>
+                    </tr>
+                    <tr>
+                        <td>03:43</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Yeah, maybe you will have a more discussion. Okay?</td>
+                    </tr>
+                    <tr>
+                        <td>03:48</td>
+                        <td><span class="speaker-student">💬 STHEPEN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Thank you very much, guys.</td>
+                    </tr>
+                    <tr>
+                        <td>03:49</td>
+                        <td><span class="speaker-student">💬 UNKNOWN</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Thank you very much, professor.</td>
+                    </tr>
+                    <tr>
+                        <td>03:51</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>Very messy class today. Next time. Next time, so next week is pitching and the week after that is sector labs.</td>
+                    </tr>
+                    <tr>
+                        <td>04:01</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-question " style="font-size: 11px;">❓ student_question</span></td>
+                        <td>Professor, is it going to still be EPT or the one?</td>
+                    </tr>
+                    <tr>
+                        <td>04:06</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>I want you to practice.</td>
+                    </tr>
+                    <tr>
+                        <td>04:08</td>
+                        <td><span class="speaker-student">💬 ARYANG</span><br><span class="type-comment " style="font-size: 11px;">💬 student_comment</span></td>
+                        <td>Presentation.</td>
+                    </tr>
+                    <tr>
+                        <td>04:09</td>
+                        <td><span class="speaker-ileana">📖 ILEANA</span><br><span class="type-comment " style="font-size: 11px;">💬 teacher_statement</span></td>
+                        <td>But let's make it 10 minutes. Short? Because then if you did 10 minutes, it's 50 minutes, maybe one hour. And then we have two more hours to discuss deeply the problems of each one of you. So let's ma...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <footer>
+        <p>Class Analytics | April 7, 2026 | Complete Transcription with Block View</p>
+    </footer>
+
+    <script>
+        function toggleBlock(blockNum) {
+            const detail = document.getElementById('block-detail-' + blockNum);
+            const detailSection = document.getElementById('detail-section');
+            
+            // Close all other blocks
+            document.querySelectorAll('.block-detail').forEach(el => {
+                if (el !== detail) {
+                    el.classList.remove('active');
+                }
+            });
+            
+            // Toggle current block
+            detail.classList.toggle('active');
+            
+            // Show/hide detail section
+            if (document.querySelector('.block-detail.active')) {
+                detailSection.style.display = 'block';
+            } else {
+                detailSection.style.display = 'none';
+            }
+            
+            // Scroll to detail
+            if (detail.classList.contains('active')) {
+                setTimeout(() => {
+                    detail.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }, 100);
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,318 @@
+{
+  "block": 10,
+  "time_range": "45:00-50:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh, it's, yeah, it's time more than 40.",
+      "timestamp_abs": "45:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, I will be because I interrupted a lot. I'll give you five more eight more minutes to that for you to know I'll send you other questions.",
+      "timestamp_abs": "45:06"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh, I have",
+      "timestamp_abs": "45:11"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So why the",
+      "timestamp_abs": "45:12"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I think uh uh I have a better number I was gonna tell you",
+      "timestamp_abs": "45:13"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, question did.",
+      "timestamp_abs": "45:16"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So she used some kind of, uh, reference citation and she put the reference at the very end. But any, any time she's showing the numbers called, right? I suppose.",
+      "timestamp_abs": "45:17"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "45:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Um, now, another thing is, why they what in your on purpose can fix that?",
+      "timestamp_abs": "45:34"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They also",
+      "timestamp_abs": "45:47"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There's another thing I want to show you one thing.",
+      "timestamp_abs": "45:48"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They can do this very light.",
+      "timestamp_abs": "45:50"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I like it.",
+      "timestamp_abs": "45:52"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Please everybody pay attention.",
+      "timestamp_abs": "45:52"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Even though Mega doesn't, she's not an expert in the energy, she right she already talked to the colleagues.",
+      "timestamp_abs": "45:54"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But she did a very good thing, which is that she provided an imaginary for now. This is yeah, just imaginary. But it provides a very good idea to me to know to me, okay, what's how far she needs to go. What is the scope of the things that she's looking for.",
+      "timestamp_abs": "46:04"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So she gave like, okay, mutual coordination, and a proposal submission.",
+      "timestamp_abs": "46:28"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is much better than by because she provided a really one-step, one like a step-by-step guidance.",
+      "timestamp_abs": "46:32"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not saying everybody of you need exactly the same thing here, but I think it's a very good example.",
+      "timestamp_abs": "46:45"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, that you can refer to. And even I love that she provided dust and the out, dust and the output.",
+      "timestamp_abs": "46:52"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So from this dust she wants to receive this, from this dust she wants to receive this.",
+      "timestamp_abs": "47:00"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you also can say, okay, your inclination, the next steps, then we can review it, we can stand, because sometimes you are giving too many that you're not going to, this one we can solve it right away in my meaning.",
+      "timestamp_abs": "47:05"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But this other I guess, because we're gonna have like some point, this is the easy part, just talking about us.",
+      "timestamp_abs": "47:18"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is the easy part.",
+      "timestamp_abs": "47:30"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Once I say, okay, Kisty, start talking to Chilaka, and we're gonna set up a meeting with Chilaka, Chilaka's boss, and then it gets tricky.",
+      "timestamp_abs": "47:32"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because we're dealing with other players that are far away, and we're going to take a lot of people to professional advice, right? So we need to, this early stage when we're planning how we're trying to do things.",
+      "timestamp_abs": "47:46"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a very nice opportunity to draft more or less how we're strategically going to approach this part, okay?",
+      "timestamp_abs": "47:59"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "professor.",
+      "timestamp_abs": "48:11"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "If you say that the proposed solution of the proposal. That means to me that means that the potential between maybe my my from my country to another.",
+      "timestamp_abs": "48:14"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It depends on the meaning of the proposal.",
+      "timestamp_abs": "48:39"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "for for the proposal.",
+      "timestamp_abs": "48:40"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Who?",
+      "timestamp_abs": "48:45"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "If you say no, I need the term proposal.",
+      "timestamp_abs": "48:46"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Term?",
+      "timestamp_abs": "48:48"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It well, for a second, in this case I think she's talking about a soft proposal.",
+      "timestamp_abs": "48:49"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "A soft proposal. It's not a final proposal.",
+      "timestamp_abs": "48:55"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "She's talking about a draft collaboration proposal, so she's just still drafting. This I C P is the initial draft of the collaboration proposal, if you think about it.",
+      "timestamp_abs": "48:58"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Almost everything contained here or some parts, not all, is probably automatically going to start drafting the collaboration proposal.",
+      "timestamp_abs": "49:16"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What kind of things you want to put in your proposal?",
+      "timestamp_abs": "49:24"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "What is the role of Korea? What is the role of one of your two state callers? Who's gonna put what? Who is going to be on each team? Who's going to be responsible for what?",
+      "timestamp_abs": "49:26"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Uh-huh.",
+      "timestamp_abs": "49:38"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Probably in the we found the proposal sometimes an NDA is needed.",
+      "timestamp_abs": "49:39"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "This is not social to reach that state. They they have to be like a commitment in feel short.",
+      "timestamp_abs": "49:44"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Probably before that stage we will try to have like a how to intention where you guys send a letter.",
+      "timestamp_abs": "49:52"
+    }
+  ]
+}

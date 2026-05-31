@@ -1,0 +1,186 @@
+{
+  "block": 26,
+  "time_range": "125:00-127:51",
+  "utterances": [
+    {
+      "timestamp": "00:32",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "125:32"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, you knew that.",
+      "timestamp_abs": "125:32"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah, I knew that.",
+      "timestamp_abs": "125:34"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "So, Professor Meng mentioned that, uh, there is, uh, we have to, uh, revise my ICB, our ICB, uh, the deadline is at 8th of May.",
+      "timestamp_abs": "125:35"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "So, for my case and Aryang, we have to make it, uh, before the 8th.",
+      "timestamp_abs": "125:41"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Hmm.",
+      "timestamp_abs": "125:43"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "125:43"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Uh... So, uh, after after that presentation, so we have to revise it for the version one for version four.",
+      "timestamp_abs": "125:44"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Version four.",
+      "timestamp_abs": "125:46"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Version four.",
+      "timestamp_abs": "125:47"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "MEGA",
+      "text": "No, I think for Aryang, we have a meeting before, right?",
+      "timestamp_abs": "125:47"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yeah, yeah, yeah.",
+      "timestamp_abs": "125:49"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Uh, four, for for May, I for May, four.",
+      "timestamp_abs": "125:49"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay. And then, uh, uh.",
+      "timestamp_abs": "125:51"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "ARYANG",
+      "text": "Uh, afternoon, right?",
+      "timestamp_abs": "125:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "STHEPEN",
+      "text": "It's gonna be next Monday?",
+      "timestamp_abs": "125:53"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "125:55"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "directed_to": "STHEPEN",
+      "text": "Next Monday?",
+      "timestamp_abs": "125:55"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "125:56"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "STHEPEN",
+      "text": "Next Monday 4?",
+      "timestamp_abs": "125:57"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "125:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "We have a meeting with Aryang.",
+      "timestamp_abs": "125:59"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "At 4.",
+      "timestamp_abs": "126:00"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "4:30.",
+      "timestamp_abs": "126:00"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, if you want, maybe I can ask Professor Ileana if we can meet you after Aryang's.",
+      "timestamp_abs": "126:01"
+    }
+  ]
+}

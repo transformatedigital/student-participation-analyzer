@@ -1,0 +1,521 @@
+{
+  "block": 2,
+  "time_range": "05:00-10:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "share with you one file of one company I have a meeting with this first. That company is called Raon, R A O N.",
+      "timestamp_abs": "05:00"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I am thinking that company could be Grace partner.",
+      "timestamp_abs": "05:05"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Originally I found that company for Grace, but when the the CEO the board of director sent me the file, I saw they have a lot of experience in cybersecurity and IT issues.",
+      "timestamp_abs": "05:10"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And they have been working together with many Korean companies and institutions on this. So, I might not take because that company I found because they are the company who work",
+      "timestamp_abs": "05:21"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "for the Costa Rican National Digital Wallet, and they the initial initial project was the student ID for one of the biggest university in Costa Rica.",
+      "timestamp_abs": "05:30"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It was a ODA project founded by the Korea NIA, the National Information Security Agency.",
+      "timestamp_abs": "05:43"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I found the company because of you, but it mean when I saw the brochure, I thought",
+      "timestamp_abs": "05:48"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "they also have an interesting experience with this. So, I either they could be willing to do ODA in one and found one and find the Korean funds to do both, or they might leave it to another company who they know is doing this with SKT and they can maybe introduce me to a different partner.",
+      "timestamp_abs": "05:54"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Parallelly, I'm also knocking the door on Kisa.",
+      "timestamp_abs": "06:09"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "So, that's why for you, Stephen, I make initially",
+      "timestamp_abs": "06:12"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I initially made an approach to Kisa.",
+      "timestamp_abs": "06:17"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Kisa has a department of international cooperation.",
+      "timestamp_abs": "06:21"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And that department has a uh let's say an expert for regions, like American region, and Asian region like that.",
+      "timestamp_abs": "06:23"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I realized they don't have African region department.",
+      "timestamp_abs": "06:30"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the African area, maybe they are either not so prioritizing or I don't know why the National International Cooperation Agency initiative does not have a regional expert for Africa.",
+      "timestamp_abs": "06:33"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I'm not sure what is going on. I just called and I I called my friend who worked with Kisa for Latin America, and he told me he would talk to the director on what is the best way for us to approach Kisa.",
+      "timestamp_abs": "06:39"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay?",
+      "timestamp_abs": "06:46"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "So I think we are also knocking the door for two things in your case, Stephen.",
+      "timestamp_abs": "06:47"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "One thing is Kisa because your problem, a little similar to Megan, could be separated into.",
+      "timestamp_abs": "06:52"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Can we make a strategy like you're saying here?",
+      "timestamp_abs": "07:00"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Steven.",
+      "timestamp_abs": "07:05"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Both.",
+      "timestamp_abs": "07:07"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think",
+      "timestamp_abs": "07:07"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "UNKNOWN",
+      "type": "unknown",
+      "text": "[inaudible]",
+      "timestamp_abs": "07:09"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "You are right.",
+      "timestamp_abs": "07:09"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You are right.",
+      "timestamp_abs": "07:10"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You are right.",
+      "timestamp_abs": "07:11"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You are right.",
+      "timestamp_abs": "07:12"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So,",
+      "timestamp_abs": "07:12"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "probably if Kisa is the Kisa is they have know-how on public policy and regulation.",
+      "timestamp_abs": "07:13"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, we could do like a little bit. We have two ways we can do a consulting and planning collaboration",
+      "timestamp_abs": "07:17"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "before actually doing a technology transfer project.",
+      "timestamp_abs": "07:24"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "Or we can go parallel. In your case, it's a little bit more visible to do parallel because the solution and the scale is more specific and it's less complex.",
+      "timestamp_abs": "07:28"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In the case of is very complex situation.",
+      "timestamp_abs": "07:35"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "In your case, maybe we can find",
+      "timestamp_abs": "07:38"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I would say,",
+      "timestamp_abs": "07:40"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Hmm.",
+      "timestamp_abs": "07:41"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm going to take this in your brain.",
+      "timestamp_abs": "07:43"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Grace is Rura, right?",
+      "timestamp_abs": "07:46"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "No, my name is Nita.",
+      "timestamp_abs": "07:47"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "timestamp_abs": "07:48"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "GRACE",
+      "text": "So this is again where I'm a little bit confused because your case is you have many stakeholders.",
+      "timestamp_abs": "07:49"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, let's say Nita.",
+      "timestamp_abs": "07:52"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Nita is for IT system.",
+      "timestamp_abs": "07:53"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "07:55"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "And Rura is a telecom?",
+      "timestamp_abs": "07:55"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Rura is a government agency that regulates the telecom.",
+      "timestamp_abs": "07:57"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "08:01"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "So maybe probably your case is like Rura and Nita collaborate.",
+      "timestamp_abs": "08:02"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And under Nura there's a telecom.",
+      "timestamp_abs": "08:06"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "08:08"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "08:08"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then Nita regulates the IT ecosystem, so they also provide some guidance to the telco on how to verify your where.",
+      "timestamp_abs": "08:08"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "We don't go",
+      "timestamp_abs": "08:13"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "We don't go directly to telecom.",
+      "timestamp_abs": "08:14"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "We go directly to, you know, in my government, we have like, you need to you need to as as a still key.",
+      "timestamp_abs": "08:15"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "This is my IT institution.",
+      "timestamp_abs": "08:20"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "08:22"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "This is Nita, my institution.",
+      "timestamp_abs": "08:23"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "08:25"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And this is IT database.",
+      "timestamp_abs": "08:26"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "That's where it collects the database.",
+      "timestamp_abs": "08:27"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "08:28"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And then there is Rura. This is also a government agency.",
+      "timestamp_abs": "08:29"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "08:31"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And also there is a we, we need,",
+      "timestamp_abs": "08:31"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "in order to talk to telecommunication companies, we don't we don't go directly.",
+      "timestamp_abs": "08:34"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "We go through Rura.",
+      "timestamp_abs": "08:40"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Because Rura is the director of the telecommunication.",
+      "timestamp_abs": "08:41"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They are the one who say you have to do this, you have to do this.",
+      "timestamp_abs": "08:45"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "08:48"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And they need to know.",
+      "timestamp_abs": "08:49"
+    }
+  ]
+}

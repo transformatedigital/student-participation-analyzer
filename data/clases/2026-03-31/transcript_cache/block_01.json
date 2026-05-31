@@ -1,0 +1,493 @@
+{
+  "block": 1,
+  "time_range": "00:00-05:00",
+  "utterances": [
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "example, Chilaka is a very good example for this because we just directly said, 'I want to be stakeholders and all.'",
+      "timestamp_abs": "00:01"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You're pulling them in.",
+      "timestamp_abs": "00:09"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And in your case, you have to deliver. But you told me already, you're gonna go for problem-driven.",
+      "timestamp_abs": "00:11"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Uh-huh.",
+      "timestamp_abs": "00:14"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, and all that storyline, it's okay.",
+      "timestamp_abs": "00:15"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "00:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But then in your case now, this situation is important. See.",
+      "timestamp_abs": "00:20"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "00:26"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This storyline, first thing.",
+      "timestamp_abs": "00:29"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Also for Arya.",
+      "timestamp_abs": "00:32"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "For finding the current partner, right?",
+      "timestamp_abs": "00:35"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You need you it's like an it's like a broad iteration because we have a national kind of problem, your case study.",
+      "timestamp_abs": "00:36"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "But how we're gonna how we're gonna build the problem, because we need to find the problem. You previously said it's gonna be problem-driven or technology-push?",
+      "timestamp_abs": "00:44"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Problem-driven.",
+      "timestamp_abs": "00:54"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Problem-driven. This is the way, right? This is the order.",
+      "timestamp_abs": "00:55"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you have a problem, which is the issue of operations, turnover, numbers.",
+      "timestamp_abs": "00:59"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But and you have already established some draft needs.",
+      "timestamp_abs": "01:05"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For example, you're telling me you need um an AI related knowledge base, right?",
+      "timestamp_abs": "01:09"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "01:15"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now, about this, we already said, okay, we need to establish how, how we're gonna say that these needs, how we're gonna establish the structure of these needs to find the right partner.",
+      "timestamp_abs": "01:17"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let's discuss last time, there's gonna be knowledge management director or just IT service management.",
+      "timestamp_abs": "01:30"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah, yeah, yeah.",
+      "timestamp_abs": "01:34"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah? Eventually, maybe, sorry, in the case of of you and Steven, it's kind of basic, this is the whole process that we do.",
+      "timestamp_abs": "01:38"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one, kind of problem, this and this, you almost clear step one.",
+      "timestamp_abs": "01:49"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This and this, we already started, but it's ongoing.",
+      "timestamp_abs": "01:54"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Number three.",
+      "timestamp_abs": "01:58"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And depending on this, we can figure out this back.",
+      "timestamp_abs": "01:59"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Into the problem, how we look, for example, in your case, depending on how we find the partner, then it might impact how we define the problem for it to match in the case of Steven, maybe it's less.",
+      "timestamp_abs": "02:03"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Many is less. In the case of yeah, problem-driven has to be at least the big thing. It's good to be the big thing.",
+      "timestamp_abs": "02:14"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to find that hook to find the even if SK would be interested, who is SK? Who is behind SK?",
+      "timestamp_abs": "02:20"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We need to understand that well.",
+      "timestamp_abs": "02:28"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm gonna be meeting with Snam, probably uh on Thursday about this. And I'm gonna see how far she can get without you.",
+      "timestamp_abs": "02:30"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And or how, what help she needs from me to see me escape for you. We need to quickly see you.",
+      "timestamp_abs": "02:38"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If if it's something that we can catch quickly and we can sit down with Escape and like have meeting with them and see if there's an opportunity, great.",
+      "timestamp_abs": "02:44"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if not.",
+      "timestamp_abs": "02:53"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is like a dating situation, you know? If it goes well, it goes well, if not, no lingering feelings.",
+      "timestamp_abs": "02:55"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, uh, we have to do that kind of review.",
+      "timestamp_abs": "03:03"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Arya, just to wrap up when we discussed yesterday, kind of we are in this in this.",
+      "timestamp_abs": "03:05"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sometimes, because depending on the partner we we get, it might change, it's better to present the project in this way, so that you know, so that it's attractive for the program, it's attractive for the project, it's attractive for the partner.",
+      "timestamp_abs": "03:11"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "03:25"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mega.",
+      "timestamp_abs": "03:25"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Sorry.",
+      "timestamp_abs": "03:26"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Can you pray for me?",
+      "timestamp_abs": "03:27"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[laughter]",
+      "timestamp_abs": "03:28"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "I'm coming with you.",
+      "timestamp_abs": "03:30"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah. [laughter] No, I'm just kidding.",
+      "timestamp_abs": "03:31"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "03:34"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "03:38"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mega, actually you're in charge.",
+      "timestamp_abs": "03:39"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Stop that.",
+      "timestamp_abs": "03:42"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm sure I will.",
+      "timestamp_abs": "03:43"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "03:45"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I have a very, very, I have a very sexy voice for you today.",
+      "timestamp_abs": "03:46"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[laughter]",
+      "timestamp_abs": "03:50"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "The instructor.",
+      "timestamp_abs": "03:51"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I was just quickly explaining about problem-driven and technology-push.",
+      "timestamp_abs": "03:56"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think from two weeks ago when we met and I theoretically explained this flow versus my comments, the discussion of yesterday, it's more and more lagging, lagging in your brains.",
+      "timestamp_abs": "04:02"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "I feel, is it is it correct?",
+      "timestamp_abs": "04:14"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Are you understanding better the difference between one approach and the other?",
+      "timestamp_abs": "04:17"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "04:20"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I was putting here that not only in this ICP, but along your journey through GPIT track, whether it's masters or PhD, or after you graduate, you can keep using these tracks to do collaboration projects with Korea.",
+      "timestamp_abs": "04:21"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "To use Korean as official assistance budgets to do collaboration, whether it is in that track or in this track.",
+      "timestamp_abs": "04:37"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Always.",
+      "timestamp_abs": "04:45"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "As long as this problem exists, this opportunity exists.",
+      "timestamp_abs": "04:47"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that is something I wanted you to keep in mind.",
+      "timestamp_abs": "04:50"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "04:52"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sorry, this is for me.",
+      "timestamp_abs": "04:54"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[laughter]",
+      "timestamp_abs": "04:56"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I need a teacher training.",
+      "timestamp_abs": "04:58"
+    }
+  ]
+}

@@ -1,0 +1,1317 @@
+{
+  "session": "2026-05-12",
+  "generated_at": "2026-05-31T12:21:00",
+  "count": 131,
+  "questions": [
+    {
+      "timestamp": "02:39",
+      "topic": "Team formation",
+      "question": "Stephen, were you part of the same team (Aia and Cesar) during the last session?",
+      "raw_question": "Stephen, you were part of their team last time, I believe.",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "I was with Aia and Cesar.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "02:54",
+      "topic": "Number of teams",
+      "question": "To confirm, were there only two teams in total during the last session?",
+      "raw_question": "So it was two teams last time?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah, yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "02:56",
+      "topic": "Number of teams",
+      "question": "So, to be precise, were there only two teams last time?",
+      "raw_question": "Ah, two teams only?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "No, we had six.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "06:48",
+      "topic": "Gate model familiarity",
+      "question": "Grace, are you familiar with the Gate model, which involves checkpoints for project development?",
+      "raw_question": "And I don't know if you're familiar with the Gate model. Are you familiar with the Gate model?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "No.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "06:51",
+      "topic": "Gate model familiarity",
+      "question": "Since Grace isn't familiar with it, has anyone else heard about or is familiar with the Gate model?",
+      "raw_question": "No. Anyone? You have heard about the gate model?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "No.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "06:55",
+      "topic": "Scrum methodology familiarity",
+      "question": "Since you're not familiar with the Gate model, are some of you familiar with the Scrum methodology?",
+      "raw_question": "No. Okay. I guess, uh, uh, some of you are familiar with the Scrum methodology? Yeah?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "14:23",
+      "topic": "Problem type for collaboration",
+      "question": "Considering what we've discussed about unsuitable projects (like buying a license), what type of problem do you think we should focus on for a collaboration opportunity?",
+      "raw_question": "What do you think? What type of I think-",
+      "answered_by": "Chilaka",
+      "score": 4,
+      "response_text": "It has to involve collaboration and a part of an innovation idea.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "14:36",
+      "topic": "Definition of innovation",
+      "question": "Mega, following up on Chilaka's point that a suitable project needs 'a part of an innovation idea,' what exactly constitutes an innovation idea?",
+      "raw_question": "And what is an innovation idea, Mega? What is an innovation idea?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "For uh,",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "14:41",
+      "topic": "Definition of innovation",
+      "question": "Mega, Chilaka suggests a project needs to be part of an 'innovation idea.' In your opinion, what is an innovation idea?",
+      "raw_question": "No, for you, he's saying it has to be a part of an innovation idea. What is an innovation idea?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Uh,",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "14:49",
+      "topic": "Scope of innovation",
+      "question": "Can anything at all be considered an innovation idea, or are there specific criteria?",
+      "raw_question": "Any anything could be an innovation idea?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "No. If it is proven.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "15:00",
+      "topic": "Innovation criteria",
+      "question": "Mega, regarding your statement that an innovation idea must be 'proven,' can you elaborate further on what you mean, or what criteria make an idea 'proven'?",
+      "raw_question": "Can I do that?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "It depends on the market.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "15:04",
+      "topic": "Market dependency for innovation",
+      "question": "Mega, you mentioned that whether an innovation idea is 'proven' depends on the market. Can you explain why it depends on the market?",
+      "raw_question": "Why? Why does it depend on the market?",
+      "answered_by": "Chilaka",
+      "score": null,
+      "response_text": "Because...",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "15:10",
+      "topic": "Innovation value",
+      "question": "Can anyone help Mega clarify this? What's the critical valorization point (or value-creation point) for any innovation idea?",
+      "raw_question": "Anybody can help Mega? What's the critical valorization point for any innovation idea?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Failure? Value.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "15:36",
+      "topic": "Value beneficiaries",
+      "question": "When we say an innovation idea needs to create value, for whom should this value be created? For example, is it value only for an individual's financial gain?",
+      "raw_question": "Value for Aryang's wallet?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "For the citizen.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "21:14",
+      "topic": "Device features",
+      "question": "Aryang, since this device seems to have drawing capabilities, shouldn't it also have a normal blackboard function?",
+      "raw_question": "Because it has that so it must have a normal blackboard thing, no?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No. No, it doesn't.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "21:29",
+      "topic": "Device interface",
+      "question": "You mentioned this device has its own software for a blackboard function; where can I find it on the screen?",
+      "raw_question": "Where is it?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Here. Uh, here.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "33:40",
+      "topic": "Conference findings",
+      "question": "Aryang, regarding the partners you found at the conference, have you already shared what you did with the class?",
+      "raw_question": "Did you share with them what you did?",
+      "answered_by": "Aryang",
+      "score": 5,
+      "response_text": "No. Because for tomorrow's class, I will present about the partner that I found in the AI Expo.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "33:52",
+      "topic": "Class schedule",
+      "question": "Aryang, you mentioned presenting your findings in a class tomorrow; which specific class are you referring to?",
+      "raw_question": "Tomorrow class you'll have another class for what?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "For the special topics. The class that changed to the AI conference itself.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "34:18",
+      "topic": "Conference findings summary",
+      "question": "Aryang, in that case, can you briefly share now what you're going to share tomorrow, because I want to continue our conversation based on that?",
+      "raw_question": "In that case, can you share just briefly what or you gonna share tomorrow? Because I wanna continue the conversation based on that. That's why.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah. Okay. So basically, yesterday...",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "43:00",
+      "topic": "Project phase",
+      "question": "Stephen, in which of the project development phases (discovery, validation, acceleration, or scale-up) do you think your current project falls?",
+      "raw_question": "Stephane?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Hmm. Uh.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "43:03",
+      "topic": "Project phase",
+      "question": "Stephen, considering the project development phases we just discussed, where do you think your current project falls?",
+      "raw_question": "Where do you think your project falls in this?",
+      "answered_by": "Sthepen",
+      "score": 4,
+      "response_text": "Well, I think mine currently is in the discovery phase.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "43:18",
+      "topic": "Project validation",
+      "question": "Stephen, given that your project is currently in the discovery phase, would you need to validate your idea before moving forward?",
+      "raw_question": "Is it something that you would need to validate it?",
+      "answered_by": "Sthepen",
+      "score": 4,
+      "response_text": "Yeah, it needs to be validated because I'm not so sure if my idea is good enough for them to take.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "43:31",
+      "topic": "Validation method",
+      "question": "Stephen, since your project idea needs validation, how do you plan to go about validating it?",
+      "raw_question": "And how are you going to validate your idea?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "Uh, through a market study or uh...",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "43:47",
+      "topic": "Project phase",
+      "question": "Grace, regarding the project development phases, where does your project currently stand?",
+      "raw_question": "What about your project, uh, Grace?",
+      "answered_by": "Grace",
+      "score": 3,
+      "response_text": "Uh, I would say validation.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "43:58",
+      "topic": "Validation method",
+      "question": "Grace, since your project is in the validation phase, how do you plan to validate your idea?",
+      "raw_question": "Okay, and how would you go about trying to validate it?",
+      "answered_by": "Grace",
+      "score": 3,
+      "response_text": "Uh, through interviews with people, to see if they're interested. If they are interested, I would continue it in the acceleration phase.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "44:15",
+      "topic": "Project phase",
+      "question": "Aryang, in which of the project development phases (discovery, validation, acceleration, or scale-up) do you think your current project falls?",
+      "raw_question": "Aryang.",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "I think mine is in acceleration.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "44:20",
+      "topic": "Business case",
+      "question": "Aryang, since your project is in the acceleration phase, do you already have a developed business case for it?",
+      "raw_question": "You have a business case?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes. I already made a business case.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "44:27",
+      "topic": "Value proposition target",
+      "question": "Aryang, and for whom is that value proposition intended or created?",
+      "raw_question": "And for who.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "44:33",
+      "topic": "Project phase",
+      "question": "Who else would like to share which project development phase their current project falls into?",
+      "raw_question": "Who else?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Mega. I would say in the discovery.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "44:42",
+      "topic": "Project idea",
+      "question": "Mega, since your project is in the discovery (ideas) phase, what kind of project are you currently thinking about?",
+      "raw_question": "Okay, and what kind of project are you thinking about?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "It's a mobile application for the university.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "44:52",
+      "topic": "Value Proposition",
+      "question": "Regarding the mobile application project for the university, what would be its specific value proposition?",
+      "raw_question": "And what would be the value proposition of that.",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "A lot.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "45:13",
+      "topic": "Project Diffusion",
+      "question": "In the context of a project having a credible pathway for adoption, diffusion, and financing, do you understand what 'diffusion' means?",
+      "raw_question": "So the project has a credible pathway for adoption, diffusion, financing. You know what diffusion is?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Diffusion is to scale it up.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "50:53",
+      "topic": "Read List Item",
+      "question": "Who would like to read the third item on the list of steps?",
+      "raw_question": "who would like to read it?",
+      "answered_by": "Mega",
+      "score": 4,
+      "response_text": "Business case analysis. Define market segments, validate problem and proposed solution, define impact metrics, evaluate competition, identify resources, capabilities and key assumptions.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "51:10",
+      "topic": "Read List Item",
+      "question": "Grace, please read the fourth item on the list, which is the last one of this first stage.",
+      "raw_question": "Grace, please.",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "Market validation. Engage and interview key stakeholders, identify willingness to pay, quantify unmet need, identify target customers and scale of impact.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "52:00",
+      "topic": "Identify Student",
+      "question": "Who just volunteered to read the sixth item?",
+      "raw_question": "Who is it?",
+      "answered_by": "Mega",
+      "score": 4,
+      "response_text": "Mega.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "52:23",
+      "topic": "Strategic Intent Rationale",
+      "question": "You mentioned 'solving a real problem' as the strategic intent for your project in this class. Why do you choose that as your strategic intent?",
+      "raw_question": "Why?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "It's about solving real problem.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "52:25",
+      "topic": "Problem Validation Strategy",
+      "question": "You stated that the strategic intent is about solving a real problem. What does that mean, and how do you intend to convey that this is a real problem?",
+      "raw_question": "And what does that mean? How do you want to convey that this is a real problem?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "We want to show that it's worth solving, from the pain points and then the opportunities to get funding.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "52:26",
+      "topic": "Problem Validation Methods",
+      "question": "How specifically do you plan to show that the problem is worth solving?",
+      "raw_question": "How?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "From the pain points and then the opportunities to get funding.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "52:29",
+      "topic": "Problem Validation Elements",
+      "question": "Beyond explaining the pain points and opportunities for funding, what else do we need to demonstrate that the problem is worth solving?",
+      "raw_question": "What else? What else do we need?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "And we have the capabilities to solve it.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "52:31",
+      "topic": "Problem Worth Validation",
+      "question": "How do you specifically show that the problem is worth solving?",
+      "raw_question": "How do you show that it's worth solving?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "From the business case analysis.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "52:34",
+      "topic": "Market Validation Importance",
+      "question": "Why is it important for this class to focus on market validation for your project?",
+      "raw_question": "Why is it important?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "To know whether people will be able to buy it.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "57:42",
+      "topic": "Opportunity Generation Summary",
+      "question": "Sthepen, based on our discussion about opportunity generation and the risk of prematurely locking into solutions, could you summarize your understanding of this point?",
+      "raw_question": "Sthepen.",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "Opportunity generation, brainstorming AI, digital and the positive technology responds to local with regard to prematurely blocking into a solution.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "58:33",
+      "topic": "Read List Item",
+      "question": "Could you please read or explain point number four?",
+      "raw_question": "Number four?",
+      "answered_by": "Sthepen",
+      "score": 4,
+      "response_text": "Critical consulting for new neural now. Clarify uses, beneficiaries, decision makers, agency constraints and solvable boundaries with local stakeholders.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "59:24",
+      "topic": "Read List Item",
+      "question": "Could you please read or explain point number five?",
+      "raw_question": "Uh number five.",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Identify value enhancing opportunity. Map technology potential to socio-economical economic impact, institutional value and mutual growth logic.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "59:31",
+      "topic": "Clarify Wording",
+      "question": "Did you mean to say 'Identify' when you read 'Identity value enhancing opportunity'?",
+      "raw_question": "Identify?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Okay, identify. Identify value enhancing opportunity.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "60:00",
+      "topic": "Value Enhancing Opportunity",
+      "question": "Do you understand what 'identify value enhancing opportunity' means, particularly how it relates to mapping technology potential to socio-economic impact, institutional value, and mutual growth logic?",
+      "raw_question": "So that makes sense again. You know, you understand what that means?",
+      "answered_by": "Grace",
+      "score": 3,
+      "response_text": "What do you think that means? Technology search exchange. You see the change, you see the source and the recipients. So the source where the technology is coming from and where it would come from. And then the recipient where they need...",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "66:28",
+      "topic": "Partner Alignment Importance",
+      "question": "Chilaka, what are your thoughts on Mega's point regarding the critical importance of partner alignment for project success? Have you seen any examples where this was a critical factor?",
+      "raw_question": "Chilaka, what are your thoughts on Mega's point regarding partner alignment? Have you seen examples where this was a critical factor?",
+      "answered_by": "Chilaka",
+      "score": 5,
+      "response_text": "Yes, absolutely. In one of the cases I reviewed, the local partner had a very different understanding of 'success' compared to the technology provider. The technology provider was focused on deployment numbers, while the local partner cared more about sustainable impact, even if it was smaller in scale initially. This led to a lot of friction.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "71:23",
+      "topic": "Market Interest Misalignment",
+      "question": "Could you provide an example of a situation where a technology provider's market interests might not align with developing the market or transferring know-how in an emerging country?",
+      "raw_question": "For example?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "They don't go.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "75:12",
+      "topic": "Next Problem Number",
+      "question": "What other problems, by number, have been identified from the text?",
+      "raw_question": "What else?",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "Five.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "75:27",
+      "topic": "Problem Implication",
+      "question": "You identified 'failure to provide accurate diagnosis of patient illness' as problem number one. What are the implications of this failure, and why is it a problem for the community, the Local Government Unit (LGU), or the hospital?",
+      "raw_question": "Failure to provide an accurate diagnosis. What does that imply? Why is that a problem for the community or for the LGU or for the hospital?",
+      "answered_by": "Aryang",
+      "score": 5,
+      "response_text": "Because if they give the wrong diagnosis, it can kill the patient or worsen the condition.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "76:05",
+      "topic": "Specific Illnesses",
+      "question": "So, what kind of illnesses are we talking about here that health centers cannot diagnose accurately because they lack equipment and training?",
+      "raw_question": "So, what kind of illnesses are we talking about here that they cannot diagnose because they lack equipment and training?",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "In the text, ma'am, it says, a lot of their cases are pneumonia, tuberculosis, dengue.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "76:36",
+      "topic": "Diagnosis Accuracy Confirmation",
+      "question": "So, even common illnesses like pneumonia, tuberculosis, and dengue, which are common illnesses, they cannot diagnose accurately?",
+      "raw_question": "So, even the pneumonia, TB, dengue, which are common illnesses, they cannot diagnose it accurately.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, ma'am.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "76:50",
+      "topic": "State Problem Two",
+      "question": "Chilaka, what is problem two?",
+      "raw_question": "What is problem two, Chilaka?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "Failure to administer immediate medical attention, ma'am.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "76:55",
+      "topic": "Clarify Problem Two",
+      "question": "You mentioned 'failure to administer immediate medical attention' as problem two. What do you mean by that?",
+      "raw_question": "Failure to administer immediate medical attention. What do you mean by that?",
+      "answered_by": "Chilaka",
+      "score": 4,
+      "response_text": "Based on the text, ma'am, the residents would need to be referred to other health facilities, ma'am, even for minor diseases.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "77:11",
+      "topic": "Referral Problem Rationale",
+      "question": "Considering that residents need to be referred to other health facilities even for minor diseases, why is that situation a problem?",
+      "raw_question": "Okay. So, why is that a problem?",
+      "answered_by": "Chilaka",
+      "score": 5,
+      "response_text": "Because they are far from the health center, ma'am. Their place is far from the health center.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "77:20",
+      "topic": "Distance to Health Center",
+      "question": "Chilaka, since residents are far from the health center, how far is it, or how long does it take to reach other facilities?",
+      "raw_question": "So, how far is it from the health center, Chilaka?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "In the text, it says, one to three hours away, ma'am.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "77:49",
+      "topic": "Affected Population Size",
+      "question": "Regarding the residents who live in far-flung areas, does the text specify how many people are affected by being one to three hours away from the health center?",
+      "raw_question": "How many? Do they say how many?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "A large portion of the population, ma'am.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "78:00",
+      "topic": "State Problem Three",
+      "question": "Grace, what is problem three from the identified list?",
+      "raw_question": "Grace, what is problem three?",
+      "answered_by": "Grace",
+      "score": 4,
+      "response_text": "Uh, there's a lack of awareness and knowledge about health conditions and diseases, ma'am.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "78:08",
+      "topic": "Target Group Problem",
+      "question": "You mentioned 'lack of awareness and knowledge on health conditions' as problem three. Who specifically is this referring to?",
+      "raw_question": "Lack of awareness and knowledge on health conditions. Who is this referring to?",
+      "answered_by": "Grace",
+      "score": 3,
+      "response_text": "The community, ma'am.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "78:14",
+      "topic": "Problem Consequence",
+      "question": "Since the community lacks awareness and knowledge on health conditions, why is that considered a problem?",
+      "raw_question": "The community. Okay. So, why is it a problem that they lack awareness and knowledge on health conditions?",
+      "answered_by": "Grace",
+      "score": 5,
+      "response_text": "Because if they don't know the conditions or the symptoms of the illness, they cannot provide or they cannot take care of themselves, ma'am.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "78:41",
+      "topic": "Specific health problems",
+      "question": "The student Grace mentioned a problem where the community lacks awareness and knowledge on health conditions. What specific health conditions are we discussing here?",
+      "raw_question": "Okay. And what problem are we talking about here?",
+      "answered_by": "Grace",
+      "score": 3,
+      "response_text": "We are talking about common conditions like tuberculosis, pneumonia, and dengue.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "79:02",
+      "topic": "Health service definition",
+      "question": "Mega, you identified \"lack of available health services\" as problem number four. Could you explain what you mean by that?",
+      "raw_question": "Lack of available health services. What do you mean by that, Mega?",
+      "answered_by": "Mega",
+      "score": 4,
+      "response_text": "I mean it's because of limited health workers, ma'am.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "79:09",
+      "topic": "Symptom or root cause",
+      "question": "Mega, you mentioned that the lack of available health services is due to limited health workers. In the context of problem analysis, do you consider \"limited health workers\" to be a symptom or a root cause?",
+      "raw_question": "Because of limited health workers. Is that considered a symptom or is that already a root cause?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "It is a symptom, ma'am.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "79:16",
+      "topic": "Symptom justification",
+      "question": "Mega, you stated that \"limited health workers\" is a symptom for the lack of available health services. Can you explain how it functions as a symptom?",
+      "raw_question": "That's a symptom. How is it a symptom?",
+      "answered_by": "Mega",
+      "score": 5,
+      "response_text": "It is a symptom because when people need something, there are no available people to cater to them for a specific problem.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "79:38",
+      "topic": "Additional symptoms",
+      "question": "Mega, we've discussed \"limited health workers\" as a symptom for problem number four, which is the lack of available health services. What other symptoms can you identify for this problem?",
+      "raw_question": "Okay. What else? What else is a symptom for problem number four, Mega?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "Another symptom is the lack of medical health equipment.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "79:49",
+      "topic": "Symptom or root cause",
+      "question": "Mega, you mentioned \"lack of medical health equipment\" as a symptom. In the context of problem analysis, do you consider this to be a symptom or is it already a root cause?",
+      "raw_question": "Lack of medical health equipment. Is that a symptom or a root cause already?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "It is a symptom.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "79:55",
+      "topic": "Symptom justification",
+      "question": "Mega, you stated that \"lack of medical health equipment\" is a symptom. Can you explain how it functions as a symptom?",
+      "raw_question": "Symptom. How is it a symptom?",
+      "answered_by": "Mega",
+      "score": 5,
+      "response_text": "It is a symptom because if you have a problem, you need to be diagnosed, and without equipment, you cannot be diagnosed.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "86:18",
+      "topic": "Seminar materials",
+      "question": "Besides the case file, what other materials would you like me to upload for you?",
+      "raw_question": "What else you want me to upload?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "This, ma'am.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "87:04",
+      "topic": "Document clarification",
+      "question": "Sthepen, are you referring to this specific document on the screen?",
+      "raw_question": "This one?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "No, no, the others, the one in your graph.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "87:15",
+      "topic": "Case study analysis",
+      "question": "Considering the theory of contextual intelligence and market scanning, what aspects of these concepts could be identified in the case study you are working on?",
+      "raw_question": "what could be the contextual intelligence and market scanning for",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "for this case?",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "87:23",
+      "topic": "Case assignment confirmation",
+      "question": "To discuss the contextual intelligence and market scanning for your case, please confirm if you have been assigned Case one or Case three?",
+      "raw_question": "You have case one or case three?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Case one.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "90:20",
+      "topic": "Instruction confirmation",
+      "question": "Do you understand the instructions regarding the review process for your work?",
+      "raw_question": "Okay?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "91:32",
+      "topic": "Project progress",
+      "question": "Mega, what are your thoughts or progress regarding your project/ideas?",
+      "raw_question": "And how about you, Mega? You're thinking about",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "I'm sure.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "91:40",
+      "topic": "Project confidence",
+      "question": "Grace, regarding your project, do you feel confident and on track with it?",
+      "raw_question": "You feel you are okay or you feel you",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "I'm okay.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "91:45",
+      "topic": "Project problem statement",
+      "question": "Grace, I'm glad you're feeling okay. Now, can you tell me about the specific problem you are addressing and your approach to it in your project?",
+      "raw_question": "Okay, I I'm glad you're okay. How about your problem and your",
+      "answered_by": "Grace",
+      "score": 5,
+      "response_text": "For me, the problem is really clear, and since it is not a hypothetical problem, it is a real problem discussed with the president of the university, and it's even a priority for him to solve that problem.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "92:05",
+      "topic": "Project scope clarification",
+      "question": "Grace, is the core problem you are addressing in your project simply the procurement of a Learning Management System (LMS) for the university?",
+      "raw_question": "But just to buy the LMS. That's the problem.",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "It's not only about just the learning process; it is the overall academics management. It is not the LMS.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "97:03",
+      "topic": "Problem specificity/impact",
+      "question": "I previously asked if you had specific examples to illustrate the pain point of your problem. Do you have concrete, impactful cases, like the example of the fruit lady jailed for weeks due to an incident, or instances of corruption in grading, that demonstrate the depth and urgency of the problem you're addressing at a national level?",
+      "raw_question": "That's why I asked you like, do you have some specifics of a like, for example, the case of the fruit lady that uh, was was in jail for so many weeks just because of an incident like that or how many",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": null,
+      "is_substantive": true
+    },
+    {
+      "timestamp": "101:00",
+      "topic": "Disciplinary action",
+      "question": "Following the discussion of cases of corruption involving professors, if such an incident occurs, is it always necessary to fire the professor, or are there other potential disciplinary actions to consider?",
+      "raw_question": "But sometimes, it's can also happen, but now, do we really need to fire this professor for what has been?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": null,
+      "is_substantive": true
+    },
+    {
+      "timestamp": "120:27",
+      "topic": "Task difficulty",
+      "question": "Aryang, regarding the exercise or task you just completed, did you find it difficult, or was it easy to accomplish?",
+      "raw_question": "Did you find it difficult or was it easy or?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No, it was okay. It's not too much hard.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "120:38",
+      "topic": "Task progress",
+      "question": "Aryang, you've commented on the first part of the task. How about the second part you were working on?",
+      "raw_question": "Okay. And for the next part?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "The next part I started from the...",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "120:46",
+      "topic": "Task progress",
+      "question": "Aryang, after the first and second parts, can you describe the third part of the assignment?",
+      "raw_question": "Mhm. Uh-huh. And how about the third part?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "The third part is about the...",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "120:58",
+      "topic": "Time spent",
+      "question": "Aryang, for this third part of the assignment, approximately how much time did it take you to complete?",
+      "raw_question": "Okay. Uh-huh. Uh-huh. And how much time did it take?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "It took about seven to eight minutes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "121:05",
+      "topic": "Time spent clarification",
+      "question": "Aryang, was the \"seven to eight minutes\" you mentioned the time spent specifically on the third part of the assignment, or did that refer to the entire assignment?",
+      "raw_question": "Seven to eight minutes for the third one only or for the whole thing?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Seven to eight minutes was for the third one.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "121:09",
+      "topic": "Total time spent",
+      "question": "So, the seven to eight minutes was for the third part only. How much time did it take you to complete the entire assignment?",
+      "raw_question": "Uh, for the third one only. And for the whole.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah. For the whole thing it takes around 15 minutes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "121:13",
+      "topic": "Total time spent",
+      "question": "Aryang, considering all parts of the assignment, how much total time did it take you to complete the entire task?",
+      "raw_question": "And for the whole, how much did it take for the whole thing?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "For the whole thing it takes around 15 minutes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "121:18",
+      "topic": "Assignment understanding",
+      "question": "Aryang, based on your completion of the assignment, do you feel you clearly understood what was required of you?",
+      "raw_question": "Okay. That is fine. So basically you understood what to do, right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "121:26",
+      "topic": "Skill transferability",
+      "question": "Aryang, given your understanding of this task, do you believe you will be able to apply this knowledge and process to similar future projects as well?",
+      "raw_question": "So you will be able to do this later on also for another project?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah. Yeah. Okay.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "121:32",
+      "topic": "Presentation readiness",
+      "question": "Grace, we're moving on to your presentation now. Are you ready to begin?",
+      "raw_question": "Mhm. Okay. All right. So next, uh, I'll move to Grace. Grace, are you ready?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "121:36",
+      "topic": "Preparation confirmation",
+      "question": "Grace, for today's discussion, have you prepared any materials or a presentation?",
+      "raw_question": "Okay. So Grace, you have prepared something?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "121:38",
+      "topic": "Research plan",
+      "question": "Grace, since you have prepared something, please tell us about it: what is the topic, and what are your plans for it?",
+      "raw_question": "Okay. So will you please tell me about that and what was it about and what's your plan for that?",
+      "answered_by": "Grace",
+      "score": 4,
+      "response_text": "I actually made an outline of the research that I plan to conduct. It's about the impact of cultural background on students' learning.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "121:46",
+      "topic": "Research Outline Preparation",
+      "question": "Grace, you mentioned you prepared an outline for your research. Could you please describe how you prepared this outline?",
+      "raw_question": "Okay. Uh-huh. Okay. And how did you prepare it?",
+      "answered_by": "Grace",
+      "score": 4,
+      "response_text": "I went through different research papers online to see if there were similar studies. Based on that, I prepared the different variables and sections of the research paper.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "121:56",
+      "topic": "Research Structure Confirmation",
+      "question": "Grace, when preparing your research outline, did you follow a standard research paper structure?",
+      "raw_question": "Okay. So you followed the research paper structure?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "121:59",
+      "topic": "Research Outline Time",
+      "question": "Grace, how much time did it take you to prepare the research outline?",
+      "raw_question": "Okay. Uh-huh. And how long did it take you to prepare that?",
+      "answered_by": "Grace",
+      "score": 3,
+      "response_text": "It took me around two to three hours.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "122:03",
+      "topic": "Research Challenges",
+      "question": "Grace, what was the most challenging part for you during the preparation of the research outline?",
+      "raw_question": "Okay. And what was the challenging part for you to do?",
+      "answered_by": "Grace",
+      "score": 4,
+      "response_text": "The challenging part was making sure the variables I chose were not too complicated to gather data on.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "122:12",
+      "topic": "Variable Selection Time",
+      "question": "Grace, specifically regarding the challenging part of finding the right variables, how much time did that particular task take you?",
+      "raw_question": "Okay. And how much time did it take to find the right variables?",
+      "answered_by": "Grace",
+      "score": 5,
+      "response_text": "Figuring out the right variables took me about one to one and a half hours.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "122:18",
+      "topic": "Research Easy Part",
+      "question": "Grace, after discussing the challenging aspects of preparing your research outline, what did you find to be the easy part of the process?",
+      "raw_question": "Okay. Mhm. Uh-huh. And what about the next part? What was the easy part for you?",
+      "answered_by": "Grace",
+      "score": 4,
+      "response_text": "The easy part was framing the research question and structuring the research paper.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "122:25",
+      "topic": "Easy Part Time",
+      "question": "Grace, how much time did it take you to frame the research question and structure the research paper?",
+      "raw_question": "Okay. Uh-huh. And how much time did it take for you to do that?",
+      "answered_by": "Grace",
+      "score": 4,
+      "response_text": "That took around half an hour.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "122:29",
+      "topic": "Research Outline Ready",
+      "question": "Grace, based on what you've shared about preparing the research outline, does this mean you basically have the entire outline ready?",
+      "raw_question": "Okay. Uh-huh. Right. So you basically have the whole thing ready, right?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "122:33",
+      "topic": "Presentation Readiness",
+      "question": "Grace, since your research outline is ready, will you be prepared to give a presentation on it?",
+      "raw_question": "Okay. So will you be ready with the presentation on it?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "122:38",
+      "topic": "Seminar Readiness",
+      "question": "Mega, are you ready to discuss your preparation for this seminar?",
+      "raw_question": "Mhm. Uh-huh. So, Mega, are you ready?",
+      "answered_by": "Mega",
+      "score": 4,
+      "response_text": "Yes, ma'am. I prepared for data visualization research for a project.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "122:45",
+      "topic": "Data Visualization Project",
+      "question": "Mega, you mentioned you prepared for data visualization research for a project. Could you please tell me more about this research, what specific topic it covered, and what your plan is for it?",
+      "raw_question": "Okay. Okay. So, uh, Mega, will you please tell me about this and what it was about and your plan for this?",
+      "answered_by": "Mega",
+      "score": 5,
+      "response_text": "I researched data visualization and how it helps in getting insights from data. I did this for a project about customer churn. I picked a small dataset to show how data visualization can provide more insight and what visualization tools or graphs can be used.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "122:59",
+      "topic": "Project Methodology",
+      "question": "Mega, regarding your data visualization project on customer churn, could you elaborate on what specific steps or actions you took for it?",
+      "raw_question": "Okay. Uh-huh. Uh-huh. And what did you do for that?",
+      "answered_by": "Mega",
+      "score": 5,
+      "response_text": "I basically picked up a small dataset, and I wanted to show how data visualization can help us to get more insight, and what sort of visualization tools or different graphs can be used for that.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "123:10",
+      "topic": "Data Visualization Tools",
+      "question": "Mega, how did you prepare your data visualization project on customer churn?",
+      "raw_question": "Mhm. Uh-huh. And how did you prepare it?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "I used Excel and Tableau.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "123:14",
+      "topic": "Tool Convenience",
+      "question": "Mega, between Excel and Tableau, which tool did you find more convenient to use for your data visualization project?",
+      "raw_question": "Excel and Tableau. Okay. And which one did you find more convenient to use?",
+      "answered_by": "Mega",
+      "score": 5,
+      "response_text": "I found Tableau more convenient because it provides more flexibility and is quite user-friendly.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "123:22",
+      "topic": "Project Preparation Time",
+      "question": "Mega, how much time did it take you to prepare your data visualization project using Excel and Tableau?",
+      "raw_question": "Mhm. Okay. And how much time did it take you to prepare that?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "I spent almost four hours doing that.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "123:27",
+      "topic": "Data Storytelling Challenge",
+      "question": "Mega, what was the most challenging part for you while preparing the data visualization project?",
+      "raw_question": "Okay. Uh-huh. And what was the challenging part for you?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "The challenging part was getting the actual story out of the visualization.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "123:36",
+      "topic": "Story Extraction Time",
+      "question": "Mega, how much time did it take you specifically to extract the 'story' or insights from your data visualizations?",
+      "raw_question": "Okay. And how much time did it take you to get that story out?",
+      "answered_by": "Mega",
+      "score": 4,
+      "response_text": "I think it took me around two to three hours.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "123:41",
+      "topic": "Data Visualization Easy Part",
+      "question": "Mega, after discussing the challenging aspects of your data visualization project, what did you find to be the easy part of the process?",
+      "raw_question": "Okay. Uh-huh. And what was the easy part for you?",
+      "answered_by": "Mega",
+      "score": 5,
+      "response_text": "The easy part was just making the graphs because I had already worked with them.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "123:47",
+      "topic": "Graph Creation Time",
+      "question": "Mega, how much time did it take you to create the graphs for your data visualization project?",
+      "raw_question": "Mhm. Okay. And how much time did it take for you to do that?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "It just took me about 30 minutes to one hour.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "123:51",
+      "topic": "Project Completion Confirmation",
+      "question": "Mega, it sounds like you were already familiar with graph creation. So, to confirm, do you have your entire data visualization project ready?",
+      "raw_question": "Okay. So basically you already knew how to do it. Okay. Right. So you have the whole thing ready with you, right?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Yes, ma'am.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "123:56",
+      "topic": "Presentation Readiness",
+      "question": "Mega, since your data visualization project is ready, will you be prepared to give a presentation on it?",
+      "raw_question": "Okay. So you will be ready with the presentation?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Yes, ma'am. Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "124:02",
+      "topic": "Seminar Readiness",
+      "question": "Chilaka, are you ready to discuss your preparation for this seminar?",
+      "raw_question": "Uh-huh. So, Chilaka, are you ready?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yes, ma'am.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "124:05",
+      "topic": "Machine Learning Project",
+      "question": "Chilaka, could you please tell me about the project you prepared for this seminar and what you are doing for it?",
+      "raw_question": "Okay. So, Chilaka, will you please tell me about your project and what you're doing for that?",
+      "answered_by": "Chilaka",
+      "score": 4,
+      "response_text": "I made a small presentation about the difference between supervised and unsupervised learning in machine learning.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "124:12",
+      "topic": "Presentation Preparation Methods",
+      "question": "Chilaka, how did you prepare your presentation on supervised and unsupervised learning?",
+      "raw_question": "Okay. Uh-huh. Okay. And how did you prepare it?",
+      "answered_by": "Chilaka",
+      "score": 4,
+      "response_text": "I took the help of ChatGPT and then searched on YouTube and found many videos.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "124:19",
+      "topic": "Resource Usefulness",
+      "question": "Chilaka, did you find the resources you used, such as ChatGPT and YouTube videos, useful for preparing your presentation?",
+      "raw_question": "Okay. And did you find that useful?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yes, ma'am.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "124:22",
+      "topic": "Presentation Preparation Time",
+      "question": "Chilaka, how much time did it take you to prepare your presentation on supervised and unsupervised learning?",
+      "raw_question": "Okay. Uh-huh. And how much time did it take for you to prepare that?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "I spent about two to three hours for it.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "124:27",
+      "topic": "Algorithm/Examples Challenge",
+      "question": "Chilaka, what was the most challenging part for you while preparing the presentation on supervised and unsupervised learning?",
+      "raw_question": "Okay. Uh-huh. And what was the challenging part for you?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "The challenging part was to find the correct algorithm with good examples.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "124:38",
+      "topic": "Algorithm Search Time",
+      "question": "Chilaka, how much time did it take you specifically to find the correct algorithms and good examples for your presentation?",
+      "raw_question": "Okay. And how much time did it take to find that?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "It took me about two hours.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "124:41",
+      "topic": "Definition Retrieval Easy Part",
+      "question": "Chilaka, after discussing the challenging aspects of preparing your presentation, what did you find to be the easy part of the process?",
+      "raw_question": "Okay. Uh-huh. And what about the easy part?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "The easy part was just getting the definitions.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "124:46",
+      "topic": "Definition Retrieval Time",
+      "question": "Chilaka, how much time did it take you to find and compile the definitions for your presentation?",
+      "raw_question": "Okay. And how much time did it take for you to do that?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "That took around 30 minutes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "124:50",
+      "topic": "Presentation readiness",
+      "question": "To confirm, do you have all the necessary content or materials ready for your presentation?",
+      "raw_question": "Okay. Uh-huh. Right. So you basically have the whole thing ready with you, right?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yes, ma'am.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "124:54",
+      "topic": "Presentation readiness",
+      "question": "So, will you be ready to deliver the presentation?",
+      "raw_question": "Okay. So will you be ready with the presentation?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yes, ma'am.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "165:02",
+      "topic": "Current task",
+      "question": "What specific activity or task are we about to begin or work on now?",
+      "raw_question": "What are we doing?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Ah, okay.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "170:00",
+      "topic": "Timer responsibility",
+      "question": "Aryang, are you responsible for starting the timer, or is someone else?",
+      "raw_question": "Okay. Uh, Aryang, you are starting the timer, no? Or someone else?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, I'm starting it.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "170:20",
+      "topic": "Data visualization definition",
+      "question": "Considering today's topic, data visualization, what is your understanding or definition of data visualization?",
+      "raw_question": "So I want to ask one question to all of you, like, what do you think data visualization is?",
+      "answered_by": "Chilaka",
+      "score": 4,
+      "response_text": "I think data visualization is a graphical representation of data.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "170:44",
+      "topic": "Purpose of data visualization",
+      "question": "Given that data visualization involves converting raw data into a visual format, what is the primary purpose or reason for doing so?",
+      "raw_question": "That's right. And why do we do that?",
+      "answered_by": "Sthepen",
+      "score": 4,
+      "response_text": "To help us to get a quick summary and insight from the data rather than going through the raw data itself.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "170:59",
+      "topic": "Data viz in presentations",
+      "question": "Considering the benefits of data visualization, why is it particularly important or necessary to use it within a presentation format?",
+      "raw_question": "That's right. And why do we need that in a presentation format?",
+      "answered_by": "Mega",
+      "score": 5,
+      "response_text": "To give the audience a clearer and more concise understanding of the data at a glance, allowing them to quickly grasp key insights and trends without having to delve into the raw data.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "171:23",
+      "topic": "Compelling presentation elements",
+      "question": "What do you consider to be the essential or key elements that make a presentation compelling and effective?",
+      "raw_question": "What are the key elements of a compelling presentation?",
+      "answered_by": "Chilaka",
+      "score": 4,
+      "response_text": "Clarity. You have to be very clear with what you're trying to present to the audience.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "171:38",
+      "topic": "Compelling presentation elements",
+      "question": "Aryang, adding to the discussion, what are your thoughts on the key elements that make a presentation compelling?",
+      "raw_question": "Yes. Aryang. What do you think?",
+      "answered_by": "Aryang",
+      "score": 5,
+      "response_text": "I think a compelling presentation would be one that is well-structured, easy to follow, and engaging, so that it can provide valuable insights and information to the audience.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "182:40",
+      "topic": "Discussion prompt",
+      "question": "Or another idea?",
+      "raw_question": "O a...",
+      "answered_by": "Chilaka",
+      "score": 1,
+      "response_text": "Inaudible.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "183:27",
+      "topic": "Confirmation check",
+      "question": "Mega, do you also have a negative response to the previous question or statement?",
+      "raw_question": "No. Okay. Mega.",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "No, profesora.",
+      "is_substantive": false
+    }
+  ]
+}

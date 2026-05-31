@@ -1,0 +1,426 @@
+{
+  "block": 14,
+  "time_range": "65:00-70:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's not like you know, Kaist University, everybody has a prince floor or everybody has computer. That's not the case.",
+      "timestamp_abs": "65:00"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, no matter of first is one thing, thing that all these things is online offline kind of sync that I thought, this is a very interesting function. We can, I don't know, trying to put away uh the online.",
+      "timestamp_abs": "65:08"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "65:26"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But uh",
+      "timestamp_abs": "65:28"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I'm trying to connect with uh the camera. I'm telling you it's not easy for me to connect, to get connected.",
+      "timestamp_abs": "65:30"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Because the system is heavy.",
+      "timestamp_abs": "65:39"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Heavy and somehow it is not really matching with uh the local context.",
+      "timestamp_abs": "65:41"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, bringing something such uh to the DRC context will be somehow difficult.",
+      "timestamp_abs": "65:48"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, that's why I'm thinking based on the kind of infrastructure we have, kind of connectivity we have. It is not online. But still online, but it's not can be able to be used, you see, within the context where.",
+      "timestamp_abs": "65:55"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So trying to take the context of the country and come up with something that can be afford for them.",
+      "timestamp_abs": "66:12"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I remember last time, right, if we can talk about those advanced technology, blockchain, IoT, all those things.",
+      "timestamp_abs": "66:18"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, it will be not relevant.",
+      "timestamp_abs": "66:25"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, the key and the way of example is myself.",
+      "timestamp_abs": "66:29"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "When I am in Congo, to get connected to Caleb, I faced trouble.",
+      "timestamp_abs": "66:33"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Maybe if I can try to look, look for uh advanced connection at a good, a specific place.",
+      "timestamp_abs": "66:40"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I remember once, when I was uh in my master, interview with KOICA for my master. In the first interview, I get connected from my house.",
+      "timestamp_abs": "66:47"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I I lost my connection.",
+      "timestamp_abs": "66:58"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Luckily, they gave me one chance. They said, we cannot really connect to the works with you.",
+      "timestamp_abs": "67:01"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But please, they will reschedule.",
+      "timestamp_abs": "67:07"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They the meeting with me. They said, then look for a place where you can connect.",
+      "timestamp_abs": "67:11"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And what I did is, I went to the KOICA office to my country.",
+      "timestamp_abs": "67:16"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I met them.",
+      "timestamp_abs": "67:22"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I say, I would like to, I first of all give them the message that I had my interview, uh but I could not uh get connected with uh low connectivity internet.",
+      "timestamp_abs": "67:23"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I suggest if I can use uh, you know, five so I can connect to the internet.",
+      "timestamp_abs": "67:35"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Since you have uh, the very good connection.",
+      "timestamp_abs": "67:40"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I went there.",
+      "timestamp_abs": "67:43"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "From there, I get connected. Then my interview was well.",
+      "timestamp_abs": "67:44"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Then I was successfully selected.",
+      "timestamp_abs": "67:49"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, maybe just for that's no connectivity, I will suppose even my my application.",
+      "timestamp_abs": "67:52"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "67:58"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And the same with uh elements.",
+      "timestamp_abs": "67:59"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, it's not.",
+      "timestamp_abs": "68:02"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, so construction of the university at the same reason.",
+      "timestamp_abs": "68:04"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Certain website.",
+      "timestamp_abs": "68:07"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh maybe.",
+      "timestamp_abs": "68:08"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "What's the thinking about layer has also images and interaction. But if you have this in our country, it's just the network will not allow all of those things.",
+      "timestamp_abs": "68:09"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, the website if it's not, depending on the programming architecture and layers that they use, it's impossible.",
+      "timestamp_abs": "68:19"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "68:25"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And also the second is that",
+      "timestamp_abs": "68:26"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "At KAIST or maybe in other universities, not only in Korea, but maybe some other cases.",
+      "timestamp_abs": "68:29"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Almost all students has at least a computer.",
+      "timestamp_abs": "68:36"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But it's not the case with me in my country. There are students who have no computer.",
+      "timestamp_abs": "68:41"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Even there are some students, I can not even, who are in the computer science skill, though they're just coming without a computer.",
+      "timestamp_abs": "68:47"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You may be amazed how is the problem.",
+      "timestamp_abs": "68:54"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And that's why is, I know, I am academic. I know, I'm facing problems.",
+      "timestamp_abs": "68:57"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And this problem, I I I witnessed the problem.",
+      "timestamp_abs": "69:03"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I have worked as a computer lab manager before.",
+      "timestamp_abs": "69:06"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I know what has been uh going through to the university.",
+      "timestamp_abs": "69:10"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And I know I worked with uh several professors. I know how they struggle in terms of that.",
+      "timestamp_abs": "69:15"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And some student, I can, I can tell you we have uh rooms of 500 students.",
+      "timestamp_abs": "69:21"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Maybe.",
+      "timestamp_abs": "69:27"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And everybody they rely on uh maybe hand written uh syllabus or hand written uh class notes.",
+      "timestamp_abs": "69:28"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And when it comes about uh assignment,",
+      "timestamp_abs": "69:35"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They give, they do manually, and they just type uh, just type and then you submit.",
+      "timestamp_abs": "69:39"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, give them correction, you have to correct like this.",
+      "timestamp_abs": "69:45"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, one by one, I have been correcting thousands of copy like this.",
+      "timestamp_abs": "69:48"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I can stand two days just correcting copies.",
+      "timestamp_abs": "69:53"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Maybe four nights just correcting copies.",
+      "timestamp_abs": "69:56"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Like this.",
+      "timestamp_abs": "69:58"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "After that.",
+      "timestamp_abs": "69:59"
+    }
+  ]
+}

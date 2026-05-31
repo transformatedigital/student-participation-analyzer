@@ -1,0 +1,288 @@
+{
+  "block": 5,
+  "time_range": "20:00-25:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'll try to find the the several news that I read because I kept thinking about it and I was I kept trying to Google and find like what was the Korean statistics on how did they reduce or or reports of how Korea reduced effectively or for example what is what I was saying",
+      "timestamp_abs": "20:00"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is there any I ask myself, is there any report on the impact that they had on the investment on this very expensive escape platform.",
+      "timestamp_abs": "20:15"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because I wanna see whether the whether that very very fancy AI real time thing actually helped solve the problem or not.",
+      "timestamp_abs": "20:23"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I was questioning questioning and I found that that kind of news where they were saying that the so I thought, ah, maybe in the case of Stephen we need to keep thinking about because we are still in the stage where we are really proving whether that the real time issue in your case is the problem or not.",
+      "timestamp_abs": "20:31"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And because in your case you need to you will especially you and Arya are very significant to me.",
+      "timestamp_abs": "20:46"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I try to explain this to Mega the other time on a session that she and I had. And I thought, this is important for everyone, not only for Mega, but Mega can share a little bit of what we talked later.",
+      "timestamp_abs": "20:53"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "21:03"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[laughter]",
+      "timestamp_abs": "21:04"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Professor.",
+      "timestamp_abs": "21:05"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This this is what I was talking.",
+      "timestamp_abs": "21:07"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This must have the normal blackboard normal blackboard.",
+      "timestamp_abs": "21:08"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh.",
+      "timestamp_abs": "21:13"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Because it has that so it must have a normal blackboard thing, no?",
+      "timestamp_abs": "21:14"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No.",
+      "timestamp_abs": "21:17"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, it doesn't.",
+      "timestamp_abs": "21:18"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe in the miro, it doesn't work, but probably it has another software that it works.",
+      "timestamp_abs": "21:20"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We don't know about.",
+      "timestamp_abs": "21:24"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "This one has his own uh kind of software.",
+      "timestamp_abs": "21:26"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Where is it?",
+      "timestamp_abs": "21:29"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Here.",
+      "timestamp_abs": "21:30"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh here.",
+      "timestamp_abs": "21:32"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, thank you. That's what I want.",
+      "timestamp_abs": "21:35"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh.",
+      "timestamp_abs": "21:37"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, thank you.",
+      "timestamp_abs": "21:38"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And let's see.",
+      "timestamp_abs": "21:39"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "uh we have to.",
+      "timestamp_abs": "21:41"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh.",
+      "timestamp_abs": "21:42"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh.",
+      "timestamp_abs": "21:43"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, thank you. Thank you.",
+      "timestamp_abs": "21:44"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's how.",
+      "timestamp_abs": "21:46"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So.",
+      "timestamp_abs": "21:47"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Blackboard.",
+      "timestamp_abs": "21:48"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Blackboard. Thank you.",
+      "timestamp_abs": "21:49"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So what I was saying is like in the case of Mega, I briefly explained and Mega can give you a detailed explanation later.",
+      "timestamp_abs": "21:51"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That in the case of the masters, I see it this way.",
+      "timestamp_abs": "21:57"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You guys are going to go through this process.",
+      "timestamp_abs": "22:01"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Kind of very closely to your whole master's track.",
+      "timestamp_abs": "22:05"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because probably you're going to try to develop this problem into a real master's project where you're going to redevelop like your master's thesis, your master's graduation report based on this.",
+      "timestamp_abs": "22:11"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Your master's graduation report cannot be the business model or the project business model of how round, I'm going to use say something or how round the Korean company in charge of the real time AI blah blah blah solution will collaborate with the need, need out or whatever, to oversee that that is not your master's, right?",
+      "timestamp_abs": "22:23"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you need to from this project, parallelly, kind of develop a master where you're probably going to say, I don't know, how to solve, you're going to say, uh, there is some kind of problem related to the fishing and smishing and and like uh the identity.",
+      "timestamp_abs": "22:44"
+    }
+  ]
+}

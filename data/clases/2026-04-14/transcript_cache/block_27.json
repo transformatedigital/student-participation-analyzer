@@ -1,0 +1,27 @@
+{
+  "block": 27,
+  "time_range": "130:00-135:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "after reading it, if if there's any other question I'll I'll reach out to you.",
+      "timestamp_abs": "130:00"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Sure, sure, sure.",
+      "timestamp_abs": "130:03"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thank you so much, it's great work.",
+      "timestamp_abs": "130:04"
+    }
+  ]
+}

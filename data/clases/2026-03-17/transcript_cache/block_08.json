@@ -1,0 +1,76 @@
+{
+  "block": 8,
+  "time_range": "35:00-40:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "probably you want to understand. Even I would say, uh, Congo is not nearby countries in the area of, you're what, what area of Africa are you from?",
+      "timestamp_abs": "35:00"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Central, Central Africa.",
+      "timestamp_abs": "35:11"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So from the Central African region, what could good some base, good, good big brothers that you can have that are relatively, relatively near to you or similar in conditions?",
+      "timestamp_abs": "35:13"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not so acquainted with African countries, sorry, but maybe I would say from my here like I think that have been doing what I could have done just because for, uh, probably different region but",
+      "timestamp_abs": "35:26"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Actually, Botswana has been someone doing well.",
+      "timestamp_abs": "35:39"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay.",
+      "timestamp_abs": "35:40"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "In terms of development stage.",
+      "timestamp_abs": "35:41"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "35:42"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "That's Botswana is like India that are like south because they are like near South Africa and, uh, and they also a small country. It is also small but they are doing good. They are really good.",
+      "timestamp_abs": "35:43"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you could like, it could, it's okay for example, but you can say, ah, I cannot, for example, Costa Rica. Costa Rica is a very small country, it's half of El Salvador. We are only 5 million inhabitants. So for me to compare with Nigeria, it's very different. We have different problems because a tiny country is very different than a very huge country. So you could say, no, I would not because it's a very small country and it has different conditions, but find a good senior and germinate a senior that could be like, okay, these guys, how are they managing their education, their innovation and education?",
+      "timestamp_abs": "35:54"
+    }
+  ]
+}

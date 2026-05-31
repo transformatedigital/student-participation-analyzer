@@ -1,0 +1,286 @@
+{
+  "block": 22,
+  "time_range": "105:00-110:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I need a computer.",
+      "timestamp_abs": "105:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Or I need a smartphone or what.",
+      "timestamp_abs": "105:04"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "But for as long as the university has a system.",
+      "timestamp_abs": "105:07"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "that helps the student to access with communication between lecturers and what.",
+      "timestamp_abs": "105:13"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I think that is it.",
+      "timestamp_abs": "105:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Otherwise, if it is infrastructure, you keep building it.",
+      "timestamp_abs": "105:20"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We already know what you want to do, and we agree with you that it's going to be a collaboration process to push the investment in the infrastructure.",
+      "timestamp_abs": "105:24"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if I have to give an example, I would say you are your digital infrastructure issue is like the call issue of Meg.",
+      "timestamp_abs": "105:32"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Meg at the beginning, now she solved at the beginning Meg kept saying, it's because we really we have a promise that by 2030 we're going to do this about the co-elimination of coal in Asia, blah blah blah, remember?",
+      "timestamp_abs": "105:40"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And you kept she kept connecting her project to that. I said, that's great.",
+      "timestamp_abs": "105:52"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's great. Your project will contribute to that. Yes. But your project is directly related to battery energy cells that me and that was your focus.",
+      "timestamp_abs": "105:55"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So again, the fact that you keep bringing this into, for example, mitigations, infrastructure, like, you can mention it.",
+      "timestamp_abs": "106:05"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But leave the infrastructure issue up, like an introductory kind of contextual issue.",
+      "timestamp_abs": "106:12"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then from some point on, from the problem on, let's just focus on the learning management issues, the learning management examples, and even when you say mitigations of the current approach.",
+      "timestamp_abs": "106:17"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Again, you bring, the first one, is not, it this is contextual, no longer a case for us.",
+      "timestamp_abs": "106:31"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In the case of, the second one is for exactly.",
+      "timestamp_abs": "106:38"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "The learning.",
+      "timestamp_abs": "106:42"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Lack of digital platforms, few university staff. That one is correct.",
+      "timestamp_abs": "106:43"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Lack of digital skills, maybe the person has no digital skills. Okay, absence of pilot project. Okay.",
+      "timestamp_abs": "106:47"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Here I have some things that are connected to the functions for say, for example, the online of one sync.",
+      "timestamp_abs": "106:55"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The asynchronicity, we're talking about, that there is a lack of tools available in the market that can encompass what we need. There are online tools, yeah, lots of LMS in the market, but they do not match the convo needs right now.",
+      "timestamp_abs": "107:00"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right.",
+      "timestamp_abs": "107:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There are for United States, there are for Korea, but they're not matching the convo situation. So that's kind of the limits of the current approach.",
+      "timestamp_abs": "107:17"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Congo, even you can say that even the Congo universities have designed much more basic websites because of the connectivity issue. You can mention the connectivity issue as one of the contextual factors, but be careful of confusing it as one of the key factors because it's just a contextual issue.",
+      "timestamp_abs": "107:26"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then I need you to be more detailed in the part where you're describing the technology and the required solution.",
+      "timestamp_abs": "107:45"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Here, this part.",
+      "timestamp_abs": "107:51"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "These four bullets, I will be more explicit, like more detail.",
+      "timestamp_abs": "107:54"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For example, we are discussing now.",
+      "timestamp_abs": "108:00"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The bullet, the honor bullet and then the professor should be able to download, the student should be able to take notes, blah blah blah. These kind of examples.",
+      "timestamp_abs": "108:03"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then it provides very brief for me at, okay. Then when we talk to the companies or the R&D requirements.",
+      "timestamp_abs": "108:13"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe we'll find.",
+      "timestamp_abs": "108:19"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's your case is difficult actually. It's very difficult.",
+      "timestamp_abs": "108:21"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But maybe you're not I will try to find companies, coin companies.",
+      "timestamp_abs": "108:24"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Grace case, you know.",
+      "timestamp_abs": "108:30"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "코이카는 진짜 아프리카 이쪽을 하도록 노력을 없앤 적 있었는데.",
+      "timestamp_abs": "108:31"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "인프라가.",
+      "timestamp_abs": "108:40"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "계속 제가 짜고 인프라가 없어 가지고.",
+      "timestamp_abs": "108:41"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "그래서 구글 독스를 오프라인으로 쓸 수 있게끔 아니면은.",
+      "timestamp_abs": "108:44"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "약간 이렇게 애들을 잡는 게 내가 이 툴을 그냥 그 어플리케이션 제가 아이패드에 다운로드 받아놔서.",
+      "timestamp_abs": "108:48"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "여기 내 아이패드에서 그래서 일을 하거나 인터넷에서 잠깐 업로드.",
+      "timestamp_abs": "108:54"
+    }
+  ]
+}

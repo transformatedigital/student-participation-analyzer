@@ -1,0 +1,13 @@
+{
+  "session_id": "2026-04-07",
+  "date": "April 7, 2026",
+  "course": "Graduate Seminar",
+  "instructor": "Dr. Ileana",
+  "duration_minutes": 69,
+  "audio_file": "audio_unificado.m4a",
+  "status": "analyzed",
+  "total_segments": 56,
+  "teacher_questions_count": 17,
+  "student_contributions_count": 3,
+  "speakers_count": 3
+}

@@ -1,0 +1,27 @@
+{
+  "block": 10,
+  "time_range": "45:00-50:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I, I really congratulate. Your presentation is very good.",
+      "timestamp_abs": "45:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thank you so much.",
+      "timestamp_abs": "45:02"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I wrote some comments and I will share with Cesar so you can take it into consideration later too.",
+      "timestamp_abs": "45:07"
+    }
+  ]
+}

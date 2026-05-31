@@ -1,0 +1,148 @@
+{
+  "block": 31,
+  "time_range": "150:00-155:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Also, this time when I'm gonna give you my feedback, this is the feedback. I'm gonna do it in live. So I'm gonna give you comments on the document.",
+      "timestamp_abs": "150:00"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like I just did like this sentence, I'm gonna give this sentence. Very specialized service.",
+      "timestamp_abs": "150:15"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "150:22"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But I'm scared, though.",
+      "timestamp_abs": "150:23"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "150:27"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "I just run.",
+      "timestamp_abs": "150:29"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "150:32"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I'm gonna give you inline comments of certain things.",
+      "timestamp_abs": "150:33"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh,",
+      "timestamp_abs": "150:36"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Monday, Monday afternoon and",
+      "timestamp_abs": "150:37"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Monday afternoon,",
+      "timestamp_abs": "150:40"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Tuesday morning.",
+      "timestamp_abs": "150:41"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, so I think we don't we need we need both.",
+      "timestamp_abs": "150:42"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "You need both.",
+      "timestamp_abs": "150:43"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We will need both. Yeah. So, along the week, we're gonna meet maybe three or four times.",
+      "timestamp_abs": "150:44"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Four.",
+      "timestamp_abs": "150:50"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So",
+      "timestamp_abs": "150:51"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that's how many, okay?",
+      "timestamp_abs": "150:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "150:53"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "I get it?",
+      "timestamp_abs": "150:54"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "block": 33,
+  "time_range": "160:00-165:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "UNKNOWN",
+      "type": "teacher_statement",
+      "text": "[keyboard typing]",
+      "timestamp_abs": "160:00"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "저희가 [inaudible] 으로 해서 [inaudible] [inaudible] 저희가 [inaudible] 보여줬던 [inaudible]",
+      "timestamp_abs": "164:30"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "들이 오른쪽에 있는 사람",
+      "timestamp_abs": "164:42"
+    }
+  ]
+}

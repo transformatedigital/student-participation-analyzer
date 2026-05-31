@@ -1,0 +1,457 @@
+{
+  "block": 26,
+  "time_range": "125:00-130:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "to your points.",
+      "timestamp_abs": "125:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm gonna start by",
+      "timestamp_abs": "125:01"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "last time we start from there to here, today I'm gonna start from speed and the music, okay?",
+      "timestamp_abs": "125:02"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So speed, okay, this here",
+      "timestamp_abs": "125:08"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No. She will show you your ICP.",
+      "timestamp_abs": "125:17"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "We review our CP.",
+      "timestamp_abs": "125:21"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "review our ICP.",
+      "timestamp_abs": "125:25"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "125:27"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "one by one.",
+      "timestamp_abs": "125:28"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Give your comments.",
+      "timestamp_abs": "125:30"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "You don't understand my first thing I'm gonna ask you, the the the paper I gave you, was it understandable?",
+      "timestamp_abs": "125:34"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "You guys got the paper I wrote?",
+      "timestamp_abs": "125:41"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, but the question is...",
+      "timestamp_abs": "125:44"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Sure, yeah.",
+      "timestamp_abs": "125:46"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "125:47"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "You got the paper I wrote last time? Yeah. Sorry.",
+      "timestamp_abs": "125:49"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "125:53"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "125:54"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I think we we have a copy.",
+      "timestamp_abs": "125:55"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, I want to say [inaudible]",
+      "timestamp_abs": "125:58"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, let me see here.",
+      "timestamp_abs": "126:02"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, let me see.",
+      "timestamp_abs": "126:04"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "126:07"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You have two files, the evidence list and this one.",
+      "timestamp_abs": "126:11"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I saw, I saw you have videos.",
+      "timestamp_abs": "126:19"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No.",
+      "timestamp_abs": "126:22"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "126:24"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now, if if you see my slides, even one of the things of the evidence is look at this one.",
+      "timestamp_abs": "126:27"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The type of no, like one is just, ah, very important your email, we receive your inquiry, like we recommend believe our best this issue. General things.",
+      "timestamp_abs": "126:38"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like nobody really committed into this. I'm not sure, I didn't see anyone here. I'm just giving hints.",
+      "timestamp_abs": "126:47"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But this is a very important like how the email should be log. Now, I'm not the beginning. You're now just starting to conversation",
+      "timestamp_abs": "126:53"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Eventually, you should try to aim for this kind of communiqué, like already has been down conversation on how to reach this.",
+      "timestamp_abs": "127:01"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's very different, right? Initial conversation. So first, it starts by they to know each other and then right knocking the door and like try to aim for that. I've seen your email just giving, because I'm using you as an example for all of them. not like you.",
+      "timestamp_abs": "127:09"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's what I read.",
+      "timestamp_abs": "127:22"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "But for the difference, I mean the task force to to look for solution, that's what",
+      "timestamp_abs": "127:24"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I already have notes.",
+      "timestamp_abs": "127:29"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "127:32"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "here, right? I want to say twice.",
+      "timestamp_abs": "127:37"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now, let's see here.",
+      "timestamp_abs": "127:45"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, here, first I I don't think you need to write here, you just the the text that is written here is just a standard text.",
+      "timestamp_abs": "127:49"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, the first I don't need I don't think you need to write this one.",
+      "timestamp_abs": "127:57"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just keep the standard text. This one you need to better write it here.",
+      "timestamp_abs": "128:01"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Correctly.",
+      "timestamp_abs": "128:04"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just keep this one like this is just the categorization because based on this categorization you guys go, uh, in our systematization, we are trying to systematize the whole process. So it's just a category.",
+      "timestamp_abs": "128:05"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why do it makes difference in the approach and how we able evaluate your ICP visibility.",
+      "timestamp_abs": "128:16"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For example, here. AI-driven telecom fraud prevention safeguarding business digital identity ecosystem. All of this is very huge.",
+      "timestamp_abs": "128:24"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The title.",
+      "timestamp_abs": "128:33"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "AI-driven telecom fraud prevention. Telecom fraud prevention is the first one.",
+      "timestamp_abs": "128:36"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think right now your prevention",
+      "timestamp_abs": "128:44"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "prevention. You want software to prevent it.",
+      "timestamp_abs": "128:49"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Fraud in telecom.",
+      "timestamp_abs": "128:52"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Like SMS scamming and the voice scamming.",
+      "timestamp_abs": "128:55"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why write it for, for, because if it's for, I would be more specific. SMS like scamming, you know, like if it's an example of",
+      "timestamp_abs": "128:59"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, but I think your case, maybe it's better to just say, you know, I want to prevent SMS phishing or scamming or what is the other word you use? Shamming or phishing or Sheming.",
+      "timestamp_abs": "129:10"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's better to say, okay, the problem is schi.",
+      "timestamp_abs": "129:24"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The problem is",
+      "timestamp_abs": "129:26"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But I want it to solve both. You know, in scamming, there's voice, someone can call you, or can send you an SMS.",
+      "timestamp_abs": "129:27"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then SMS and voice scamming. That's your initial problem. Scaming.",
+      "timestamp_abs": "129:33"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then you gave me the statistics on the scamming, the cost of the scamming, then how to what this is the cost our country is paying for scamming.",
+      "timestamp_abs": "129:37"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You elaborate, tell me a very nice story about the lady of the fruit. But but that's just a like a storytelling thing.",
+      "timestamp_abs": "129:46"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But we need some evidence like our country is paying.",
+      "timestamp_abs": "129:52"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, for example, if I were you, the way I would say to you, I'm giving you my back.",
+      "timestamp_abs": "129:54"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay, it's okay.",
+      "timestamp_abs": "129:58"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "129:59"
+    }
+  ]
+}

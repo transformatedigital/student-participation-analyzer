@@ -1,0 +1,140 @@
+{
+  "block": 11,
+  "time_range": "50:00-55:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we can think about many technologies that we saw in the world. breaks are going to think about it. You can think about...",
+      "timestamp_abs": "50:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Blockchain.",
+      "timestamp_abs": "50:06"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Blockchain. Yes. Maybe many of you might know the high, the Gartner Hype Curve, for example, you know? The Gartner Hype Curve, you guys have known about this. Hype Curve from Gartner, a consulting company.",
+      "timestamp_abs": "50:07"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "No, you don't know?",
+      "timestamp_abs": "50:15"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, I know the Hype Curve.",
+      "timestamp_abs": "50:16"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So those are just companies who who research about different technology market, its adoption stages, and they created their own. All they want to communicate is an S-curve, technology maturation curve.",
+      "timestamp_abs": "50:17"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, technology maturation stages may be discussed in terms of years and commercialization capabilities. So time to the market. Yes, I'll be talking about humans, how old is this technology. But sometimes we also talk about commercialization capabilities, we talk about the latency, for example. Latency means how far are you from that technology reaching the market? Sometimes it is a very, very new technology, it's still ongoing to for it to reach the market it will take a few years, okay? So we talk about that.",
+      "timestamp_abs": "50:26"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, factors linked to knowledge, R&D efforts out of the laboratory, create market awareness, marketing, branding, and then competitive advantage of the technology. Those are factors linked to a very deep concept. But within this concept of technology S-curve, and how mature it is, for example, I'll tell you one of my experience.",
+      "timestamp_abs": "50:53"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In in our countries, sometimes a technology that has been already thrown away in Korea, for example. Sometimes, I'm talking about Costa Rica or Peru. I also have Peru in mind. Costa Rica is a very small country, but Peru is much bigger. Peru, the market is almost 30 million people. Costa Rica is only, and the landwise is almost double, so it's a very big country and has more people.",
+      "timestamp_abs": "51:14"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So sometimes, of course, Peru has much more difficulty because it's much more diverse population. We still have a lot of people who don't read and write. There's all other issues that Costa Rica don't have. Better education issue that we have, and it's easier to educate 5 million than 30 million, right? So it's easier.",
+      "timestamp_abs": "51:39"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, then many of the technology that's coming down here, we call it almost sleeping or latency. The basically technology will be taken over. Already people are not using it because a new technology came and they're stopping to use it, right? But some technology that is coming, maybe not here, but almost here, it's already going down. The value of this technology might decrease because there's a new boom coming.",
+      "timestamp_abs": "51:57"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So in countries that the curve is so fast, like Korea, they adopt so fast new technologies, this happens. But in our countries, they barely they barely get to know this stage or they, right? Sometimes this is an opportunity. Because when the technology value here is already decreasing because they are catching up so fast, our country is barely barely knew about this. Then maybe this is an opportunity to do it for our countries.",
+      "timestamp_abs": "52:20"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I realized that knowing about the technology curve and the technology maturity process is very important. And there is a very important term that we we use a lot, is this TRL.",
+      "timestamp_abs": "52:47"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "TRL. Have you heard about it? Anybody?",
+      "timestamp_abs": "52:59"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "No.",
+      "timestamp_abs": "53:04"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it was originally defined by NASA. But it it really measures, it really just measures how grown, how mature the technology is. So normally, I'll show you another next slide in the next classes, but normally a technology readiness level, the scale goes from one to nine.",
+      "timestamp_abs": "53:04"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's like a thermometer, right? You know thermometer? So you know that 36 between 36 and you know, I'm with my children this fever so I'm very talking about this a lot. So between in a baby, 37 already it's a very serious, there is 37 to 38 very serious fever.",
+      "timestamp_abs": "53:24"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, so that can change depending on our age of a baby, for example. TRL relatively is safe, depending on the scale is from one to nine. A technology TRL level from one to three is probably a very young technology. So it's a technology that will take a lot of effort to put it to the market.",
+      "timestamp_abs": "53:40"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, three to five is a mid mid.",
+      "timestamp_abs": "54:57"
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "block": 7,
+  "time_range": "30:00-35:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "written project, I'm gonna write speak about a written project.",
+      "timestamp_abs": "30:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "while also",
+      "timestamp_abs": "30:04"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "practically and in reality building a real collaboration between Korea, like finding a cooperation project to",
+      "timestamp_abs": "30:06"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "maybe not solve 100% the problem, but at least tackle or or or somehow reduce the gap for this issue.",
+      "timestamp_abs": "30:13"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I agree with you, it's gonna be very beautiful.",
+      "timestamp_abs": "30:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I still keep running in my head how to better package it.",
+      "timestamp_abs": "30:21"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "um, in terms of confirming",
+      "timestamp_abs": "30:26"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this.",
+      "timestamp_abs": "30:29"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "right? And that we're not tackling something just because of the real-time AIs, so we're not, we're not kind of doing a reverse engineering logic, right? So, that's why I keep thinking about that.",
+      "timestamp_abs": "30:31"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I'm gonna progress to gate number three, okay?",
+      "timestamp_abs": "30:41"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Everybody until gate two is already so probably until next year, so your first year masters, because your first year we're gonna do this like at the end of this year, probably in the second course.",
+      "timestamp_abs": "30:44"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's where you you should already have this.",
+      "timestamp_abs": "30:53"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why, believe me, when already, Arya is gonna have his first meeting next week.",
+      "timestamp_abs": "30:55"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I know you guys went to the conference. I didn't know you guys were going to the AI conference.",
+      "timestamp_abs": "31:02"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I told Caesar that day, because I was there to meet three people and other people.",
+      "timestamp_abs": "31:05"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I was there on that same day, but I knew about it right there and I I was I was there like 10 or 10, 15 minutes later and then I saw all your emails. I'm like, ah, okay.",
+      "timestamp_abs": "31:10"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I was there that day.",
+      "timestamp_abs": "31:21"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "You knew it.",
+      "timestamp_abs": "31:22"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "You knew it.",
+      "timestamp_abs": "31:23"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "You told us late, the professor.",
+      "timestamp_abs": "31:24"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like he knew late, he knew late. He knew like at 4 or 5 p.m. I said, I, says, \"You know we, if you guys are, if anybody wants to come to this because I knew since two weeks before, but I was super busy and I just set up the meeting.\"",
+      "timestamp_abs": "31:26"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I I also didn't know it was so open to the public. I thought it was just for researchers or but then then I learned when I was there that it was open to the public, that it was not expensive.",
+      "timestamp_abs": "31:38"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I I just thought if anybody wants to come with their own resources, come, but I didn't know that the office had already organized it. So I was great.",
+      "timestamp_abs": "31:46"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "it wasn't actually planned very early for us, though, because just like before that day, the professor was like, \"Okay, I'll see what I will do.\" Then just some a few days to the day, he said, \"Okay, the office has agreed, so you can now\"",
+      "timestamp_abs": "31:53"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, so he was the professor who gave you that chance. So same as me, because we, I also learned from the expo one week earlier, like last week.",
+      "timestamp_abs": "32:06"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Actually everything was set up on Friday, Saturday.",
+      "timestamp_abs": "32:14"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "32:16"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "On the weekend.",
+      "timestamp_abs": "32:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "On the weekend.",
+      "timestamp_abs": "32:17"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "32:17"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The tickets, the car, everything.",
+      "timestamp_abs": "32:18"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So even, but I'm good, I'm glad it's Professor Saw, right? What is his name? Professor Saw?",
+      "timestamp_abs": "32:19"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Professor Song.",
+      "timestamp_abs": "32:24"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Song.",
+      "timestamp_abs": "32:25"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Song.",
+      "timestamp_abs": "32:25"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He's a new professor. He's, I I know him, yeah. He's very good. He's very well connected into the AI world in Korea.",
+      "timestamp_abs": "32:26"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So,",
+      "timestamp_abs": "32:32"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I I think anyway, I I was glad that you guys went there. Probably maybe for you it had a lot of sense, maybe for you a little bit, but it was very technical. My impression was that it was very, very, very technical into the AI value chain, right?",
+      "timestamp_abs": "32:34"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I I think there are other good conferences like, for example, sometimes along the year, you can find it in the internet, there's the healthcare AI. Caesar knows very well.",
+      "timestamp_abs": "32:46"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah, that's good one.",
+      "timestamp_abs": "32:55"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There's the device, the medical device, there's Expo.",
+      "timestamp_abs": "32:55"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There's also, for for example, there must be something for FinTech, or like there's probably several events for FinTech or banking or that.",
+      "timestamp_abs": "32:59"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, you can stay connected to that.",
+      "timestamp_abs": "33:06"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, so what I was gonna say, what I was gonna say is I think definitely here at this point, it's gonna be probably by the end of this year.",
+      "timestamp_abs": "33:09"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "33:14"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "By the end of this year.",
+      "timestamp_abs": "33:15"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, don't worry, I'm we're gonna try to keep whether it is through this course during the summer vacation that we're gonna have several workshops.",
+      "timestamp_abs": "33:16"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "uh even not only with me, with mentors that we're gonna assign you.",
+      "timestamp_abs": "33:24"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "for you to help you to keep progressing.",
+      "timestamp_abs": "33:27"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then during the next semester keep progressing this.",
+      "timestamp_abs": "33:30"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, you're gonna meet several partners and I think now Arya got it because Arya went to the conference.",
+      "timestamp_abs": "33:33"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Arya, share please what happened.",
+      "timestamp_abs": "33:38"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Did you share with them what you did?",
+      "timestamp_abs": "33:40"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, no. Because for tomorrow class maybe I will, if I have to present, I will present about the the partner that I found in the AI Expo.",
+      "timestamp_abs": "33:41"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "33:51"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Tomorrow class you'll have another class for what?",
+      "timestamp_abs": "33:52"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "For the special topics. The class that uh, changed to the AI conference itself.",
+      "timestamp_abs": "33:53"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh, uh-huh.",
+      "timestamp_abs": "33:59"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, so you're gonna talk about it tomorrow.",
+      "timestamp_abs": "34:00"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, I will show the seven good that I came and uh, is it possible? No, it's possible.",
+      "timestamp_abs": "34:01"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Ah, because you're using that topic too for that.",
+      "timestamp_abs": "34:06"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "34:09"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Very smart, very smart.",
+      "timestamp_abs": "34:10"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Very good.",
+      "timestamp_abs": "34:12"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, um, in that case,",
+      "timestamp_abs": "34:13"
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "In that case, can you share just briefly what or you gonna share tomorrow? Because I wanna continue the conversation based on that. That's why.",
+      "timestamp_abs": "34:18"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Please share.",
+      "timestamp_abs": "34:25"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "34:25"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just tell them briefly, you don't have.",
+      "timestamp_abs": "34:26"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay. Uh, so basically, um, yesterday,",
+      "timestamp_abs": "34:27"
+    }
+  ]
+}

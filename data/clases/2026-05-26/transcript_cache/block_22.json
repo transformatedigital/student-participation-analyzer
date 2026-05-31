@@ -1,0 +1,142 @@
+{
+  "block": 22,
+  "time_range": "105:00-110:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, I gathered the data.",
+      "timestamp_abs": "105:00"
+    },
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "105:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "For the problem.",
+      "timestamp_abs": "105:01"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But from, be specific.",
+      "timestamp_abs": "105:01"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Gather the data for which problem?",
+      "timestamp_abs": "105:02"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "For the...",
+      "timestamp_abs": "105:03"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So your activity should be like, I gathered the data on the users at the, for example, one of the things you didn't have at the beginning but I asked you is, how many, all of them I think at the very, very, very early on I said, what are the statistics of other countries in Africa? What are they doing? You now have it. Remember at the time? One activity should be that. What are the regional rankings, uh, what are the statistics on the subscriptions versus the amount, the money that we're losing?",
+      "timestamp_abs": "105:03"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The the comparison between my country with other countries.",
+      "timestamp_abs": "105:23"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want that kind of specificity level. If you tell me just identify the problem, everybody's doing that. What's the difference? I want it to be specific to your case.",
+      "timestamp_abs": "105:26"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "That's good.",
+      "timestamp_abs": "105:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And then another thing, uh, I, I also, I'm trying to analyze why is the Korea the first.",
+      "timestamp_abs": "105:34"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Very good. Everybody needs to do that, huh? Why could Korea, this is very important, but that is on this side.",
+      "timestamp_abs": "105:41"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Ah.",
+      "timestamp_abs": "105:47"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That is on this side.",
+      "timestamp_abs": "105:48"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It will learn about it in the next step. I think that one could go here, rather than here, but you could tell me, you could tell me in the contextual intelligence, rather than why Korea, you could tell me, for example, I, I research best practices. What are the best practices to solve or to tackle this problem?",
+      "timestamp_abs": "105:49"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Okay?",
+      "timestamp_abs": "106:08"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "106:09"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Right?",
+      "timestamp_abs": "106:09"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "106:10"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "block": 10,
+  "time_range": "45:00-50:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But because you are only five people, maybe you have to work.",
+      "timestamp_abs": "45:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So for example, Grace, you are the CEO, and then Mega, you are the CTO, and then Aryang, you are the CFO, and then Chilaka, you are the C- What else? CPO? And then what else? And then you're all gonna fight together with your project. Uh, and then, and then, if, uh, if you, uh, I want you to prepare so much what would happen if they try to do a venture funding or if they try to do, um, you know, just expand. What would be the discussions that you would have, Grace, as a CEO, and then Mega as a CTO, and Aryang as a CFO. I want you to prepare those cases so that you, you tell me the strategies for your project.",
+      "timestamp_abs": "45:01"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "So it's like a pitch, right?",
+      "timestamp_abs": "45:43"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not a pitch. It's a debate.",
+      "timestamp_abs": "45:44"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not a pitch.",
+      "timestamp_abs": "45:45"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want you to defend. What are the key decisions that you as a team are gonna take for your project? And why is it? For example, your technology is too advanced. What are the problems with being too advanced for your market? And what are the solutions for that? Or what if your market is too immature for your project? So what are the problems with that? And what are the solutions that you will find?",
+      "timestamp_abs": "45:46"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So like for example if it's too advanced and the market's too immature, what kind of challenges would we face when we're trying to integrate that into the market and what are the plans we have to put to make sure that we're successful, right?",
+      "timestamp_abs": "45:59"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly. Exactly. And I want you to use the frameworks.",
+      "timestamp_abs": "46:06"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So not like, uh, I want you to use the frameworks, uh, the STP and the and the, all of them, the ones that you were reading.",
+      "timestamp_abs": "46:09"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So not like, uh, \"We're going to expand into Europe.\" Oh, how are you going to expand into Europe? And what does that mean from the strategic point of view? And what are the risks, right?",
+      "timestamp_abs": "46:16"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So those are the discussions. So for example, I might call Grace, I'll say, \"Grace, you are the CEO. What do you think you have to do in this scenario?\" And then she's gonna tell me. And then I'll ask Mega, \"Okay, Mega, you are the CTO. Do you agree or do you have a different solution for that particular problem?\" And then she's gonna tell me. And then I'll ask Aryang.",
+      "timestamp_abs": "46:23"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "\"Aryang, what is your suggestion on the finance side if they were to take that decision?\" And so on. So that you have to use the theories. And that's why I'm insisting, you need to read the theories of the handbook. If you don't read them, it's gonna be very difficult to debate. Because you need to tell me. So for example, Grace says, \"I'm gonna do a blue ocean strategy.\" Okay, Grace, what is a blue ocean strategy? And why do you think that's the one? And what are the risks of using a blue ocean strategy? So if you didn't read about it, you won't be able to debate. You just have to tell me, \"Oh, I'm just gonna open a new market.\" No, that's not a blue ocean strategy. What's the blue ocean strategy framework? And what does that mean, right?",
+      "timestamp_abs": "46:36"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Mmm. So like the question will be based around the frameworks we've been reading or what we've been learning in class, right?",
+      "timestamp_abs": "47:00"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you need to use the frameworks to explain your strategy. Not just, \"Oh, I'm gonna open a new market.\" And that's why, I mean, that's what's the, the, you know, the main point of this is to make you think more critically and more deeply.",
+      "timestamp_abs": "47:05"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So not just on the surface, like, you're not just gonna tell me, \"Oh, I'm gonna make it cheaper.\" You know, that's not a strategy. Right?",
+      "timestamp_abs": "47:16"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Right.",
+      "timestamp_abs": "47:22"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You have to know what are the aspects around it. What does that mean to make it cheaper? Or what does that mean to make it more innovative? What does that mean? Right?",
+      "timestamp_abs": "47:22"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why I'm insisting that you go deep in your explanation. That's what I want you to do. And that's the reason why I want you to do this because many of the things I tell you like in the class, like, oh, I remember a time, it's very difficult for me to be able to tell you all of these things and wait for you to assimilate it. So it's better if you read and then you apply them. Then you can assimilate them better.",
+      "timestamp_abs": "47:29"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's the reason why I'm gonna be calling, uh, so I want to call you up and you, you have to be prepared as a team, as a startup team. You're a startup team now.",
+      "timestamp_abs": "47:50"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "text": "So for the first week, we'll just have the debate, right? The discussion without presentation.",
+      "timestamp_abs": "47:59"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly. Just discussion. You don't need any slides. Nothing. No, not because I want to make you even faster. Like, I want you to debate as soon as possible. Because sometimes when you do presentations, it's like, you know, you take a lot of time preparing the presentation, the slides, and all that. No, I want you to focus more on your thoughts and how you articulate your thoughts and how you bring to the discussion what you read in the handbook. That's the main point. So no need to prepare any slides.",
+      "timestamp_abs": "48:04"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "48:26"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's gonna be the first week. The week of October 23rd, if I'm not wrong, will be the first round of debate.",
+      "timestamp_abs": "48:26"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then, um, I was thinking because we're gonna be doing two different assignments. Because the second assignment is going to be the essay. Remember, the essay is still valid. That's not removed.",
+      "timestamp_abs": "48:33"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "48:42"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is going to be your team project which is a debate of the cases that you have read for the handbook. Not for your project. This is not for your project.",
+      "timestamp_abs": "48:43"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let me clarify that. The debate is on the cases that you have read from the handbook. Your project will be the second assignment.",
+      "timestamp_abs": "48:50"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So for example, I might say, \"Grace, what does that mean in the context of your project?\" But the debate in itself is on the cases that you have read from the handbook. Because I want you to apply those frameworks. Right?",
+      "timestamp_abs": "48:57"
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "49:08"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "49:09"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "So we will have different themes assigned to each of us in that debate then?",
+      "timestamp_abs": "49:10"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm gonna separate you as a team. So, for example, I will tell you, I'll say, \"Okay, Grace, Mega, Aryang, Chilaka, and Stephe, no, you don't have Stephe yet, right?\" Oh, sorry. Five. Five people. So Grace, Mega, Aryang, Chilaka, and who else? Uh, what was the last person?",
+      "timestamp_abs": "49:14"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Myself.",
+      "timestamp_abs": "49:31"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, that's you. Grace, Mega, Aryang, Chilaka, and...",
+      "timestamp_abs": "49:32"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Sthephen.",
+      "timestamp_abs": "49:36"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sthephen. Thank you.",
+      "timestamp_abs": "49:37"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you're gonna be a team. But for your team, I'm going to say Grace, you are the CEO, Mega, you are the CTO. You know, you have different roles within the team, so you can play different roles, so you can debate from different perspectives.",
+      "timestamp_abs": "49:38"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? So I want you to prepare, you know, okay, if I'm a CEO, what are the different things that I would analyze for that particular case? And what would be my strategy? What would be my debate strategy?",
+      "timestamp_abs": "49:50"
+    },
+    {
+      "timestamp": "05:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then I'll just, uh, like I told you, I'll interrupt you. I'll tell you, \"What about this? What about that? Why do you think that's the right solution? What are the risks of that solution? What if it's not feasible?\" You know, all these things, I will ask you as a professor. Right?",
+      "timestamp_abs": "50:00"
+    },
+    {
+      "timestamp": "05:15",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So it's like our own mini Shark Tank.",
+      "timestamp_abs": "50:15"
+    },
+    {
+      "timestamp": "05:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. Like a Shark Tank, but not pitching a product, but pitching a solution or a strategy for a problem. You know?",
+      "timestamp_abs": "50:17"
+    },
+    {
+      "timestamp": "05:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, um, I was thinking to do, uh, five different debates.",
+      "timestamp_abs": "50:25"
+    },
+    {
+      "timestamp": "05:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, no, wait. Five different topics. One debate, one debate. So that's why I said you are only five. So five topics. So I might choose one topic for Grace, one topic for Mega, one topic for Chilaka, one topic for Aryang, and one topic for Sthephen.",
+      "timestamp_abs": "50:31"
+    },
+    {
+      "timestamp": "05:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, sorry. This is for the second part. The essay. That's the other part. That's the individual part.",
+      "timestamp_abs": "50:46"
+    },
+    {
+      "timestamp": "05:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is your group project. So I'm gonna tell you, \"Grace, Mega, Aryang, Chilaka, and Sthephen, you are a team. And I'm gonna give you a topic for your team.\" And I'm gonna tell you, \"You are the CEO, you are the CTO, you are the CFO, you are this and that.\" And you are going to debate with me, uh, about your proposed strategy for that particular topic based on the readings. Uh, so that's what it means. And if you are good in the debate, you will get a good grade.",
+      "timestamp_abs": "50:51"
+    },
+    {
+      "timestamp": "06:17",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "text": "So one topic for the whole team.",
+      "timestamp_abs": "51:17"
+    },
+    {
+      "timestamp": "06:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly. One topic for the whole team.",
+      "timestamp_abs": "51:19"
+    },
+    {
+      "timestamp": "06:22",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "51:22"
+    },
+    {
+      "timestamp": "06:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because otherwise, it's very difficult because otherwise you will have to divide your time to five topics. It's too much.",
+      "timestamp_abs": "51:22"
+    }
+  ]
+}

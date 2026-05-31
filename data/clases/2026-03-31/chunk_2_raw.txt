@@ -1,0 +1,410 @@
+{
+  "chunk": "00:56:00-01:52:00",
+  "teacher_questions": [
+    {
+      "timestamp": "00:56:07",
+      "question": "Faculty members?",
+      "directed_to": "class",
+      "student_response": {
+        "student": "Grace",
+        "response": "Faculty members there are about uh",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "00:56:32",
+      "question": "Or students? How many students are there?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "I think let's try and check price central, 8,000.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "00:57:05",
+      "question": "More than 500?",
+      "directed_to": "Student (unidentified)",
+      "student_response": {
+        "student": "Student (unidentified)",
+        "response": "No no",
+        "quality_score": "E",
+        "quality_label": "Weak"
+      }
+    },
+    {
+      "timestamp": "00:57:06",
+      "question": "500 per class?",
+      "directed_to": "Student (unidentified)",
+      "student_response": {
+        "student": "Student (unidentified)",
+        "response": "Yeah, there is a classroom that will hold about 500 students.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "00:58:23",
+      "question": "You don't know the times, the third step.",
+      "directed_to": "Student (unidentified)",
+      "student_response": {
+        "student": "Student (unidentified)",
+        "response": "The third step in the process.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:01:47",
+      "question": "Have you used Google Docs offline?",
+      "directed_to": "Student (unidentified)",
+      "student_response": {
+        "student": "Student (unidentified)",
+        "response": "Offline.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:14:10",
+      "question": "Say the next one.",
+      "directed_to": "Student",
+      "student_response": {
+        "student": "Student (unidentified)",
+        "response": "Rather than infrastructure, okay? Yeah, that's great. That's a higher level. But is there the Ministry of Education in Congo has been, they have said something about, or maybe, for example, maybe some other universities in Congo, or nearby Congo, you mean that the academic councils. Other universities, they're related to the to the university they were at, they already implement some solutions that are well known and well maybe online books, for example, just general open open open source books. And they have some news or they say, other universities are already trying to do it. But they have this education with this, this kind of existing efforts. Very, when when I am a member, I told you all of from of a committee for investment, for startups, to invest in those technological startups. And one of the things I always tell the startups in country is, if your client tells you, there's nobody else, there's no existing solution that they, what you're trying to do, there's only two options. Either you are very, very good innovator and it's a very blue ocean and you're going to be the next millionaire there. Or there's no real opportunity there. Because in this Kinshasa, the fact that there's nothing been done, it's very rare.",
+        "quality_score": "B",
+        "quality_label": "Very Good"
+      }
+    },
+    {
+      "timestamp": "01:31:07",
+      "question": "Do you talk about architecture? You guys, you or Aryang or Sthephen, you can tell me or the other students. Think about. Any solution architecture, even in an app, if it's designed for an infrastructure like Korea, already the architecture and the type of programming used, the layers used for that. It's going to be too heavy for that kind of. It's not going to load it. So, your question.",
+      "directed_to": "class",
+      "student_response": {
+        "student": "Student (unidentified)",
+        "response": "No. I mean if if the problem is about the connectivity, I think it's it's it's the the issue for the IT how to make it can access even using the low bandwidth, or otherwise maybe I can just go full offline. I mean, in term of digital in term of digital, I think it's not it's not mandatory to make it online of online. what what what I'm trying to say is if you just want to make it digital, it doesn't have to be online.",
+        "quality_score": "B",
+        "quality_label": "Very Good"
+      }
+    },
+    {
+      "timestamp": "01:43:03",
+      "question": "Would something like that be what you're looking for? Is my question. Is it something I am imagining the right thing or am I not imagining the right thing?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Student (unidentified)",
+        "response": "Uh, I believe for my perspective, I wanted to start something that can really push digital transformation. So, it means that we need to have something from the beginning. And through that, uh, we can really push, uh, a country, uh, to have a sophistication tool to introduce because we have the national plan of, uh, digital strategy. And that's uh, national plan actually, they are trying to improve infrastructure, connectivity, and digital skills. The implementation will not very, uh, like going not really fast, but they are still pushing there. And they are some of the implementations that you can see because some of the uh, public, uh, uh, company like, uh, the general office of taxation, they are using a very sophisticated tool now they have even this, uh, digitalized the online tax payment. So that's really existed before. That's they have adopted that and it works. It works. So, it means that even though maybe the whole country is suffering from maybe the local connectivity, but there is a possibility when something new happens. You see, it can be integrated such way and it can push somehow the institution to move forward.",
+        "quality_score": "B",
+        "quality_label": "Very Good"
+      }
+    }
+  ],
+  "student_contributions": [
+    {
+      "timestamp": "00:56:09",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Faculty members there are about uh",
+      "quality_score": "D",
+      "quality_label": "Acceptable"
+    },
+    {
+      "timestamp": "00:56:25",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "About 100, 1,200 academic staff.",
+      "quality_score": "C",
+      "quality_label": "Good"
+    },
+    {
+      "timestamp": "00:56:44",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "More than, uh, 8,000 to my calculations, around 8,000.",
+      "quality_score": "D",
+      "quality_label": "Acceptable"
+    },
+    {
+      "timestamp": "00:56:50",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "You know that uh the university have many students like if you want to be able to see you will only have more than 500 students.",
+      "quality_score": "C",
+      "quality_label": "Good"
+    },
+    {
+      "timestamp": "00:57:14",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "You see that, uh, it's not normal. It's too big.",
+      "quality_score": "C",
+      "quality_label": "Good"
+    },
+    {
+      "timestamp": "00:57:19",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "So from the comments I tried to really, uh, bring out, uh, one faculty is uh 100.",
+      "quality_score": "B",
+      "quality_label": "Very Good"
+    },
+    {
+      "timestamp": "00:57:31",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "I have chosen the faculty of this is the faculty of economics, uh, and my faculty of economics, uh, about 600 students, and about 300, 300 something, uh, academic staff.",
+      "quality_score": "C",
+      "quality_label": "Good"
+    },
+    {
+      "timestamp": "00:57:56",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "So I have tried to narrow the project.",
+      "quality_score": "D",
+      "quality_label": "Acceptable"
+    },
+    {
+      "timestamp": "00:58:28",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "Yeah, so that still will connect.",
+      "quality_score": "D",
+      "quality_label": "Acceptable"
+    },
+    {
+      "timestamp": "00:58:49",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "So that's another issue. So that the initial device that we are looking at students are probably from their phones, or tablets, rather than a laptop, or a PC. It's not like in Kinshasa University, everybody has a desktop, or everybody has a computer. No. That's not the case. So mobile first is one thing. Another thing is online offline, kind of sync thing that I think, I thought, ah, this is a very interesting function that we can, I think, very do, uh,",
+      "quality_score": "C",
+      "quality_label": "Good"
+    },
+    {
+      "timestamp": "00:59:21",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "I'm not trying to put away, uh, online function.",
+      "quality_score": "D",
+      "quality_label": "Acceptable"
+    },
+    {
+      "timestamp": "00:59:28",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "But I have.",
+      "quality_score": "D",
+      "quality_label": "Acceptable"
+    },
+    {
+      "timestamp": "00:59:30",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "I'm trying to connect with, uh, the K-elements. I'm telling you this is not easy for me to connect, against connect.",
+      "quality_score": "C",
+      "quality_label": "Good"
+    },
+    {
+      "timestamp": "00:59:39",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "Because the system is heavy. Heavy and somehow it is not really matching with, uh, the local context. So bringing something such, uh, to the DRC context will be somewhat difficult. So that's why I'm thinking less of the kind of infrastructure we have, kind of connectivity we have. It is not offline. That's still online, but that can be able to be used, you see within the context. So trying to take the context of the country and come up with something that can be affordable. I remember last time when if we can talk about those advanced technology, blockchain, IoT, all those things. So it will be not relevant. So the key and the real example is myself. When I had in Congo to get connected to K-elements, I faced trouble. Maybe if I can try to look up, look for, uh, advanced connection and it could be a specific place. I remember once when I was, uh, in my master, interview with Koka for my master, the first interview I get connected from my house. I I was in trouble. Luckily, they gave me one test. They said, you cannot really connect, interact with you, but please, they will re they will schedule the a meeting with me. They said, they will look for a place where I can see the water. I need to it, I went to the Koga office to my country. I met them, I said, I want to I first of all gave them the message that, uh, I had my interview, uh, but I could not uh, connect with the local connectivity in the air. I suggested if I can use, uh, you know, devices that I can connect with the Internet. Since you are in a very, uh, condition, I went there. From there, I get connected. Then my interview was well. Then I was successfully selected. So, maybe just for that's no connectivity, I will oppose even my my even my. And the same thing they are doing with the K elements. So it's not you.",
+      "quality_score": "A",
+      "quality_label": "Excellent"
+    },
+    {
+      "timestamp": "01:08:12",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Okay. Dr. Professor, uh, the the the technical isn't it should be put in the problem statement or in the and in the requirements solution, I think.",
+      "quality_score": "C",
+      "quality_label": "Good"
+    },
+    {
+      "timestamp": "01:08:49",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Okay.",
+      "quality_score": "E",
+      "quality_label": "Weak"
+    },
+    {
+      "timestamp": "01:08:49",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "So that's another issue. So that the initial device that we are looking at students are probably from their phones, or tablets, rather than a laptop, or a PC. It's not like in Kinshasa University, everybody has a desktop, or everybody has a computer. No. That's not the case. So mobile first is one thing. Another thing is online offline, kind of sync thing that I think, I thought, ah, this is a very interesting function that we can, I think, very do, uh,",
+      "quality_score": "C",
+      "quality_label": "Good"
+    },
+    {
+      "timestamp": "01:09:21",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "I'm not trying to put away, uh, online function.",
+      "quality_score": "D",
+      "quality_label": "Acceptable"
+    },
+    {
+      "timestamp": "01:09:28",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "But I have.",
+      "quality_score": "D",
+      "quality_label": "Acceptable"
+    },
+    {
+      "timestamp": "01:09:30",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "I'm trying to connect with, uh, the K-elements. I'm telling you this is not easy for me to connect, against connect.",
+      "quality_score": "C",
+      "quality_label": "Good"
+    },
+    {
+      "timestamp": "01:09:39",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "Because the system is heavy. Heavy and somehow it is not really matching with, uh, the local context. So bringing something such, uh, to the DRC context will be somewhat difficult. So that's why I'm thinking less of the kind of infrastructure we have, kind of connectivity we have. It is not offline. That's still online, but that can be able to be used, you see within the context. So trying to take the context of the country and come up with something that can be affordable. I remember last time when if we can talk about those advanced technology, blockchain, IoT, all those things. So it will be not relevant. So the key and the real example is myself. When I had in Congo to get connected to K-elements, I faced trouble. Maybe if I can try to look up, look for, uh, advanced connection and it could be a specific place. I remember once when I was, uh, in my master, interview with Koka for my master, the first interview I get connected from my house. I I was in trouble. Luckily, they gave me one test. They said, you cannot really connect, interact with you, but please, they will re they will schedule the a meeting with me. They said, they will look for a place where I can see the water. I need to it, I went to the Koga office to my country. I met them, I said, I want to I first of all gave them the message that, uh, I had my interview, uh, but I could not uh, connect with the local connectivity in the air. I suggested if I can use, uh, you know, devices that I can connect with the Internet. Since you are in a very, uh, condition, I went there. From there, I get connected. Then my interview was well. Then I was successfully selected. So, maybe just for that's no connectivity, I will oppose even my my even my. And the same thing they are doing with the K elements. So it's not you.",
+      "quality_score": "A",
+      "quality_label": "Excellent"
+    },
+    {
+      "timestamp": "01:12:25",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "Yeah.",
+      "quality_score": "E",
+      "quality_label": "Weak"
+    },
+    {
+      "timestamp": "01:12:26",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "And also the second is that Christ, all maybe in other universities, so not only in Korea, but maybe some other cases, almost all students has at least a computer. But it's not the case with me. In my country, there are students who are not. Even there are some students, I can not even, who are even computer science students. They will just come in without a computer. And that's the reality. I know I have been academic. I know I'm facing problems. And these problems, I have worked with this problem. I have worked as a computer network manager before. I know what's has been going through to the university. And I know I worked with several professors. I know how they struggle in terms of that. And some students, I think I told you, we have rooms of 500 students. Maybe. And everybody there relying on, uh, maybe an invited syllabus or an invited classrooms. And when it comes about, uh, assignments, they give, they do manually, or they can do their just type, uh, just type and then submit. So even correction, you have to correct like this. So one on one. I have been correcting thousands of copies like that. I can stand two days just correcting copies. Maybe full night just correcting copies like that. After that, I have to write names and then make the Excel file. Then I start names, grade, name, grade, name, grade. And when it comes about the integration, uh, of maybe uh, like that. So they asked now professors to submit the grades for all the students. And then they try to combine these class, they put they try to. So you see that it's a long process. It's a very long process. And that's the reality. That is the problem actually. So trying to gather all those information. That's why I'm thinking to have this uh, management, uh, learning management system. But that can be, uh, affordable with the kind of, uh, infrastructure we have. That can be, uh, low bandwidth. So using 4G or 3G can be accessible. So I think there's a way to be that a technology which can work with uh, somehow low connectivity or average connectivity. At least, people can struggle. If at least they are affordable with 4G. We still have 4G. And at the same time, if we have something such we can push advanced infrastructure or connectivity for in the future. From starting somewhere, it can push somehow to to make, make, uh, some purpose in terms of infrastructure and connectivity.",
+      "quality_score": "A",
+      "quality_label": "Excellent"
+    },
+    {
+      "timestamp": "01:15:29",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "Really, most of everybody has mobile phone. And they use uh in the net, most of them it's WhatsApp and most of the students they communicate through WhatsApp. They communicate through WhatsApp and inside. So actually they have, most of them they have uh mobile smartphones and with the smartphone they use internet, they use Facebook, they use WhatsApp and that's the way they they communicate. Yeah, they communicate. So most of students they have with me they chat through WhatsApp. They chat through they have even, even of their monitor of their their promotion and he's the one who is directing much more with the professor. If there is a specific information, the professor gives to him and then he shares with others. It can be even through WhatsApp or after the class is over like this can be when you are done with the class name, we communicate. So I communicate with the professor, so uh next time, uh next week, we have to submit maybe assignment or something like something like. But if they can have, uh, something like, uh, a learning management system where they can help not only maybe, uh, class notes where they can submit assignments, but they can also have the possibility to get information from professors or academics. So everyone from his home or from everywhere he is, can be to the information. About maybe if they are to submit any assignment, to submit fees, or maybe. So that's what I'm thinking. That's what I'm thinking. That's what I'm thinking.",
+      "quality_score": "A",
+      "quality_label": "Excellent"
+    },
+    {
+      "timestamp": "01:17:19",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "Actually, it's uh a little bit after they have tried to correct some of the stuff. Then I have I I wrote, uh, this one. Yeah, and then I have tried to somewhere there, I have talked about the pilot project that will be initially implementing in the faculty of economics, my defense in Kinshasa. So, he built the faculty post approximately 6000 students. And we have more than 300, 300 faculty staff. So that's really the the the pilot faculty that we have to improve. And from there, we can see how to extend, to expand its uh within uh university.",
+      "quality_score": "B",
+      "quality_label": "Very Good"
+    },
+    {
+      "timestamp": "01:22:25",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "Yeah.",
+      "quality_score": "E",
+      "quality_label": "Weak"
+    },
+    {
+      "timestamp": "01:22:26",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "And also the second is that Christ, all maybe in other universities, so not only in Korea, but maybe some other cases, almost all students has at least a computer. But it's not the case with me. In my country, there are students who are not. Even there are some students, I can not even, who are even computer science students. They will just come in without a computer. And that's the reality. I know I have been academic. I know I'm facing problems. And these problems, I have worked with this problem. I have worked as a computer network manager before. I know what's has been going through to the university. And I know I worked with several professors. I know how they struggle in terms of that. And some students, I think I told you, we have rooms of 500 students. Maybe. And everybody there relying on, uh, maybe an invited syllabus or an invited classrooms. And when it comes about, uh, assignments, they give, they do manually, or they can do their just type, uh, just type and then submit. So even correction, you have to correct like this. So one on one. I have been correcting thousands of copies like that. I can stand two days just correcting copies. Maybe full night just correcting copies like that. After that, I have to write names and then make the Excel file. Then I start names, grade, name, grade, name, grade. And when it comes about the integration, uh, of maybe uh, like that. So they asked now professors to submit the grades for all the students. And then they try to combine these class, they put they try to. So you see that it's a long process. It's a very long process. And that's the reality. That is the problem actually. So trying to gather all those information. That's why I'm thinking to have this uh, management, uh, learning management system. But that can be, uh, affordable with the kind of, uh, infrastructure we have. That can be, uh, low bandwidth. So using 4G or 3G can be accessible. So I think there's a way to be that a technology which can work with uh, somehow low connectivity or average connectivity. At least, people can struggle. If at least they are affordable with 4G. We still have 4G. And at the same time, if we have something such we can push advanced infrastructure or connectivity for in the future. From starting somewhere, it can push somehow to to make, make, uh, some purpose in terms of infrastructure and connectivity.",
+      "quality_score": "A",
+      "quality_label": "Excellent"
+    },
+    {
+      "timestamp": "01:29:07",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "Really, most of everybody has mobile phone. And they use uh in the net, most of them it's WhatsApp and most of the students they communicate through WhatsApp. They communicate through WhatsApp and inside. So actually they have, most of them they have uh mobile smartphones and with the smartphone they use internet, they use Facebook, they use WhatsApp and that's the way they they communicate. Yeah, they communicate. So most of students they have with me they chat through WhatsApp. They chat through they have even, even of their monitor of their their promotion and he's the one who is directing much more with the professor. If there is a specific information, the professor gives to him and then he shares with others. It can be even through WhatsApp or after the class is over like this can be when you are done with the class name, we communicate. So I communicate with the professor, so uh next time, uh next week, we have to submit maybe assignment or something like something like. But if they can have, uh, something like, uh, a learning management system where they can help not only maybe, uh, class notes where they can submit assignments, but they can also have the possibility to get information from professors or academics. So everyone from his home or from everywhere he is, can be to the information. About maybe if they are to submit any assignment, to submit fees, or maybe. So that's what I'm thinking. That's what I'm thinking. That's what I'm thinking.",
+      "quality_score": "A",
+      "quality_label": "Excellent"
+    },
+    {
+      "timestamp": "01:31:07",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "This is we see uh currently in French that is a website.",
+      "quality_score": "C",
+      "quality_label": "Good"
+    },
+    {
+      "timestamp": "01:31:39",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "This is in French. So.",
+      "quality_score": "D",
+      "quality_label": "Acceptable"
+    },
+    {
+      "timestamp": "01:31:41",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "You say Kinshasa also official website. Yeah, this is the official website for Kinshasa. So actually this one is just the representation of the university from its uh from the beginning. Yeah, there is a faculty, all these things. And it needs to be this is important in Kinshasa. Yeah. We have to do that.",
+      "quality_score": "C",
+      "quality_label": "Good"
+    },
+    {
+      "timestamp": "01:34:07",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "So, just like a repository and some news and that's it.",
+      "quality_score": "D",
+      "quality_label": "Acceptable"
+    },
+    {
+      "timestamp": "01:34:27",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "Yeah. You see that even their website is not sophisticated. It's not really sophisticated. This is normally Production about faculties. We can see we have a school of academic accounts. We have uh Faculty of Law which is on board. Faculty of Arts and Human Science. Medicines. And uh Yeah. And we have uh preparing many for Kinshasa.",
+      "quality_score": "C",
+      "quality_label": "Good"
+    },
+    {
+      "timestamp": "01:35:55",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "This is we see uh currently in French that is a website.",
+      "quality_score": "C",
+      "quality_label": "Good"
+    },
+    {
+      "timestamp": "01:36:39",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "This is in French. So.",
+      "quality_score": "D",
+      "quality_label": "Acceptable"
+    },
+    {
+      "timestamp": "01:36:41",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "You say Kinshasa also official website. Yeah, this is the official website for Kinshasa. So actually this one is just the representation of the university from its uh from the beginning. Yeah, there is a faculty, all these things. And it needs to be this is important in Kinshasa. Yeah. We have to do that.",
+      "quality_score": "C",
+      "quality_label": "Good"
+    },
+    {
+      "timestamp": "01:39:07",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "So, just like a repository and some news and that's it.",
+      "quality_score": "D",
+      "quality_label": "Acceptable"
+    },
+    {
+      "timestamp": "01:39:27",
+      "student": "Student (unidentified)",
+      "type": "voluntary_response",
+      "content": "Yeah. You see that even their website is not sophisticated. It's not really sophisticated. This is normally Production about faculties. We can see we have a school of academic accounts. We have uh Faculty of Law which is on board. Faculty of Arts and Human Science. Medicines. And uh Yeah. And we have uh preparing many for Kinshasa.",
+      "quality_score": "C",
+      "quality_label": "Good"
+    }
+  ]
+}

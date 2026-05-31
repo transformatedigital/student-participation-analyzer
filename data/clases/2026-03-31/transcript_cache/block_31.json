@@ -1,0 +1,371 @@
+{
+  "block": 31,
+  "time_range": "150:00-155:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "the the the the thing that you mentioned yesterday stuck in my head about",
+      "timestamp_abs": "150:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "I don't know what how to put it but maybe I can get to square one. But what the about isn't it more like IT project? What's the difference then between the ICP and IT project I mean",
+      "timestamp_abs": "150:06"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, okay, okay.",
+      "timestamp_abs": "150:20"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "What I meant is that again, again, IT, ICP and IT project, right?",
+      "timestamp_abs": "150:22"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's more like a transactional acquisition of an IT service versus a technology commercialization project.",
+      "timestamp_abs": "150:27"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Sorry. Isn't it the same?",
+      "timestamp_abs": "150:35"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "The thing that we do in the",
+      "timestamp_abs": "150:38"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "I mean like like like like like Kisti. Isn't it like They are going to look at it.",
+      "timestamp_abs": "150:42"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay. I want to tell you, in Kisti's case",
+      "timestamp_abs": "150:49"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah. Still [inaudible]",
+      "timestamp_abs": "150:51"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He knows there's a solution, right? He developed it.",
+      "timestamp_abs": "150:57"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He said, 'Korean R&D model, technology and policy model is a worldwide recognized best practice.'",
+      "timestamp_abs": "151:02"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "151:10"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And Nigeria has an opportunity because I am from the Federal Ministry of Science and Technology and I want to adapt this best practice.",
+      "timestamp_abs": "151:11"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I want to build a team for local implementation.",
+      "timestamp_abs": "151:21"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, we're going to build probably a team in Kisti.",
+      "timestamp_abs": "151:25"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So I'm not sure although they don't use Kisti.",
+      "timestamp_abs": "151:28"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He's saying, 'Within the Federal Ministry there's an agency called NAIWAT.'",
+      "timestamp_abs": "151:32"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Your agency, the agency that's going to operate.",
+      "timestamp_abs": "151:39"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "NTR?",
+      "timestamp_abs": "151:42"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "NPTI?",
+      "timestamp_abs": "151:43"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "National Board of Technology Incubation.",
+      "timestamp_abs": "151:44"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The National Board of Technology Incubation.",
+      "timestamp_abs": "151:46"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I was saying, 'Okay, probably underneath here there's going to be a Nigerian good IT company.' So we're gonna call it NGIC. Nigerian good IT company.",
+      "timestamp_abs": "151:49"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And underneath Kisti there is a very nice soft [inaudible]. It's a small medium enterprise, Korean small medium enterprise.",
+      "timestamp_abs": "152:03"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not sure this is the best word for it. I'm just thinking because I know this company developed NTS many years ago.",
+      "timestamp_abs": "152:11"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And these two players, this is probably the source. This is probably the recipient.",
+      "timestamp_abs": "152:18"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And probably with Kisti, they are an intermediary and they're we're going to try to build a marriage here with a baby called Nigerian R&D management system.",
+      "timestamp_abs": "152:27"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's the story here.",
+      "timestamp_abs": "152:38"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In your case, if we split it into LLM Hyperclova service contract.",
+      "timestamp_abs": "152:40"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Yeah sorry is it the same then you know?",
+      "timestamp_abs": "152:52"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, because in this case, these guys are going to produce a baby together. They're going to adapt the solution, the Korean Technology policy, NTS adapted into the Nigerian case and produced technology together.",
+      "timestamp_abs": "152:54"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "In this case.",
+      "timestamp_abs": "153:10"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "No, I mean what if the Hyperclova can can just copy and paste it mean it needs to be modified.",
+      "timestamp_abs": "153:11"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Modified, right?",
+      "timestamp_abs": "153:20"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But Naver is I'm not sure if Naver provides the service of co-developing something with that with the Indonesian startup blah, blah, blah.",
+      "timestamp_abs": "153:21"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No. Naver Hyperclova will provide the LLM service to whoever wants to use it for whatever reason.",
+      "timestamp_abs": "153:33"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just pay the membership, that's all I hear.",
+      "timestamp_abs": "153:41"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Is it right?",
+      "timestamp_abs": "153:45"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Yeah, yeah, I think isn't it this the same thing with with with",
+      "timestamp_abs": "153:46"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, these two entities will try to develop something technology together.",
+      "timestamp_abs": "153:51"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This company will sell you a service of the LLM for you to grow.",
+      "timestamp_abs": "153:58"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh so so you mean the difference is uh both of the recipient and the source will cooperate something new together.",
+      "timestamp_abs": "154:03"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "154:13"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "In this in this scenario.",
+      "timestamp_abs": "154:14"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In this scenario, unless you find a Korean player who says, 'Hey, I am of the family of Naver and a company part of Naver and I can use the Naver Hyperclova and I'm also in the knowledge operation field blah, blah, blah.'",
+      "timestamp_abs": "154:17"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm going to be able to solve your problem with you.",
+      "timestamp_abs": "154:32"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh then, okay.",
+      "timestamp_abs": "154:36"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh and can I talk talk to Naver with with him?",
+      "timestamp_abs": "154:40"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We need to, yeah, we need to find.",
+      "timestamp_abs": "154:45"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I know that within our family, we have some partners actually the Naver owner of Naver is former Kisti.",
+      "timestamp_abs": "154:46"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, but we need to find the right Hyperclova how to connect with them and.",
+      "timestamp_abs": "154:54"
+    }
+  ]
+}

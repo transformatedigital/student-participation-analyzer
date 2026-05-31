@@ -1,0 +1,386 @@
+{
+  "block": 16,
+  "time_range": "75:00-80:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "to use voice AI to",
+      "timestamp_abs": "75:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "personalized",
+      "timestamp_abs": "75:01"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "to personalize. So the AI, the voice AI can check the personal data. And personal data is in Indonesian. Meanwhile the voice AI technology nowadays only outside from Indonesia.",
+      "timestamp_abs": "75:02"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So.",
+      "timestamp_abs": "75:14"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Also, also you have BRI brain, so",
+      "timestamp_abs": "75:15"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, BRI.",
+      "timestamp_abs": "75:18"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "so BRI, so I think it's also related to the customer demands. So for example,",
+      "timestamp_abs": "75:19"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh",
+      "timestamp_abs": "75:26"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "BRI faces with a, for example, the new customer, like customers are demanding.",
+      "timestamp_abs": "75:27"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, yeah, I I I can tell you it, but uh can I put it like uh because of uh BRI uh plan? Can I put it that way? Or should be",
+      "timestamp_abs": "75:31"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Also that's the context.",
+      "timestamp_abs": "75:41"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Within the new BRI plan or blah blah blah.",
+      "timestamp_abs": "75:44"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh can I frame it?",
+      "timestamp_abs": "75:48"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You can frame it that way.",
+      "timestamp_abs": "75:49"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay then I will go with that.",
+      "timestamp_abs": "75:50"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh so.",
+      "timestamp_abs": "75:51"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it will be one sentence and not lack of AI, lack of voice AI, no.",
+      "timestamp_abs": "75:52"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, yeah, yeah.",
+      "timestamp_abs": "75:56"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "75:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Sorry, sorry, sorry.",
+      "timestamp_abs": "75:59"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "If I go with the personalized voice AI, but my approach with the Totorus is only for the TTS, is it okay?",
+      "timestamp_abs": "76:02"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe that's why you and I have to have a separate meeting about how we will do about this.",
+      "timestamp_abs": "76:11"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, because uh for",
+      "timestamp_abs": "76:15"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe we can't, maybe we can modularize it. One part of your project is this one. But I think also part of the answer might be if we have the meal with Totoros lab and we get to know the Totoros lab and maybe that could be just one and we can just say, okay, this project is going to be a technology push project and we're going to make it.",
+      "timestamp_abs": "76:17"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, of course no. Because if if if you say about the technology push, there's no. I mean,",
+      "timestamp_abs": "76:36"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, because in reality, this problem, that's why your case I don't, it's only the TTS. I don't know, we need to think about, really think about how we will structure the logic of your problem. And also also I think also another good answer will come to us if the Totoros lab is feasible or not. Because it might be Totoros lab is actually not feasible. So then we are back at square, so let's anyway move forward, let's explore the possibilities. And then based on that, we can assess strategically how we modern how we, how we draft the scope of your initiative versus the real straightforward effort of connecting these two plains.",
+      "timestamp_abs": "76:41"
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Okay, and just uh just to be just to make sure that uh if I put the personalized voice AI, actually that's the first my my title. But when I look up a bit the scope and what I will be uh collaborating is only for the create of the model of the TTS. Uh as for the deployment, it's will be doing separately.",
+      "timestamp_abs": "77:21"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Separate. But that's what we're talking about, Mr. Arya, is the components. Your problem right now is about the com, the component is different. Right now I want to settle on the one sentence rule problem. But you are talking to me, ah but that's my problem, but I'm my scope of work is going to be up until here. That's the components. Okay? So probably within one problem, we will have several components that that together are probably part of a solution. And we might directly strategically say, ah actually because of this context, this solution have this and this and this components. But my country, we only have this and this solution collaborating with Korea, and this and this components we're collaborating with Korea, and the rest of the components we're going to do it by ourselves.",
+      "timestamp_abs": "77:41"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Is it okay?",
+      "timestamp_abs": "78:26"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ILEANA",
+      "type": "teacher_response",
+      "text": "Yeah.",
+      "timestamp_abs": "78:27"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay then. Thank you.",
+      "timestamp_abs": "78:27"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "78:28"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sorry.",
+      "timestamp_abs": "78:29"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "78:31"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Can I do my class?",
+      "timestamp_abs": "78:32"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Thank you, Professor.",
+      "timestamp_abs": "78:33"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sorry Grace. I just teach, I just teach.",
+      "timestamp_abs": "78:35"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah, I just wanted to read something.",
+      "timestamp_abs": "78:38"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah yeah, you're, yeah, yours, you you went to the bathroom. I'm sorry, I skipped you. What's yours?",
+      "timestamp_abs": "78:40"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "78:44"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Uh, uh, if I say something like University of operates without uh a centralized academic system, resulting.",
+      "timestamp_abs": "78:46"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "78:56"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Delays, errors.",
+      "timestamp_abs": "78:57"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But again, you are saying operates without an academic system.",
+      "timestamp_abs": "78:59"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "No, I say without a centralized academic system.",
+      "timestamp_abs": "79:06"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, yeah. Operates without a centralized academic system. That is the thing.",
+      "timestamp_abs": "79:09"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "79:14"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So,",
+      "timestamp_abs": "79:15"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "No.",
+      "timestamp_abs": "79:17"
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "centralized system.",
+      "timestamp_abs": "79:18"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Can you explain him after the class why that's not the problem?",
+      "timestamp_abs": "79:21"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, Grace, that's the trip. Thank you. I was really glad that we did this exercise because I can now tell that you guys kind of understand the difference. Okay? We're going to keep exercising because we're going to keep trying to refine it, okay?",
+      "timestamp_abs": "79:25"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But when I read your ICPs, I kept finding this in my mind, I thought, ah, these guys are not understanding its importance and really it's very tricky, very slightly different. You were saying the same in a different logic and really makes a difference, okay?",
+      "timestamp_abs": "79:40"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want to just quickly before the class, I really want to try to finish the class in",
+      "timestamp_abs": "79:56"
+    }
+  ]
+}

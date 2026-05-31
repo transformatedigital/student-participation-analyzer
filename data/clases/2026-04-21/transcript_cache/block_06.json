@@ -1,0 +1,450 @@
+{
+  "block": 6,
+  "time_range": "25:00-30:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "with this guy with the next president, with the current president of KISTI, what's the best line to go?",
+      "timestamp_abs": "25:00"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I had a call with them yesterday and then she high-coached me.",
+      "timestamp_abs": "25:05"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "My question is, politically speaking, in Korea, what's the best course of action?",
+      "timestamp_abs": "25:09"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because right now, I don't know if you guys ever knew the minister, the federal minister of society and technology as NIPA.",
+      "timestamp_abs": "25:15"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Many people, I don't know the minister.",
+      "timestamp_abs": "25:22"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But my idea was, we could go several ways. We could go through the Korean Embassy in Nigeria and then tell them to contact to the Ministry of Foreign Affairs, and they contact the Ministry of Science and Technology in Korea.",
+      "timestamp_abs": "25:24"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And these guys order the KISTI, \"Please, do the thing with all these people collaboration with the Federal Ministry.\"",
+      "timestamp_abs": "25:36"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or separate from that,",
+      "timestamp_abs": "25:45"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "separate from that, we would do we would do um",
+      "timestamp_abs": "25:49"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "from that from the Nigerian embassy in Korea, you have a network with them, directly contact them.",
+      "timestamp_abs": "26:00"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the ambassador, your ambassador and you ask for meeting here and then they will contact the KISTI.",
+      "timestamp_abs": "26:07"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or we directly I also also thinking this morning, I thought we need another way is because since anyway, this is probably the initial investment is probably going to be an ODA for the feasibility study like Costa Rica, we need to make the project only with Costa Rica, the seed money to do the prototype for the feasibility study can be raised into adopt the NBA.",
+      "timestamp_abs": "26:14"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then maybe we could try to go through something like NIPA in the middle.",
+      "timestamp_abs": "26:39"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Since you already have a lot of experience with NIPA and NIPA in the training last year and like that, how many of your PCPs you don't know how how they were evaluating because they don't even believe it now. You know, it's urgent, students, students are seven.",
+      "timestamp_abs": "26:48"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "You know, I just see [inaudible]",
+      "timestamp_abs": "27:03"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I know.",
+      "timestamp_abs": "27:06"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So I talked to Mr.",
+      "timestamp_abs": "27:06"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, sorry.",
+      "timestamp_abs": "27:08"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So he said that they are still evaluating.",
+      "timestamp_abs": "27:08"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm sorry.",
+      "timestamp_abs": "27:09"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "the feasibility, but once it's through.",
+      "timestamp_abs": "27:10"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And there was also another digital health.",
+      "timestamp_abs": "27:15"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "And you told him that you're now in Korea?",
+      "timestamp_abs": "27:17"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes, yes.",
+      "timestamp_abs": "27:18"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We were supposed to see next month.",
+      "timestamp_abs": "27:19"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "27:20"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "With the Jay.",
+      "timestamp_abs": "27:22"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Jay, yeah, you also said yeah, they put up a meeting.",
+      "timestamp_abs": "27:24"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "yeah, yeah, he called me.",
+      "timestamp_abs": "27:25"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "He called me.",
+      "timestamp_abs": "27:26"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "yeah, yeah.",
+      "timestamp_abs": "27:27"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So, we also may digital health class for.",
+      "timestamp_abs": "27:28"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Are you gonna meet here or at the Dollar In?",
+      "timestamp_abs": "27:30"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "In Dollar In.",
+      "timestamp_abs": "27:33"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In Dollar In.",
+      "timestamp_abs": "27:33"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes, sorry.",
+      "timestamp_abs": "27:34"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let me know, all right?",
+      "timestamp_abs": "27:34"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If I can, if it's okay with you, then let's meet together.",
+      "timestamp_abs": "27:36"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If I can, I will go.",
+      "timestamp_abs": "27:41"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I will discuss the point, okay?",
+      "timestamp_abs": "27:43"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'll just again. Hey guys, we are doing this kind of project with the species, let's see from now to next month how it's gonna be.",
+      "timestamp_abs": "27:46"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, if you don't talk with NIPA, maybe the one who directly",
+      "timestamp_abs": "27:53"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "say us, for example, they need to do for them for this.",
+      "timestamp_abs": "27:57"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if they say, no, we actually, we need to do some other other agencies ODA funding, then you can tell like, hey guys, would you be, is there any opportunity that we already have seen the system and there is a good research of it?",
+      "timestamp_abs": "28:02"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Who knows? You know, it's like, in my experience with NIPA, if there is willingness, they will they will they will push it a little bit earlier.",
+      "timestamp_abs": "28:13"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, they will they will prioritize it.",
+      "timestamp_abs": "28:22"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because they won't be pushed us for the. They will show us that something positive will come out from it. Yes.",
+      "timestamp_abs": "28:27"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But then the thing is now, right now the problem I see is that your other PCPs are coming.",
+      "timestamp_abs": "28:34"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that you guys know, before Chilaka came, he already had been working with NIPA.",
+      "timestamp_abs": "28:40"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "NIPA is the national IT industry promotion agency.",
+      "timestamp_abs": "28:45"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Korean.",
+      "timestamp_abs": "28:50"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So he had already been collaborating with them and they were there was a training program they executed for IT experts or IT engineers or something.",
+      "timestamp_abs": "28:51"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Oh, no.",
+      "timestamp_abs": "29:01"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "29:02"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know.",
+      "timestamp_abs": "29:02"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "In Nigeria.",
+      "timestamp_abs": "29:03"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In Nigeria. So NIPA brought some experts and and and through the Chilaka's proper, they did some training in Nigeria.",
+      "timestamp_abs": "29:03"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So already Chilaka has some good network with that agency and that agency depends from the Ministry of Ministry of Science and Technology.",
+      "timestamp_abs": "29:09"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Actually, the vice president of that agency is our big secret. He he bless it from.",
+      "timestamp_abs": "29:19"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah, I know him very well.",
+      "timestamp_abs": "29:26"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, worst case scenario, we can use that agency to be through the. It's better to be official. And actually, Jay and Mr. Hong, they are in charge of this kind of funding for doing first of all, directly with them, we can handle.",
+      "timestamp_abs": "29:28"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, if they tell me, I have to talk to the vice president about it. I think you know what, they can handle it.",
+      "timestamp_abs": "29:41"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I think if we can ask them that would be interesting because anyway, there's same boss, right? This brother agency, same boss, so it's like putting that one for me. One company will come up.",
+      "timestamp_abs": "29:48"
+    }
+  ]
+}

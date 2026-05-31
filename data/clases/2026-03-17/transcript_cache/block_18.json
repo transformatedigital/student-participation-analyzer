@@ -1,0 +1,602 @@
+{
+  "block": 18,
+  "time_range": "85:00-90:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "it's not my hypothesis. Like,",
+      "timestamp_abs": "85:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Costa Rica was actively strengthening its national governance system in response to recommendations guided by whistle.",
+      "timestamp_abs": "85:02"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I use it as evidence of the OECD uh, when you are become a member of OECD, OECD will come to your country and study your evaluations of your country.",
+      "timestamp_abs": "85:08"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because you want to be part of this rich country club.",
+      "timestamp_abs": "85:18"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the OECD gives a lot of recommendations.",
+      "timestamp_abs": "85:20"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And there's a big report that backed in that time of OECD to the country in the science and technology field saying you need to have a system in place.",
+      "timestamp_abs": "85:24"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So there's a lot of pressure, so there's evidence.",
+      "timestamp_abs": "85:32"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And several countries were aligning their innovation policies to OECD standards, particularly regarding transparency monitoring.",
+      "timestamp_abs": "85:34"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Over as part of this effort, the minister, the minister was seeking ways to improve its capacity to collect, knowledge, and apply current information.",
+      "timestamp_abs": "85:41"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The country lacked a centralized national capable of tracking research projects for innovation, industrial property.",
+      "timestamp_abs": "85:49"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "During the minister...",
+      "timestamp_abs": "85:56"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We bring your minister to Korea. But,",
+      "timestamp_abs": "85:57"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "I was saying.",
+      "timestamp_abs": "86:00"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Oh, you are.",
+      "timestamp_abs": "86:01"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It was not easy.",
+      "timestamp_abs": "86:02"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "86:04"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, no. Professor, please sponsor the visit for my minister.",
+      "timestamp_abs": "86:05"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Professor, the importance of the minister's coming here.",
+      "timestamp_abs": "86:09"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "They always want the, the first hand they always want the first hand to see first hand.",
+      "timestamp_abs": "86:14"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Sure.",
+      "timestamp_abs": "86:21"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "It helps to encourages.",
+      "timestamp_abs": "86:22"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Totally.",
+      "timestamp_abs": "86:23"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "It tells to tell them that they really need to do this.",
+      "timestamp_abs": "86:23"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "When you are telling them the stories, it's always okay.",
+      "timestamp_abs": "86:26"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "But when they see it first hand, there's always that proof. You need to do this for them.",
+      "timestamp_abs": "86:29"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Exactly.",
+      "timestamp_abs": "86:34"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe it was a coincidence that already",
+      "timestamp_abs": "86:35"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "because the minister asked the ambassador, \"I want to visit Kaist and I want to visit the super computing center.\"",
+      "timestamp_abs": "86:37"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He had no idea that KISPI also operates the NTIS.",
+      "timestamp_abs": "86:43"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. It was a casualty.",
+      "timestamp_abs": "86:47"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the I had a very important, heavy decision maker here discussing on it and he said, \"Okay, I need this. If you can help me, know what I need to do because I need this.\"",
+      "timestamp_abs": "86:49"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "My president will ask for this for, right?",
+      "timestamp_abs": "86:57"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in your case, I think your minister or the president for your university, or the relevant,",
+      "timestamp_abs": "87:01"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you need to make sure that they are in those meetings.",
+      "timestamp_abs": "87:07"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "87:12"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "you cannot expect to commitment of the university.",
+      "timestamp_abs": "87:13"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Even I can also connect you to the minister of science.",
+      "timestamp_abs": "87:17"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But before you prepare the video, you must have very clear what will you provide for this.",
+      "timestamp_abs": "87:20"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "87:24"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "I'm sorry.",
+      "timestamp_abs": "87:25"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "We need time to prepare it well.",
+      "timestamp_abs": "87:26"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Yes, exactly.",
+      "timestamp_abs": "87:28"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "87:29"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that, you know, we plan everything. Yeah.",
+      "timestamp_abs": "87:30"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah, for sure.",
+      "timestamp_abs": "87:32"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is, I will share this file again. This is draft version number one.",
+      "timestamp_abs": "87:33"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not the final one.",
+      "timestamp_abs": "87:36"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I am trying to imitate your homework so that you can have a reference. When you say, ah, this is so, it was like, this is a very good score.",
+      "timestamp_abs": "87:37"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I am not evaluating it for myself, I am. If a student writes like this, I think I can use, you know.",
+      "timestamp_abs": "87:46"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "87:50"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is, I'm giving you the answer, your cheat sheet for your midterm, okay?",
+      "timestamp_abs": "87:51"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "87:55"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want A plus in this class.",
+      "timestamp_abs": "87:56"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Everyone.",
+      "timestamp_abs": "87:57"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "87:58"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So exposure, this is where MGS is a confessive, so I already write a little bit, I have an idea of a very specific what it is.",
+      "timestamp_abs": "87:59"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exposure to the video, clear opportunity of Costa Rica, unlike Korea, Costa Rica lacks integrative purpose, the visiting the for part early discussions about adapting the Korean model, opening the possibility of bilateral cooperation.",
+      "timestamp_abs": "88:07"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's very general background.",
+      "timestamp_abs": "88:19"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Next one.",
+      "timestamp_abs": "88:21"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "After this one, now you can compare with what you delivered. Now, I see your faces, you're like,",
+      "timestamp_abs": "88:24"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Just with a friendly coincidence like you.",
+      "timestamp_abs": "88:29"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "88:32"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now, now, how about some professors? I mean,",
+      "timestamp_abs": "88:33"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "I think this is rude.",
+      "timestamp_abs": "88:36"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "88:38"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why it's very important.",
+      "timestamp_abs": "88:39"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It needs to be very specific and very concrete.",
+      "timestamp_abs": "88:41"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's hard because you don't have the clear.",
+      "timestamp_abs": "88:44"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why I'm saying, for me, technology pushes slightly easier than problem during sometimes.",
+      "timestamp_abs": "88:46"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if you think about it, actually, to really",
+      "timestamp_abs": "88:52"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "because the keeping in Chilaka is like, it could be, it could be an. I'm not saying it's your case, but it could be Chilaka's idea that it's what his country needs.",
+      "timestamp_abs": "88:56"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But maybe the minister doesn't agree with you.",
+      "timestamp_abs": "89:05"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He's like, okay, yeah, you like a very important, but he's going to put in the political agenda.",
+      "timestamp_abs": "89:07"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So be careful with that. Technology push is great if the persons in charge with the money in their pocket and their market opportunity can say, \"Ay, I'll marry with you, Chilaka, and I'll go with you, okay? I'm gonna raise your baby.\"",
+      "timestamp_abs": "89:12"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "But otherwise, yeah?",
+      "timestamp_abs": "89:27"
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In my case, it was a gift from heaven, the gods.",
+      "timestamp_abs": "89:29"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "89:32"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So,",
+      "timestamp_abs": "89:33"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it's not my blessings, my God's blessings.",
+      "timestamp_abs": "89:34"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I didn't want...",
+      "timestamp_abs": "89:37"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, I did everything, I did a lot of work to study and provide the minister, but I catch the opportunity, yes.",
+      "timestamp_abs": "89:39"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "89:44"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "To raise your baby.",
+      "timestamp_abs": "89:46"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "At the time of the initial discussions, I want to project because you did not have anything. You should review what you have in the current doing to reduce them.",
+      "timestamp_abs": "89:47"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then say, \"How about several issues to identify and begin you can tell you.\"",
+      "timestamp_abs": "89:55"
+    }
+  ]
+}

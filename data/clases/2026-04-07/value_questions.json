@@ -1,0 +1,137 @@
+{
+  "session": "2026-04-07",
+  "generated_at": "2026-05-29T13:41:35",
+  "count": 13,
+  "questions": [
+    {
+      "timestamp": "07:16",
+      "topic": "Local Entity Motivation",
+      "question": "Do you agree that the local entity's motivation for this business partnership is to gain autonomy, ensure local operational support in Spanish, and facilitate know-how transfer from a proven expert, thereby avoiding dependency on the Korean company?",
+      "raw_question": "Right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "(No direct student response)",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "11:33",
+      "topic": "GDI Program Benefits",
+      "question": "Are you asking about the benefits for KISTI?",
+      "raw_question": "KISTI? Okay?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "No, I'm not asking about KISTI. I'm asking about the benefits for the GDI program itself.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "21:46",
+      "topic": "Higher Ed Portal Link",
+      "question": "Can you provide the link for this new higher education portal?",
+      "raw_question": "Can you be the link?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, I will check it and send you the link, which includes the training schedule from April 15-17.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "22:09",
+      "topic": "Portal Scope",
+      "question": "What is the scope of this new digital portal for higher education that is being deployed and officially launched?",
+      "raw_question": "How I mean, okay, so they are trying to deploy the portal and it's gonna be officially launched, it was released to the house. So what is the scope?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "It has been launched, and they are really focusing on digitalizing the academic sector, specifically the higher education system.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "22:35",
+      "topic": "Digitalization Definition",
+      "question": "What specifically does 'digitalizing the academic sector' mean in the context of this portal? Does it primarily involve online training?",
+      "raw_question": "But digitalizing means what? But training, online training, training.",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "Yes, it involves online training; this is the training module they are implementing.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "23:24",
+      "topic": "Project Integration Strategy",
+      "question": "Are you proposing that your project connects to the Ministry of Higher Education's existing initiatives by using their framework?",
+      "raw_question": "By connecting to whatever they're doing here, using this as a framework?",
+      "answered_by": "Aryang",
+      "score": 6,
+      "response_text": "Yes, I want to propose this as a project for the Ministry of Higher Education. Since they are already providing incentives for digitalization, if they see value in a learning management system, the Minister has the authority to launch its implementation across public universities. This would be a top-down approach, starting from Kinshasa.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "24:42",
+      "topic": "Advisor Role Clarification",
+      "question": "Is the professor you mentioned an academic advisor for this specific digitalization initiative or for the Minister of Higher Education more broadly?",
+      "raw_question": "He's academic advisor of this initiative or the Minister of Higher Education?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "He is an academic advisor for the Minister of Education.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "28:43",
+      "topic": "University Funding Capacity",
+      "question": "Are you saying that the university itself, like the first public university, lacks direct funding capacity for project implementation?",
+      "raw_question": "The university?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Yes, the university does not have direct funds to support such initiatives. They have to contact the Ministry of Higher Education, which in turn may contact the government for funding.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "39:26",
+      "topic": "Grace's Feedback",
+      "question": "Grace, do you have any other points or comments you'd like to add regarding the discussion on project outcomes and investment returns?",
+      "raw_question": "Okay. And if is that Grace, is there anything else you want to?",
+      "answered_by": "Grace",
+      "score": 4,
+      "response_text": "No, I just wanted to share that one point, and I will try to restructure my ideas based on this.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "39:49",
+      "topic": "Meeting Schedule",
+      "question": "When is our next meeting scheduled for next week?",
+      "raw_question": "Next week, when is it going to be the meeting, right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "It's on the 22nd.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "53:52",
+      "topic": "Sector Labs",
+      "question": "Do you understand how the sector labs will help you progress with your ICP project, particularly in conceptualizing parts that are not yet real?",
+      "raw_question": "Okay?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Sorry, I still don't fully understand the concept of the sector labs.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "57:40",
+      "topic": "Acronym Clarification",
+      "question": "Grace, are you referring to 'BLN'?",
+      "raw_question": "Uh, you mean BLN?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "57:46",
+      "topic": "BLN Enterprise",
+      "question": "So, BLN is indeed the designated enterprise point for this initiative, correct?",
+      "raw_question": "Yes, yeah, yeah.",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "Yes, that's correct.",
+      "is_substantive": false
+    }
+  ]
+}

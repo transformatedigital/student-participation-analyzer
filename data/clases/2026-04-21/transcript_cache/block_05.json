@@ -1,0 +1,483 @@
+{
+  "block": 5,
+  "time_range": "20:00-25:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "in Korea is not easier to go back that way.",
+      "timestamp_abs": "20:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If we don't, then officially as KAIST, GBI, we can contact their international business office.",
+      "timestamp_abs": "20:02"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and officially raise the issue. But",
+      "timestamp_abs": "20:08"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "20:10"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "until we have more clarity on our project.",
+      "timestamp_abs": "20:10"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "20:11"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why this course is for ICP, because",
+      "timestamp_abs": "20:12"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "we're still just, you know, ah, we could do this, we could do this, we're still just, you know, brainstorming about the real scope.",
+      "timestamp_abs": "20:16"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Uh-huh.",
+      "timestamp_abs": "20:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now, until now, week number eight,",
+      "timestamp_abs": "20:21"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Oh, no.",
+      "timestamp_abs": "20:22"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "we just finally, Mega said, 'Hey,' even me, when reading she got a message, 'Hey, this is a BTS project.'",
+      "timestamp_abs": "20:23"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "20:28"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. This is a BTS project.",
+      "timestamp_abs": "20:28"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "20:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But only now, having the conversation with Kira, I said, 'Ah, no, this is maybe not a BTS project. This is just a community, a social important project.'",
+      "timestamp_abs": "20:30"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, even me and Mega are trying to understand it better so that we can launch the project better and find the right partner.",
+      "timestamp_abs": "20:38"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So then, uh, sorry, uh,",
+      "timestamp_abs": "20:47"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "if if we go in the way and then we find maybe the project, it's actually maybe differently.",
+      "timestamp_abs": "20:49"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "We'll be able to change it?",
+      "timestamp_abs": "20:54"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "20:57"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "20:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I'm not wasting your time at all because we want to, I mean, we want to look a little bit tough, like more, more sturdy, sturdy terrain so that we won't have to move back.",
+      "timestamp_abs": "20:59"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in technological commercialization, especially globally speaking, when this kind of two countries and many stakeholders, the failure rate is high.",
+      "timestamp_abs": "21:09"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "21:20"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mean, failure rate is very high.",
+      "timestamp_abs": "21:21"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "(Laughter) That you didn't even start and already went back.",
+      "timestamp_abs": "21:22"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That you didn't even start and already went back. Actually it's this kind of transaction cost is, is very cheap to go back.",
+      "timestamp_abs": "21:23"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But when you say, 'If we go all the way, we launch the dart, we get the approval, and then something,' oh, I'm not lying.",
+      "timestamp_abs": "21:30"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It could happen.",
+      "timestamp_abs": "21:36"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It happened. I think two years ago, the smarter project that you heard. We did a pilot project. They donated the strength of the challenge. We did a project that took almost two years, where they, they donated the whole website, where Costa Rica had uh, the access to an app where they could locate the geo-reference all the giving changes and they donated, the government donated. They invested all in making the, the private utilities and and finally the public sector said, 'Okay, we will make a bid. You guys have to compete. It cannot be a direct contract. But we have, we understand now the technology and we want it. So we're going to make an international bid, please participate.'",
+      "timestamp_abs": "21:37"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the company participated, and they compete, two American companies, one Swiss company, and the Korean company, and they won by price and specs. And the public account was very happy because it was very tough to to because it was very competitive, right? So the difference in price was this is little and so they have to take legal argument why the Korean winner would be the winner. But transparently, they just chose the winner, okay? They won. And when it was time to sign the contract, the CEO in Korea changed and he said, 'We're not going to accept it.'",
+      "timestamp_abs": "22:18"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The end.",
+      "timestamp_abs": "22:43"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "No Chinese company.",
+      "timestamp_abs": "22:50"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "No Chinese company.",
+      "timestamp_abs": "22:51"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "At that time, no.",
+      "timestamp_abs": "22:53"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "You would have noticed first.",
+      "timestamp_abs": "22:55"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Yes.",
+      "timestamp_abs": "22:56"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "I'm not saying no. I'm not saying no.",
+      "timestamp_abs": "22:57"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not biased.",
+      "timestamp_abs": "22:58"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not biased. That happened.",
+      "timestamp_abs": "22:59"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "You're not biased.",
+      "timestamp_abs": "23:01"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not biased. I'm going to be completely transparent.",
+      "timestamp_abs": "23:02"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But that is out of my scope that my record in the technological commercialization case, there.",
+      "timestamp_abs": "23:05"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And and I remember at that time I felt so sorry and I felt so bummed.",
+      "timestamp_abs": "23:09"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It was so much effort. And I told Professor Rho.",
+      "timestamp_abs": "23:14"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Did you meet Professor Rho already?",
+      "timestamp_abs": "23:17"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "23:19"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The founder, okay.",
+      "timestamp_abs": "23:19"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I met, I remember I told Professor Rho, 'Like so why all this effort, all this work, and many nights and WhatsApp calls were [inaudible], right?'",
+      "timestamp_abs": "23:21"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And Professor Rho told me, 'But that doesn't make your experience null.'",
+      "timestamp_abs": "23:29"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It makes you, it was, it is a technological commercialization project. It just ended at that point.",
+      "timestamp_abs": "23:35"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's a baby that grew up until that point. But it's a baby.",
+      "timestamp_abs": "23:42"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? So no need to be at this point afraid of that.",
+      "timestamp_abs": "23:48"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Actually, this kind of, it's kind of an entrepreneur. You guys are taking digital entrepreneurship, right? No, not yet?",
+      "timestamp_abs": "23:51"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "No.",
+      "timestamp_abs": "23:56"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay.",
+      "timestamp_abs": "23:56"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's kind of an entrepreneur mindset, a little bit, because you are trying to really build an opportunity, and it's rare and it's difficult to match market, business, policy together, it's a very difficult and unique unique alignment.",
+      "timestamp_abs": "23:57"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But that's why it's a really great learning experience for any other project in your lives, and also it's a good thing to have in your resume. So that's why I keep encouraging you.",
+      "timestamp_abs": "24:14"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Even if you fail at the moment, it's a really cool thing to do, to perform, to be in the space with the people who are doing the project. It will really be more gain to your career than loss.",
+      "timestamp_abs": "24:22"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Even if the project is not growing to a grand, it just, it just died at a baby stage. Okay?",
+      "timestamp_abs": "24:33"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Hopefully it will.",
+      "timestamp_abs": "24:42"
+    },
+    {
+      "timestamp": "04:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I hope, I hope it has grown children, okay?",
+      "timestamp_abs": "24:43"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Thank you.",
+      "timestamp_abs": "24:46"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, got it.",
+      "timestamp_abs": "24:47"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now, going to relax, okay?",
+      "timestamp_abs": "24:49"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Relax. I will have, I'm very busy today.",
+      "timestamp_abs": "24:51"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will have an dinner meeting today with the former president of KISTI, and she",
+      "timestamp_abs": "24:53"
+    }
+  ]
+}

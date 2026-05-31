@@ -1,0 +1,204 @@
+{
+  "block": 25,
+  "time_range": "120:00-125:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "provide this technology or to provide a technical advisory.",
+      "timestamp_abs": "120:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So the problem is uh if if we don't have any uh",
+      "timestamp_abs": "120:04"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So then to build the policy normally, you just do it in-house with your internal staff, right?",
+      "timestamp_abs": "120:09"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "120:15"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh, so",
+      "timestamp_abs": "120:17"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe it could be just like a technical collaboration, like a technology, like a technology know-how sharing, like knowledge sharing collaboration between you and KEPCO, so that you guys can build the recommendation.",
+      "timestamp_abs": "120:18"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes. Okay.",
+      "timestamp_abs": "120:30"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, uh, the important is, uh, like Korean needs a collaboration and also my country needs also the collaboration. And then, uh, we we don't have any funding. So we don't have any collaboration with Korea, that's that's the problem.",
+      "timestamp_abs": "120:32"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Uh, until now.",
+      "timestamp_abs": "120:47"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Until now. So we still have a funding and because uh Korea, maybe like KIER or KADEN, they will not work if they don't have any funding. So that's the point of the collaboration. So",
+      "timestamp_abs": "120:48"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "timestamp_abs": "121:04"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's it's an issue we have to solve whether Kadian, like a little bit like Kisti. Maybe they are willing to provide, like I told you yeah before, we don't have we will not pay. But we will provide the specialists for three months to work with you, blah blah blah. So like it's not like a funded project, but there's gonna be a like a knowledge sharing thing.",
+      "timestamp_abs": "121:05"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh, yeah, yeah, yeah.",
+      "timestamp_abs": "121:29"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Knowledge sharing.",
+      "timestamp_abs": "121:31"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But for that, politically, we need to align it very well politically, because somebody needs to order them, hey, do this collaboration.",
+      "timestamp_abs": "121:36"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Mhm.",
+      "timestamp_abs": "121:43"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "121:46"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Mhm.",
+      "timestamp_abs": "121:48"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Thank you, professor.",
+      "timestamp_abs": "121:50"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "My pleasure. Thank you.",
+      "timestamp_abs": "121:51"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Thank you.",
+      "timestamp_abs": "121:53"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Thank you, Cesar.",
+      "timestamp_abs": "121:55"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Hello.",
+      "timestamp_abs": "121:56"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Ah, okay. Ahorita lo pongo.",
+      "timestamp_abs": "122:14"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "122:38"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Vale.",
+      "timestamp_abs": "122:53"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Lack of data.",
+      "timestamp_abs": "123:14"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Lack of platform, bla bla bla.",
+      "timestamp_abs": "123:15"
+    }
+  ]
+}

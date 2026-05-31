@@ -1,0 +1,150 @@
+{
+  "block": 15,
+  "time_range": "70:00-75:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "all the people were technical people, but they are not showing the Big Boss will like sign of this thing. This kind of thing is better to protect yourselves because finally it's your face that you're going to be kind of selling for these projects. So you don't want to go through somebody that is something that is just still. You want to go through something real and if that something real doesn't need to be huge. It could be very specific, like your case is not a very huge thing but it is a very huge thing because just with this help you can develop other very, very meaningful solutions that we are",
+      "timestamp_abs": "70:00"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I I like this point because it's very specific. So I think with her what I can",
+      "timestamp_abs": "70:30"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think I want to see how with this one in mind, could you please update or just not review your ICP in one part of Because now you I will use your ICP to send it to them as a first meeting doc.",
+      "timestamp_abs": "70:36"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "because the previous my presentation is to too wide because I only said the the the the localized camera and I specified in my ICP and I already updated to pinpoint exact only the TTS model.",
+      "timestamp_abs": "70:52"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, great.",
+      "timestamp_abs": "71:09"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, so with this in mind, if there is anything you might want to be more specific because now you know your potential partner, maps. So please search a little bit of what they are doing. I as far as I know, they are like chat, they are they are chat bot developer kind of experts.",
+      "timestamp_abs": "71:10"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "71:29"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think they initially because they develop Genie, they are they are researchers, they original develop geni talk. So they are they became experts in that kind of thing. So maybe they are just chatbot. That's what I understood. But maybe they're doing other things because companies have different nature. So just I don't know how to in the internet, they you can browse just find them and if there is anything that you say you think in your ICP might read clearly to their eyes, then adapt it. Otherwise, I will Yeah, just quickly review it and then let me know and then let me Based on that, what you tell me, okay, professor, then send me the final PDF by email, just and then Professor, please, this is the file I'm going to use for our meeting. Send it to me by email.",
+      "timestamp_abs": "71:30"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Sorry, uh by our meeting, you mean should I tell my uh",
+      "timestamp_abs": "72:14"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, initially with you. Initially, because we don't want to we don't want to, you know, we want to save the bullets. Yeah, save the bullets. First, we need to understand maybe they are not the real partner. It's first date. They're not the real partner. You don't want to waste your fierce time. Where we just checking the environment. So first we're going to check what they are then that day, I will also prepare that when they hey, he doesn't have a PR, he's just a gate. He knows where the lane is. So they're going to have an initial meeting and then you can say, hey, this I can know, this I don't know, but I will consult and get back to you.",
+      "timestamp_abs": "72:19"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's okay. No problem.",
+      "timestamp_abs": "72:52"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "72:54"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All right. So that's your progress. I don't know, I don't want to say next.",
+      "timestamp_abs": "72:54"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Professor, can I ask you one question?",
+      "timestamp_abs": "73:02"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sure. Sure, sure.",
+      "timestamp_abs": "73:03"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "If if they are uh really wants to make a uh uh possibility study with Indonesia.",
+      "timestamp_abs": "73:05"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Here.",
+      "timestamp_abs": "73:14"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "73:15"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "If if they are really want to",
+      "timestamp_abs": "73:16"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They're open. They were they were Yeah, they don't know they were not totally they were open. They're like, oh, thank you. Actually, they thank you. Thank you because these days we don't have a lot of global projects and actually our office has been pushing us to do global projects, but it is very hard for us to find opportunities. So thank you, but we need to understand, how we can match this into what we are actually doing or can do. And then we can discuss further. So they were not, they were if I would see that they sometimes it will happen that they were saying, you know what, these days our president have no projects abroad. So our environment internally is like, kill all the projects international, blah, blah, blah, let's just focus on domestic projects, for example. There are sometimes organizations that have that kind of context. So they will tell me because these kind of people are contacting is people who I know from my personal network or professional network. So they will easily say, you know what, Riana, these days, no, don't work with my entity right now. It's not good timing. Then they will tell me that we don't need to lose a lot of time to contact initially and then it's very hard for them to respond to. So that's why I do this kind of groundwork first. And then they told me, oh, actually it's very interesting. We can do but we need to understand better. That's why they told me, can you give us more detail? And I said, I can ask if Mega can get more detail, but my intuition tells me that they don't have a lot more detail because that's why they need the collaboration with us. So I think if if we get what like let's prepare your ICP, same as I, let's prepare your ICP better to this case now. I will review what you just updated. I will leave you comments with this new view. And if there is anything you",
+      "timestamp_abs": "73:19"
+    }
+  ]
+}

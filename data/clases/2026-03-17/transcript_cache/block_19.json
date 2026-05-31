@@ -1,0 +1,251 @@
+{
+  "block": 19,
+  "time_range": "90:00-95:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "produces a problem, produces a problem, you know. I can mention about the problem, but it's important.",
+      "timestamp_abs": "90:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Seven institutions. So I now, I am talking about my three institutions.",
+      "timestamp_abs": "90:06"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, remember how I was talking about the ecosystem. This was Costa Rica now.",
+      "timestamp_abs": "90:11"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Costa Rica is have a very weird R&D governance.",
+      "timestamp_abs": "90:15"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh I still have like uh lots, the clear, the different, the difference between the background and the and the",
+      "timestamp_abs": "90:20"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And the problem.",
+      "timestamp_abs": "90:34"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the problem. Okay.",
+      "timestamp_abs": "90:34"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Even in here, I saw it's like you are like also.",
+      "timestamp_abs": "90:36"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's very important. I will say, the beginning is just around the strength of this basis, let's say. This is the background.",
+      "timestamp_abs": "90:41"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the OECD situation, the president of the minister, and this is the problem.",
+      "timestamp_abs": "90:48"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's like I'm around the bushes and this is my guide.",
+      "timestamp_abs": "90:57"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You hit the problem.",
+      "timestamp_abs": "91:03"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So in the first section, it can be a little bit general, a little bit general with some context. But then the second section, it should be where I really say, listen, look, here I'm doing a lot of a little bit more of context. Very much, because it's like I'm going one degree, one or two degrees longer.",
+      "timestamp_abs": "91:04"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And say, listen, in Costa Rica.",
+      "timestamp_abs": "91:24"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not that we don't have nothing, there are some players. So I explain up. In Costa Rica, we have the Ministry of Science and Technology.",
+      "timestamp_abs": "91:27"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The Ministry of Science and Technology is the store of the science and technology sector. But they don't have any system.",
+      "timestamp_abs": "91:39"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And they also don't manage the budget.",
+      "timestamp_abs": "91:44"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The R&D budget goes from the Congress directly to the different universities, the public universities.",
+      "timestamp_abs": "91:47"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. And they perform R&D activities.",
+      "timestamp_abs": "91:55"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So what happens is, all of the R&D activities are isolated within, let's say, the ERP systems of these universities.",
+      "timestamp_abs": "91:58"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "University one, university, right?",
+      "timestamp_abs": "92:05"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And since the ministry doesn't, if in Korea, in Korea, the Ministry of Science and Technology provides the budget to all the R&D. So, of course, these guys have to write all our sell, and every time they want money, they have to listen to these guys, right?",
+      "timestamp_abs": "92:08"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in my country, no, in my country the government, the four head, the universities have to lobby to the Congress for their budget, lobby for their budget.",
+      "timestamp_abs": "92:22"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, we call the university, they have a public independent Republic of university. They are independent, they don't depend on anybody, because they're, for example, this university, do not depend on the minister. They depend on the Congress. This is a problem.",
+      "timestamp_abs": "92:32"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because the minister doesn't have enough muscle to force these guys to come on the one system.",
+      "timestamp_abs": "92:46"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And also there's another NGO called IAPIA. Another, another NGO that I mention here is Conarit, National Council for.",
+      "timestamp_abs": "92:55"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is an NGO, or let's say, a council, a separate council, built with Conarit, is built by all the presidents of the public universities. They meet here every certain time and they join this. And it's like a council that discusses national issues.",
+      "timestamp_abs": "93:05"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this council. They invested in a small platform called IAPIA.",
+      "timestamp_abs": "93:21"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this platform kind of has certain information about R&D because it shares some information from the universities. And if you think about it, this council has more power to bring all of these universities than MISITE, because MISITE is only like a political body, but here every president of the university is sitting here and they, they talk.",
+      "timestamp_abs": "93:28"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, the ecosystem, knowing the ecosystem of the problem is very important.",
+      "timestamp_abs": "93:50"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? And you know it, you kind of know it, many of you kind of know it, but you need to study it just just a little bit more in detail and mention some facts there. Not in general, a little bit more specific.",
+      "timestamp_abs": "93:56"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you see, one example. I'm not saying this is the whole problem. I'm saying, one example. Seven institutions produce value information relating to R&D.",
+      "timestamp_abs": "94:07"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "These systems were fragmented and developed for specific institutional processes. The fragmentation issue, I already mentioned it before in general. But now I'm getting one degree more specific.",
+      "timestamp_abs": "94:15"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For example, IAPIA platform had one problem, IAPIA provides information about the regulations. While IAPIA produces useful information, it does not function as an operational. This is the key. This is where I'm dig in already here. Dinkum team is no longer a background. This is the problem is we don't have national, cover, or government approach. Full cycle integrated online real-time platform. We have other things, but we don't have that.",
+      "timestamp_abs": "94:26"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then, this is where I'm pinpointing the technology demand.",
+      "timestamp_abs": "94:57"
+    }
+  ]
+}

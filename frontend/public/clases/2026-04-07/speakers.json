@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "id": "speaker_1",
+      "role": "Teacher",
+      "name": "Dr. Ileana",
+      "segments_count": 342,
+      "percentage": 85,
+      "color": "emerald"
+    },
+    {
+      "id": "speaker_2",
+      "role": "Student",
+      "name": "Aryang",
+      "segments_count": 32,
+      "percentage": 8,
+      "color": "red",
+      "nationality": "Indonesia"
+    },
+    {
+      "id": "speaker_3",
+      "role": "Student",
+      "name": "Grace",
+      "segments_count": 4,
+      "percentage": 1,
+      "color": "slate",
+      "nationality": "Congo"
+    }
+  ]
+}

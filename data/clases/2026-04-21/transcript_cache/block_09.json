@@ -1,0 +1,349 @@
+{
+  "block": 9,
+  "time_range": "40:00-45:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "40:00"
+    },
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And they don't even have to",
+      "timestamp_abs": "40:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "but still they have closed circuit. So even the ministers they have told them to...",
+      "timestamp_abs": "40:02"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Still. Yeah. They are going to bring the the bus taking all the government staffs.",
+      "timestamp_abs": "40:06"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. The shuttle bus.",
+      "timestamp_abs": "40:13"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "We're not telling anyone, go with.",
+      "timestamp_abs": "40:14"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "with their personal driver.",
+      "timestamp_abs": "40:16"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "that's the problem in Nigeria.",
+      "timestamp_abs": "40:17"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Most times all those top government officers feel they are too big to enter the public transport.",
+      "timestamp_abs": "40:18"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Wow. But that is higher than... but that is higher than a presidential office.",
+      "timestamp_abs": "40:25"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They will feel why should I enter the public transport with every other person? Right.",
+      "timestamp_abs": "40:29"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why.",
+      "timestamp_abs": "40:33"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think when I teach government officers in our countries in Latin America, I always emphasize: citizen empowered government. Really.",
+      "timestamp_abs": "40:35"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we are not higher than citizens. Actually we are their servants.",
+      "timestamp_abs": "40:44"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Public servants.",
+      "timestamp_abs": "40:48"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. But we forget about it because we have a title of minister or director or whatever. So and a secretary and all of the staff that they abide to me but it's not the reality.",
+      "timestamp_abs": "40:49"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "But did you ever see the ministry using the public transportation in Korea?",
+      "timestamp_abs": "40:57"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_response",
+      "text": "No. No, not that easily.",
+      "timestamp_abs": "41:01"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "No?",
+      "timestamp_abs": "41:03"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, actually ministers might not because ministers but except for ministers and even ministers outside of the official schedule, they will use.",
+      "timestamp_abs": "41:04"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "41:13"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "But like most professor will use the public transport?",
+      "timestamp_abs": "41:13"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_response",
+      "text": "Yeah. Most professors use public transport. If I know professor will use public transport in my country.",
+      "timestamp_abs": "41:16"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No professor. No.",
+      "timestamp_abs": "41:21"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No.",
+      "timestamp_abs": "41:22"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "just in my country.",
+      "timestamp_abs": "41:22"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right.",
+      "timestamp_abs": "41:23"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So.",
+      "timestamp_abs": "41:25"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in Korea, definitely. I I found many presidents of parliaments, lots of.",
+      "timestamp_abs": "41:27"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Using the public.",
+      "timestamp_abs": "41:33"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh no. Official official agendas not because official agendas, you need fast or like that so they will use official cars. But if it's not an official agenda, they don't have a personal driver. They have to use public transportation. So even for example, I remember this actually the Kisti president is my good friend, like the former president and so she I remember when she had like a next trip in the morning to go to Seoul because Kisti has offices in Seoul and that. So her driver would pick her up from home because they would be going to the first like a Seoul. But other than that she would go to the office in her personal way. Uh uhm sorry, by bus, by train or whatever. And then from there, during the official time, she has a driver.",
+      "timestamp_abs": "41:33"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in our case, no. Ministers get the personal chauffeur. They also, they even go for a date with their wife with the personal chauffeur.",
+      "timestamp_abs": "42:35"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "In my country they they don't have these perks but they have drivers.",
+      "timestamp_abs": "42:45"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The drivers, the minister they have.",
+      "timestamp_abs": "42:50"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In our in my country these days the country is very strict so actually Costa Rica is a little bit different in that sense because we are very equal, like people will be like for example, in my country until very recently the president could not travel business class.",
+      "timestamp_abs": "42:53"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Economy?",
+      "timestamp_abs": "43:13"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_response",
+      "text": "Yeah.",
+      "timestamp_abs": "43:14"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "For real?",
+      "timestamp_abs": "43:14"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ILEANA",
+      "type": "teacher_response",
+      "text": "Yeah.",
+      "timestamp_abs": "43:15"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Even America",
+      "timestamp_abs": "43:16"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "because it's a private. Yeah, no, no. because the president will be highly criticized. Why why he takes business class? He's the citizen's employee like that. So and so people would be very critical about this kind of special luxury.",
+      "timestamp_abs": "43:17"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Is it from the security or safety?",
+      "timestamp_abs": "43:32"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh. No, because Costa Rica, even Costa Rica doesn't have an army. Costa Rica is very a little bit culturally the country is a little bit of leaving us like not security agency. So so everybody's like, so the president just walks in the street like that. Yeah, he's another citizen, another person. Why he like, so until recently it has become a little bit more like that but it also depends on each person. Many presidents who want to be popular, they actually enforce this culture because the the country's culture is really critical about this kind of elitism of issues.",
+      "timestamp_abs": "43:34"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I see.",
+      "timestamp_abs": "44:22"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So different.",
+      "timestamp_abs": "44:22"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Guys, I'm gonna also head to the bathroom. I'll see you in a minute.",
+      "timestamp_abs": "44:27"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "So.",
+      "timestamp_abs": "44:47"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "44:48"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So celebration.",
+      "timestamp_abs": "44:49"
+    }
+  ]
+}

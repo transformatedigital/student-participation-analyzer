@@ -1,0 +1,328 @@
+{
+  "block": 5,
+  "time_range": "20:00-25:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "experience, the difference between that machine give me. I can correct that machine because I have lived for real what the project was or what the that expertise or that field was. And I can confirm that this machine is not telling the truth. There's a big gap between what they are giving me, the output is giving me and the reality. So, that is what becomes my power, my power to sell my knowledge or my expertise to Mayba.",
+      "timestamp_abs": "20:00"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? Don't don't think about it in a limited way, think it about it in a broad way.",
+      "timestamp_abs": "20:24"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Okay.",
+      "timestamp_abs": "20:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Anything else from ICP? Anybody else drop in their ICP?",
+      "timestamp_abs": "20:31"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh what would you uh after you finish your uh question then we can discuss maybe something.",
+      "timestamp_abs": "20:38"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But today I have to take a train at five. So I don't have a lot of time. We can set up an a meeting with you and me or you can open up now, or we can set a meeting during this week, online and tomorrow, or next Tuesday. But use the time now because whatever you have, it's gonna be valid.",
+      "timestamp_abs": "20:45"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "21:01"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Be open. The worst thing you could have is a raw draft.",
+      "timestamp_abs": "21:02"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh for you.",
+      "timestamp_abs": "21:06"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "From you.",
+      "timestamp_abs": "21:08"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Actually, I wanted to to explain the the project in another way, or maybe to show you this.",
+      "timestamp_abs": "21:09"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Okay.",
+      "timestamp_abs": "21:15"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah. This is actually the the portal.",
+      "timestamp_abs": "21:17"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, higher education university. Ah, higher education. Yes.",
+      "timestamp_abs": "21:21"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The Ministry of AI Education.",
+      "timestamp_abs": "21:23"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "21:24"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I've been translating so now it's in English. Okay.",
+      "timestamp_abs": "21:25"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Higher education portal. Okay.",
+      "timestamp_abs": "21:27"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, yeah. So, it's going to be launched very recently. And then uh uh from there they are even trying to initiate already some of the digital uh incentives university. This is actually the Minister of Higher Education.",
+      "timestamp_abs": "21:29"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "timestamp_abs": "21:43"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Can you be the link?",
+      "timestamp_abs": "21:46"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "21:47"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one?",
+      "timestamp_abs": "21:48"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANG",
+      "type": "teacher_statement",
+      "text": "Yeah, send me the link so that I can check.",
+      "timestamp_abs": "21:49"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, I'll check it. And you see it's really with the schedule. This is actually the training they are scheduling from April 15, 17.",
+      "timestamp_abs": "21:51"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Modernization of higher education, okay. How did I I wonder how deep this digital portal is.",
+      "timestamp_abs": "21:59"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh actually, it's useful.",
+      "timestamp_abs": "22:06"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "How I mean, okay, so they are trying to deploy the portal and it's gonna be officially launched, it was released to the house. So what is the scope?",
+      "timestamp_abs": "22:09"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "It has been it was launched.",
+      "timestamp_abs": "22:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. So what is the scope of this portal? It's very important to you for you to know what's the real scope.",
+      "timestamp_abs": "22:17"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, actually it's a they are really focusing on digitalizing uh so I mean the academic uh sector. I mean the high education system.",
+      "timestamp_abs": "22:23"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "But digitalizing means what? But training, online training, training.",
+      "timestamp_abs": "22:35"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Online training. That's this one. They are this is the training module. Okay. You have this this time.",
+      "timestamp_abs": "22:39"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah okay, okay.",
+      "timestamp_abs": "22:43"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The training will be actually. They also have some things, okay? National platform for managing students cards, National Digital Library, the system of financial governance financial governance control, something like that. But since uh they are not fully talking about like a learning management system from now. So, I was like instead of like uh going directly to the university, like partnering directly with by university there, work on the Ministry of Higher Education.",
+      "timestamp_abs": "22:47"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so.",
+      "timestamp_abs": "22:49"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "In this context, if the the minister the minister.",
+      "timestamp_abs": "23:22"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "By connecting to whatever they're doing here, using this as a framework?",
+      "timestamp_abs": "23:24"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh actually, I wanted to bring it as uh the project for the Ministry of High Education. If they can, because they are already giving incentives in terms of digitalization, if they see something related like the learning management system, the minister has the authority, if they see that something is better, they can now launch it to be implemented to public university. So, it will not be like uh",
+      "timestamp_abs": "23:28"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, it's not a bottom-up, it's a top-down. Yeah.",
+      "timestamp_abs": "23:54"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, it's all the authority see that something is valuable because we need we have always been giving the incentive of digitalization, but now we have really the tool like for management, digital learning management system. So, that's like the spread of many public university, they are starting from the Kinshasa, because it's the capital city and later on uh maybe uh setting to something. So, I was like trying to bring this project like.",
+      "timestamp_abs": "23:56"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "It's interesting but what I worry again is how how far your how far or how close are you to the minister of higher education?",
+      "timestamp_abs": "24:25"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I am I am I am somehow closer because I am working with one of the professors who is academic advisor. So, through him I can contact him.",
+      "timestamp_abs": "24:33"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "He's academic advisor of this initiative or the Minister of Higher Education?",
+      "timestamp_abs": "24:42"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Of the Minister of Education.",
+      "timestamp_abs": "24:46"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Yeah. I mean, why not? I don't think it's a big deal because what whether you it's how you it's how you tie it. I mean how you tie it. You can tie it through Kinshasa and the part of your amazing.",
+      "timestamp_abs": "24:48"
+    }
+  ]
+}

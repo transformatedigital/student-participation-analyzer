@@ -1,0 +1,350 @@
+{
+  "block": 4,
+  "time_range": "15:00-20:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "between Edison and Tesla. Edison was pushing the direct current and he was the alter- he was promoting the AC current.",
+      "directed_to": "Class",
+      "timestamp_abs": "15:00"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the problem with Tesla in a different period of his life is he developed the technology, but he didn't patent this technology.",
+      "directed_to": "Class",
+      "timestamp_abs": "15:08"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So he was always supporting by other people who get this technology, register, and he just received some cents or even like very low in.",
+      "directed_to": "Class",
+      "timestamp_abs": "15:18"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Tesla was an inventor, not an innovator.",
+      "directed_to": "Class",
+      "timestamp_abs": "15:29"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly.",
+      "directed_to": "Class",
+      "timestamp_abs": "15:32"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "Why?",
+      "directed_to": "Class",
+      "timestamp_abs": "15:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Invention is to have an idea, so you could be a great inventor and you can have, and in your definitions you were very, both of you were making a very important emphasis on whether it's new or just improvement.",
+      "directed_to": "Class",
+      "timestamp_abs": "15:34"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Actually, both can happen. You can do an invention that is an improvement of something that exists, and it's still an invention.",
+      "directed_to": "Class",
+      "timestamp_abs": "15:46"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or you can do an innovation that is completely from scratch new, or this innovation is what you call incremental innovation, not a radical innovation, it's not something completely new, it's just something that improved on what it already exists.",
+      "directed_to": "Class",
+      "timestamp_abs": "15:54"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Both things could be innovation or invention, okay?",
+      "directed_to": "Class",
+      "timestamp_abs": "16:07"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The key differentiation is money, or value.",
+      "directed_to": "Class",
+      "timestamp_abs": "16:10"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So innovation has to deliver value, economic value.",
+      "directed_to": "Class",
+      "timestamp_abs": "16:17"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But invention could be something that I invent. There's a lot of inventors that invent black things, so that Tesla was just inventing things related to energy and whatever, but he was not even registering as intellectual property, he was not selling it as, you know, he didn't have a vision behind it, okay?",
+      "directed_to": "Class",
+      "timestamp_abs": "16:22"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Even sorry, even that was one of his problems through all his life.",
+      "directed_to": "ILEANA",
+      "timestamp_abs": "16:37"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He put remote control, um, direct current, uh, I don't know, a phonograph, I mean, many of the things that we know from the, this uh, kind of century, he participated in a certain way, but he didn't receive the this this money.",
+      "directed_to": "Class",
+      "timestamp_abs": "16:42"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No. Or another people registered for them.",
+      "directed_to": "ILEANA",
+      "timestamp_abs": "17:00"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Wow.",
+      "directed_to": "Class",
+      "timestamp_abs": "17:05"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "I have an example. But what was the principle for his property?",
+      "directed_to": "ILEANA",
+      "timestamp_abs": "17:06"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Like we we could if we develop an idea,",
+      "directed_to": "ILEANA",
+      "timestamp_abs": "17:09"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "directed_to": "Class",
+      "timestamp_abs": "17:12"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "What was his [inaudible]?",
+      "directed_to": "ILEANA",
+      "timestamp_abs": "17:13"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, this is an example of something that I I I use this example in my in my other lecture because it's not part of our lecture right now.",
+      "directed_to": "Class",
+      "timestamp_abs": "17:16"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I use it a lot because it's a and since I I I didn't know that you were going so well with the distinction between these, it's a very important study point for our class.",
+      "directed_to": "Class",
+      "timestamp_abs": "17:26"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because there could be many inventors. This guy is a physicist, a very famous physicist from Germany.",
+      "directed_to": "Class",
+      "timestamp_abs": "17:34"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "who invented a very important underlying technology to compress sound.",
+      "directed_to": "Class",
+      "timestamp_abs": "17:40"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And as you may know, the comp- the the the capacity to compress sound, when you know, like when you just bought your first CD, so you, so maybe you remember the MP3 app.",
+      "directed_to": "Class",
+      "timestamp_abs": "17:46"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? And before that, before that when we have to work with a CD, how much audio you convert in a unit of a CD could be like maybe depending on the format, just 12 tracks or maybe very, very expensive tracks.",
+      "directed_to": "Class",
+      "timestamp_abs": "17:57"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It was until the opening of the format of MP3 that we were able to really save a lot of songs in one device, if you remember about that.",
+      "directed_to": "Class",
+      "timestamp_abs": "18:10"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this guy was one of the very important scientists in audio engineering who invented that underlying technology that is critical.",
+      "directed_to": "Class",
+      "timestamp_abs": "18:21"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But he was just an inventor. Well, he was very better than Tesla because the intellectual property was registered, right? At least.",
+      "directed_to": "Class",
+      "timestamp_abs": "18:28"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But he did not commercialize it into a product.",
+      "directed_to": "Class",
+      "timestamp_abs": "18:35"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the marketing and the value that generated through his underlying technology is completely different to what this other guy did.",
+      "directed_to": "Class",
+      "timestamp_abs": "18:39"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "directed_to": "Class",
+      "timestamp_abs": "18:48"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So now you can really imagine the importance of technology commercialization.",
+      "directed_to": "Class",
+      "timestamp_abs": "18:49"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When we're talking about technology commercialization, we're not just saying, we're gonna sell the underlying technology of compressing the sound into a very small file.",
+      "directed_to": "Class",
+      "timestamp_abs": "18:54"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If I had said that about that, nobody would use the power of that, but if I can say, in a very small machine, you can, you can bring with you your whole audio library. And later on, that combining into a phone and have all that became what we now know as a smartphone.",
+      "directed_to": "Class",
+      "timestamp_abs": "19:03"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a huge impact in terms of value, okay, right?",
+      "directed_to": "Class",
+      "timestamp_abs": "19:19"
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's the very big difference between innovation and invention.",
+      "directed_to": "Class",
+      "timestamp_abs": "19:23"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The value that you can generate with a certain technology.",
+      "directed_to": "Class",
+      "timestamp_abs": "19:27"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "where you can get, when you're talking about the technology commercialization, you always remember that it can, it goes together with branding, marketing, product, um, a whole product characteristics around packaging the whole underlying technology. It's not about the technology itself.",
+      "directed_to": "Class",
+      "timestamp_abs": "19:31"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's about how you make it into a very nice, attractive product that will be creating value in certain economy.",
+      "directed_to": "Class",
+      "timestamp_abs": "19:50"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "directed_to": "Class",
+      "timestamp_abs": "19:58"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now,",
+      "directed_to": "Class",
+      "timestamp_abs": "19:59"
+    }
+  ]
+}

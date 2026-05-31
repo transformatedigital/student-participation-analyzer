@@ -1,0 +1,287 @@
+{
+  "session": "2026-03-17",
+  "generated_at": "2026-05-29T13:44:16",
+  "count": 28,
+  "questions": [
+    {
+      "timestamp": "00:25",
+      "topic": "Class Schedule",
+      "question": "Is this the last lecture you have for today?",
+      "raw_question": "Is this your last lecture?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yes, this is the last lecture.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "00:28",
+      "topic": "Class Schedule",
+      "question": "Beyond this lecture, do you have any other classes scheduled for today?",
+      "raw_question": "You have a class, you have one more class?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "No, not today, but there's a course at night.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "02:24",
+      "topic": "Assignment 4 Status",
+      "question": "Are there any questions about the keywords for Assignment 4, or about the assignment itself?",
+      "raw_question": "Questions?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "I haven't seen this assignment at all.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "02:29",
+      "topic": "Assignment 4 Clarification",
+      "question": "Are you referring to Assignment 4, the glossary assignment?",
+      "raw_question": "Assignment four?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "I haven't seen it at all.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "02:46",
+      "topic": "Assignment 4 Location",
+      "question": "Could you please repeat what you just said about the assignment?",
+      "raw_question": "What did you say?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "It was in the slide for the first week.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "03:03",
+      "topic": "Assignment 4 Deadline",
+      "question": "Is everyone clear that the deadline for Assignment 4 is March 31st?",
+      "raw_question": "Okay?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yes, March 31st.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "10:48",
+      "topic": "Assignment 2 Content",
+      "question": "Can anyone recall or remind the class what Assignment 2 is about?",
+      "raw_question": "in a assignment What do you know what is assignment two? Everybody remembers what is assignment two?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Assignment 2 is to read the first paper.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "13:56",
+      "topic": "Invention vs. Innovation",
+      "question": "Regarding the difference between 'invention' and 'innovation,' Aryang provided about 70% of the definition. Would anyone else like to elaborate on the key difference?",
+      "raw_question": "I will say 70% of the definition. But the key difference is anybody also wants to try?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "I think invention is about creating something new, from zero.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "14:36",
+      "topic": "Tesla's Contributions",
+      "question": "Stephen, since you've been reading about Tesla, could you explain the difference between what Nikola Tesla made and what actually came to happen later on with electricity in terms of invention and innovation?",
+      "raw_question": "Maybe you can give it a try. What's the difference between what Tesla made and what actually came to happen later on with electricity?",
+      "answered_by": "Sthepen",
+      "score": 5,
+      "response_text": "Tesla worked with alternating current (AC) and developed the motor to transmit electricity over longer distances. There was a rivalry between Edison, who pushed direct current (DC), and Tesla, who promoted AC.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "21:36",
+      "topic": "Qualcomm Awareness",
+      "question": "Have any of you ever heard about the company Qualcomm?",
+      "raw_question": "Do you know, do you know, Qualcomm? Have you ever heard about Qualcomm?",
+      "answered_by": "Mega",
+      "score": 1,
+      "response_text": "(Student responses indicate familiarity with the name, e.g., 'Qualcomm.')",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "25:26",
+      "topic": "ETRI Awareness",
+      "question": "Are you familiar with ETRI (Electronics and Telecommunications Research Institute)?",
+      "raw_question": "Do you know ETRI?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, I know ETRI.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "28:28",
+      "topic": "Research Commercialization Limitations",
+      "question": "Mega, you mentioned that your research agency's output is limited to papers and publications, and that you cannot commercialize products, stopping at inventions. Is this an accurate understanding of your organization's limitations regarding technology commercialization?",
+      "raw_question": "Is that correct?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Okay.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "34:06",
+      "topic": "National Innovation Systems",
+      "question": "Is it very important for you to understand how your national innovation system works for your projects?",
+      "raw_question": "Is very important? Is very important?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "(No direct student response, but the teacher continues to elaborate on the importance.)",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "44:18",
+      "topic": "Interoperability Awareness",
+      "question": "Stephen, are you familiar with the concept of interoperability issues, specifically concerning the players in interoperability within your country?",
+      "raw_question": "You know about this?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "44:21",
+      "topic": "Term Definition",
+      "question": "Stephen, do you know the term 'interoperability'?",
+      "raw_question": "Interoperability, you know this term?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "44:25",
+      "topic": "Data Ownership/Stewardship",
+      "question": "Regarding the interoperability issues in your country's digital public infrastructure, who manages and owns the data, and who has stewardship over it?",
+      "raw_question": "So, who manages who is the owner of the data?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "The national registry office has stewardship, but there is also Nita (National Information Technology Agency).",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "44:55",
+      "topic": "Sectoral Innovation Landscape",
+      "question": "Regarding your country's sectorial innovation system, particularly concerning digital public infrastructure, how would you describe the landscape of key players and their interactions?",
+      "raw_question": "Your players, your landscape. How does it look like?",
+      "answered_by": "Aryang",
+      "score": null,
+      "response_text": "(No direct student response, but the teacher immediately continues by emphasizing the need to identify these players.)",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "52:59",
+      "topic": "TRL Awareness",
+      "question": "Have any of you heard about the term 'TRL' (Technology Readiness Level)?",
+      "raw_question": "TRL. Have you heard about it? Anybody?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "69:00",
+      "topic": "KAIST T.I.I. Definition",
+      "question": "Can someone explain what KAIST T.I.I. (Technology Innovation Institute) is?",
+      "raw_question": "But, but what is KAIST T.I.I.? Who can tell me what KAIST T.I.I. is?",
+      "answered_by": "Chilaka",
+      "score": 4,
+      "response_text": "KAIST T.I.I. is the center which helps to convert research outcomes into a real product.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "130:07",
+      "topic": "Quantifying Problem Impact",
+      "question": "For your project, when describing the problem, you could quantify its impact by asking how much telecom companies have paid back or lost due to this issue, right?",
+      "raw_question": "or have lost because of this, right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Of course, yeah.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "135:42",
+      "topic": "Presentation Data Relevance",
+      "question": "Is the data you've included about 'mobile phone' usage relevant to the broader, factual context you need for your ICP presentation, or is it another singular case?",
+      "raw_question": "Maybe this one, mobile phone, no?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "(Aryang's response is unclear: 'that we have around the presentation and you have to know by your.')",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "135:49",
+      "topic": "Data Context/Baseline",
+      "question": "When presenting numerical data, such as a figure related to mobile phone usage, what is the total context or baseline that this number is 'out of'?",
+      "raw_question": "Maybe the then this one is out of what?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Out of [unclear, but refers to a total context or baseline].",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "137:59",
+      "topic": "Data Availability",
+      "question": "Please continue, what did they tell you about the data?",
+      "raw_question": "Please.",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "They said it's not public.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "138:04",
+      "topic": "Alternative Data Sources",
+      "question": "Since specific data from the Rwanda Investigation Bureau isn't publicly available, what if you explore online sources or look for cybersecurity threat indexes, perhaps showing how Rwanda ranks among other African countries in terms of vulnerabilities? Such international rankings or broader data could be helpful for your project.",
+      "raw_question": "Okay, then then when then what you can say, um, how about you look for some online or for example cyber security threat or this kind of indexes? Maybe there is some related to the vulnerabilities of Rwanda. We're saying Rwanda ranked with other African countries is in the in the top tier or is in the bottom tier because of the vulnerabilities of something that is more international ranking. This kind of things could help.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "I asked them [Rwanda Investigation Bureau] again, and today I received an email saying they can give me some aggregated data, not much data, but some.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "140:11",
+      "topic": "Solution Scope/Justification",
+      "question": "Regarding your proposed solution, 'proactive AI shield to intercept threats at the point of contact,' is this the *only* way to solve the problem you've identified, or are there other potential solutions?",
+      "raw_question": "Proactive AI shield to threats in the point of contact, is this the only way to solve this problem?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "Proactive AI detects scam messages (e.g., SMS) and stops them from being sent to other people.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "145:29",
+      "topic": "Resubmission Deadline",
+      "question": "If you wish to improve and resubmit your assignments, what date would you like for the resubmission deadline?",
+      "raw_question": "If you want to resubmit on",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Sunday.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "145:31",
+      "topic": "Resubmission Deadline",
+      "question": "No, Sunday is too soon for a resubmission. When would you prefer to resubmit your assignments?",
+      "raw_question": "Sunday? No, no, no. When do you want to resubmit?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Monday.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "150:54",
+      "topic": "Meeting Schedule",
+      "question": "Do you understand and agree with the plan to meet three or four times this week?",
+      "raw_question": "I get it?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    }
+  ]
+}

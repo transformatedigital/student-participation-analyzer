@@ -1,0 +1,293 @@
+{
+  "block": 29,
+  "time_range": "140:00-145:00",
+  "utterances": [
+    {
+      "timestamp": "140:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm trying to to see like digital identity and uh verification for university.",
+      "timestamp_abs": "280:00"
+    },
+    {
+      "timestamp": "140:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, Korea digital ID model demonstrates the value of secure, legally recognized, service linked identity.",
+      "timestamp_abs": "280:07"
+    },
+    {
+      "timestamp": "140:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Even the world the bank specifically identifies the absence of a robust foundational ID system as a key barrier in DAC.",
+      "timestamp_abs": "280:16"
+    },
+    {
+      "timestamp": "140:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Starting at the institutional level, national EID makes this achievable.",
+      "timestamp_abs": "280:26"
+    },
+    {
+      "timestamp": "140:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we can have there like students verification.",
+      "timestamp_abs": "280:32"
+    },
+    {
+      "timestamp": "140:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We have uh enrollment and uh transcripts, fee tracking, secure service access.",
+      "timestamp_abs": "280:36"
+    },
+    {
+      "timestamp": "140:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I'm thinking uh based on that we can really uh develop something such.",
+      "timestamp_abs": "280:43"
+    },
+    {
+      "timestamp": "140:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The second opportunity is about modular student administration platform.",
+      "timestamp_abs": "280:49"
+    },
+    {
+      "timestamp": "140:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, modular platforms, they are like uh digital platforms, working in different units, known as module.",
+      "timestamp_abs": "280:54"
+    },
+    {
+      "timestamp": "141:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, each module may can be uh can work like independently but since they are interconnected into one system.",
+      "timestamp_abs": "281:01"
+    },
+    {
+      "timestamp": "141:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, we can have like a module for like record, a module for transcript and verification, but all they are like waking in uh a same system, the same system.",
+      "timestamp_abs": "281:09"
+    },
+    {
+      "timestamp": "141:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Though they are like uh each module is independent.",
+      "timestamp_abs": "281:19"
+    },
+    {
+      "timestamp": "141:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, there is also a possibility to say like each module as such.",
+      "timestamp_abs": "281:22"
+    },
+    {
+      "timestamp": "141:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then the third one is about uh digital compliance and uh documents authentication.",
+      "timestamp_abs": "281:29"
+    },
+    {
+      "timestamp": "141:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, the Korea's digital government successes uh partly about uh trust, documentation and service reliability.",
+      "timestamp_abs": "281:36"
+    },
+    {
+      "timestamp": "141:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So a platform authenticating uh certificates, student status and institutional documents could reduce fraud in academic and administrative process.",
+      "timestamp_abs": "281:45"
+    },
+    {
+      "timestamp": "141:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It can also improve institutional credibility.",
+      "timestamp_abs": "281:56"
+    },
+    {
+      "timestamp": "142:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And since it is one of the problem, I think uh it's align even with uh UNESCO's cop for stronger data governance in DRC.",
+      "timestamp_abs": "282:00"
+    },
+    {
+      "timestamp": "142:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So if we can be able to uh realize this, I think it's uh a better uh uh achievements uh income.",
+      "timestamp_abs": "282:09"
+    },
+    {
+      "timestamp": "142:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, this is a kind of uh hypothesis that I'm trying to brainstorm.",
+      "timestamp_abs": "282:19"
+    },
+    {
+      "timestamp": "142:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I see that uh the most promising technology commercialization opportunity is reasonable cost, modular digital identity and service verification solution for higher education institution in the DRC.",
+      "timestamp_abs": "282:23"
+    },
+    {
+      "timestamp": "142:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I believe this is uh stronger than uh everything like uh learning management system focused idea because it addresses a more fundamental problem, which is related to trust, coordination, records and service access.",
+      "timestamp_abs": "282:39"
+    },
+    {
+      "timestamp": "142:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, once those uh foundation exist, other digital tool become easier to adopt.",
+      "timestamp_abs": "282:54"
+    },
+    {
+      "timestamp": "143:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, this is uh a kind of uh uh hypothesis I'm trying to develop.",
+      "timestamp_abs": "283:00"
+    },
+    {
+      "timestamp": "143:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, what I need to validate is actually to consult, as I said before, I need to consult the IT director from discussed priority at the University of Kinshasa.",
+      "timestamp_abs": "283:06"
+    },
+    {
+      "timestamp": "143:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then I will uh pinpoint pain, identify reports, verification or workflow.",
+      "timestamp_abs": "283:18"
+    },
+    {
+      "timestamp": "143:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then after everything is done, then we can really have uh commercialized uh concepts.",
+      "timestamp_abs": "283:24"
+    },
+    {
+      "timestamp": "143:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, move from the brainstorming to a viable product uh plan.",
+      "timestamp_abs": "283:31"
+    },
+    {
+      "timestamp": "143:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, this is actually uh what uh I could uh do for today.",
+      "timestamp_abs": "283:36"
+    },
+    {
+      "timestamp": "143:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, as for the Korea's uh real lesson, we see that",
+      "timestamp_abs": "283:43"
+    },
+    {
+      "timestamp": "143:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "not only advanced technology.",
+      "timestamp_abs": "283:48"
+    },
+    {
+      "timestamp": "143:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it's not only about uh advanced technology.",
+      "timestamp_abs": "283:50"
+    },
+    {
+      "timestamp": "143:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, Korea's lesson is institutional integration through reliable digital system.",
+      "timestamp_abs": "283:53"
+    },
+    {
+      "timestamp": "144:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not only as like having uh the sophisticated uh uh single tool, but we need like uh a digital system, which is really uh for a better governance within the the the Congo.",
+      "timestamp_abs": "284:00"
+    },
+    {
+      "timestamp": "144:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then the real gap is uh it is not the absence of ideas, but the absence of foundational digital coordination, which is meeting.",
+      "timestamp_abs": "284:14"
+    },
+    {
+      "timestamp": "144:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, we need to reach that point.",
+      "timestamp_abs": "284:24"
+    },
+    {
+      "timestamp": "144:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the power forward is like a simple but uh scalable institutional solution.",
+      "timestamp_abs": "284:26"
+    },
+    {
+      "timestamp": "144:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Digital identity record or verification, rather than an ambitious platform requiring strong infrastructure.",
+      "timestamp_abs": "284:32"
+    },
+    {
+      "timestamp": "144:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it's like starting from maybe small, then later on uh develop uh bigger uh bigger infrastructure.",
+      "timestamp_abs": "284:38"
+    },
+    {
+      "timestamp": "144:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, this is uh all about I would share today.",
+      "timestamp_abs": "284:47"
+    },
+    {
+      "timestamp": "144:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, while waiting, uh my my talk let this week and then gather more information and also direct",
+      "timestamp_abs": "284:52"
+    }
+  ]
+}

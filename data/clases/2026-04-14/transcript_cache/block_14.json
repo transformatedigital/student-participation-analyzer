@@ -1,0 +1,132 @@
+{
+  "block": 14,
+  "time_range": "65:00-70:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'll say, okay, it has some limitations, but a master student should be doing a project. Hold on a minute.",
+      "timestamp_abs": "65:00"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sorry, I I I rented a room in my in my office to be able to in my office, in my house to be able to give the class. Somebody interrupted.",
+      "timestamp_abs": "65:20"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, so, um, what I was saying is that if like a master's student should be able to look like a master, right? So you have to be able to show your presentation, even if it's an assignment and you're in a hurry, to show it clean. Always I and this is for everybody, always use slide numbers. Some of you are not using slide numbers. Slide numbers are very important in any kind of pitch presentation because people will give you quick feedback or they have a gonna have a quick question, so you want to be be reserved. Try to use the same font. Don't be very creative. Just use the same font. These days there are very good AI programs that will do clean cut straightforward slides. Um, I'm not the best uh at doing the slides, but please try to do that the kind of consistency. I think in general, um, it will help you in your professional career. Um, so I'm doing like a general comment is update the format, okay? Especially because I'll show you like uh uh the problem. Let's go to slide number one, I think.",
+      "timestamp_abs": "65:29"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, there I can barely read, but I think it's maybe because we you transferred it to the Google Docs, maybe there was an issue because of the Google Slides, I don't know, but I can barely read because there're so many like um one one on top of the other, so fix those kind of things. I like that you gave me the current context. So the slide itself, the content of the slide is good, like you're giving me the quick big picture of what are the things important in Rwanda. So I like it. If I were you, I would add a small bit of um uh like maybe a a small bit of like, but I like it. You put Rwanda's total population, so like 14.4 million. I I really like this first initial current context in Rwanda stage. I like it. The next one though, where you start giving me the problem, it's like, ah, Steven, we went back. Like you, we you and I already had discussed where the problem is. And you mentioned it later. The problem is on the real time monitoring. But show me the next in the next slide, you go back to the high level.",
+      "timestamp_abs": "66:17"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Go to the next slide. There.",
+      "timestamp_abs": "67:32"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Again, you're giving me very high level.",
+      "timestamp_abs": "67:35"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But actually, I want you to give me, you could give me the highest level, but at some point down, you have more space in that slide, you have to give me, ah, or maybe you say no monitoring during usage. Maybe there you have to say real time in big letters. I think there is a very big important keyword lost in that in that slide. And also the affected the affected people. Vulnerable citizens, mobile money users. Yes, this is all high level.",
+      "timestamp_abs": "67:39"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's like Mega case. If Mega would tell me, who is affected by the non-use of solar power? She would say the Earth.",
+      "timestamp_abs": "68:06"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All the citizens in the world because we are doing the gas emission in Indonesia. It's very high level. In this case, you have to say, who is affected? And you can say directly, banking institutions, government, you have to be more specific. Like double, double click all of those to say like, really, um, the money that is being wasted, the time that is being wasted, uh the current important, like the the fact that you guys like Rwanda is being a very good uh wrongly, wrongly a good field of uh corruption, not corruption, but um what is it? Um, illegal activity, right? So you don't want to as a country, you don't want to be a paradise for illegal activity. You want to be a country that attracts investment, that is safe enough. You don't want people to feel unsafe about having their money in their accounts, right? So, I think you you this who is affected part, I wish it would be more specific to the problem of real time.",
+      "timestamp_abs": "68:14"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If the level, if the problem is very high level like, okay. And here is like you you mentioned the real time gap problem, but then it is not in the bullet just like it's just like, I don't know. I wish it was more specific. So let's try to reframe I reframe this a little bit like you can leave the general parts big, but then give me the more specific of of why this real time gap issue. I would add it more.",
+      "timestamp_abs": "69:11"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then um the architecture,",
+      "timestamp_abs": "69:37"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh, sorry.",
+      "timestamp_abs": "69:40"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "69:41"
+    },
+    {
+      "timestamp": "04:43",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh I need to understand it maybe uh clear because",
+      "timestamp_abs": "69:43"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sure, sure.",
+      "timestamp_abs": "69:47"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh maybe for PPT, I didn't uh copy all the information from the work, but in the work, I",
+      "timestamp_abs": "69:49"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, of course, no, no, no, I don't want that. Yes, yes, I don't want that. But then from",
+      "timestamp_abs": "69:55"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Sure.",
+      "timestamp_abs": "69:59"
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "block": 6,
+  "time_range": "25:00-30:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "in different formats of those.",
+      "timestamp_abs": "25:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "25:02"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not an expert, don't please.",
+      "timestamp_abs": "25:02"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "At that time, many people in the Western and Eastern were investing in different formats, in different standards, okay?",
+      "timestamp_abs": "25:05"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And Qualcomm was uh, was still a startup trying to sell some some some technology related to that.",
+      "timestamp_abs": "25:13"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And they bought some of the technology of ETRI.",
+      "timestamp_abs": "25:20"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Do you know ETRI?",
+      "timestamp_abs": "25:26"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "25:27"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "You know ETRI?",
+      "timestamp_abs": "25:27"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Everybody knows ETRI.",
+      "timestamp_abs": "25:28"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "25:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "ETRI is a very important technology. Okay, Chilaka, you don't know.",
+      "timestamp_abs": "25:31"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "You don't know who is ETRI?",
+      "timestamp_abs": "25:35"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "ETRI is the Electronics and Telecommunications Research Institute.",
+      "timestamp_abs": "25:37"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We call it the Korean R&D people.",
+      "timestamp_abs": "25:41"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a very rich R&D center.",
+      "timestamp_abs": "25:49"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's our very good.",
+      "timestamp_abs": "25:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "25:53"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it was very important for them to buy from us, actually, for you, maybe it's very important.",
+      "timestamp_abs": "25:55"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I give you two, actually last time we give you two.",
+      "timestamp_abs": "26:04"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "ETRI and KIER are very important projects.",
+      "timestamp_abs": "26:07"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I gave you KIER last time. ETRI is also very important. ETRI has, because they are in the electronics, they also have a teams uh doing related things things to energy storage systems.",
+      "timestamp_abs": "26:11"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "So in the US uh page that KIER is part of the US.",
+      "timestamp_abs": "26:21"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, correct.",
+      "timestamp_abs": "26:27"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The ETRI is in front.",
+      "timestamp_abs": "26:28"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Uh.",
+      "timestamp_abs": "26:29"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And KIER also, KIER participates in US.",
+      "timestamp_abs": "26:30"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "US.",
+      "timestamp_abs": "26:34"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But KIER is just an autonomous R&D Institute dedicated to energy. And ETRI is another one. But ETRI, back in the time, it was a very new Korean R&D center that was doing public R&D center.",
+      "timestamp_abs": "26:34"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And they sold this technology to a startup nobody knew, Qualcomm.",
+      "timestamp_abs": "26:46"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And you know nowadays how much money Korea earns because of that technology, because Qualcomm grew based on that on that technology.",
+      "timestamp_abs": "26:52"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And they pay lots of money, the the uh, royalties. So I'm trying to give you an example.",
+      "timestamp_abs": "27:00"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The value of that very small know-how, that technology, Korean technology that was sold to Qualcomm, nowadays pays a very important deal to ETRI, the Korean R&D people.",
+      "timestamp_abs": "27:05"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So nowadays ETRI has a let's say a cash cow, some business income that it receives.",
+      "timestamp_abs": "27:18"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That it contributes to the to the to the.",
+      "timestamp_abs": "27:26"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, yes, technology commercialization is money.",
+      "timestamp_abs": "27:30"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Innovation is money.",
+      "timestamp_abs": "27:34"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Is money in your market that you can touch.",
+      "timestamp_abs": "27:36"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you manage to have new technologies, to brought and brand new value and market place into something that you can sold, let's say, sold enough.",
+      "timestamp_abs": "27:39"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because it it to be really valuable, it has to be really entering the market and paying value in the market.",
+      "timestamp_abs": "27:51"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the example is having some underlying technology, very technical, a lab versus an iPhone.",
+      "timestamp_abs": "27:58"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like that's the extreme example that I want to give.",
+      "timestamp_abs": "28:04"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "Excuse me, professor.",
+      "timestamp_abs": "28:07"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sure? Yes.",
+      "timestamp_abs": "28:07"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Uh, so since I'm from the research agency, so uh, the output of our our organization is only a paper, publications or type.",
+      "timestamp_abs": "28:09"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "So we cannot make commercialization of that product, so it's only stopping the intentions.",
+      "timestamp_abs": "28:20"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Is that correct?",
+      "timestamp_abs": "28:28"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "28:29"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "text": "So my my.",
+      "timestamp_abs": "28:30"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, if I were a congressman in Indonesia, approving the project the the budget of your R&D center, I would automatically say, what's the return on investment that you guys have? Don't give me patents, give me technology commercialization business.",
+      "timestamp_abs": "28:32"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's what Korea is doing very well.",
+      "timestamp_abs": "28:48"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So if you check on the internet ETRI's budget, you see ETRI's budget, part of it is public funds, yes, but the other part is return from your royalties.",
+      "timestamp_abs": "28:52"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They have a business model of roi even though they are public R&D center.",
+      "timestamp_abs": "29:02"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For startups, they rehas ETRI engineers, ETRI researchers, they even as a person, Korea's law changed many times because in the beginning the whole process, if there were a problem, is researchers don't have any motivation.",
+      "timestamp_abs": "29:06"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "My salary comes same even if I do a patent, a paper or a business.",
+      "timestamp_abs": "29:19"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So why do business is very hard.",
+      "timestamp_abs": "29:24"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right?",
+      "timestamp_abs": "29:27"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Paper is difficult but it's still easier, right?",
+      "timestamp_abs": "29:27"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So there are many problems about this. So Korea's law changed and then so for example, to promote this, researchers can get a personal royalty now, not only the institute.",
+      "timestamp_abs": "29:30"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So imagine if I tell you, ah, Mega, out of your battery energy, smart thing, you do the business there, you get a 1% of this, the motivation is very good.",
+      "timestamp_abs": "29:39"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, yeah, yeah.",
+      "timestamp_abs": "29:47"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So, one percent, yeah.",
+      "timestamp_abs": "29:48"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "It's good.",
+      "timestamp_abs": "29:50"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right?",
+      "timestamp_abs": "29:51"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now you get the one percent.",
+      "timestamp_abs": "29:52"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now everybody wants to patent their technology from their PhD and masters.",
+      "timestamp_abs": "29:52"
+    }
+  ]
+}

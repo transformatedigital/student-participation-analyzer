@@ -1,0 +1,51 @@
+[
+  {
+    "file": "/Users/santi/clase-analytics/data/clases/2026-04-07/gemini_analysis/chunk_01_00000_00600.m4a",
+    "number": 1,
+    "start": 0,
+    "end": 600,
+    "duration": 600
+  },
+  {
+    "file": "/Users/santi/clase-analytics/data/clases/2026-04-07/gemini_analysis/chunk_02_00600_01200.m4a",
+    "number": 2,
+    "start": 600,
+    "end": 1200,
+    "duration": 600
+  },
+  {
+    "file": "/Users/santi/clase-analytics/data/clases/2026-04-07/gemini_analysis/chunk_03_01200_01800.m4a",
+    "number": 3,
+    "start": 1200,
+    "end": 1800,
+    "duration": 600
+  },
+  {
+    "file": "/Users/santi/clase-analytics/data/clases/2026-04-07/gemini_analysis/chunk_04_01800_02400.m4a",
+    "number": 4,
+    "start": 1800,
+    "end": 2400,
+    "duration": 600
+  },
+  {
+    "file": "/Users/santi/clase-analytics/data/clases/2026-04-07/gemini_analysis/chunk_05_02400_03000.m4a",
+    "number": 5,
+    "start": 2400,
+    "end": 3000,
+    "duration": 600
+  },
+  {
+    "file": "/Users/santi/clase-analytics/data/clases/2026-04-07/gemini_analysis/chunk_06_03000_03600.m4a",
+    "number": 6,
+    "start": 3000,
+    "end": 3600,
+    "duration": 600
+  },
+  {
+    "file": "/Users/santi/clase-analytics/data/clases/2026-04-07/gemini_analysis/chunk_07_03600_04164.m4a",
+    "number": 7,
+    "start": 3600,
+    "end": 4164,
+    "duration": 564
+  }
+]

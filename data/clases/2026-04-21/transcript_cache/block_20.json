@@ -1,0 +1,93 @@
+{
+  "block": 20,
+  "time_range": "95:00-100:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is important.",
+      "timestamp_abs": "95:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Uh, does your so, for example, in your case, uh, um Grace,",
+      "timestamp_abs": "95:02"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one is also important, okay? You were a former lecturer and now you have to say, okay, my linkage to my because as a lecturer, you know the problems, you know the pain points.",
+      "timestamp_abs": "95:08"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Actually, I'm not a former.",
+      "timestamp_abs": "95:19"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "You're current?",
+      "timestamp_abs": "95:21"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, because for us, it is not like, uh, when you have [inaudible] for studies, we have to you would you can say sign the [inaudible]. So I'm still there, I still receive my little money.",
+      "timestamp_abs": "95:22"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So if you're not, but you're not, you're on a leave or you're you're on a permit.",
+      "timestamp_abs": "95:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah. So that I got really a permission, an official permission from the Minister of Education. So they know that I'm here for my PhD three years. So everything is secured, so when back, so I have [inaudible].",
+      "timestamp_abs": "95:30"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, so that that is very important that somehow indirectly it shows, indirectly. You don't have to say like, I have a perfect role, but you have to indirectly show that this project will be meaningful to contribute to your institution and to lead the way for your current role, right?",
+      "timestamp_abs": "95:33"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "In the background. Of course.",
+      "timestamp_abs": "95:49"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In the background could be depend on the storyline. But I Because he told me it is the task for team that I said, ah, because or in or in the when you when you in the section where there is the role or the stakeholders.",
+      "timestamp_abs": "95:50"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Stakeholders.",
+      "timestamp_abs": "95:59"
+    }
+  ]
+}

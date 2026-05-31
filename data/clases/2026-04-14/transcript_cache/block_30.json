@@ -1,0 +1,20 @@
+{
+  "block": 30,
+  "time_range": "145:00-150:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "library books, etcetera.",
+      "timestamp_abs": "145:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe it is an initial and I like that the fact that you at the end,",
+      "timestamp_abs": "145:01"
+    }
+  ]
+}

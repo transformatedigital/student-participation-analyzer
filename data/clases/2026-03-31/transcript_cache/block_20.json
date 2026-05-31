@@ -1,0 +1,150 @@
+{
+  "block": 20,
+  "time_range": "95:00-100:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "Class",
+      "text": "So, I think one of the things that will come right from the one hand that even a Korean solution elements whatever that is is original from like what you have, you know, just for architecture.",
+      "timestamp_abs": "95:00"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "Class",
+      "text": "You guys in India or or Stepen you can tell me or the other people that",
+      "timestamp_abs": "95:08"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "Class",
+      "text": "you should like or says think about it.",
+      "timestamp_abs": "95:13"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "Class",
+      "text": "Any solution architecture even if an app, if it's designed for an infrastructure like Korea.",
+      "timestamp_abs": "95:16"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "Class",
+      "text": "Already the architecture and the type of programming used.",
+      "timestamp_abs": "95:23"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "Class",
+      "text": "The layers used for that, it's going to be too heavy for that kind of need.",
+      "timestamp_abs": "95:26"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "Class",
+      "text": "It's not going to work.",
+      "timestamp_abs": "95:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So, your question, my comment?",
+      "timestamp_abs": "95:31"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "directed_to": "ILEANA",
+      "text": "No, uh,",
+      "timestamp_abs": "95:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "directed_to": "ILEANA",
+      "text": "I mean if if the problem is about the connectivity.",
+      "timestamp_abs": "95:34"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "directed_to": "ILEANA",
+      "text": "I think it's it's it's the the issue for the ITD how to make it uh can access even using the low bandwidth or otherwise maybe you can just go full offline.",
+      "timestamp_abs": "95:36"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "directed_to": "ILEANA",
+      "text": "I mean, in terms of digital.",
+      "timestamp_abs": "95:44"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "directed_to": "ILEANA",
+      "text": "In in terms of digital, I think it's not it's not mandatory to make it online or offline.",
+      "timestamp_abs": "95:46"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "Yes.",
+      "timestamp_abs": "95:51"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "directed_to": "ILEANA",
+      "text": "Uh what what what I'm trying to say is",
+      "timestamp_abs": "95:52"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "directed_to": "ILEANA",
+      "text": "if you just want to make it digital, it doesn't have to be online.",
+      "timestamp_abs": "95:54"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "Yes.",
+      "timestamp_abs": "95:58"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "directed_to": "ILEANA",
+      "text": "But actually, uh one solution is this.",
+      "timestamp_abs": "95:58"
+    }
+  ]
+}

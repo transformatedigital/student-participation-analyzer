@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Evaluation - Class Analytics</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #ffffff; color: #1f2937; }
+        header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px 20px; }
+        header h1 { margin-bottom: 5px; }
+        header .breadcrumb { font-size: 12px; opacity: 0.8; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 30px 20px; }
+        .section-title { font-size: 22px; font-weight: 700; color: #1f2937; margin-bottom: 20px; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
+        .nav-buttons { margin-bottom: 30px; }
+        .nav-buttons a { display: inline-block; margin-right: 10px; padding: 10px 20px; background: #667eea; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; margin-bottom: 10px; }
+        .nav-buttons a:hover { background: #764ba2; }
+        .eval-card { background: white; border: 1px solid #e5e7eb; border-radius: 8px; padding: 24px; margin-bottom: 20px; }
+        .eval-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; border-bottom: 2px solid #f0f0f0; padding-bottom: 12px; }
+        .eval-name { font-size: 20px; font-weight: 700; color: #1f2937; }
+        .eval-grade { font-size: 28px; font-weight: 700; color: #667eea; margin-left: 20px; }
+        .eval-letter { font-size: 14px; color: #6b7280; }
+        .eval-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; margin-bottom: 16px; }
+        .eval-stat { background: #f0f9ff; padding: 10px; border-radius: 6px; }
+        .eval-stat .label { font-size: 11px; color: #6b7280; text-transform: uppercase; }
+        .eval-stat .value { font-size: 16px; font-weight: 700; color: #667eea; margin-top: 4px; }
+        .eval-breakdown { background: #f9fafb; padding: 12px; border-radius: 6px; margin-bottom: 12px; }
+        .breakdown-row { display: flex; justify-content: space-between; font-size: 12px; margin-bottom: 4px; }
+        .breakdown-row:last-child { margin-bottom: 0; }
+        .type-label { font-weight: 600; color: #1f2937; }
+        .type-value { color: #667eea; font-weight: 600; }
+        .eval-notes { background: #fef3c7; border-left: 4px solid #f59e0b; padding: 12px; border-radius: 4px; margin-top: 12px; font-size: 13px; color: #92400e; }
+        footer { text-align: center; padding: 20px; color: #6b7280; font-size: 12px; border-top: 1px solid #e5e7eb; margin-top: 40px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🤖 AI Evaluation & Grades</h1>
+        <div class="breadcrumb">← <a href="index.html" style="color: white; text-decoration: underline;">Dashboard</a> / Evaluation</div>
+    </header>
+
+    <div class="container">
+        <div class="nav-buttons">
+            <a href="index.html">← Back to Dashboard</a>
+            <a href="overview.html">📊 Overview</a>
+            <a href="class_transcript.html">🎤 Class Transcript</a>
+            <a href="transcripcion.html">📝 Transcription</a>
+            <a href="timeline.html">⏱️ Timeline</a>
+            <a href="rubrics.html">📋 Rubrics</a>
+        </div>
+
+        <div class="section-title">📊 Individual Student Evaluations</div>
+
+        <!-- ARYANG -->
+        <div class="eval-card">
+            <div class="eval-header">
+                <div>
+                    <div class="eval-name">Aryang</div>
+                    <div class="eval-letter">Very Active Participant</div>
+                </div>
+                <div style="text-align: right;">
+                    <div class="eval-grade">3.12</div>
+                    <div style="font-size: 14px; color: #6b7280;">C · Satisfactory</div>
+                </div>
+            </div>
+
+            <div class="eval-stats">
+                <div class="eval-stat">
+                    <div class="label">Participations</div>
+                    <div class="value">83</div>
+                </div>
+                <div class="eval-stat">
+                    <div class="label">Responses</div>
+                    <div class="value">20</div>
+                </div>
+                <div class="eval-stat">
+                    <div class="label">Questions</div>
+                    <div class="value">21</div>
+                </div>
+                <div class="eval-stat">
+                    <div class="label">Comments</div>
+                    <div class="value">42</div>
+                </div>
+            </div>
+
+            <div class="eval-breakdown">
+                <div class="breakdown-row">
+                    <span class="type-label">Weighted Average:</span>
+                    <span class="type-value">2.97</span>
+                </div>
+                <div class="breakdown-row">
+                    <span class="type-label">Participation Bonus:</span>
+                    <span class="type-value">+0.15</span>
+                </div>
+                <div class="breakdown-row">
+                    <span class="type-label">Avg Response Quality:</span>
+                    <span class="type-value">2.80</span>
+                </div>
+                <div class="breakdown-row">
+                    <span class="type-label">Avg Question Quality:</span>
+                    <span class="type-value">3.10</span>
+                </div>
+                <div class="breakdown-row">
+                    <span class="type-label">Avg Comment Quality:</span>
+                    <span class="type-value">2.88</span>
+                </div>
+            </div>
+
+            <div class="eval-notes">
+                ℹ️ <strong>Analysis:</strong> Aryang shows the highest participation volume (83 statements). While engaged throughout the class, many statements are brief acknowledgments or follow-ups. Questions show better depth (3.10 avg), suggesting critical thinking. Formula: (2.80 × 0.50) + (3.10 × 0.30) + (2.88 × 0.20) + 0.15 = 3.12
+            </div>
+        </div>
+
+        <!-- GRACE -->
+        <div class="eval-card">
+            <div class="eval-header">
+                <div>
+                    <div class="eval-name">Grace</div>
+                    <div class="eval-letter">Moderate Participant</div>
+                </div>
+                <div style="text-align: right;">
+                    <div class="eval-grade">2.82</div>
+                    <div style="font-size: 14px; color: #6b7280;">C · Satisfactory</div>
+                </div>
+            </div>
+
+            <div class="eval-stats">
+                <div class="eval-stat">
+                    <div class="label">Participations</div>
+                    <div class="value">21</div>
+                </div>
+                <div class="eval-stat">
+                    <div class="label">Responses</div>
+                    <div class="value">9</div>
+                </div>
+                <div class="eval-stat">
+                    <div class="label">Questions</div>
+                    <div class="value">3</div>
+                </div>
+                <div class="eval-stat">
+                    <div class="label">Comments</div>
+                    <div class="value">9</div>
+                </div>
+            </div>
+
+            <div class="eval-breakdown">
+                <div class="breakdown-row">
+                    <span class="type-label">Weighted Average:</span>
+                    <span class="type-value">2.72</span>
+                </div>
+                <div class="breakdown-row">
+                    <span class="type-label">Participation Bonus:</span>
+                    <span class="type-value">+0.10</span>
+                </div>
+                <div class="breakdown-row">
+                    <span class="type-label">Avg Response Quality:</span>
+                    <span class="type-value">2.89</span>
+                </div>
+                <div class="breakdown-row">
+                    <span class="type-label">Avg Question Quality:</span>
+                    <span class="type-value">2.67</span>
+                </div>
+                <div class="breakdown-row">
+                    <span class="type-label">Avg Comment Quality:</span>
+                    <span class="type-value">2.56</span>
+                </div>
+            </div>
+
+            <div class="eval-notes">
+                ℹ️ <strong>Analysis:</strong> Grace has moderate participation (21 statements) with more responses than questions. Responses show slightly better quality (2.89) but overall contributions remain relatively brief. Limited depth in most statements. Formula: (2.89 × 0.50) + (2.67 × 0.30) + (2.56 × 0.20) + 0.10 = 2.82
+            </div>
+        </div>
+
+        <!-- STHEPEN -->
+        <div class="eval-card">
+            <div class="eval-header">
+                <div>
+                    <div class="eval-name">Sthepen</div>
+                    <div class="eval-letter">Limited Participant</div>
+                </div>
+                <div style="text-align: right;">
+                    <div class="eval-grade">2.98</div>
+                    <div style="font-size: 14px; color: #6b7280;">C · Satisfactory</div>
+                </div>
+            </div>
+
+            <div class="eval-stats">
+                <div class="eval-stat">
+                    <div class="label">Participations</div>
+                    <div class="value">12</div>
+                </div>
+                <div class="eval-stat">
+                    <div class="label">Responses</div>
+                    <div class="value">1</div>
+                </div>
+                <div class="eval-stat">
+                    <div class="label">Questions</div>
+                    <div class="value">2</div>
+                </div>
+                <div class="eval-stat">
+                    <div class="label">Comments</div>
+                    <div class="value">9</div>
+                </div>
+            </div>
+
+            <div class="eval-breakdown">
+                <div class="breakdown-row">
+                    <span class="type-label">Weighted Average:</span>
+                    <span class="type-value">2.98</span>
+                </div>
+                <div class="breakdown-row">
+                    <span class="type-label">Participation Bonus:</span>
+                    <span class="type-value">+0.00</span>
+                </div>
+                <div class="breakdown-row">
+                    <span class="type-label">Avg Response Quality:</span>
+                    <span class="type-value">3.00</span>
+                </div>
+                <div class="breakdown-row">
+                    <span class="type-label">Avg Question Quality:</span>
+                    <span class="type-value">3.00</span>
+                </div>
+                <div class="breakdown-row">
+                    <span class="type-label">Avg Comment Quality:</span>
+                    <span class="type-value">2.89</span>
+                </div>
+            </div>
+
+            <div class="eval-notes">
+                ℹ️ <strong>Analysis:</strong> Sthepen shows minimal participation (12 statements), mostly comments (75%). Quality is borderline C-level across all types. Includes several single-word or interjection responses. Limited substantive engagement in class discussion. Formula: (3.00 × 0.50) + (3.00 × 0.30) + (2.89 × 0.20) + 0.00 = 2.98
+            </div>
+        </div>
+
+        <!-- CHILAKA -->
+        <div class="eval-card">
+            <div class="eval-header">
+                <div>
+                    <div class="eval-name">Chilaka</div>
+                    <div class="eval-letter">Minimal Participation</div>
+                </div>
+                <div style="text-align: right;">
+                    <div class="eval-grade">1.8</div>
+                    <div style="font-size: 14px; color: #6b7280;">D · Insufficient</div>
+                </div>
+            </div>
+
+            <div class="eval-stats">
+                <div class="eval-stat">
+                    <div class="label">Participations</div>
+                    <div class="value">1</div>
+                </div>
+                <div class="eval-stat">
+                    <div class="label">Responses</div>
+                    <div class="value">0</div>
+                </div>
+                <div class="eval-stat">
+                    <div class="label">Questions</div>
+                    <div class="value">0</div>
+                </div>
+                <div class="eval-stat">
+                    <div class="label">Comments</div>
+                    <div class="value">1</div>
+                </div>
+            </div>
+
+            <div class="eval-breakdown">
+                <div class="breakdown-row">
+                    <span class="type-label">Weighted Average:</span>
+                    <span class="type-value">2.0</span>
+                </div>
+                <div class="breakdown-row">
+                    <span class="type-label">Participation Bonus:</span>
+                    <span class="type-value">-0.20</span>
+                </div>
+                <div class="breakdown-row">
+                    <span class="type-label">Statement:</span>
+                    <span class="type-value">"Okay, so that's fine"</span>
+                </div>
+            </div>
+
+            <div class="eval-notes">
+                ⚠️ <strong>Analysis:</strong> Chilaka has minimal participation with only 1 statement recorded. The comment "Okay, so that's fine" is surface-level and adds minimal value to the discussion. Per Rubric B (D-level): "Loosely related to topic but adds minimal value; surface-level or repetitive contribution." Receives -0.20 participation penalty for &lt;5 interactions. Formula: (2.0) - 0.20 = 1.8
+            </div>
+        </div>
+
+        <!-- MEGA -->
+        <div class="eval-card">
+            <div class="eval-header">
+                <div>
+                    <div class="eval-name">Mega</div>
+                    <div class="eval-letter">No Recorded Participation</div>
+                </div>
+                <div style="text-align: right;">
+                    <div class="eval-grade">—</div>
+                    <div style="font-size: 14px; color: #6b7280;">No Data</div>
+                </div>
+            </div>
+
+            <div class="eval-stats">
+                <div class="eval-stat">
+                    <div class="label">Participations</div>
+                    <div class="value">0</div>
+                </div>
+                <div class="eval-stat">
+                    <div class="label">Status</div>
+                    <div class="value">—</div>
+                </div>
+            </div>
+
+            <div class="eval-notes">
+                ℹ️ <strong>Note:</strong> No participation recorded during the 40-minute 11-second coverage window. Unable to assign a grade without classroom participation data.
+            </div>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>Class Analytics | April 7, 2026 | Evaluation based on full transcription</p>
+    </footer>
+</body>
+</html>

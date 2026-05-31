@@ -1,0 +1,890 @@
+{
+  "block": 25,
+  "time_range": "120:00-125:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So just to recap the whole thing.",
+      "timestamp_abs": "120:00"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "120:23"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Did you find it difficult or was it easy or?",
+      "timestamp_abs": "120:27"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, it was okay.",
+      "timestamp_abs": "120:30"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Okay.",
+      "timestamp_abs": "120:33"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's not uh, too much hard.",
+      "timestamp_abs": "120:37"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Okay. And for the next part?",
+      "timestamp_abs": "120:38"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Next part I started from the, from the.",
+      "timestamp_abs": "120:40"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "120:41"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Um, so it's about two or three paragraphs.",
+      "timestamp_abs": "120:45"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Mhm. Uh-huh. And how about the third part?",
+      "timestamp_abs": "120:46"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, third part is a.",
+      "timestamp_abs": "120:50"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "timestamp_abs": "120:51"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, it's about the.",
+      "timestamp_abs": "120:52"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "timestamp_abs": "120:54"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's about the, uh, you know, the main.",
+      "timestamp_abs": "120:57"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Okay. Uh-huh. Uh-huh. And how much time did it take?",
+      "timestamp_abs": "120:58"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, it take about, uh, seven to eight minutes.",
+      "timestamp_abs": "121:03"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Seven to eight minutes for the third one only or for the whole thing?",
+      "timestamp_abs": "121:05"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Third one.",
+      "timestamp_abs": "121:07"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Uh, for the third one only. And for the whole.",
+      "timestamp_abs": "121:09"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "121:12"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "And for the whole, how much did it take for the whole thing?",
+      "timestamp_abs": "121:13"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, for the whole thing it takes around.",
+      "timestamp_abs": "121:14"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "timestamp_abs": "121:15"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Around 15 minutes.",
+      "timestamp_abs": "121:16"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Okay. That is fine. So basically you understood what to do, right?",
+      "timestamp_abs": "121:18"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "121:21"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Great. Right.",
+      "timestamp_abs": "121:23"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "121:25"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So you will be able to do this later on also for another project?",
+      "timestamp_abs": "121:26"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah. Yeah. Okay.",
+      "timestamp_abs": "121:28"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Perfect. All right. Thank you so much, Aryang.",
+      "timestamp_abs": "121:29"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Thank you, ma'am.",
+      "timestamp_abs": "121:31"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Mhm. Okay. All right. So next, uh, I'll move to Grace. Grace, are you ready?",
+      "timestamp_abs": "121:32"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "121:35"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. So Grace, you have prepared something?",
+      "timestamp_abs": "121:36"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "121:37"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. So will you please tell me about that and what was it about and what's your plan for that?",
+      "timestamp_abs": "121:38"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Uh, ma'am, I actually made an outline of the research that I plan to conduct.",
+      "timestamp_abs": "121:41"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "timestamp_abs": "121:43"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Uh, it's about like, uh, impact of, uh, cultural background on students' learning.",
+      "timestamp_abs": "121:44"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. Uh-huh. Okay. And how did you prepare it?",
+      "timestamp_abs": "121:46"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Uh, ma'am, I actually, uh, went through different, uh, research papers online and then I saw if there's any similar studies regarding it.",
+      "timestamp_abs": "121:48"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm. Okay.",
+      "timestamp_abs": "121:52"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "And then based on that, I just prepared the different variables and the different sections of the research paper.",
+      "timestamp_abs": "121:53"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. So you followed the research paper structure?",
+      "timestamp_abs": "121:56"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "121:58"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. Uh-huh. And how long did it take you to prepare that?",
+      "timestamp_abs": "121:59"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "It took me around, uh, two to three hours.",
+      "timestamp_abs": "122:02"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. And what was the challenging part for you to do?",
+      "timestamp_abs": "122:03"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "The challenging part was to just like make sure that the, the, the variables that I'm taking are not like very complicated to get data on.",
+      "timestamp_abs": "122:05"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm. Okay. So finding the right variables.",
+      "timestamp_abs": "122:10"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "122:12"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. And how much time did it take to find the right variables?",
+      "timestamp_abs": "122:12"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Uh, I think that just to like, uh, figure out the right variables, it took me like around like one to one and a half hours, something like that.",
+      "timestamp_abs": "122:15"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. Mhm. Uh-huh. And what about the next part? What was the easy part for you?",
+      "timestamp_abs": "122:18"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Uh, the easy part was to just like frame the research question and then like, uh, structure the research paper.",
+      "timestamp_abs": "122:22"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. Uh-huh. And how much time did it take for you to do that?",
+      "timestamp_abs": "122:25"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Uh, that was around like, uh, half an hour, I think.",
+      "timestamp_abs": "122:27"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. Uh-huh. Right. So you basically have the whole thing ready, right?",
+      "timestamp_abs": "122:29"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "122:32"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. So will you be ready with the presentation on it?",
+      "timestamp_abs": "122:33"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "122:35"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Great. Thank you so much, Grace.",
+      "timestamp_abs": "122:36"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Thank you, ma'am.",
+      "timestamp_abs": "122:37"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Mhm. Uh-huh. So, Mega, are you ready?",
+      "timestamp_abs": "122:38"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes, ma'am. Uh, I did prepare, uh, for, like, uh, data visualization research, um, for a project.",
+      "timestamp_abs": "122:40"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Okay. Okay. So, uh, Mega, will you please tell me about this and what it was about and your plan for this?",
+      "timestamp_abs": "122:45"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "So, uh, I looked up on the internet on, like, data visualization and how it helps in, like, uh, getting insights from the data that we have. So, uh, I, I actually did it for my project. So, uh, it was actually about, uh, customer churn.",
+      "timestamp_abs": "122:49"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Okay. Uh-huh. Uh-huh. And what did you do for that?",
+      "timestamp_abs": "122:59"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "So I like, uh, basically picked up like a small data set and then I wanted to show like how data visualization can help us to get more insight and then what sort of visualization tools or like different graphs can be used for that.",
+      "timestamp_abs": "123:02"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Mhm. Uh-huh. And how did you prepare it?",
+      "timestamp_abs": "123:10"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "I used, uh, Excel and Tableau.",
+      "timestamp_abs": "123:13"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Excel and Tableau. Okay. And which one did you find more convenient to use?",
+      "timestamp_abs": "123:14"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "I found Tableau more convenient because it provides more flexibility and it's quite user-friendly as well.",
+      "timestamp_abs": "123:17"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Mhm. Okay. And how much time did it take you to prepare that?",
+      "timestamp_abs": "123:22"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh, I spent almost, uh, four hours doing that.",
+      "timestamp_abs": "123:25"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Okay. Uh-huh. And what was the challenging part for you?",
+      "timestamp_abs": "123:27"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "The challenging part was to get the actual story out of the visualization.",
+      "timestamp_abs": "123:30"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So basically like what is the story behind the visualization.",
+      "timestamp_abs": "123:33"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "123:35"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Okay. And how much time did it take you to get that story out?",
+      "timestamp_abs": "123:36"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "I think it took me, uh, around like, uh, two to three hours.",
+      "timestamp_abs": "123:39"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Okay. Uh-huh. And what was the easy part for you?",
+      "timestamp_abs": "123:41"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "The easy part was to just like make the graphs because I had already worked with them.",
+      "timestamp_abs": "123:44"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Mhm. Okay. And how much time did it take for you to do that?",
+      "timestamp_abs": "123:47"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "It just took me like 30 minutes to one hour.",
+      "timestamp_abs": "123:49"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Okay. So basically you already knew how to do it. Okay. Right. So you have the whole thing ready with you, right?",
+      "timestamp_abs": "123:51"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "123:55"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Okay. So you will be ready with the presentation?",
+      "timestamp_abs": "123:56"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes, ma'am. Yeah.",
+      "timestamp_abs": "123:58"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Great. Thank you so much, Mega.",
+      "timestamp_abs": "123:59"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Thank you, ma'am.",
+      "timestamp_abs": "124:01"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Uh-huh. So, Chilaka, are you ready?",
+      "timestamp_abs": "124:02"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "124:04"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Okay. So, Chilaka, will you please tell me about your project and what you're doing for that?",
+      "timestamp_abs": "124:05"
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Uh, I made a small presentation for, uh, the difference between supervised and unsupervised learning in machine learning.",
+      "timestamp_abs": "124:08"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Okay. Uh-huh. Okay. And how did you prepare it?",
+      "timestamp_abs": "124:12"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Uh, I took the help of ChatGPT and then I searched on YouTube and I found many videos.",
+      "timestamp_abs": "124:15"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Okay. And did you find that useful?",
+      "timestamp_abs": "124:19"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "124:21"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Okay. Uh-huh. And how much time did it take for you to prepare that?",
+      "timestamp_abs": "124:22"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Uh, I spent about, uh, two to three hours for it.",
+      "timestamp_abs": "124:25"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Okay. Uh-huh. And what was the challenging part for you?",
+      "timestamp_abs": "124:27"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "The challenging part was to find the correct, uh, algorithm, uh, with good examples.",
+      "timestamp_abs": "124:30"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So finding the right algorithms and examples for that.",
+      "timestamp_abs": "124:34"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "124:37"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Okay. And how much time did it take to find that?",
+      "timestamp_abs": "124:38"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Uh, it took me like, uh, two hours.",
+      "timestamp_abs": "124:40"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Okay. Uh-huh. And what about the easy part?",
+      "timestamp_abs": "124:41"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "The easy part was to just get the definitions.",
+      "timestamp_abs": "124:44"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Okay. And how much time did it take for you to do that?",
+      "timestamp_abs": "124:46"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Uh, that took around like 30 minutes.",
+      "timestamp_abs": "124:48"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Okay. Uh-huh. Right. So you basically have the whole thing ready with you, right?",
+      "timestamp_abs": "124:50"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "124:53"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Okay. So will you be ready with the presentation?",
+      "timestamp_abs": "124:54"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "124:56"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Great. Thank you so much, Chilaka.",
+      "timestamp_abs": "124:57"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Thank you, ma'am.",
+      "timestamp_abs": "124:59"
+    }
+  ]
+}

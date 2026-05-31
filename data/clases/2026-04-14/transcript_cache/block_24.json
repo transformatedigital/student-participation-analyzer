@@ -1,0 +1,162 @@
+{
+  "block": 24,
+  "time_range": "00:00-03:19",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, and then",
+      "timestamp_abs": "115:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "please refer to Mega's slides, like if you and even I told Mega, Mega, please add certain more sources, but if you see, you're already giving me big big statements there. If you just add a very small source like where you got this. Sometimes it could be a personal communication with somebody. Sometimes it could be a report. Sometimes it could be an actual like a newsletter outlet or a news newspaper.",
+      "timestamp_abs": "115:02"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, but not everything has to be evidenced, but if you add some like small foot footnote of sources, Arya also did it very nicely.",
+      "timestamp_abs": "115:24"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It really shows robustness. It shows like, okay, this is not something he's just telling me out of the pocket. It's something that is evidence that there is an issue about this, this. So I like that. And also if you're going to add a lot of text, like like a little bit put more, uh, like maybe some bold when you have one additional keyword. I like that you put their result, research, findings, blah blah blah. That's a good way.",
+      "timestamp_abs": "115:33"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, so I think if you add that, I'm just being very very, let's say, a little bit picky because I I see your improvement. Your your slides are very nicely done, very organized, but if I you do improve this kind of tweaks, it will really increase the level for your next uh, presentation or whatever. So I'm just giving you that.",
+      "timestamp_abs": "115:54"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "On the problem slide, the the specifically, maybe it's the next. All of you are not putting numbers to the slides. Numbers are important.",
+      "timestamp_abs": "116:15"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Again, here, it's very important to find certain evidence because this is very important statement. It's the starting point that proves that your project is a relevant project and it's a doable project. So in here, more than before, like before it's more contextual, so you could play with the initial introductory part and maybe if you don't have a lot of sources, you don't need to put, but here, definitely you have to put a lot more.",
+      "timestamp_abs": "116:24"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So, um, of course, there is probably difficulties because I I can understand that Nigeria doesn't have a report on this specifically. But even, um, please check the APA guidelines, for example. Everybody here knows APA?",
+      "timestamp_abs": "116:47"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Somebody knows or doesn't know APA?",
+      "timestamp_abs": "117:03"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I know.",
+      "timestamp_abs": "117:07"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Citing.",
+      "timestamp_abs": "117:08"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The official",
+      "timestamp_abs": "117:09"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly. Yes, correct. Correct.",
+      "timestamp_abs": "117:10"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Alright.",
+      "timestamp_abs": "117:12"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Please, if if some of your peers doesn't know, please share about that. But APA is a guideline of uh, bibliography creation, like formal bibliography documentation.",
+      "timestamp_abs": "117:14"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "117:25"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There's several methodologies worldwide, many styles like uh, APA, IEEE, Harvard style, there are many styles of how do you create bibliography.",
+      "timestamp_abs": "117:26"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you check the API guide and just to see one example, there is a way to cite personal communication.",
+      "timestamp_abs": "117:34"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So for example, you can quote somebody, for example, you can quote the presentation of Professor Cholho Cholho Lim, Cholho uh, Cholho what is it? Lim Chol Su from last week.",
+      "timestamp_abs": "117:41"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So he gave you some insights. You could try to quote certain things like that. Uh, even if you don't have the like of in the case of Arya, Arya is having meetings with people.",
+      "timestamp_abs": "117:52"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, maybe you he is difficult for him to quote that, but he can quote that and put it at the end in the bibliography. Personal communication with this person in this uh, in this occasion or in this kind of in the certain conference or etcetera.",
+      "timestamp_abs": "118:01"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you can refer to that and make your document more formal and more like robust, lookin more robust, okay?",
+      "timestamp_abs": "118:13"
+    }
+  ]
+}

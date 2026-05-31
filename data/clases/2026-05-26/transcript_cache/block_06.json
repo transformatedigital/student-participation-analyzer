@@ -1,0 +1,474 @@
+{
+  "block": 6,
+  "time_range": "25:00-30:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But uh listen,",
+      "timestamp_abs": "25:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "25:01"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You we can say that there's in uh we call it MPT.",
+      "timestamp_abs": "25:02"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "MPT is is our, yeah, MPT.",
+      "timestamp_abs": "25:07"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "MPT is the one of the profession very um as property maybe, yeah.",
+      "timestamp_abs": "25:10"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And they have uh some are they don't have any electricity.",
+      "timestamp_abs": "25:16"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, the source of the electricity in MPT is only uh PV and also diesel.",
+      "timestamp_abs": "25:22"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So if they it that's the only uh yes current source.",
+      "timestamp_abs": "25:29"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And that's why therefore they suffer through so many electricity shortages.",
+      "timestamp_abs": "25:35"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah. Uh, on the",
+      "timestamp_abs": "25:39"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh, in the afternoon they can get the uh energy.",
+      "timestamp_abs": "25:41"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So and you know that",
+      "timestamp_abs": "25:46"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "This is uh actually very expensive, right?",
+      "timestamp_abs": "25:47"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh some of the uh they cannot get electricity because it's very expensive.",
+      "timestamp_abs": "25:49"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So if they use it uh make it to the to the uh PV, they can optimize.",
+      "timestamp_abs": "25:55"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But that's the solution. We don't know about the solution yet.",
+      "timestamp_abs": "26:05"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or yeah, right now, again, what I want you is to fall in love with the problem.",
+      "timestamp_abs": "26:08"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So if your initial initial symptom is that electricity shortage.",
+      "timestamp_abs": "26:12"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I like the context. I I read it already. I read it already last night.",
+      "timestamp_abs": "26:18"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, I like the context in the sense that you're telling me you're providing me a very big framework of, okay, energy shortages and poverty are connected.",
+      "timestamp_abs": "26:21"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If we give access to electricity to these property communities, the there is not research evidencing that we can provide a better socio-economic development potential to these target community.",
+      "timestamp_abs": "26:30"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Until there is.",
+      "timestamp_abs": "26:46"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But that's all context. Background.",
+      "timestamp_abs": "26:47"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For you, your beginning symptom is shortage of electricity.",
+      "timestamp_abs": "26:49"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? Shortage of electricity versus unstable available infrastructure.",
+      "timestamp_abs": "26:54"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because the infrastructure is PV or whatever that is not stable or and diesel that is expensive.",
+      "timestamp_abs": "26:58"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's your initial starting point.",
+      "timestamp_abs": "27:04"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "From there you need to go down, down, down, down.",
+      "timestamp_abs": "27:06"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Why is this happening?",
+      "timestamp_abs": "27:09"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is it because it's expensive, is it because the region has some some some because of the island conditions, there is some constraints or limitations?",
+      "timestamp_abs": "27:10"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Why did this utility company, public utility company, the Ministry of Energy in Indonesia, decided to do this to provide electricity in this way to this community?",
+      "timestamp_abs": "27:19"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Why, when we already know there's a lot of different sources, there's a lot of different methods to reach out, the the problem of reaching out rural communities and providing electricity, it's already solved.",
+      "timestamp_abs": "27:30"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There is probably no place in Korea that has no electricity.",
+      "timestamp_abs": "27:43"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah. Including Jeju, including",
+      "timestamp_abs": "27:47"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Korea has a lot of tiny islands, if you see the Korean peninsula, there's a lot of the, but everybody has electricity.",
+      "timestamp_abs": "27:49"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And probably there is like I I have more than 20 years coming and going in and out of Korea, and more than 10 years living here already. In my life, I've experienced a shortage of electricity.",
+      "timestamp_abs": "27:54"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "text": "Right?",
+      "timestamp_abs": "28:08"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In my life, 10 years in Korea, never.",
+      "timestamp_abs": "28:09"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Never, me neither.",
+      "timestamp_abs": "28:11"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I experienced it for two seconds.",
+      "timestamp_abs": "28:12"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Really? In Korea?",
+      "timestamp_abs": "28:14"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "28:15"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "In the job?",
+      "timestamp_abs": "28:16"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "It happened it was like the light when I came back on immediately.",
+      "timestamp_abs": "28:17"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So the next day they sent that that message to to for the people living here that there was a fire outbreak in one sub station.",
+      "timestamp_abs": "28:20"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So if if anybody had any problem with his gadgets or something, they should please call this number to come to come and replace.",
+      "timestamp_abs": "28:30"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I thought that's",
+      "timestamp_abs": "28:38"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Imagine.",
+      "timestamp_abs": "28:38"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, I would have been like, you know, in my country we, our refrigerator, our TV, they get burned because the transformer and next two blocks away.",
+      "timestamp_abs": "28:39"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know, and we have a shortage of full full afternoon for 5 hours.",
+      "timestamp_abs": "28:49"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Until the people come to repair.",
+      "timestamp_abs": "28:52"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Our country is that's impossible to save, like.",
+      "timestamp_abs": "28:55"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Interesting.",
+      "timestamp_abs": "28:58"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sometimes I hear my mom, ah yeah, because there's not gonna be any water this weekend, blah blah.",
+      "timestamp_abs": "28:59"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And we're still like, when I listen to this like,",
+      "timestamp_abs": "29:05"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh yeah.",
+      "timestamp_abs": "29:07"
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And we live in a very urban area, but still in Costa Rica that happens, right? In Mexico, probably. No water, no energy, no energy.",
+      "timestamp_abs": "29:08"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, in the world, the energy, technically speaking, the access to energy is solved. It's a technical problem that's solved.",
+      "timestamp_abs": "29:16"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Now, why is in that context? Why is going on in NTT that that's not happening?",
+      "timestamp_abs": "29:24"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because it might be a problem of the population is too much, like there's no much, there's not enough concentration of popu- I don't know.",
+      "timestamp_abs": "29:31"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want you, I think rather than because I think one of the issues and this is not only Mega's issue, many of us have the same issue.",
+      "timestamp_abs": "29:39"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Including myself.",
+      "timestamp_abs": "29:47"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't want you to stay here.",
+      "timestamp_abs": "29:49"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Here is the struggles for your problems.",
+      "timestamp_abs": "29:53"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Your problem has some poverty issues. Yes.",
+      "timestamp_abs": "29:55"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "29:58"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timeline - Class Analytics</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #ffffff; color: #1f2937; }
+        header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px 20px; }
+        header h1 { margin-bottom: 5px; }
+        header .breadcrumb { font-size: 12px; opacity: 0.8; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 30px 20px; }
+        .section-title { font-size: 22px; font-weight: 700; color: #1f2937; margin-bottom: 20px; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
+        .nav-buttons { margin-bottom: 30px; }
+        .nav-buttons a { display: inline-block; margin-right: 10px; padding: 10px 20px; background: #667eea; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; margin-bottom: 10px; }
+        .nav-buttons a:hover { background: #764ba2; }
+        .timeline-bar { width: 100%; height: 60px; background: #f0f0f0; border-radius: 8px; overflow: hidden; display: flex; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .timeline-segment { height: 100%; display: flex; align-items: center; justify-content: center; color: white; font-size: 11px; font-weight: 600; border-right: 1px solid rgba(255,255,255,0.3); position: relative; }
+        .timeline-segment:hover::after { content: attr(data-speaker); position: absolute; bottom: -25px; left: 50%; transform: translateX(-50%); background: #333; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px; white-space: nowrap; z-index: 10; }
+        .segment-ileana { background: #10b981; }
+        .segment-aryang { background: #dc2626; }
+        .segment-grace { background: #0284c7; }
+        .segment-sthepen { background: #7c3aed; }
+        .segment-chilaka { background: #d97706; }
+        .segment-mega { background: #06b6d4; }
+        .legend { display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 30px; padding: 20px; background: #f9fafb; border-radius: 8px; }
+        .legend-item { display: flex; align-items: center; gap: 10px; font-size: 13px; }
+        .legend-color { width: 20px; height: 20px; border-radius: 4px; }
+        .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-bottom: 30px; }
+        .stat-card { background: #f0f9ff; border: 1px solid #bfdbfe; border-radius: 8px; padding: 15px; text-align: center; }
+        .stat-card .value { font-size: 20px; font-weight: 700; color: #667eea; margin-bottom: 5px; }
+        .stat-card .label { font-size: 12px; color: #6b7280; }
+        .info-box { background: #fef3c7; border-left: 4px solid #f59e0b; padding: 15px; border-radius: 4px; margin-bottom: 20px; font-size: 13px; color: #92400e; }
+        footer { text-align: center; padding: 20px; color: #6b7280; font-size: 12px; border-top: 1px solid #e5e7eb; margin-top: 40px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>⏱️ Participation Timeline</h1>
+        <div class="breadcrumb">← <a href="index.html" style="color: white; text-decoration: underline;">Dashboard</a> / Timeline</div>
+    </header>
+
+    <div class="container">
+        <div class="nav-buttons">
+            <a href="index.html">← Back to Dashboard</a>
+            <a href="overview.html">📊 Overview</a>
+            <a href="class_transcript.html">🎤 Class Transcript</a>
+            <a href="transcripcion.html">📝 Transcription</a>
+            <a href="evaluacion.html">🤖 Evaluations</a>
+            <a href="rubrics.html">📋 Rubrics</a>
+        </div>
+
+        <div class="section-title">📊 Speaker Participation Distribution</div>
+
+        <div class="info-box">
+            ℹ️ <strong>Coverage:</strong> 40 minutes 11 seconds of 69-minute class (58% coverage). Timeline shows proportional speaker time distribution across covered period.
+        </div>
+
+        <div class="timeline-bar">
+            <!-- Note: These widths are approximate based on participation counts -->
+            <div class="timeline-segment segment-ileana" style="width: 59.1%;" data-speaker="Dr. Ileana (91.1%)"></div>
+            <div class="timeline-segment segment-aryang" style="width: 20.5%;" data-speaker="Aryang (20.5%)"></div>
+            <div class="timeline-segment segment-grace" style="width: 6.5%;" data-speaker="Grace (6.5%)"></div>
+            <div class="timeline-segment segment-sthepen" style="width: 8.4%;" data-speaker="Sthepen (8.4%)"></div>
+            <div class="timeline-segment segment-chilaka" style="width: 3.5%;" data-speaker="Chilaka (3.5%)"></div>
+            <div class="timeline-segment segment-mega" style="width: 2.0%;" data-speaker="Mega (2.0%)"></div>
+        </div>
+
+        <div class="legend">
+            <div class="legend-item">
+                <div class="legend-color" style="background: #10b981;"></div>
+                <span>Dr. Ileana (Instructor)</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #dc2626;"></div>
+                <span>Aryang</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #0284c7;"></div>
+                <span>Grace</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #7c3aed;"></div>
+                <span>Sthepen</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #d97706;"></div>
+                <span>Chilaka</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #06b6d4;"></div>
+                <span>Mega</span>
+            </div>
+        </div>
+
+        <div class="section-title">📈 Participation Statistics</div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="value">137</div>
+                <div class="label">Total Student Turns</div>
+            </div>
+            <div class="stat-card">
+                <div class="value">83</div>
+                <div class="label">Aryang Turns</div>
+            </div>
+            <div class="stat-card">
+                <div class="value">21</div>
+                <div class="label">Grace Turns</div>
+            </div>
+            <div class="stat-card">
+                <div class="value">12</div>
+                <div class="label">Sthepen Turns</div>
+            </div>
+            <div class="stat-card">
+                <div class="value">1</div>
+                <div class="label">Chilaka Turns</div>
+            </div>
+        </div>
+
+        <div class="section-title">📊 Participation Breakdown</div>
+
+        <table style="width: 100%; border-collapse: collapse;">
+            <thead>
+                <tr style="background: #667eea; color: white;">
+                    <th style="padding: 12px; text-align: left; font-weight: 600; font-size: 13px;">Student</th>
+                    <th style="padding: 12px; text-align: center; font-weight: 600; font-size: 13px;">Turns</th>
+                    <th style="padding: 12px; text-align: center; font-weight: 600; font-size: 13px;">% of Total</th>
+                    <th style="padding: 12px; text-align: center; font-weight: 600; font-size: 13px;">Responses</th>
+                    <th style="padding: 12px; text-align: center; font-weight: 600; font-size: 13px;">Questions</th>
+                    <th style="padding: 12px; text-align: center; font-weight: 600; font-size: 13px;">Comments</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr style="border-bottom: 1px solid #e5e7eb;">
+                    <td style="padding: 12px;"><strong style="color: #dc2626;">Aryang</strong></td>
+                    <td style="padding: 12px; text-align: center; font-weight: 600;">83</td>
+                    <td style="padding: 12px; text-align: center; font-weight: 600;">60.6%</td>
+                    <td style="padding: 12px; text-align: center;">20</td>
+                    <td style="padding: 12px; text-align: center;">21</td>
+                    <td style="padding: 12px; text-align: center;">42</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #e5e7eb;">
+                    <td style="padding: 12px;"><strong style="color: #0284c7;">Grace</strong></td>
+                    <td style="padding: 12px; text-align: center; font-weight: 600;">21</td>
+                    <td style="padding: 12px; text-align: center; font-weight: 600;">15.3%</td>
+                    <td style="padding: 12px; text-align: center;">9</td>
+                    <td style="padding: 12px; text-align: center;">3</td>
+                    <td style="padding: 12px; text-align: center;">9</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #e5e7eb;">
+                    <td style="padding: 12px;"><strong style="color: #7c3aed;">Sthepen</strong></td>
+                    <td style="padding: 12px; text-align: center; font-weight: 600;">12</td>
+                    <td style="padding: 12px; text-align: center; font-weight: 600;">8.8%</td>
+                    <td style="padding: 12px; text-align: center;">1</td>
+                    <td style="padding: 12px; text-align: center;">2</td>
+                    <td style="padding: 12px; text-align: center;">9</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #e5e7eb;">
+                    <td style="padding: 12px;"><strong style="color: #d97706;">Chilaka</strong></td>
+                    <td style="padding: 12px; text-align: center; font-weight: 600;">1</td>
+                    <td style="padding: 12px; text-align: center; font-weight: 600;">0.7%</td>
+                    <td style="padding: 12px; text-align: center;">0</td>
+                    <td style="padding: 12px; text-align: center;">0</td>
+                    <td style="padding: 12px; text-align: center;">1</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+
+    <footer>
+        <p>Class Analytics | April 7, 2026 | Timeline based on 40:11 covered period</p>
+    </footer>
+</body>
+</html>

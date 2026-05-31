@@ -1,0 +1,20 @@
+{
+  "block": 40,
+  "time_range": "195:00-200:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "The staff will speak in Korean?",
+      "timestamp_abs": "195:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They speak Korean and they speak in English. Okay. Both.",
+      "timestamp_abs": "195:02"
+    }
+  ]
+}

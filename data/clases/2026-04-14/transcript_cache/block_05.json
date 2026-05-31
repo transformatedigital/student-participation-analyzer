@@ -1,0 +1,1469 @@
+{
+  "block": 5,
+  "time_range": "20:00-25:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay. Ah, okay, so 100.",
+      "timestamp_abs": "20:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "145.",
+      "timestamp_abs": "20:06"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "45. Okay, thank you. Thank you. Thank you.",
+      "timestamp_abs": "20:08"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Sorry for that.",
+      "timestamp_abs": "20:13"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And it covers it supply more than fifty thousand households power and Java by Java, Bali Islands.",
+      "timestamp_abs": "20:16"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Sorry, Mega, um, you said 400 and something where your slide says differently. I don't get it.",
+      "timestamp_abs": "20:19"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "What do you mean?",
+      "timestamp_abs": "20:23"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "My slide says 145.",
+      "timestamp_abs": "20:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "One four five?",
+      "timestamp_abs": "20:26"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "20:27"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "445?",
+      "timestamp_abs": "20:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "No, 145.",
+      "timestamp_abs": "20:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "145?",
+      "timestamp_abs": "20:31"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "20:32"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Oh.",
+      "timestamp_abs": "20:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "It was for you.",
+      "timestamp_abs": "20:34"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Oh, my bad.",
+      "timestamp_abs": "20:35"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "20:36"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "It's 145.",
+      "timestamp_abs": "20:37"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Okay, that's what I was thinking. Oh.",
+      "timestamp_abs": "20:39"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah.",
+      "timestamp_abs": "20:41"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "So I was like, 445?",
+      "timestamp_abs": "20:42"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "My bad. I'm sorry.",
+      "timestamp_abs": "20:43"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "It was one forty five.",
+      "timestamp_abs": "20:44"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And for now, Indonesia has a total national capacity for the solar power plants only 707 megawatts.",
+      "timestamp_abs": "20:46"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Oh.",
+      "timestamp_abs": "20:47"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. And it's and the the new projects uh,",
+      "timestamp_abs": "20:48"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "You got it.",
+      "timestamp_abs": "20:49"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "uh, the the target for the BES uh, for the BES storage is 360 megawatt hour. It's counted by the research researchers from my uh, institutions and it's estimated storage for 12 hour coverage.",
+      "timestamp_abs": "20:50"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "I got it.",
+      "timestamp_abs": "20:51"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Oh.",
+      "timestamp_abs": "20:53"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "20:54"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "20:55"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. And uh, uh, the key limitation is solar PV output is weather dependent and available only during daylight hours.",
+      "timestamp_abs": "20:56"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Got it.",
+      "timestamp_abs": "20:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And deployment in Indonesia remains very limited, mostly in small scale or isolated system.",
+      "timestamp_abs": "20:59"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "21:00"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And PV and energy storage require high initial capital investment.",
+      "timestamp_abs": "21:01"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "21:02"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, that's it.",
+      "timestamp_abs": "21:03"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yep.",
+      "timestamp_abs": "21:04"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Aryang, go ahead.",
+      "timestamp_abs": "21:05"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Ready.",
+      "timestamp_abs": "21:06"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "You're ready?",
+      "timestamp_abs": "21:07"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, I am.",
+      "timestamp_abs": "21:09"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "You're ready. Okay.",
+      "timestamp_abs": "21:10"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "One quick question on the slide before this. Sure.",
+      "timestamp_abs": "21:11"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sure.",
+      "timestamp_abs": "21:12"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Is this a new project, this new capital city project?",
+      "timestamp_abs": "21:13"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Is this a new project?",
+      "timestamp_abs": "21:14"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, on your slide before.",
+      "timestamp_abs": "21:15"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "On this slide? Oh, this one.",
+      "timestamp_abs": "21:16"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes. New capital city pilot.",
+      "timestamp_abs": "21:17"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Ah. Okay. Okay.",
+      "timestamp_abs": "21:18"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Is this a new project or an existing one that's been in the works for a while?",
+      "timestamp_abs": "21:19"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is new.",
+      "timestamp_abs": "21:20"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "It's new.",
+      "timestamp_abs": "21:21"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "It's new, right?",
+      "timestamp_abs": "21:22"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay. And what what is the current energy mix in Indonesia right now?",
+      "timestamp_abs": "21:23"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, current energy.",
+      "timestamp_abs": "21:24"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Is it heavily reliant on fossil fuels or",
+      "timestamp_abs": "21:25"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, yes.",
+      "timestamp_abs": "21:26"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Or is it more renewable based?",
+      "timestamp_abs": "21:27"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Very heavily.",
+      "timestamp_abs": "21:28"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "21:29"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Very heavily rely on fossil fuels. And we try to change that, but it's hard to change.",
+      "timestamp_abs": "21:30"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "21:31"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And but we have a new regulation. That's why I put it here.",
+      "timestamp_abs": "21:32"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "21:33"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We have the presidential regulation number 112, 2022, for acceleration of renewable energy for electricity. Okay.",
+      "timestamp_abs": "21:34"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "21:35"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Ah, before this regulation, we cannot install the solar PV with this scale.",
+      "timestamp_abs": "21:36"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh, wow.",
+      "timestamp_abs": "21:37"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because the rule, it should be below, like, two megawatt or three megawatt.",
+      "timestamp_abs": "21:38"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh, because the prior rule. So this is actually very good news, right?",
+      "timestamp_abs": "21:39"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "21:40"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "It means the government is backing it up.",
+      "timestamp_abs": "21:41"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, yes. That's why I I put it here.",
+      "timestamp_abs": "21:42"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay. Mhm.",
+      "timestamp_abs": "21:43"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is a good news. And then we have the regulation number 79, 2014, about national energy policies or getting 31% new renewable energy by 2050.",
+      "timestamp_abs": "21:44"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "21:45"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "And just to be sure, that's not 31% increase, but 31% total.",
+      "timestamp_abs": "21:47"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, 31% total.",
+      "timestamp_abs": "21:48"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Total by 2050.",
+      "timestamp_abs": "21:49"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. Yes.",
+      "timestamp_abs": "21:50"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "And what is it right now? Is it less than 10%?",
+      "timestamp_abs": "21:51"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's around twelve point five to thirteen percent. Yes. Yes.",
+      "timestamp_abs": "21:52"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, exactly.",
+      "timestamp_abs": "21:53"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "21:54"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah. Okay.",
+      "timestamp_abs": "21:55"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need a huge jump, but it's really hard.",
+      "timestamp_abs": "21:56"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah. Absolutely.",
+      "timestamp_abs": "21:57"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The price is too high for renewable energy here.",
+      "timestamp_abs": "21:58"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "And and is it the price, or is it the lack of investment infrastructure that needs to be deployed?",
+      "timestamp_abs": "21:59"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, both.",
+      "timestamp_abs": "22:00"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay. Mhm.",
+      "timestamp_abs": "22:01"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, the the price is too high.",
+      "timestamp_abs": "22:02"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Compared to fossil fuels.",
+      "timestamp_abs": "22:03"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. Compared to fossil fuels.",
+      "timestamp_abs": "22:04"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Right.",
+      "timestamp_abs": "22:05"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the incentive for renewable energy is not there yet.",
+      "timestamp_abs": "22:06"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "22:07"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "22:08"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "And what is the cheapest source of renewable energy for Indonesia if there is one?",
+      "timestamp_abs": "22:09"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, geothermal.",
+      "timestamp_abs": "22:10"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Geothermal.",
+      "timestamp_abs": "22:11"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. We have a huge potential for geothermal.",
+      "timestamp_abs": "22:12"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm. And it's not being deployed.",
+      "timestamp_abs": "22:13"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "22:14"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "It's not being deployed.",
+      "timestamp_abs": "22:15"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "22:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "And is it because the government regulations around how much they can purchase it from is low?",
+      "timestamp_abs": "22:17"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. Yes. Yes.",
+      "timestamp_abs": "22:18"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "It's not attractive to developers to build this.",
+      "timestamp_abs": "22:19"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly.",
+      "timestamp_abs": "22:20"
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh, wow.",
+      "timestamp_abs": "22:21"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly. Yes. You got it.",
+      "timestamp_abs": "22:22"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "22:23"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. Yes.",
+      "timestamp_abs": "22:24"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "And uh, what is the current population in Indonesia right now?",
+      "timestamp_abs": "22:25"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Two hundred two hundred and eighty.",
+      "timestamp_abs": "22:26"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Two hundred and eighty million people.",
+      "timestamp_abs": "22:27"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. Two hundred and eighty million.",
+      "timestamp_abs": "22:28"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "And uh, what is the power consumption per capita?",
+      "timestamp_abs": "22:29"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay.",
+      "timestamp_abs": "22:30"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Do you know that?",
+      "timestamp_abs": "22:31"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't know that, but I will write it down. I don't know that exactly. I will write it down. Okay.",
+      "timestamp_abs": "22:32"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay. Mhm.",
+      "timestamp_abs": "22:33"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And uh, okay. And the new regulation is from the uh, RP L. It's the national electricity plan which significantly increased renewable energy allocations.",
+      "timestamp_abs": "22:34"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "22:35"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Can you explain what what a new capital city pilot is about in in your context?",
+      "timestamp_abs": "22:37"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. It's it's the new capital city.",
+      "timestamp_abs": "22:38"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "It's the new capital city.",
+      "timestamp_abs": "22:39"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. We are currently moving our capital city from Jakarta to uh, other other region. The name is Nusantara.",
+      "timestamp_abs": "22:40"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh, wow.",
+      "timestamp_abs": "22:41"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. That's why that's why this is a new capital city.",
+      "timestamp_abs": "22:42"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh, wow. Okay.",
+      "timestamp_abs": "22:43"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. And it should be 100% renewable energy.",
+      "timestamp_abs": "22:44"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh, that's amazing.",
+      "timestamp_abs": "22:45"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's in the pilot project.",
+      "timestamp_abs": "22:46"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "But it's still being piloted.",
+      "timestamp_abs": "22:47"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "22:48"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "And the other thing, the last thing, I promise, is you had a point where it said B deploy deploy deployment in Indonesia remains very limited, mostly in small scale or isolated systems.",
+      "timestamp_abs": "22:49"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "22:50"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Can you explain that a little bit?",
+      "timestamp_abs": "22:51"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because it's isolated system.",
+      "timestamp_abs": "22:52"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Isolated systems?",
+      "timestamp_abs": "22:53"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "22:54"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Meaning what?",
+      "timestamp_abs": "22:55"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Meaning that if you deploy a solar PV system for, like, uh, for, like, I don't know, for a company, let's say. Then you would be only powering that specific company's needs or the or it would be an isolated system where there are certain grids that are not connected to the main grid. And then they would have small-scale BES in those?",
+      "timestamp_abs": "22:56"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay. Okay. So for a company, for example?",
+      "timestamp_abs": "22:57"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. For a company.",
+      "timestamp_abs": "22:58"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "22:59"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's only for the company.",
+      "timestamp_abs": "23:00"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "And it does not integrate with the main grid.",
+      "timestamp_abs": "23:01"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "23:02"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh, that's why it's a small scale.",
+      "timestamp_abs": "23:03"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "23:04"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Or isolated systems.",
+      "timestamp_abs": "23:05"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why it's only five megawatt.",
+      "timestamp_abs": "23:06"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Got it. Got it.",
+      "timestamp_abs": "23:07"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. And for isolated systems, we have a lot of islands in Indonesia.",
+      "timestamp_abs": "23:08"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "23:09"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we have to provide electricity for the island.",
+      "timestamp_abs": "23:10"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh, wow.",
+      "timestamp_abs": "23:11"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. That's why it's called isolated systems.",
+      "timestamp_abs": "23:12"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Got it. Got it.",
+      "timestamp_abs": "23:13"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "23:14"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Makes sense.",
+      "timestamp_abs": "23:15"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "23:16"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Thank you. That's all for my questions.",
+      "timestamp_abs": "23:17"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Thank you. Thank you. Thank you.",
+      "timestamp_abs": "23:18"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "You can continue.",
+      "timestamp_abs": "23:19"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this is the collaboration partner. The first is K. We saw in the website that K is past expertise. We can join techno economic modeling and system optimization, and also Kepco.",
+      "timestamp_abs": "23:20"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "23:21"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "23:25"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "23:27"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Kepco is uh has a lot of experience for grid operation specialized. Uh, it can make a system stability and dispatch management knowledge transfer. And for Indonesia side, there is a PLN. PLN is states electricity company, the only one states electricity company. It for national grid operator, for making the project implementation, base integration and SO certification. SO is the certification to make a feasibility studies.",
+      "timestamp_abs": "23:30"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "23:31"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "23:32"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "23:33"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "23:34"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "23:36"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "23:37"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "23:38"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "23:41"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay. Mhm.",
+      "timestamp_abs": "23:42"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "23:44"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So is SO basically a requirement by the government before any projects can go into implementation?",
+      "timestamp_abs": "23:47"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. Yes. Yes.",
+      "timestamp_abs": "23:48"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh, wow. Okay.",
+      "timestamp_abs": "23:49"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "23:50"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "23:51"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "23:52"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay. Got it.",
+      "timestamp_abs": "23:53"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So every project that connects to the grid should have this SO certification.",
+      "timestamp_abs": "23:54"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So every project has to go through this.",
+      "timestamp_abs": "23:55"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "23:56"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "23:57"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It means the government has to approve the project. Okay.",
+      "timestamp_abs": "23:58"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay. Got it. And then my agency National Agency.",
+      "timestamp_abs": "23:59"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "24:00"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "24:01"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For uh, joint collaborations. And this is the implementation roadmap. Maybe for the first step, uh, for three months, maybe, uh,",
+      "timestamp_abs": "24:02"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "24:03"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "24:05"
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "24:08"
+    }
+  ]
+}

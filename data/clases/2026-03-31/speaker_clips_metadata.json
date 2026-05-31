@@ -1,0 +1,146 @@
+{
+  "speaker_clips_info": [
+    {
+      "id": "speaker_clip_1",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "Opening introduction"
+    },
+    {
+      "id": "speaker_clip_2",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "Lecture continuation"
+    },
+    {
+      "id": "speaker_clip_3",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "Course explanation"
+    },
+    {
+      "id": "speaker_clip_4",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "Question to class"
+    },
+    {
+      "id": "speaker_clip_5",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "More teaching"
+    },
+    {
+      "id": "speaker_clip_6",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "Theory explanation"
+    },
+    {
+      "id": "speaker_clip_7",
+      "estimated_speaker": "Aryang (Indonesia)",
+      "note": "\u2705 REFERENCE CLIP - Clean voice sample from seconds 4-10"
+    },
+    {
+      "id": "aryang_reference",
+      "estimated_speaker": "Aryang (Indonesia)",
+      "note": "\u2705 VOICE PROFILE - 6 seconds clean audio (seconds 4-10 from clip 7)"
+    },
+    {
+      "id": "speaker_clip_8",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "Continued lecture"
+    },
+    {
+      "id": "speaker_clip_9",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "Discussion continuation"
+    },
+    {
+      "id": "speaker_clip_10",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "Lecture"
+    },
+    {
+      "id": "speaker_clip_11",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "More content"
+    },
+    {
+      "id": "speaker_clip_12",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "Final lecture segment"
+    }
+  ],
+  "student2_clips": [
+    {
+      "id": "student2_clip_01",
+      "filename": "student2_clip_01.mp3",
+      "estimated_speaker": "Mega (Indonesia)",
+      "note": "✅ IDENTIFIED - Mega"
+    },
+    {
+      "id": "student2_clip_02",
+      "filename": "student2_clip_02.mp3",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "✅ CONFIRMED - Teacher voice"
+    },
+    {
+      "id": "student2_clip_03",
+      "filename": "student2_clip_03.mp3",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "✅ CONFIRMED - Teacher voice"
+    },
+    {
+      "id": "student2_clip_04",
+      "filename": "student2_clip_04.mp3",
+      "estimated_speaker": "Grace (Congo)",
+      "note": "✅ IDENTIFIED - Grace"
+    },
+    {
+      "id": "student2_clip_05",
+      "filename": "student2_clip_05.mp3",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "✅ CONFIRMED - Teacher voice"
+    },
+    {
+      "id": "student2_clip_06",
+      "filename": "student2_clip_06.mp3",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "✅ CONFIRMED - Teacher voice"
+    },
+    {
+      "id": "student2_clip_07",
+      "filename": "student2_clip_07.mp3",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "✅ CONFIRMED - Teacher voice"
+    },
+    {
+      "id": "student2_clip_08",
+      "filename": "student2_clip_08.mp3",
+      "estimated_speaker": "Chilaka (Nigeria)",
+      "note": "✅ IDENTIFIED - Chilaka"
+    },
+    {
+      "id": "student2_clip_09",
+      "filename": "student2_clip_09.mp3",
+      "estimated_speaker": "Chilaka (Nigeria)",
+      "note": "✅ IDENTIFIED - Chilaka (mixed with Ileana at start)"
+    },
+    {
+      "id": "student2_clip_10",
+      "filename": "student2_clip_10.mp3",
+      "estimated_speaker": "Teacher (Ileana)",
+      "note": "✅ CONFIRMED - Teacher voice"
+    }
+  ],
+  "verification_clips": [
+    {"id": "verify_mega_t15",     "filename": "verify_mega_t15.mp3",     "estimated_speaker": "Teacher (Ileana)", "note": "✅ Ileana + Sthepen al fondo — min 0:15"},
+    {"id": "verify_mega_t130",    "filename": "verify_mega_t130.mp3",    "estimated_speaker": "Teacher (Ileana)", "note": "✅ Ileana al inicio, Sthepen al final — min 2:10"},
+    {"id": "verify_grace_t200",   "filename": "verify_grace_t200.mp3",   "estimated_speaker": "Teacher (Ileana)", "note": "✅ Ileana + comentario rápido de Mega al final — min 3:20"},
+    {"id": "verify_grace_t700",   "filename": "verify_grace_t700.mp3",   "estimated_speaker": "Teacher (Ileana)", "note": "🔍 Pendiente confirmar — min 11:40"},
+    {"id": "verify_grace_t2075",  "filename": "verify_grace_t2075.mp3",  "estimated_speaker": "Mega (Indonesia)", "note": "✅ CONFIRMED Mega — min 34:35"},
+    {"id": "verify_grace_t2905",  "filename": "verify_grace_t2905.mp3",  "estimated_speaker": "Teacher (Ileana)", "note": "✅ Ileana inicio, Sthepen al final — min 48:25"},
+    {"id": "verify_chilaka_t6300","filename": "verify_chilaka_t6300.mp3","estimated_speaker": "Teacher (Ileana)", "note": "✅ Ileana — min 1:45:00"},
+    {"id": "verify_chilaka_t7200","filename": "verify_chilaka_t7200.mp3","estimated_speaker": "Teacher (Ileana)", "note": "✅ Ileana inicio, Aryang al final — min 2:00:00"},
+    {"id": "sthepen_ref_01", "filename": "sthepen_ref_01.mp3", "estimated_speaker": "Sthepen (Rwanda)", "note": "✅ VOICE PROFILE Sthepen — min 48:31"},
+    {"id": "sthepen_ref_02", "filename": "sthepen_ref_02.mp3", "estimated_speaker": "Sthepen (Rwanda)", "note": "✅ VOICE PROFILE Sthepen — min 2:16"},
+    {"id": "sthepen_ref_03", "filename": "sthepen_ref_03.mp3", "estimated_speaker": "Sthepen (Rwanda)", "note": "✅ VOICE PROFILE Sthepen — min 0:21"},
+    {"id": "aryang_ref_02",  "filename": "aryang_ref_02.mp3",  "estimated_speaker": "Aryang (Indonesia)","note": "✅ VOICE PROFILE Aryang — min 2:00:08"}
+  ],
+  "note": "All student2_clips identified. Added verification_clips at known timestamps."
+}

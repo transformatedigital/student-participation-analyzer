@@ -1,0 +1,388 @@
+{
+  "block": 1,
+  "time_range": "00:00-05:00",
+  "utterances": [
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because I I know that when the Korean starts, it will they will need like the way. So I need to start the process so that at least let them let me dictate the pace from here.",
+      "timestamp_abs": "80:02"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then they will now be like, okay.",
+      "timestamp_abs": "80:15"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not that they're gonna be bombarded by the Koreans, sir.",
+      "timestamp_abs": "80:17"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just just um next step I will inform you so that we'll take the next step. Next step, let's just keep going like that.",
+      "timestamp_abs": "80:20"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "At least let me start the process. Let the discussion start in the in the inner circle first.",
+      "timestamp_abs": "80:27"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So she he built a draft letter for his minister.",
+      "timestamp_abs": "80:32"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And he asked the Miss Nam, can I use the letter head of KDI and like that? And now we plan for the letter to even be a letter, a formal letter from Chilaka as a PhD candidate and then eventually CC me, CC Professor Han, CC Miss Nam, and probably even CC all the directors that he knows that are tactical, but the minister will call directly to say what's this about?",
+      "timestamp_abs": "80:36"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, and so he's trying to build up this kind of, okay, start the ball rolling, right?",
+      "timestamp_abs": "80:56"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Internally because they it will take time until it reaches the minister. The minister calls the people in charge. The people in charge tell him, ah yeah, that's our Chilaka, our colleague who is studying in in Korea and he's doing all this his going to start.",
+      "timestamp_abs": "81:01"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So these kind of things it would it came from his creativity, but also it came from his understanding of his ecosystem.",
+      "timestamp_abs": "81:13"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? I would have done a similar thing. I would have said, okay, I need to make a kind of I I I need to ask Professor Rho or Professor Choi to please send the letter or like or in the next visit or for example, one of the things I I asked all of the all over my stakeholders that I'm trying to contact for Chilaka's collaboration is",
+      "timestamp_abs": "81:20"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is there I first thing I ask, is there any chance you're going to invite the minister any days this year?",
+      "timestamp_abs": "81:37"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because if you're invited African ministers, please invite the Nigerian minister because we need to bring him on board and I need we need to have a chance so that he can speak to our students, right?",
+      "timestamp_abs": "81:43"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So one of the things are like that.",
+      "timestamp_abs": "81:53"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So there are many things that are if I ask a technology commercialization textbook.",
+      "timestamp_abs": "81:54"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is this activity there?",
+      "timestamp_abs": "81:58"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Probably not.",
+      "timestamp_abs": "82:00"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? So I'm trying to build this kind of thing from our experience, from our because it's going to be to our journey, right?",
+      "timestamp_abs": "82:02"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, so I want you to make sure I want to have give you some time to do this kind of activities.",
+      "timestamp_abs": "82:08"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You can consult with César, you can consult with me while doing the exercise, okay?",
+      "timestamp_abs": "82:13"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So from now,",
+      "timestamp_abs": "82:18"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this.",
+      "timestamp_abs": "82:20"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "2:27, okay?",
+      "timestamp_abs": "82:23"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So let's do until 2 2:30 2:27, 2:37, 10 minutes, okay?",
+      "timestamp_abs": "82:24"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "10 minutes to put in 10 minutes what you can think of.",
+      "timestamp_abs": "82:32"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It doesn't need to be complete.",
+      "timestamp_abs": "82:36"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "What do you think of?",
+      "timestamp_abs": "82:38"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What do you think of?",
+      "timestamp_abs": "82:38"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, clear.",
+      "timestamp_abs": "82:39"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, no.",
+      "timestamp_abs": "82:40"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, right there. Yeah. Only this one, right? Yeah, only the first one.",
+      "timestamp_abs": "82:41"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "What? And here I gave you even the contextual intelligence, country level socioeconomic data, policy gaps, infrastructure and regulatory gap.",
+      "timestamp_abs": "82:45"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What have you done from the demand side sense, related to contextual intelligence?",
+      "timestamp_abs": "82:54"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you can go to 1.12, you can fill up both. If you are very quick, you can start writing for 1.1 and 1.12.",
+      "timestamp_abs": "83:01"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you can do two.",
+      "timestamp_abs": "83:08"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Table 1.11, okay?",
+      "timestamp_abs": "83:11"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "How about this?",
+      "timestamp_abs": "83:17"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, sorry, I I didn't put numbers to the thing.",
+      "timestamp_abs": "83:19"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "You have this.",
+      "timestamp_abs": "83:23"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Second page is going to be 1.12 and 1.11.",
+      "timestamp_abs": "83:26"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "This is from this is from our ICP, right?",
+      "timestamp_abs": "83:30"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "From your own ICP.",
+      "timestamp_abs": "83:33"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "1.4.",
+      "timestamp_abs": "83:35"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "Sir, what has you done already know what you know, right?",
+      "timestamp_abs": "83:42"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So from contextual intelligence, for example, I can already start with.",
+      "timestamp_abs": "83:46"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mega has Mega consulted with the BP BPE BPPL.",
+      "timestamp_abs": "83:49"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "PLM.",
+      "timestamp_abs": "83:57"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So one of your activities was you consulted to the PLM blah blah blah. You you found out the statistical data on the entity, something something.",
+      "timestamp_abs": "83:58"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, Steven, you you you probably you have to put here in the contextual. Maybe here you have a lot to put because you already have all the emails you sent for the TFT, all of that.",
+      "timestamp_abs": "84:09"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Meg and Grace, in your case, I'm not sure.",
+      "timestamp_abs": "84:20"
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh maybe you okay, the chat you did with the minister, the minister, the president of the university.",
+      "timestamp_abs": "84:23"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And maybe from the contextual intelligence, I'm not sure I I can recall anything specific.",
+      "timestamp_abs": "84:30"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "So is it is it now individual week, right?",
+      "timestamp_abs": "84:47"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Individual.",
+      "timestamp_abs": "84:49"
+    }
+  ]
+}

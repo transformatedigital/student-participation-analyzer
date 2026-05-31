@@ -1,0 +1,195 @@
+{
+  "block": 3,
+  "time_range": "10:00-15:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "early commercialization, because it's really case-by-case. Business name Sure is very specific to each situation. I told you. This is almost like couple matchmaking situation, right? Business, business development. So,",
+      "timestamp_abs": "10:00"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not evaluating your progress based on that. I'm evaluating what you are learning about the process in general, right? And because the most important is, this 16 weeks at some point you should really grab a thing that is dual. And we have to do all this demand verification. Um, it might happen to Chaletta, that he thought it is thorough, but then at some point during the demand verification something fell down. And you have to start. So it's like that. So this course is exactly to get you started, and also the the reason why I invite people like KISTI, it's I know it's not applicable to many of you, but thanks to his presentation, you can now imagine how we can do this kind of business while we are students and this kind of thing can happen for my country or for my entity. This is what I want, because it's going to be a long your way and also after you graduate. Okay?",
+      "timestamp_abs": "10:12"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh, and one more. Ma, maybe the Grace already asked this, but uh, because there's no Korean here, I want to ask you, uh.",
+      "timestamp_abs": "11:00"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I am Korean.",
+      "timestamp_abs": "11:07"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh, I'm sorry.",
+      "timestamp_abs": "11:09"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "저는 한국 며느리예요.",
+      "timestamp_abs": "11:12"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "미안해요.",
+      "timestamp_abs": "11:14"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "저는...",
+      "timestamp_abs": "11:16"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "저는 한국 사람이에요.",
+      "timestamp_abs": "11:17"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh. Besides the the the opportunity to do next business, but I I I believe about give and take and you already say it. So what's really their benefit doing this kind of thing?",
+      "timestamp_abs": "11:19"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "KISTI? Okay?",
+      "timestamp_abs": "11:33"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, no, no, not not for KISTI. For this.",
+      "timestamp_abs": "11:34"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_response",
+      "text": "For GDI.",
+      "timestamp_abs": "11:36"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "11:37"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah. We, when we, we our program, KAIST GDI, Graduate School of Innovation or Global Innovation. We have, we get R&D, we get Korean National Government funds, right? To sponsor your scholarship. That's why I told you. That's why I told Grace, your scholarship is your pay. No, it's not a lie. It's real. The way we, we tell KAIST, KAIST the School of KAIST or KAIST the university and the Ministry of that that funds us, or gives us some budget to operate your scholarships, is to say, okay, our program has a vision that we will create these global leaders to generate a global network of bridging people between Korea and the world. Okay? So we are investing in possible opportunities to create joint technology collaboration collaboration business opportunities for Korean companies and your country's companies.",
+      "timestamp_abs": "11:38"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So right right now it's like burning money for the investing.",
+      "timestamp_abs": "12:41"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You guys are Korean investment. Me, I am Korean investment. I am a result of Korea's investment because they invested in me, all my master's and PhD, and of course, you're not obliged. You're just applying applying here for a for a scholarship. But you must know that the vision of this program is to, if you read our website, read it carefully, the website of KAIST GDI. If you read carefully the words there, the words of Professor Han's message, introductory message and it's, it's very, it's there and it's not there, but it's there.",
+      "timestamp_abs": "12:46"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's there, right? Yeah.",
+      "timestamp_abs": "13:22"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, it is.",
+      "timestamp_abs": "13:24"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It is, it is.",
+      "timestamp_abs": "13:25"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not at all explicit. Just at the beginning when we read it as a applicant, we're not really acknowledging it, you know.",
+      "timestamp_abs": "13:26"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "That's when you get almost at the school.",
+      "timestamp_abs": "13:33"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "13:34"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's there. It's really there. But when you read it, you're just I my scholarship, I do my PhD, I that's all you see. When you reach it, like, why I have to do collaboration? Why? Why am I not here for the Korea? No. Right? So you put it no.",
+      "timestamp_abs": "13:35"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I also I also felt like you, why why you are pushing me to do this. But if you think about, that's why I I was constantly tell you, do not I had a lot of peers in my life, in my batch. I had a lot of peers that were very they were very annoyed. Why these guys are pushing me to do technology collaboration? And I at that time I was just another peer, but I thought this is a good opportunity. It's a really good opportunity. I didn't think it was a I thought yes, it's hard work. I worked a lot. I was busy with my research and I did so many projects. So every night my WhatsApp is burning the phone, my husband about to divorce me, are you showing up at home today? Like it was hard because I'm having projects and I'm doing my research and I'm doing that's why at the beginning I also really encourage you try to do something related to the field where you're already interested. So in my case, I was I thought, if I'm going to do all this commercialization, I will do my PhD thesis about commercialization, because I want to become an expert in the field that joined my networks, right?",
+      "timestamp_abs": "13:51"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "So",
+      "timestamp_abs": "14:52"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's how I kind of made the synergy between my collaboration project and my theoretical",
+      "timestamp_abs": "14:53"
+    }
+  ]
+}

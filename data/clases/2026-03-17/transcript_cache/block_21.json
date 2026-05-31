@@ -1,0 +1,111 @@
+{
+  "block": 21,
+  "time_range": "100:00-105:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You from what I can learn now, I think your, you're devoted to your problem is pretty much clear. We will understand. I always tell them to go together. But I know you're not going to listen to me. Yours depends on the approach you take. My ministry can go through you or not.",
+      "timestamp_abs": "100:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "My my book, I I saw it in the proposal because it starts from the citizen problem. As I said, the fruit seller from the from the other place who has been.",
+      "timestamp_abs": "100:06"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I have a slide where we will discuss this. And it, actually what you're saying is very true. Many of the problem approaches can fit in one or the other, actually. But the starting point and how it will meet it, it's what will tell the the path when you will say it. So we'll see, it's it's the line is very thin. So I agree with what you're saying. Many of my, actually many of this one you could sell the story as a problem driven or as a technology push.",
+      "timestamp_abs": "100:16"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Technology push.",
+      "timestamp_abs": "100:43"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. But the thing is what you selecting them in the front, what you select there at the beginning, is what will then give you the evaluation of the whole logic.",
+      "timestamp_abs": "100:44"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Cannot be argument?",
+      "timestamp_abs": "100:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you skip the logic of how you will augment your your project will change.",
+      "timestamp_abs": "100:53"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think at this point, at least, where I don't know where you're going, it's not justified to do a hybrid. It's not a hybrid, just just say you're going that way and make a logic in that way. You don't need to get complicated. Anyway, it's how you see it, because I can give you some like to do.",
+      "timestamp_abs": "100:59"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So again, I didn't put the solutions. I'm not gonna, in the interest of time, I'm not gonna. I'm gonna this, so you can read it in detail when you have to. And and I give you some. So this one, the idea that it gives you some ideas if you're writing yours, like a normal complete paper exactly it's not also telling you to your paper. I just know that you're writing your paper, of course, but I know you're not going to do it. But I'm just giving, like, um, and like I gave you some examples. You see it's very brief. It's not long, but it's very specific to the case, right? Mentioning, like, it could be simply. And of course, in this case, in here because it's a vast case, I don't have the evidence. But in your case, you should have the evidence, right? Or of some attachment, of some conversations, or some data or something like that.",
+      "timestamp_abs": "101:19"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm just gonna finish here because I only told you to reach until part three. Part four we have, right? You guys, maybe you already went to that. I told you, we're gonna focus on like one, two or three. Then over some other people. I'm gonna show you a little now before we move for to your homework, the best argument thing. That is very brief. We're going to continue discussion about it gets too far. I really want, today I want to give you before you write your, have these slides. You can get most of them after the my. Great because I want to give you the sent of the week.",
+      "timestamp_abs": "102:06"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Problem driven versus technology push.",
+      "timestamp_abs": "102:45"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The problem driven one is that it changes out the government. And I propose a collaborative approach because many of the problem driven is problem. Sometimes it has to kind of end up policy exchange or some consulting, like that. The technology push is more like a high story because like in this case we're adopting the platform directly to.",
+      "timestamp_abs": "102:48"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the starting point is the difference, first. And it's just a storyline. It doesn't need to be the real starting point. That's why I told you actually in the starting point, mine is the starting point is the heaven. Heaven dropped me the minister here. Okay, it was not like I was looking for a national problem or technology. I was not looking for hybrid approach. But I I decided to say the story was my minister pinpointed that he needed the Korean technology. But if you think about, I also could have started by Costa Rica has a national problem. We have a fragmented R&D system. So I could change the story to match one or the other logic.",
+      "timestamp_abs": "103:12"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh, if the different is very thin then why should we pinpoint whether it's problem driven or technology push?",
+      "timestamp_abs": "103:50"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because the approach.",
+      "timestamp_abs": "103:58"
+    }
+  ]
+}

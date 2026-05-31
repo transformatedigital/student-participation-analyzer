@@ -1,0 +1,20 @@
+{
+  "block": 14,
+  "time_range": "65:00-70:00",
+  "utterances": [
+    {
+      "timestamp": "02:35",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Okay. Okay. Sí. Ah. Okay. Sí.",
+      "timestamp_abs": "67:35"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Ya ya veo. Okay. Gracias. Eh, Arjang.",
+      "timestamp_abs": "67:40"
+    }
+  ]
+}

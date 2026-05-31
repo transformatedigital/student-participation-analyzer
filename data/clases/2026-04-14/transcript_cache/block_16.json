@@ -1,0 +1,269 @@
+{
+  "block": 16,
+  "time_range": "00:00-04:55",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "some other stakeholders who are just going to be participating as involved or just informed.",
+      "timestamp_abs": "75:00"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We have to see from the perspective, a little bit similar to Mega, from your case.",
+      "timestamp_abs": "75:05"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You have to think from the perspective of Nida, right? So, from Nida's perspective, what's the best way to actually arrange this project so that Nida can be the biggest winner in this initiative.",
+      "timestamp_abs": "75:10"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? Because from the from how we change the story, right now the biggest winners could be the telecom agencies maybe.",
+      "timestamp_abs": "75:25"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then when I see the KISA involved, I thought, ah, maybe maybe the the the way to marry these guys would be Nida and Kisa, they work together on this prof this uh know-how transfer or how could be the framework for submission, real-time fishing and submission response, something like that.",
+      "timestamp_abs": "75:33"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, and then as an executors, then it could be SK plus the telecommunication uh department or like that.",
+      "timestamp_abs": "75:51"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I'm I'm thinking, right now still you're just giving me a list of potential people involved or entities involved, but you're still not thinking how to marry this.",
+      "timestamp_abs": "75:58"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And for you probably it's uh hard still to imagine because you missed last class.",
+      "timestamp_abs": "76:09"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So please talk to your friends. I think the way we discussed last class of how KISTI married the Ministry of Science and Technology and then underneath them the ICE one institution came. So please talk well to your friends. They listen to the very interesting lecture.",
+      "timestamp_abs": "76:14"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you catch up with that, it will give you ideas about how to collect this, I think. So, make sure you catch up about that.",
+      "timestamp_abs": "76:29"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the AI expertise. I'm going to give you one more small, small short pop-up quiz.",
+      "timestamp_abs": "76:35"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Anybody in the class knows what absorptive capacity is? You should already know.",
+      "timestamp_abs": "76:41"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "You know what absorptive capacity is?",
+      "timestamp_abs": "76:50"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Implemented.",
+      "timestamp_abs": "76:53"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "76:54"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Implemented, no?",
+      "timestamp_abs": "76:55"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Ability of the recipient uh organization to adopt technology.",
+      "timestamp_abs": "76:57"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ding dong, Chilaka. Thank you. Yes.",
+      "timestamp_abs": "77:04"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When we're talking about technology commercialization, the absorptive capacity is some of the biggest critical success or failure cases because we can't have a very interesting, very successful, sexy technology project product with all the brand and market possibilities, but if the local entity who's gonna receive all of that is not in the right capability to really potentially use the value, this value can be lost, even if we invested all the efforts in transferring it.",
+      "timestamp_abs": "77:06"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the absorptive capacity is a big issue in your case, especially because we're talking about maybe some, as you well chose, as you well mentioned at the end of your challenges, heavy infrastructure to just process all these data, especially text to voice and analyze all that. It's a lot of infrastructure. not maybe not not even only AI. Just the cloud infrastructure needed is gonna be very expensive. So,",
+      "timestamp_abs": "77:34"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In terms of resources and in terms of capacity to do that, how many people like uh um engineers that are have the knowledge to receive that or to jointly execute it so that the knowledge is and you told me before you are very worried in Rwanda about the vendor lock-in.",
+      "timestamp_abs": "78:00"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the absorptive capacity is really important to um try to prevent that situation.",
+      "timestamp_abs": "78:18"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to think about ways to mitigate that big risk in the Rwanda project.",
+      "timestamp_abs": "78:24"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? So that like this is one of the things that you have to think about it. For example, I would say it probably means that when we when we start the setup of this project, whatever it is, Rwanda's whether it is Nida or maybe the Rura or or maybe the telecom operator behind it, the the Korea, the the Rwanda local telecom operator that is chosen to run this, or then they should have a team together that will collaborate to bring this project to life because if the Rwandan partners uh local local engineers, local involved staff is not involved at the very beginning, it's very highly possible that the the the know-how will not be well transferred.",
+      "timestamp_abs": "78:30"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to make sure that this kind of thing is considered. So at the early beginning you have to maybe think about this and consider it even when you are dimensioning and designing the project.",
+      "timestamp_abs": "79:13"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah.",
+      "timestamp_abs": "79:26"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Does that make sense to you?",
+      "timestamp_abs": "79:26"
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Ah.",
+      "timestamp_abs": "79:29"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "79:31"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "César, you were saying something?",
+      "timestamp_abs": "79:33"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yeah, it's uh time.",
+      "timestamp_abs": "79:35"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "2:30.",
+      "timestamp_abs": "79:37"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah yeah, yeah, yeah, thank you. All right.",
+      "timestamp_abs": "79:38"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And we're done actually, that was my last comment.",
+      "timestamp_abs": "79:40"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So Stephen, we're gonna discuss more later on. Please catch up on this. I will leave all the comments written, okay?",
+      "timestamp_abs": "79:42"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Good work. I can see progress but more effort is needed anyway for everybody.",
+      "timestamp_abs": "79:49"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "79:55"
+    }
+  ]
+}

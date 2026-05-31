@@ -1,0 +1,65 @@
+RESUMEN DE HUELLA DIGITAL DE VOZ
+============================================================
+
+Fecha: 2026-04-29
+Total de Hablantes: 7
+Total de Muestras: 7
+
+HABLANTES REGISTRADOS:
+------------------------------------------------------------
+
+ARYANG
+  Archivo: Aryang.m4a
+  Duración: 56.28 segundos
+  Características extraídas: 8 tipos
+  MFCC promedio: -14.9248
+  Centroide espectral: 1575.08 Hz
+  Energía RMS: 0.0762
+
+CHILAKA
+  Archivo: Chilaka.m4a
+  Duración: 58.81 segundos
+  Características extraídas: 8 tipos
+  MFCC promedio: -14.9096
+  Centroide espectral: 1597.17 Hz
+  Energía RMS: 0.0811
+
+GRACE
+  Archivo: Grace.m4a
+  Duración: 57.66 segundos
+  Características extraídas: 8 tipos
+  MFCC promedio: -15.1466
+  Centroide espectral: 1879.41 Hz
+  Energía RMS: 0.0904
+
+ILEANA 2
+  Archivo: Ileana 2.m4a
+  Duración: 23.17 segundos
+  Características extraídas: 8 tipos
+  MFCC promedio: -17.1914
+  Centroide espectral: 1488.30 Hz
+  Energía RMS: 0.0981
+
+ILEANA
+  Archivo: Ileana.m4a
+  Duración: 48.49 segundos
+  Características extraídas: 8 tipos
+  MFCC promedio: -16.1541
+  Centroide espectral: 1518.57 Hz
+  Energía RMS: 0.0936
+
+MEGA
+  Archivo: Mega.m4a
+  Duración: 42.32 segundos
+  Características extraídas: 8 tipos
+  MFCC promedio: -13.7837
+  Centroide espectral: 1616.69 Hz
+  Energía RMS: 0.0772
+
+STHEPEN
+  Archivo: Sthepen.m4a
+  Duración: 52.07 segundos
+  Características extraídas: 8 tipos
+  MFCC promedio: -15.7981
+  Centroide espectral: 1470.28 Hz
+  Energía RMS: 0.0938

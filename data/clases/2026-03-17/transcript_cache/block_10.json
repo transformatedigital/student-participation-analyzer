@@ -1,0 +1,83 @@
+{
+  "block": 10,
+  "time_range": "45:00-46:03",
+  "utterances": [
+    {
+      "timestamp": "45:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to find who are these important players.",
+      "timestamp_abs": "90:00"
+    },
+    {
+      "timestamp": "45:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Catching up process. We're going to go a little bit faster. Catching up process. I already mentioned about this last time, right?",
+      "timestamp_abs": "90:03"
+    },
+    {
+      "timestamp": "45:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Why, why I insist that this topic is not a technical topic. We, as emerging countries, we need to understand this because Korea, Germany, United States, UK, they understood about this.",
+      "timestamp_abs": "90:07"
+    },
+    {
+      "timestamp": "45:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's what I'm thinking about here. If we learn as a late comer countries, we are late in the AI. Nobody. Rwanda, Congo, Nigeria, Indonesia, Costa Rica, Mexico. We don't have the money to start doing the AI race, what the investment that China is doing, or for USA, right?",
+      "timestamp_abs": "90:14"
+    },
+    {
+      "timestamp": "45:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We are latecomers to the party. But, how can we, even though we are latecomers, how we can catch up quickly and be fast followers or catching some add-on service, some How can we enter this, uh, this race with our own characteristics, of being a small country, or being a country like lots of islands, or being a big country with lots of people, that you have a lot of technological resources?",
+      "timestamp_abs": "90:26"
+    },
+    {
+      "timestamp": "45:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we will try to examine the critical elements that will enable these emerging countries to strive towards development, right?",
+      "timestamp_abs": "90:40"
+    },
+    {
+      "timestamp": "45:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So one of the things that I want you to think of is when you think about the challenge or your problem or your technology project.",
+      "timestamp_abs": "90:45"
+    },
+    {
+      "timestamp": "45:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I always try to let the students be motivated by how this project can really impact or solve one of your national, regional, or industrial challenges, right? To catch up.",
+      "timestamp_abs": "90:51"
+    },
+    {
+      "timestamp": "45:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's what innovation conversation is about. How to catch up.",
+      "timestamp_abs": "90:59"
+    },
+    {
+      "timestamp": "46:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so",
+      "timestamp_abs": "91:02"
+    },
+    {
+      "timestamp": "46:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "[inaudible] invention, the conception of the idea where [inaudible]",
+      "timestamp_abs": "91:03"
+    }
+  ]
+}

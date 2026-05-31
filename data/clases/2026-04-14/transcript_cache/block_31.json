@@ -1,0 +1,150 @@
+{
+  "block": 31,
+  "time_range": "150:00-155:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I really wanna keep discussing about this and in the mirror, and maybe I will",
+      "timestamp_abs": "150:00"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "should I share the screen? Maybe it's easier? I don't know. Or you can follow me in the mirror.",
+      "timestamp_abs": "150:03"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay, just show the mirror. I will ask, I will ask the mirror to follow me, okay?",
+      "timestamp_abs": "150:07"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Aha, to follow me.",
+      "timestamp_abs": "150:13"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh, sure.",
+      "timestamp_abs": "150:15"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "150:16"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "This uh slowly.",
+      "timestamp_abs": "150:18"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Just.",
+      "timestamp_abs": "150:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "All right.",
+      "timestamp_abs": "150:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yes, sir.",
+      "timestamp_abs": "150:21"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Yes. You can see.",
+      "timestamp_abs": "150:26"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All right, thank you.",
+      "timestamp_abs": "150:28"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you guys can see that I made several boxes.",
+      "timestamp_abs": "150:30"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "How many of you have you used to have you used Mirro before?",
+      "timestamp_abs": "150:34"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "All of you or none of you?",
+      "timestamp_abs": "150:39"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Anybody already used this tool before?",
+      "timestamp_abs": "150:41"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Just Arya.",
+      "timestamp_abs": "150:43"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Arya.",
+      "timestamp_abs": "150:45"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Arya, okay.",
+      "timestamp_abs": "150:45"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, um for all of you, this is like an online collaborative tool where you have like a blank canvas, blackboard, to paste things, to do brainstorming,",
+      "timestamp_abs": "150:47"
+    }
+  ]
+}

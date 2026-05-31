@@ -1,0 +1,155 @@
+{
+  "block": 27,
+  "time_range": "130:00-135:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and that case it was",
+      "timestamp_abs": "130:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "not relevant.",
+      "timestamp_abs": "130:01"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Vulnerable.",
+      "timestamp_abs": "130:02"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Vulnerable. Uh, there are some cases.",
+      "timestamp_abs": "130:02"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So in this case, you can say, how much telecom companies have paid back",
+      "timestamp_abs": "130:04"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "or have lost because of this, right?",
+      "timestamp_abs": "130:07"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Of course, yeah.",
+      "timestamp_abs": "130:09"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "130:10"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I think",
+      "timestamp_abs": "130:11"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you see here I think just",
+      "timestamp_abs": "130:13"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "reduce it to the title, and these are big words.",
+      "timestamp_abs": "130:15"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All of this means huge things. I would be more specific.",
+      "timestamp_abs": "130:18"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's like first point.",
+      "timestamp_abs": "130:20"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "one as many of us because again,",
+      "timestamp_abs": "130:22"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "here, don't be like, just put a very small, then all of thing, that I think, don't give it up. That is never a goal.",
+      "timestamp_abs": "130:23"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Never a goal.",
+      "timestamp_abs": "130:29"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think never a goal.",
+      "timestamp_abs": "130:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's good.",
+      "timestamp_abs": "130:30"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "130:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But again,",
+      "timestamp_abs": "130:31"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the background of my story could be",
+      "timestamp_abs": "130:31"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "block": 29,
+  "time_range": "140:00-145:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "because now through that expos, you can do some networking, right?",
+      "timestamp_abs": "140:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I think that X-force situation is also important.",
+      "timestamp_abs": "140:04"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, I think not only Korean it's, this one is always gonna forget.",
+      "timestamp_abs": "140:08"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "global.",
+      "timestamp_abs": "140:13"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Um, Chilaka.",
+      "timestamp_abs": "140:16"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Anything you want to add to your?",
+      "timestamp_abs": "140:17"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah, um, like for the technology scouting, this KAI GDI, and...",
+      "timestamp_abs": "140:19"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "talk about the... the...",
+      "timestamp_abs": "140:23"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "How did you come out to KISTI and TIS? Because you saw the placard here in the hall or of the collaboration I did before?",
+      "timestamp_abs": "140:26"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "No, you know you made a presentation in the class, in the class.",
+      "timestamp_abs": "140:31"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So that was the first day I, oh, this what we are talking about in the... in the office.",
+      "timestamp_abs": "140:35"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "And so I think this this is one of the things that that will be able to, so that's why I mentioned KAI GDI.",
+      "timestamp_abs": "140:40"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, okay, good point.",
+      "timestamp_abs": "140:46"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that means not only my class, you have a lot of other lectures that you're receiving today on AI, on this...",
+      "timestamp_abs": "140:48"
+    }
+  ]
+}

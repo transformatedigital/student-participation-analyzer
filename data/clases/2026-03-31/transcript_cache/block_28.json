@@ -1,0 +1,28 @@
+{
+  "block": 28,
+  "time_range": "135:00-140:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "the technology that decides on the, on the one that is in charge of",
+      "timestamp_abs": "135:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "National budget of science and technology education.",
+      "timestamp_abs": "135:06"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So we are already, I mean, we are already in charge of their money, right?",
+      "timestamp_abs": "135:09"
+    }
+  ]
+}

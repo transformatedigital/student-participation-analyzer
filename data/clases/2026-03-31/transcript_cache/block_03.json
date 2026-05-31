@@ -1,0 +1,578 @@
+{
+  "block": 3,
+  "time_range": "10:00-15:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "behind the talent.",
+      "timestamp_abs": "10:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not only about the sexiness, it should be expently thought regarding the scope that you want to give people.",
+      "timestamp_abs": "10:02"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It could be a bit.",
+      "timestamp_abs": "10:10"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I I totally, I'm more afraid of a very huge scope, case of Grace. too huge scope is also not appropriate.",
+      "timestamp_abs": "10:12"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In the case it was a very narrow scope, which is okay.",
+      "timestamp_abs": "10:20"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I want to know for sure that there is a reason behind picking all your reasoning to study.",
+      "timestamp_abs": "10:25"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or I maybe not actually, they might go even further, so it might be better to leave on all open time.",
+      "timestamp_abs": "10:33"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's the reason why my question.",
+      "timestamp_abs": "10:40"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Uh.",
+      "timestamp_abs": "10:42"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh, this, uh...",
+      "timestamp_abs": "10:43"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And this is also about that.",
+      "timestamp_abs": "10:45"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, um...",
+      "timestamp_abs": "10:49"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "because there is very often for the pilot when I read down on it.",
+      "timestamp_abs": "10:51"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And how to for the pilot.",
+      "timestamp_abs": "10:57"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, there is uh uh uh this is have.",
+      "timestamp_abs": "11:00"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We just call it just for carrots.",
+      "timestamp_abs": "11:05"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You could also look up global concept.",
+      "timestamp_abs": "11:09"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, also.",
+      "timestamp_abs": "11:13"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's I would say you have normally is given the step then you have a good concept.",
+      "timestamp_abs": "11:14"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then you have a pilot.",
+      "timestamp_abs": "11:21"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I don't see.",
+      "timestamp_abs": "11:23"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I don't see global concept.",
+      "timestamp_abs": "11:25"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's normally something that's slightly bigger than the map.",
+      "timestamp_abs": "11:27"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the physical thing we want to study will only be documents, right? It's just the planning of how we make this happen, right?",
+      "timestamp_abs": "11:32"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That is called FS.",
+      "timestamp_abs": "11:39"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Everybody learns this thing from this book.",
+      "timestamp_abs": "11:41"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Probably we don't.",
+      "timestamp_abs": "11:44"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "11:46"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then we're moving from the next step which is global concept.",
+      "timestamp_abs": "11:47"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is kind of normally last time I told Stephen to look up about everything we remember.",
+      "timestamp_abs": "11:54"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Stephen, what do you remember?",
+      "timestamp_abs": "12:02"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "I said I'm not very good at this.",
+      "timestamp_abs": "12:06"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Everybody else remembers? Everybody else remembers?",
+      "timestamp_abs": "12:09"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Minimum viable product.",
+      "timestamp_abs": "12:13"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Mhm?",
+      "timestamp_abs": "12:14"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Huh?",
+      "timestamp_abs": "12:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Minimum viable product.",
+      "timestamp_abs": "12:17"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Correct.",
+      "timestamp_abs": "12:18"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Viable product.",
+      "timestamp_abs": "12:19"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Check that.",
+      "timestamp_abs": "12:20"
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "timestamp_abs": "12:21"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Normally for next class, Stephen will explain to us in detail what's a minimum.",
+      "timestamp_abs": "12:23"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "A minimum viable product is almost it's like a beta. Like a beta version of a product.",
+      "timestamp_abs": "12:29"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's just a testing prototype, you're almost ready to kind of it's not the perfect product that you want to launch, but it's something that's near close enough so you can test it with your users, test it with your market.",
+      "timestamp_abs": "12:35"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Your question?",
+      "timestamp_abs": "12:49"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Can you explain that again?",
+      "timestamp_abs": "12:50"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Uh, maybe after the present.",
+      "timestamp_abs": "12:51"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Uh-huh.",
+      "timestamp_abs": "12:52"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then, I'm sorry, I don't have enough time for this.",
+      "timestamp_abs": "12:54"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not complicated.",
+      "timestamp_abs": "12:57"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then and then from the concept and then you have a pilot.",
+      "timestamp_abs": "12:59"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not necessarily could be in this order.",
+      "timestamp_abs": "13:07"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is just one example of the order, right?",
+      "timestamp_abs": "13:09"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, uh, so a pilot system is probably a little bit bigger.",
+      "timestamp_abs": "13:11"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "A proto concept is really a very small proto concept, it could be an even bigger prototype more close to the final product.",
+      "timestamp_abs": "13:17"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this is already probably like a final product under almost real conditions, but where it's only a deployment, the deployment is partial.",
+      "timestamp_abs": "13:24"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The deployment of the technology is just maybe, if you're let's say,",
+      "timestamp_abs": "13:34"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "if Shiraka is out of the constant.",
+      "timestamp_abs": "13:38"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If Shiraka is one one square kilometer.",
+      "timestamp_abs": "13:41"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then probably the deployment of the prototype is is 100 square meters.",
+      "timestamp_abs": "13:45"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just let's start with a small area.",
+      "timestamp_abs": "13:49"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or if Shiraka is 100 MVs, you know, with total scale.",
+      "timestamp_abs": "13:51"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then the pilot will be a little bit bigger.",
+      "timestamp_abs": "13:56"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You might have 10,000 pilot users only.",
+      "timestamp_abs": "13:59"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And let's say I'm sorry for my bad handwriting.",
+      "timestamp_abs": "14:01"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like the prototype, but this is different.",
+      "timestamp_abs": "14:05"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All of these are types of prototypes.",
+      "timestamp_abs": "14:07"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like this is a scale of.",
+      "timestamp_abs": "14:10"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Smaller scale, smaller scale.",
+      "timestamp_abs": "14:12"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Slightly bigger scale with a little bit more technology, and this is almost full scale prototype in a small scale deployment.",
+      "timestamp_abs": "14:14"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sorry.",
+      "timestamp_abs": "14:28"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh.",
+      "timestamp_abs": "14:31"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Good question.",
+      "timestamp_abs": "14:32"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Hey, okay.",
+      "timestamp_abs": "14:35"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So.",
+      "timestamp_abs": "14:40"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Your second question was about the beta, right?",
+      "timestamp_abs": "14:41"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh.",
+      "timestamp_abs": "14:47"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "I mean the order.",
+      "timestamp_abs": "14:48"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "14:49"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "And then the same in the same about the the prevalence or or percentage that may have, you know, this.",
+      "timestamp_abs": "14:51"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "14:59"
+    }
+  ]
+}

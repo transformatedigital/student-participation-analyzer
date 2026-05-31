@@ -1,0 +1,878 @@
+{
+  "block": 21,
+  "time_range": "100:00-105:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yes, lonely, but",
+      "timestamp_abs": "100:00"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh, brother, I remember.",
+      "timestamp_abs": "100:03"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah.",
+      "timestamp_abs": "100:07"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh, brother, I remember.",
+      "timestamp_abs": "100:08"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah, man.",
+      "timestamp_abs": "100:10"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "100:11"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Gah-mah.",
+      "timestamp_abs": "100:12"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh, brother, I remember.",
+      "timestamp_abs": "100:14"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Come.",
+      "timestamp_abs": "100:17"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Come.",
+      "timestamp_abs": "100:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Just, just, just.",
+      "timestamp_abs": "100:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Come, come. The one they told you, picture, Type one.",
+      "timestamp_abs": "100:21"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Voice, voice.",
+      "timestamp_abs": "100:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Type one.",
+      "timestamp_abs": "100:26"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "100:27"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "You're right.",
+      "timestamp_abs": "100:28"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Come.",
+      "timestamp_abs": "100:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, soon.",
+      "timestamp_abs": "100:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Na-na-na-na-na-na.",
+      "timestamp_abs": "100:31"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Na-na-na.",
+      "timestamp_abs": "100:35"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Nai-nai-yai, your boy.",
+      "timestamp_abs": "100:36"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Really?",
+      "timestamp_abs": "100:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "100:39"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "100:40"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know.",
+      "timestamp_abs": "100:41"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "My boy's.",
+      "timestamp_abs": "100:42"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh, course, bro.",
+      "timestamp_abs": "100:43"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Hah.",
+      "timestamp_abs": "100:44"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "It's an angel voice.",
+      "timestamp_abs": "100:45"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Hah.",
+      "timestamp_abs": "100:47"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Hahahahah.",
+      "timestamp_abs": "100:48"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Is it a good voice?",
+      "timestamp_abs": "100:51"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Of course, bro.",
+      "timestamp_abs": "100:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Very",
+      "timestamp_abs": "100:53"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah, deep.",
+      "timestamp_abs": "100:54"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, deep.",
+      "timestamp_abs": "100:55"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "100:56"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Hahah.",
+      "timestamp_abs": "100:57"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Actually, if you're in a singing competition, you could be a singer.",
+      "timestamp_abs": "100:58"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Hah.",
+      "timestamp_abs": "101:01"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Really? Wow.",
+      "timestamp_abs": "101:02"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Wow.",
+      "timestamp_abs": "101:04"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Wow. You don't sing well.",
+      "timestamp_abs": "101:05"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "What is your favorite song in when you karaoke?",
+      "timestamp_abs": "101:06"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "When you karaoke?",
+      "timestamp_abs": "101:09"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mmm-mm, please.",
+      "timestamp_abs": "101:10"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So any karaoke. You know, I'm a fan of our traditional rumba.",
+      "timestamp_abs": "101:11"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Wow.",
+      "timestamp_abs": "101:16"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, the one that you play in the room. You have the rumba.",
+      "timestamp_abs": "101:17"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Rumba, Kongolese rumba. Do you like Kongolese rumba?",
+      "timestamp_abs": "101:20"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Do you like Kongolese rumba?",
+      "timestamp_abs": "101:22"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You know, most songs I listen to",
+      "timestamp_abs": "101:23"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "we call it, we call it Conga music.",
+      "timestamp_abs": "101:26"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Konga music.",
+      "timestamp_abs": "101:29"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "101:30"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah. That's specifically Conga music.",
+      "timestamp_abs": "101:31"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. That is rumba.",
+      "timestamp_abs": "101:34"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, yeah, yeah.",
+      "timestamp_abs": "101:36"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Those who have been there...",
+      "timestamp_abs": "101:37"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, exactly. Yeah.",
+      "timestamp_abs": "101:38"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That is the song for those guys.",
+      "timestamp_abs": "101:39"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "101:41"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Bongo, those guys in Nigeria playing, playing those songs.",
+      "timestamp_abs": "101:42"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "101:46"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Hmm.",
+      "timestamp_abs": "101:47"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "101:48"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is a",
+      "timestamp_abs": "101:49"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know, in Africa, actually,",
+      "timestamp_abs": "101:50"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "now we can say uh, Nigeria is now taking the first position.",
+      "timestamp_abs": "101:52"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "in music.",
+      "timestamp_abs": "101:57"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Bro.",
+      "timestamp_abs": "101:58"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But you know, uh, some years back, Congolese music was the number one in Africa.",
+      "timestamp_abs": "101:59"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh yeah, yeah.",
+      "timestamp_abs": "103:06"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But now, compared to what was well known.",
+      "timestamp_abs": "103:07"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "103:10"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "But you know, um, I think, uh, the difference is what? Modernization now is now like, what, what has, what has really, what has gone, the difference is what?",
+      "timestamp_abs": "103:10"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Nigeria has taken it as an industry.",
+      "timestamp_abs": "103:18"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it has, it has been taken into governmental plan.",
+      "timestamp_abs": "103:23"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's now fully an industry.",
+      "timestamp_abs": "103:28"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "103:31"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Fully an industry.",
+      "timestamp_abs": "103:32"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Taken it to the international scene.",
+      "timestamp_abs": "103:33"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "103:34"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the Congo guys, I think they didn't really look at it in a bigger picture.",
+      "timestamp_abs": "103:35"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's it.",
+      "timestamp_abs": "103:39"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They were, they, they really were like, more localized it than taking it out there to the world.",
+      "timestamp_abs": "103:40"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Mhm.",
+      "timestamp_abs": "103:45"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it was just bringing out by itself.",
+      "timestamp_abs": "103:46"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Wow.",
+      "timestamp_abs": "103:49"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You see? Yeah, that is why the ones that kept on singing them are still are still intriguing you today.",
+      "timestamp_abs": "103:50"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Wow.",
+      "timestamp_abs": "103:58"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You see?",
+      "timestamp_abs": "103:59"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Mhm.",
+      "timestamp_abs": "104:00"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like, it's like the modern generation from them didn't really take, take it up from where those guys stopped.",
+      "timestamp_abs": "104:00"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. That was the case, you know.",
+      "timestamp_abs": "104:07"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know, now, if you see those, those, those we are capable.",
+      "timestamp_abs": "104:09"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, yeah, yeah.",
+      "timestamp_abs": "104:13"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It is really governmental plan.",
+      "timestamp_abs": "104:14"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, of course.",
+      "timestamp_abs": "104:15"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They made it really a source of income.",
+      "timestamp_abs": "104:16"
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "104:18"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. It's not, it's not a source of income.",
+      "timestamp_abs": "104:19"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Source of income.",
+      "timestamp_abs": "104:21"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that we didn't try to manage.",
+      "timestamp_abs": "104:22"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You, you, you, you try to do",
+      "timestamp_abs": "104:25"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They, they Congo tried to do it.",
+      "timestamp_abs": "104:26"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, they did it, managed.",
+      "timestamp_abs": "104:27"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They didn't manage.",
+      "timestamp_abs": "104:28"
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If they could have done so, they would be",
+      "timestamp_abs": "104:29"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It would be a good money, yeah.",
+      "timestamp_abs": "104:31"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, I'm telling you it would be most popular. So, but Nigeria has taken, you know, as I just told you, they are trying to move it up. So.",
+      "timestamp_abs": "104:33"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But still we are there.",
+      "timestamp_abs": "104:41"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "We are.",
+      "timestamp_abs": "104:44"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Congolese rumba.",
+      "timestamp_abs": "104:45"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "How about Rwanda?",
+      "timestamp_abs": "104:47"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, we are not.",
+      "timestamp_abs": "104:49"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh, Rwanda is is no music.",
+      "timestamp_abs": "104:50"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Hahah.",
+      "timestamp_abs": "104:52"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh.",
+      "timestamp_abs": "104:53"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Hahah.",
+      "timestamp_abs": "104:54"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh.",
+      "timestamp_abs": "104:55"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Hahah.",
+      "timestamp_abs": "104:56"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh.",
+      "timestamp_abs": "104:57"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Hahah.",
+      "timestamp_abs": "104:58"
+    }
+  ]
+}

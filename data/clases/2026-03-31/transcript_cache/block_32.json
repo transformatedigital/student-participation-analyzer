@@ -1,0 +1,20 @@
+{
+  "block": 32,
+  "time_range": "155:00-160:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "find the way. When we're gonna have a meeting about that probably this Tuesday to decide",
+      "timestamp_abs": "155:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "what's the right approach? Because those are big players. You're not just",
+      "timestamp_abs": "155:04"
+    }
+  ]
+}

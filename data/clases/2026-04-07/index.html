@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class Analytics Dashboard - April 7, 2026</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #ffffff;
+            color: #1f2937;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Header */
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 60px;
+            animation: fadeIn 0.6s ease-in;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 40px 20px;
+            margin: -40px -20px 60px -20px;
+        }
+
+        .header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            font-weight: 700;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.2);
+        }
+
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.95;
+            margin-bottom: 5px;
+        }
+
+        .header .date {
+            font-size: 0.95em;
+            opacity: 0.85;
+            margin-bottom: 15px;
+        }
+
+        .stats {
+            display: flex;
+            gap: 30px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+
+        .stat {
+            background: rgba(255,255,255,0.15);
+            padding: 15px 25px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+
+        .stat strong {
+            display: block;
+            font-size: 1.8em;
+            color: #fff;
+        }
+
+        .stat span {
+            color: rgba(255,255,255,0.8);
+            font-size: 0.9em;
+        }
+
+        /* Cards Grid */
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+            animation: slideUp 0.6s ease-out;
+        }
+
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+        }
+
+        .card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 60px rgba(0,0,0,0.2);
+        }
+
+        .card-icon {
+            font-size: 2.5em;
+            margin-bottom: 15px;
+            display: inline-block;
+        }
+
+        .card h2 {
+            color: #333;
+            margin-bottom: 12px;
+            font-size: 1.5em;
+        }
+
+        .card p {
+            color: #666;
+            margin-bottom: 20px;
+            line-height: 1.6;
+            font-size: 0.95em;
+        }
+
+        .card-link {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .card-link:hover {
+            background: linear-gradient(135deg, #764ba2, #667eea);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        .card-badge {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: #10b981;
+            color: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.8em;
+            font-weight: 600;
+        }
+
+        /* Quick Access */
+        .quick-access {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 40px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+            animation: slideUp 0.8s ease-out;
+        }
+
+        .quick-access h3 {
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 1.3em;
+        }
+
+        .quick-buttons {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .quick-btn {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .quick-btn:hover {
+            background: linear-gradient(135deg, #764ba2, #667eea);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+            transform: translateY(-2px);
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            color: rgba(255,255,255,0.8);
+            padding-top: 40px;
+            border-top: 1px solid rgba(255,255,255,0.2);
+            margin-top: 60px;
+        }
+
+        .footer p {
+            margin-bottom: 10px;
+            font-size: 0.95em;
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2em;
+            }
+
+            .cards-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .stats {
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            .quick-buttons {
+                flex-direction: column;
+            }
+
+            .quick-btn {
+                width: 100%;
+                text-align: center;
+            }
+        }
+
+        /* Card Colors */
+        .card.dashboard {
+            border-left: 5px solid #667eea;
+        }
+
+        .card.transcript {
+            border-left: 5px solid #10b981;
+        }
+
+        .card.rubric {
+            border-left: 5px solid #f59e0b;
+        }
+
+        .card.summary {
+            border-left: 5px solid #ef4444;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>📊 Class Analytics</h1>
+            <p>University Lecture Analysis & Student Evaluation</p>
+            <div class="date">April 7, 2026 | Duration: 59:30 minutes</div>
+
+            <div class="stats">
+                <div class="stat">
+                    <strong>137</strong>
+                    <span>Total Participations</span>
+                </div>
+                <div class="stat">
+                    <strong>4</strong>
+                    <span>Evaluated Students</span>
+                </div>
+                <div class="stat">
+                    <strong>40:11</strong>
+                    <span>Covered (of 69 min)</span>
+                </div>
+                <div class="stat">
+                    <strong>3.1</strong>
+                    <span>Avg Grade (C)</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quick Access -->
+        <div class="quick-access">
+            <h3>⚡ Quick Access</h3>
+            <div class="quick-buttons">
+                <a href="overview.html" class="quick-btn">📊 Overview & Summary</a>
+                <a href="class_transcript.html" class="quick-btn">🎤 Class Transcription</a>
+                <a href="transcripcion.html" class="quick-btn">📝 Statements (with Filter)</a>
+                <a href="evaluacion.html" class="quick-btn">🤖 AI Evaluation & Grades</a>
+                <a href="timeline.html" class="quick-btn">⏱️ Participation Timeline</a>
+                <a href="rubrics.html" class="quick-btn">📋 Rubrics & Methodology</a>
+            </div>
+        </div>
+
+        <!-- Main Cards -->
+        <div class="cards-grid">
+            <!-- Overview Card -->
+            <div class="card dashboard">
+                <div class="card-badge">Primary</div>
+                <div class="card-icon">📊</div>
+                <h2>Overview & Summary</h2>
+                <p>Class statistics, student performance summary, and key metrics. View all students' grades, participation breakdown, and weighted calculation methodology.</p>
+                <a href="overview.html" class="card-link">View Overview →</a>
+            </div>
+
+            <!-- Class Transcription Card -->
+            <div class="card transcript">
+                <div class="card-badge">Complete</div>
+                <div class="card-icon">🎤</div>
+                <h2>Class Transcription</h2>
+                <p>Full class transcription organized by 12 interactive blocks. View the complete conversation flow with speaker identification, timestamps, and statement types (questions, responses, comments).</p>
+                <a href="class_transcript.html" class="card-link">View Transcription →</a>
+            </div>
+
+            <!-- Statements Filter Card -->
+            <div class="card">
+                <div class="card-badge">Filter</div>
+                <div class="card-icon">📝</div>
+                <h2>Statements by Student</h2>
+                <p>Filter all 137 statements by individual student. Easily isolate and review each student's complete participation record for detailed analysis and comparison.</p>
+                <a href="transcripcion.html" class="card-link">View All Statements →</a>
+            </div>
+
+            <!-- Evaluation Card -->
+            <div class="card summary">
+                <div class="card-badge">New</div>
+                <div class="card-icon">🤖</div>
+                <h2>AI Evaluation & Grades</h2>
+                <p>Detailed evaluation of each student with calculated weighted grades. Shows response, question, and comment breakdowns with quality assessments (A-E scale).</p>
+                <a href="evaluacion.html" class="card-link">View Evaluations →</a>
+            </div>
+
+            <!-- Timeline Card -->
+            <div class="card">
+                <div class="card-badge">Visual</div>
+                <div class="card-icon">⏱️</div>
+                <h2>Participation Timeline</h2>
+                <p>Interactive timeline showing speaker participation throughout the class. Visualizes who spoke when and for how long across the 40-minute covered period.</p>
+                <a href="timeline.html" class="card-link">View Timeline →</a>
+            </div>
+
+            <!-- Rubric Reference Card -->
+            <div class="card rubric">
+                <div class="card-badge">Reference</div>
+                <div class="card-icon">📋</div>
+                <h2>Rubrics & Methodology</h2>
+                <p><strong>Grading Formula:</strong> (Responses × 50%) + (Questions × 30%) + (Comments × 20%) + Bonus. Detailed rubric criteria and evaluation explanations.</p>
+                <a href="rubrics.html" class="card-link">View Rubrics →</a>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>✨ Generated with AI-powered analysis using Gemini 2.5-flash</p>
+            <p>Voice identification • Automatic transcription • Rubric-based evaluation</p>
+        </div>
+    </div>
+
+    <script>
+        // Add smooth scroll behavior
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        });
+    </script>
+</body>
+</html>

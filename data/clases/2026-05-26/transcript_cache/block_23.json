@@ -1,0 +1,348 @@
+{
+  "block": 23,
+  "time_range": "110:00-115:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "and then",
+      "timestamp_abs": "110:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I want it to know more.",
+      "timestamp_abs": "110:01"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You can actually out of your feedback, I might say maybe this one is first and this one.",
+      "timestamp_abs": "110:02"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because maybe at the beginning you guys started talking to people, rather than asking documents.",
+      "timestamp_abs": "110:09"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "I have",
+      "timestamp_abs": "110:14"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or maybe it's parallel.",
+      "timestamp_abs": "110:15"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "I I I I had both the document, but I needed to know because uh we may have one, two, three, four, five to do. But maybe we have some priority. From the first one to the second and so on. So that's why I wanted to know what is the first priority, the priority of priority.",
+      "timestamp_abs": "110:16"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So anyway, there is no linear relation between these. Probably there's like, right?",
+      "timestamp_abs": "110:36"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But but but maybe uh conceptually, it might be easier for the students to look at this one first and then this one.",
+      "timestamp_abs": "110:41"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe I'm going to change the order based on this case.",
+      "timestamp_abs": "110:49"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "110:53"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Mhm.",
+      "timestamp_abs": "110:53"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "And after that, yeah, because I can observe from their reaction, all of you are starting here. So I can realize",
+      "timestamp_abs": "110:54"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Mostly, mostly for us, uh before implementing something. This is the experience that I have my company. I know that many guys from Africa may have uh some uh uh approach. So when you are trying a project, it's difficult for you to just come with a project like that without contact",
+      "timestamp_abs": "111:00"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah, yeah.",
+      "timestamp_abs": "111:23"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "someone.",
+      "timestamp_abs": "111:24"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not only in Africa.",
+      "timestamp_abs": "111:25"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, same same.",
+      "timestamp_abs": "111:25"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You will not understand in Indonesia. You need to have a bridge. You make a contact. Of course.",
+      "timestamp_abs": "111:27"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Of course.",
+      "timestamp_abs": "111:31"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Not with uh someone who is in that office, who is maybe the boss of that place, that you know something is being implemented this way, this way. He has to know, he has, he must be fully informed about with the uh about what you are really trying to do.",
+      "timestamp_abs": "111:32"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So good. Today I discovered that I'm going to change the order not because there's a linear but conceptually it might be easier for students to do that. Okay.",
+      "timestamp_abs": "111:49"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Like for my my case, uh I wanted first to contact the telecoms. Because I said, maybe I I can be doing this project where they had already they are doing it.",
+      "timestamp_abs": "111:57"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So that's the reason I first contacted them. I talked to the director of IT in the telecom company.",
+      "timestamp_abs": "112:08"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Put all of those activities, okay? Put it all.",
+      "timestamp_abs": "112:14"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "잘했어.",
+      "timestamp_abs": "112:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So you need to know if they are not doing it right now and then you don't find yourself that you are just wasting time.",
+      "timestamp_abs": "112:17"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Next next semester I will make you presenter of our forum, okay?",
+      "timestamp_abs": "112:23"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "How to do technology commercialization best practices. Silakan.",
+      "timestamp_abs": "112:27"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Thank you professor.",
+      "timestamp_abs": "112:31"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So um for the first one, the issue with the I uh, seeked for deeper insights on the challenges facing the R&D ecosystem in",
+      "timestamp_abs": "112:32"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "You searched for DB?",
+      "timestamp_abs": "112:44"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "No, I seeked for um challenges.",
+      "timestamp_abs": "112:45"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Ah you seeked for challenges like",
+      "timestamp_abs": "112:49"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yeah. Yeah, facing the R&D ecosystem in Nigeria.",
+      "timestamp_abs": "112:50"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "But where did you seek those?",
+      "timestamp_abs": "112:53"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "From uh the available information from organization how the information's are information are scattered in in different organizations.",
+      "timestamp_abs": "112:55"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "So you research for issue papers, reports, or organization or what what kind of",
+      "timestamp_abs": "113:07"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Because basically because it's my organization, I already know that Nassen have their own their own R&D ecosystem.",
+      "timestamp_abs": "113:12"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "So you empirically know the process.",
+      "timestamp_abs": "113:20"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yeah, I I even for them, we we work with them. So we know they already have their own database. Um need and Na have their own database. So everybody has their own different uh database in doing their separate.",
+      "timestamp_abs": "113:21"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you studied from observation. You had observed that everybody is working with their own infrastructure separately.",
+      "timestamp_abs": "113:38"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So your internal initial contextual is you started observing, like you started from an observation. That's the keyword that you want to use, okay?",
+      "timestamp_abs": "113:45"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "What else?",
+      "timestamp_abs": "113:53"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "So I then I I I I also consulted with my",
+      "timestamp_abs": "113:54"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is also important for you Grace because some part of your work also started by the observation plus experience. You both. Because you are as a lecturer had to handwrite whatever whatever or build the Excel by hand, right? So so I think one interesting initial difference from any traditional technology commercialization textbook kind of thing is that this contextual intelligence many times comes from our personal observation or professional experience while doing certain activities in our former or current roles. So you're going to write that too, okay?",
+      "timestamp_abs": "114:01"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So secondly, I you know even I'm happy for this project because it it was the who pushed me to really understand the corruption going on with the ICPC report.",
+      "timestamp_abs": "114:35"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So I I I really realized the the amount of funds that Nigeria is losing every year from all these uh scattered projects everywhere, duplicated projects in different uh agencies.",
+      "timestamp_abs": "114:46"
+    }
+  ]
+}

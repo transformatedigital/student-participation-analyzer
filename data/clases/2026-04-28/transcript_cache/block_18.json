@@ -1,0 +1,445 @@
+{
+  "block": 18,
+  "time_range": "85:00-90:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And like really, I think in general, the feasibility potential of all your initiatives are increased thanks to that.",
+      "timestamp_abs": "85:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And you are now using much better grounding it, connecting it to national policy or national context, which before you didn't have, but now you guys are inputting more evidence about that and even the statistics improved.",
+      "timestamp_abs": "85:06"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want to congratulate you all for that.",
+      "timestamp_abs": "85:17"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now everybody includes national policy, even some quantitative indicators, although I could wish for more, especially like some of the cases I will tell you.",
+      "timestamp_abs": "85:20"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So there is major improvements of the current version versus the early draft.",
+      "timestamp_abs": "85:28"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So don't worry too much about that.",
+      "timestamp_abs": "85:32"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I want to give you so that kind of general weaknesses that I saw.",
+      "timestamp_abs": "85:34"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we all all of today's class was about this more or less, right?",
+      "timestamp_abs": "85:39"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to kind of shift from what is missing, lack of to what is failing.",
+      "timestamp_abs": "85:43"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "85:51"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't need to explain this because we did a lot of work today on that. I'm very happy that you guys kind of.",
+      "timestamp_abs": "85:52"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "A-a-",
+      "timestamp_abs": "85:57"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "invited me.",
+      "timestamp_abs": "85:59"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I gave some examples. I'm giving very brief examples here on each one of them.",
+      "timestamp_abs": "86:00"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Please don't take it personal. I'm just like trying to help you improve, okay?",
+      "timestamp_abs": "86:03"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So um.",
+      "timestamp_abs": "86:06"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So and I want and I want to share it because many of you share common things, so you can learn from each other.",
+      "timestamp_abs": "86:08"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So again, available technology does not meet standards.",
+      "timestamp_abs": "86:15"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Kind of, that's the problem.",
+      "timestamp_abs": "86:19"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is like the technology gap frame, not user problem.",
+      "timestamp_abs": "86:20"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want you to think about what is the root, really root, citizen driven, kind of user driven problem.",
+      "timestamp_abs": "86:23"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Eh, what is the actual failure for users?",
+      "timestamp_abs": "86:31"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why I say maybe there could be customer some surveys that that kind of yielded results of the the customer's very unsatisfied with the current chatbot service or lack of personalization or maybe the problem of the voice when they were talking with the customer service voice, something it was not understandable. I don't know, something about that.",
+      "timestamp_abs": "86:33"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And maybe I said it could be interesting if you had some kind of measurable statistics like churn, complaints, or inefficiencies related kind of statistics or something.",
+      "timestamp_abs": "86:53"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe the guy you're contacting there, they don't know because they just got the order, just solve it in, solve it like this.",
+      "timestamp_abs": "87:03"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Because it's more like innovative things. So now there's no no voice I can call in BS.",
+      "timestamp_abs": "87:08"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Oh so probably from Bri brain, then whose order is it to do that?",
+      "timestamp_abs": "87:15"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "How do they justify this?",
+      "timestamp_abs": "87:19"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "From the B R I plan.",
+      "timestamp_abs": "87:22"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "The next thing we want to do is switch from from the text to the voice.",
+      "timestamp_abs": "87:27"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "87:34"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So.",
+      "timestamp_abs": "87:35"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_instruction",
+      "directed_to": "ARYANG",
+      "text": "Let's let's start. Please share that plan with me.",
+      "timestamp_abs": "87:35"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And let's even if it's in Indonesian.",
+      "timestamp_abs": "87:38"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "87:41"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_instruction",
+      "directed_to": "ARYANG",
+      "text": "When we have the meeting, please have it ready.",
+      "timestamp_abs": "87:41"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because I want to see what's the logic of how they are justifying that innovation.",
+      "timestamp_abs": "87:43"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because that's not an innovation.",
+      "timestamp_abs": "87:47"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Innovation is when you that's just technology acquisition.",
+      "timestamp_abs": "87:49"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You're just moving forward to acquire.",
+      "timestamp_abs": "87:54"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, today I have a today I have a Genesis, tomorrow I want a Ferrari.",
+      "timestamp_abs": "87:56"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's my improvement.",
+      "timestamp_abs": "88:01"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Mhm.",
+      "timestamp_abs": "88:03"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So probably there's more to it. There's probably a strategic framework and it includes one component is voice here, but there's could be a vision about it.",
+      "timestamp_abs": "88:05"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to understand how they are logically framing it to connect to our logic.",
+      "timestamp_abs": "88:12"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I need to see that that so please share it. I will try to help you about that.",
+      "timestamp_abs": "88:18"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Chilaka, again, lack of national digital infrastructure again, a solution absence, not a problem.",
+      "timestamp_abs": "88:23"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Stronger your experiment stronger part now, and even when I read your quiz, is that you understand now the issue that a currently our R&D does didn't understand that if we do R&D inputs correctly and we integrate and we organize, we can have a real good R&D outcomes.",
+      "timestamp_abs": "88:28"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I like that part.",
+      "timestamp_abs": "88:45"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "88:46"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But then you have to really understand who is failing, what is the measurable loss. You want you want to make that very strong to really make your problem.",
+      "timestamp_abs": "88:47"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why I gave you the idea of style base.",
+      "timestamp_abs": "88:55"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Stephen.",
+      "timestamp_abs": "89:00"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Again,",
+      "timestamp_abs": "89:01"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, I think your you are that part that the part that you have the first registration versus real time.",
+      "timestamp_abs": "89:03"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Charissa.",
+      "timestamp_abs": "89:10"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, so but then again I think that like because you keep in the beginning is very nice, but then as you as you keep progressing, it kind of drifts too much into the system framework instead of the impact frame.",
+      "timestamp_abs": "89:11"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, at the beginning part you have it clear, real time user base, but then eventually it's like, maybe because of what you told me, because of the technology project, you're like, at some point it's like, okay, he just really married with the fraud detection system.",
+      "timestamp_abs": "89:24"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's very obvious that you just automatically just connected it there.",
+      "timestamp_abs": "89:36"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that very smooth justification, it should be very smooth and very like, ah, yeah, therefore this is the only possible solution.",
+      "timestamp_abs": "89:40"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When I read it, it should be like, ah, yeah, yeah, of course, then he can really argument well, why this is the one.",
+      "timestamp_abs": "89:50"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Variability of okay, I already briefly",
+      "timestamp_abs": "89:58"
+    }
+  ]
+}

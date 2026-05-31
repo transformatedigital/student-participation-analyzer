@@ -1,0 +1,325 @@
+{
+  "block": 19,
+  "time_range": "90:00-95:00",
+  "utterances": [
+    {
+      "timestamp": "90:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Hello?",
+      "timestamp_abs": "180:14"
+    },
+    {
+      "timestamp": "90:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. Hi.",
+      "timestamp_abs": "180:17"
+    },
+    {
+      "timestamp": "90:19",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Hi.",
+      "timestamp_abs": "180:19"
+    },
+    {
+      "timestamp": "90:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So I'll be talking about, um, Chunam Hospital.",
+      "timestamp_abs": "180:20"
+    },
+    {
+      "timestamp": "90:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Chunam, Chunam Hospital?",
+      "timestamp_abs": "180:24"
+    },
+    {
+      "timestamp": "90:27",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "180:27"
+    },
+    {
+      "timestamp": "90:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah.",
+      "timestamp_abs": "180:28"
+    },
+    {
+      "timestamp": "90:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Really?",
+      "timestamp_abs": "180:29"
+    },
+    {
+      "timestamp": "90:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "180:32"
+    },
+    {
+      "timestamp": "90:34",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:34"
+    },
+    {
+      "timestamp": "90:35",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:35"
+    },
+    {
+      "timestamp": "90:36",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:36"
+    },
+    {
+      "timestamp": "90:37",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:37"
+    },
+    {
+      "timestamp": "90:38",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:38"
+    },
+    {
+      "timestamp": "90:39",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:39"
+    },
+    {
+      "timestamp": "90:40",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:40"
+    },
+    {
+      "timestamp": "90:41",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:41"
+    },
+    {
+      "timestamp": "90:43",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:43"
+    },
+    {
+      "timestamp": "90:44",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:44"
+    },
+    {
+      "timestamp": "90:45",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:45"
+    },
+    {
+      "timestamp": "90:46",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:46"
+    },
+    {
+      "timestamp": "90:47",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:47"
+    },
+    {
+      "timestamp": "90:48",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:48"
+    },
+    {
+      "timestamp": "90:49",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:49"
+    },
+    {
+      "timestamp": "90:50",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:50"
+    },
+    {
+      "timestamp": "90:51",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:51"
+    },
+    {
+      "timestamp": "90:52",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:52"
+    },
+    {
+      "timestamp": "90:53",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:53"
+    },
+    {
+      "timestamp": "90:54",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:54"
+    },
+    {
+      "timestamp": "90:55",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:55"
+    },
+    {
+      "timestamp": "90:56",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:56"
+    },
+    {
+      "timestamp": "90:57",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:57"
+    },
+    {
+      "timestamp": "90:58",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:58"
+    },
+    {
+      "timestamp": "90:59",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "180:59"
+    },
+    {
+      "timestamp": "91:00",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "181:00"
+    },
+    {
+      "timestamp": "91:01",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "181:01"
+    },
+    {
+      "timestamp": "91:02",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "181:02"
+    },
+    {
+      "timestamp": "91:03",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "181:03"
+    },
+    {
+      "timestamp": "91:04",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "181:04"
+    },
+    {
+      "timestamp": "91:05",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I was a bit confused.",
+      "timestamp_abs": "181:05"
+    },
+    {
+      "timestamp": "91:06",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "What?",
+      "timestamp_abs": "181:06"
+    },
+    {
+      "timestamp": "91:07",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What?",
+      "timestamp_abs": "181:07"
+    },
+    {
+      "timestamp": "91:08",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "Is it like this?",
+      "timestamp_abs": "181:08"
+    },
+    {
+      "timestamp": "91:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh.",
+      "timestamp_abs": "181:09"
+    },
+    {
+      "timestamp": "91:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, explore what is BRI want to pursue. Uh-huh, interview with strategy division.",
+      "timestamp_abs": "181:10"
+    }
+  ]
+}

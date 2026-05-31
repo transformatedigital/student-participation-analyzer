@@ -1,0 +1,238 @@
+{
+  "block": 11,
+  "time_range": "50:00-54:55",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you could say is that a master's, you just need a business deal and that's not. You need to have a certain level of complexity too. So, or maybe the components, you should have like some kind of maybe training, I don't know. We need to think about it. And how to how to strategically build your your graduation project plus if the laboratory is a good partner, how to make the business go well. So then we have check, check.",
+      "timestamp_abs": "50:00"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So the group activity. I I already gave you the print out, you guys can read it. Um, this is it.",
+      "timestamp_abs": "50:26"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So again, I tried to give you some example of what problem is, symptoms, solution, component, technology, and plan. Okay?",
+      "timestamp_abs": "50:35"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I gave you some like, just like a very group discussion, like, okay, what could be, what is the difference, right? Which one of this one is this? Which one is this? It's very easy, right? But I just want you to get, it's a very easy exercise, but I want you to have the chance to really like, you know, process it.",
+      "timestamp_abs": "50:44"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then again, the one sentence rule. Oh, this is a very important thing. I remember, I don't know if you know, my father was a professor in NYU, in University in the United States. And I remember he used to tell me, I love you.",
+      "timestamp_abs": "51:00"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "That's why you are.",
+      "timestamp_abs": "51:14"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No. I used to really. No. I'll tell you my story one day. Next week if we're gonna take a coffee, we're gonna take a pizza, I think next week, right? Next. No, two weeks. I'll tell you the story.",
+      "timestamp_abs": "51:15"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Two weeks.",
+      "timestamp_abs": "51:24"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Actually, I I opposed to that idea. I did I never wanted to be a professor. The reason why I became a professor was, no, not my father. Because my father was a was a retired professor by the time I was born.",
+      "timestamp_abs": "51:25"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "51:34"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "In the beginning.",
+      "timestamp_abs": "51:35"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "He's in the blood.",
+      "timestamp_abs": "51:36"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. But the the reason was when I was doing my PhD, I remember I I called him. He passed away actually now five, 10 years ago.",
+      "timestamp_abs": "51:38"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So you have.",
+      "timestamp_abs": "51:49"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But when I when I was doing, uh? No. He goes professor DNA.",
+      "timestamp_abs": "51:50"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "In the blood.",
+      "timestamp_abs": "51:54"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, I do. Yes. My mother says that too. like that was your destiny.",
+      "timestamp_abs": "51:55"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, he used to tell me, ah, because actually I didn't when I finished the by the time I graduated, my father had already passed away. But when I started my studies, he he he was living, he was alive. But he would kept telling me, your PhD topic, you should be able to say it in the first two minutes. Like, what's your PhD topic? You should be. But then when you're so complex, you say, what's your PhD topic?",
+      "timestamp_abs": "52:02"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "It's it's not it's complicated.",
+      "timestamp_abs": "52:28"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah. That means the topic is not really well, like you if you have a topic that is a well-structured, motivated problem, you should be able to say it like right there, right there. What's your problem? Right?",
+      "timestamp_abs": "52:30"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I realized. Ah, that's why I made the quiz. Can these guys actually in 15 minutes, that's means five minutes grace, please pay attention. What are you doing in the computer? What I'm telling you, I'm believing you. You don't need any notes.",
+      "timestamp_abs": "52:44"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "From now on, if you guys keep doing that, I'm gonna shut down all devices. You need to pay attention, stay here. You're okay. Okay. So, um, what I what I was saying is the one sentence rule is that that you need to really own it. You need to really write it. That's why the quiz the exercise of the quiz was to really make sure like these guys are really they're interiorizing, digesting what this problem is about or are just automatically just running down there like autopilot, just running to get to go to the homework that Professor Ileana sent them to do.",
+      "timestamp_abs": "52:59"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I wanted to really interiorize what your problem is. Um and I I so I gave you like that kind of, okay, what's the problem statement, what is the proposed solution and what's the enable technology? Maybe the enable technology, we might not know it yet. Maybe we don't know it exactly yet. Maybe we kind of know it. It's a face of phase, maybe.",
+      "timestamp_abs": "53:31"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I want to all of you please like while in a group discuss, discuss what you think and then give yourself some time to rewrite your own ICPs. And discuss like, this is how I will write my ICP. So, for example, Arian, you write your ICP or you could even exchange. Chilaka will write Arya's ICP. Arya will write, because it's really great, like really his logic will be totally different.",
+      "timestamp_abs": "53:47"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? And then you guys we're gonna do this together. Part four, we're gonna do this together, okay? So let's just focus on part two and part three.",
+      "timestamp_abs": "54:10"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'll give you maybe 30 minutes.",
+      "timestamp_abs": "54:20"
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "Break?",
+      "timestamp_abs": "54:23"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, no.",
+      "timestamp_abs": "54:24"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we're gonna have a break until 2:20 and then I'll give you until 2:45. 2:45, 25 minutes. 2:45. So we can check up again and have a little bit of discussion because we I also prepared direct feedback to all your ICPs again.",
+      "timestamp_abs": "54:25"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I want to have enough time to discuss that.",
+      "timestamp_abs": "54:42"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Thank you.",
+      "timestamp_abs": "54:44"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "only to a research but if it's eventually after after doing a research, we can uh we can sell it to the market and also the industry.",
+      "timestamp_abs": "54:46"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "even can you open?",
+      "timestamp_abs": "54:58"
+    }
+  ]
+}

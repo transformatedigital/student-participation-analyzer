@@ -1,0 +1,146 @@
+{
+  "block": 25,
+  "time_range": "120:00-125:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I agree. I just need one X.",
+      "timestamp_abs": "120:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "For me, to pay tax, to know zero.",
+      "timestamp_abs": "120:01"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "120:04"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "There's no distinction.",
+      "timestamp_abs": "120:05"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You can use one or two.",
+      "timestamp_abs": "120:06"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "It's quite good, actually.",
+      "timestamp_abs": "120:07"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sorry.",
+      "timestamp_abs": "120:09"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so I started as a practice.",
+      "timestamp_abs": "120:10"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "120:13"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "120:14"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So you use the selection to add now, that budget allocation.",
+      "timestamp_abs": "120:16"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I'm talking about the budget.",
+      "timestamp_abs": "120:22"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So, the national budget will give you the better, the the one like I in the the one it looks a bit big.",
+      "timestamp_abs": "120:26"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "When they release, they are not really you say like an estimated budget for the year.",
+      "timestamp_abs": "120:35"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "But at the end of the year, they might not get all the funds they budgeted for.",
+      "timestamp_abs": "120:41"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "But right now, we are trying to cover the budget of last year to this year.",
+      "timestamp_abs": "120:49"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "You'll be able to...",
+      "timestamp_abs": "120:50"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "...meet up with the... with the funding.",
+      "timestamp_abs": "120:51"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "120:54"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "So normally you have to do with the funds.",
+      "timestamp_abs": "120:55"
+    }
+  ]
+}

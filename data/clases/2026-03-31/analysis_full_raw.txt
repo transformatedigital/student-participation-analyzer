@@ -1,0 +1,234 @@
+{
+  "session": {
+    "date": "March 31, 2026",
+    "duration_minutes": 167,
+    "course": "Graduate Seminar"
+  },
+  "teacher_questions": [
+    {
+      "id": 1,
+      "timestamp": "00:02:10",
+      "question": "In your case now, this situation is simple. Stephen, is it possible?",
+      "directed_to": "Stephen",
+      "student_response": {
+        "student": "Stephen",
+        "response": "Yes.",
+        "quality_score": "E",
+        "quality_label": "Weak",
+        "rationale": "A single-word acknowledgment without further elaboration is not substantive."
+      }
+    },
+    {
+      "id": 2,
+      "timestamp": "00:36:23",
+      "question": "For finding the Korean partner, right?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "You mean, you, you, it's like a, it's like a broad iteration because we have a national kind of problem case study, but how we're gonna, how we're gonna feel the problem because we need to find the problem. You said it's gonna be a problem, no, technical solution.",
+        "quality_score": "B",
+        "quality_label": "Very Good",
+        "rationale": "Grace connects the current discussion to a broader problem-solving iteration and identifies the need for a problem-driven approach, showing good understanding."
+      }
+    },
+    {
+      "id": 3,
+      "timestamp": "00:54:57",
+      "question": "Problem driven?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Problem driven.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "Confirms the teacher's statement, showing basic understanding."
+      }
+    },
+    {
+      "id": 4,
+      "timestamp": "01:06:05",
+      "question": "Wait, with which researcher? With energy researchers in another research institute or within the research.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "In my in my institute.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "Provides a direct answer to the clarification question."
+      }
+    },
+    {
+      "id": 5,
+      "timestamp": "01:06:13",
+      "question": "Oh, within the research institute.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Uh, only the research, if you mean the network, my ICP, so I only add you to and then.",
+        "quality_score": "C",
+        "quality_label": "Good",
+        "rationale": "Clarifies the scope of the researchers involved in her project within her institution."
+      }
+    },
+    {
+      "id": 6,
+      "timestamp": "01:06:28",
+      "question": "Okay. And there's only your agency.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yeah. Uh, I put only, um, uh, my agency as the researcher. So I have to find out the best, the one that expertized in the.",
+        "quality_score": "C",
+        "quality_label": "Good",
+        "rationale": "Confirms and then explains her process for identifying collaborators, showing partial understanding of the collaboration aspect."
+      }
+    },
+    {
+      "id": 7,
+      "timestamp": "01:08:08",
+      "question": "So that's why I thought, oh, is the project going to be the salad only or is it going to be the full course meal?",
+      "directed_to": "class",
+      "student_response": null
+    },
+    {
+      "id": 8,
+      "timestamp": "01:08:56",
+      "question": "I like the title, but I'm not sure if we want to leave it just as a feasibility study or has a strategic choice you are taking because of some argument that you have or is it just because you couldn't be you know, like I just want to be clear about that.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yeah, this uh, I just changed my previous one also about that.",
+        "quality_score": "C",
+        "quality_label": "Good",
+        "rationale": "Acknowledges the teacher's point and explains her recent action in response to it, showing awareness of the feedback."
+      }
+    },
+    {
+      "id": 9,
+      "timestamp": "01:10:25",
+      "question": "But I want to know for sure that there is a reason behind taking only feasibility study or maybe not actually they might go even further, so it might be it's better to be more open title. That's the reason why I question.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yeah, this uh, I just changed my previous one also about that.",
+        "quality_score": "C",
+        "quality_label": "Good",
+        "rationale": "Acknowledges the teacher's point and explains her recent action in response to it, showing awareness of the feedback."
+      }
+    },
+    {
+      "id": 10,
+      "timestamp": "01:12:10",
+      "question": "Everybody else remember? Everybody else remember MVP?",
+      "directed_to": "class",
+      "student_response": {
+        "student": "Stephen",
+        "response": "Minimum viable product.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "Provides the correct term for the acronym, showing basic recall."
+      }
+    },
+    {
+      "id": 11,
+      "timestamp": "01:12:16",
+      "question": "MVP",
+      "directed_to": "Stephen",
+      "student_response": {
+        "student": "Stephen",
+        "response": "MVP",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "Confirms the acronym."
+      }
+    },
+    {
+      "id": 12,
+      "timestamp": "01:12:19",
+      "question": "Viable product.",
+      "directed_to": "Stephen",
+      "student_response": {
+        "student": "Stephen",
+        "response": "Viable product.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "Restates the correct term."
+      }
+    },
+    {
+      "id": 13,
+      "timestamp": "01:12:49",
+      "question": "Your question.",
+      "directed_to": "Stephen",
+      "student_response": {
+        "student": "Stephen",
+        "response": "Uh, maybe after the present...",
+        "quality_score": "E",
+        "quality_label": "Weak",
+        "rationale": "Defers the question, which is not a substantive response to the topic."
+      }
+    },
+    {
+      "id": 14,
+      "timestamp": "01:14:42",
+      "question": "So your second question was about the, right?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Uh, I think it will be later.",
+        "quality_score": "D",
+        "quality_label": "Acceptable",
+        "rationale": "Indicates her intention to address it later, showing awareness of the question but not engaging with its content immediately."
+      }
+    },
+    {
+      "id": 15,
+      "timestamp": "01:16:16",
+      "question": "50,000 households.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yes.",
+        "quality_score": "E",
+        "quality_label": "Weak",
+        "rationale": "A simple confirmation that doesn't add substantive information."
+      }
+    },
+    {
+      "id": 16,
+      "timestamp": "01:16:32",
+      "question": "50% .",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yeah.",
+        "quality_score": "E",
+        "quality_label": "Weak",
+        "rationale": "A simple confirmation that doesn't add substantive information."
+      }
+    },
+    {
+      "id": 17,
+      "timestamp": "01:16:47",
+      "question": "the solar power line.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "So it's better if we have a battery, we can save the energy and for the night power.",
+        "quality_score": "C",
+        "quality_label": "Good",
+        "rationale": "Connects the solar power line issue to a potential solution (battery storage) for night power, showing understanding of the problem's implications."
+      }
+    },
+    {
+      "id": 18,
+      "timestamp": "01:17:40",
+      "question": "And uh, it's about the energy example of the small scale just how it can help to the Korean in section even if it will be a small one. I asked my Korean also try to find out who's the best.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "We only have one best in the in the capacity, but that's only uh this one. 42.2 MW power, it's very small scale.",
+        "quality_score": "C",
+        "quality_label": "Good",
+        "rationale": "Highlights a specific metric (42.2 MW) and categorizes it as 'very small scale,' providing concrete information relevant to the discussion about project size and impact."
+      }

@@ -1,0 +1,49 @@
+{
+  "block": 21,
+  "time_range": "100:00-105:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then what Grace is imagining, you would move more online, like a KLMS, where I could download the KLMS in it. It's not a web web driven interface. It's just an app that I download. I have all the interface here without any internet. I upload my, I even have some kind of word processor kind of. I do my assignments there and I save them and I upload them in the repository and the repository will deliver them once I connect.",
+      "timestamp_abs": "100:00"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So just I go to the cafeteria, I'm looking at the university or wherever, wherever faculty that already has internet and I connect there.",
+      "timestamp_abs": "100:30"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Would something like that be what you're looking for, is my question. Is it something that I imagining the right thing or am I not imagining the right thing?",
+      "timestamp_abs": "100:40"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Uh I believe for my main thesis, I wanted to restart something that can really push a digital transformation.",
+      "timestamp_abs": "100:49"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Ah, so it's mean that we need to have something from the beginning.",
+      "timestamp_abs": "100:59"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "And through that uh, we can start to really push uh, a country uh, to have uh sophistication to implement.",
+      "timestamp_abs": "101:04"
+    }
+  ]
+}

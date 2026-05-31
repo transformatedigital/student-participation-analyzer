@@ -1,0 +1,526 @@
+{
+  "block": 16,
+  "time_range": "75:00-80:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh, problem one.",
+      "timestamp_abs": "75:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Problem what? Oh, the number? Okay. What else?",
+      "timestamp_abs": "75:02"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Problem two.",
+      "timestamp_abs": "75:06"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Problem two. Okay. What else?",
+      "timestamp_abs": "75:06"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Problem three.",
+      "timestamp_abs": "75:08"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay. What else?",
+      "timestamp_abs": "75:08"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Four. Four.",
+      "timestamp_abs": "75:10"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Four. Okay. What else?",
+      "timestamp_abs": "75:10"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Five.",
+      "timestamp_abs": "75:12"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What else?",
+      "timestamp_abs": "75:12"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Seven.",
+      "timestamp_abs": "75:13"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Seven. Uh, problem three, problem seven. Problem eight, problem nine.",
+      "timestamp_abs": "75:14"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Problem six.",
+      "timestamp_abs": "75:16"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Problem six. Okay. Thank you very much for telling me the numbers. Now tell me what's the problem.",
+      "timestamp_abs": "75:17"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, problem number one, ma'am, it's a, uh, failure to provide accurate diagnosis of patient illness.",
+      "timestamp_abs": "75:22"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Failure to provide an accurate diagnosis. What does that imply? Why is that a problem for the community or for the LGU or for the hospital?",
+      "timestamp_abs": "75:27"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, because if they give, uh, the wrong diagnosis, uh, it can, uh, kill the patient or worsen the condition.",
+      "timestamp_abs": "75:36"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, wrong diagnosis may lead to death or worsening of conditions. What is it that they cannot diagnose accurately? The health center. What can they not diagnose accurately?",
+      "timestamp_abs": "75:43"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, like, uh, for some of the cases, um, there's no equipment and, uh, uh, the personnel, uh, does not have, uh, the necessary training to provide.",
+      "timestamp_abs": "75:53"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So, what kind of illnesses are we talking about here that they cannot diagnose because they lack equipment and training?",
+      "timestamp_abs": "76:05"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, in the text, ma'am, it says, uh, a lot of their cases are pneumonia, tuberculosis, dengue.",
+      "timestamp_abs": "76:13"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They cannot diagnose pneumonia, tuberculosis, and dengue. Are you sure about that?",
+      "timestamp_abs": "76:21"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, those are the common, the common cases. Ah, but, uh, the problem is, uh, based on problem one, ma'am, uh, the lack of accurate diagnosis for this cases.",
+      "timestamp_abs": "76:26"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So, even the pneumonia, TB, dengue, which are common illnesses, they cannot diagnose it accurately.",
+      "timestamp_abs": "76:36"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, yes, ma'am.",
+      "timestamp_abs": "76:43"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. That is the initial perceived symptom. Okay. What else?",
+      "timestamp_abs": "76:44"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Problem two, ma'am.",
+      "timestamp_abs": "76:49"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "What is problem two, Chilaka?",
+      "timestamp_abs": "76:50"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Uh, failure to administer immediate medical attention, ma'am.",
+      "timestamp_abs": "76:51"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Failure to administer immediate medical attention. What do you mean by that?",
+      "timestamp_abs": "76:55"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Uh, based on the text, ma'am, the residents, uh, would need, uh, to be referred to, uh, other health facilities, ma'am, even for minor, uh, diseases.",
+      "timestamp_abs": "77:00"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Okay. So, why is that a problem?",
+      "timestamp_abs": "77:11"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Because they are far from the health center, ma'am. Uh, their place is far from the health center.",
+      "timestamp_abs": "77:14"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "So, how far is it from the health center, Chilaka?",
+      "timestamp_abs": "77:20"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Uh, in the text, it says, uh, one to three hours away, ma'am.",
+      "timestamp_abs": "77:22"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "One to three hours away. Okay. So, that's what, that means that it's a symptom, right?",
+      "timestamp_abs": "77:27"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "77:32"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because they cannot administer immediate medical attention. So, how many people are affected by this problem of being one to three hours away from the health center?",
+      "timestamp_abs": "77:32"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Uh, residents, ma'am, who live, uh, in the far flung areas.",
+      "timestamp_abs": "77:44"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "How many? Do they say how many?",
+      "timestamp_abs": "77:49"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Uh, a large portion of the population, ma'am.",
+      "timestamp_abs": "77:51"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "A large portion of the population. Okay. So that's problem two. What else?",
+      "timestamp_abs": "77:55"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Problem three, ma'am.",
+      "timestamp_abs": "78:00"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Grace, what is problem three?",
+      "timestamp_abs": "78:00"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Uh, there's a lack of awareness and knowledge about health conditions and diseases, ma'am.",
+      "timestamp_abs": "78:02"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Lack of awareness and knowledge on health conditions. Who is this referring to?",
+      "timestamp_abs": "78:08"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Uh, the community, ma'am.",
+      "timestamp_abs": "78:13"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "The community. Okay. So, why is it a problem that they lack awareness and knowledge on health conditions?",
+      "timestamp_abs": "78:14"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Uh, because if they don't know, uh, the conditions or the symptoms of the illness, uh, they cannot provide or they cannot take care of themselves, ma'am.",
+      "timestamp_abs": "78:22"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, meaning they cannot do prevention for themselves or they cannot self-medicate because they don't know the problem.",
+      "timestamp_abs": "78:32"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "78:41"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. And what problem are we talking about here?",
+      "timestamp_abs": "78:41"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Uh, those are the common, ma'am, like tuberculosis and pneumonia.",
+      "timestamp_abs": "78:44"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, they don't know about TB and pneumonia. They don't know about dengue.",
+      "timestamp_abs": "78:48"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "78:53"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, that's problem three. What else?",
+      "timestamp_abs": "78:53"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh, for number four, ma'am, lack of available health services.",
+      "timestamp_abs": "78:57"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Lack of available health services. What do you mean by that, Mega?",
+      "timestamp_abs": "79:02"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh, because of limited health workers, ma'am.",
+      "timestamp_abs": "79:07"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Because of limited health workers. Is that considered a symptom or is that already a root cause?",
+      "timestamp_abs": "79:09"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Symptom, ma'am.",
+      "timestamp_abs": "79:15"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "That's a symptom. How is it a symptom?",
+      "timestamp_abs": "79:16"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh, because, um, when they need something, uh, there's no available, uh, people to cater to them, ma'am, for a specific problem.",
+      "timestamp_abs": "79:20"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, you're saying it's a symptom because there's a lack of health services because there is limited health workers.",
+      "timestamp_abs": "79:30"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "79:38"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Okay. What else? What else is a symptom for problem number four, Mega?",
+      "timestamp_abs": "79:38"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh, lack of, uh, medical health equipment, ma'am, also.",
+      "timestamp_abs": "79:45"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Lack of medical health equipment. Is that a symptom or a root cause already?",
+      "timestamp_abs": "79:49"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Symptom.",
+      "timestamp_abs": "79:55"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Symptom. How is it a symptom?",
+      "timestamp_abs": "79:55"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh, because, uh, if you have, um, a problem, ma'am, you need to be diagnosed.",
+      "timestamp_abs": "79:58"
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "block": 9,
+  "time_range": "40:00-45:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Cameroon and the Republic Central Africa.",
+      "timestamp_abs": "40:00"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So but uh if I see Cameroon realities, just as you said, I feel like, really...",
+      "timestamp_abs": "40:03"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Nah, probably worse.",
+      "timestamp_abs": "40:12"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, so Central Africa Republic it's even worse.",
+      "timestamp_abs": "40:13"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then I think then then you can think as I mentioned professor, I don't have good neighbors. So then look a little bit further, that's what I'm saying maybe.",
+      "timestamp_abs": "40:18"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe it could it's good to see in your region, but for example, in my case in Costa Rica, I normally refer to Switzerland or Singapore.",
+      "timestamp_abs": "40:24"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I I always as a leader, I always say, I don't want to compare myself to the similar or let's say, next to similar cases, even though they're a little bit better than us.",
+      "timestamp_abs": "40:33"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want to compare to the very best.",
+      "timestamp_abs": "40:43"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The very best that have a similar condition to me.",
+      "timestamp_abs": "40:44"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "40:46"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I used to say Singapore is a very tiny country, Switzerland is a very tiny country.",
+      "timestamp_abs": "40:47"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So tiny countries that have done important things with whatever resources they have.",
+      "timestamp_abs": "40:51"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And especially there's something particularly in my country, my country doesn't have any army. And so countries that don't have a lot of army, their investment in the R&D is less than, because army, military is one of the very important drivers of R&D and like military and national security.",
+      "timestamp_abs": "40:56"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So in many countries, the R&D starts because the army starts demanding more technology. Korea, as well, the USA as well. It's a big, big driver.",
+      "timestamp_abs": "41:13"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in our country it doesn't really, we don't have any petrol, we don't have diamonds, we don't have any gas. We don't have any important natural resources that our country really has.",
+      "timestamp_abs": "41:21"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "UNKNOWN",
+      "type": "unknown",
+      "text": "[inaudible]",
+      "timestamp_abs": "41:30"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And no army and a very small country. So it's very particular, right?",
+      "timestamp_abs": "41:31"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know about that if your army is in Congo, we have a so, try to find this and try to find references of countries on that you can say, 'Ah!'",
+      "timestamp_abs": "41:35"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm just going to check how this country who is very similar, has similar, had, maybe now we already overcome those things, had similar challenges as Congo, but overcome them and what they did to really transform their education sector.",
+      "timestamp_abs": "41:44"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "What were the I would study for example, or which players had a very important role in that, right?",
+      "timestamp_abs": "41:59"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe there is some institution or R&D, where the Ministry of Education, I don't know, or the universities, which universities. Maybe it's interesting to know how they changed that.",
+      "timestamp_abs": "42:06"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm just giving you ideas. In your case, definitely energy.",
+      "timestamp_abs": "42:15"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In your case, finance, then you need to understand who are...",
+      "timestamp_abs": "42:17"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "And in your case is tricky because you have two things. In your case, Ariba, you have two things. You have the knowledge management world and you have the finance sector.",
+      "timestamp_abs": "42:20"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "And I would even say, in your case, because it's not only it's not general finance, it's public finance.",
+      "timestamp_abs": "42:35"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "So in your case, it's even one more that is related to digital public infrastructure, maybe it's not even or digital government technology like. Anyway, this is digital banking, but in government, because it's also slightly different.",
+      "timestamp_abs": "42:42"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "The banking strategy of the and the banking tools, the private banks will use versus the responsibility of public banks. It's a different different.",
+      "timestamp_abs": "42:57"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "So, the knowledge management, it's key probably probably in your case, but it's also heavier than a private bank.",
+      "timestamp_abs": "43:08"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "Because the type of responsibility that you carry is a public bank, it's slightly different, I guess, than private.",
+      "timestamp_abs": "43:16"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "So you have to think about, okay, what are the innovation systems in the public. So what are the innovation systems available in the public finance sector?",
+      "timestamp_abs": "43:23"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "And what related to the national science and technology ecosystem or regional innovation Asia or regional, uh, what things exist in this?",
+      "timestamp_abs": "43:32"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "Who which are the players, the marketplace, how does it look, the landscape. You have to think about these things.",
+      "timestamp_abs": "43:43"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "And in your case, Stevan, I love you. Your topic is very interesting.",
+      "timestamp_abs": "43:49"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "Your topic is probably more like.",
+      "timestamp_abs": "43:54"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "[inaudible]",
+      "timestamp_abs": "43:57"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "Ahem, digital public infrastructure for sure.",
+      "timestamp_abs": "43:58"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "Right? So you have to understand about EBI.",
+      "timestamp_abs": "44:04"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "DPI. You have to understand about...",
+      "timestamp_abs": "44:07"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "Probably interoperability issues, so who are the players in interoperability in your country?",
+      "timestamp_abs": "44:13"
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "You know about this?",
+      "timestamp_abs": "44:18"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "44:20"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Interoperability, you know this term?",
+      "timestamp_abs": "44:21"
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "44:23"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "So, who manages who is the owner of the data?",
+      "timestamp_abs": "44:25"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "And who has the stewardship of the data? In your case, we're saying the national registry office, your entity, right?",
+      "timestamp_abs": "44:30"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Right, but there is also Nita.",
+      "timestamp_abs": "44:35"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Nita.",
+      "timestamp_abs": "44:37"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "Very good. So there's probably a huge network here of big, big players, Olympus, Olympus kings, owners of the data.",
+      "timestamp_abs": "44:38"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "And there's probably another player, for example, we mentioned UDA and you know the telecom players and all that.",
+      "timestamp_abs": "44:46"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "So this is your sectorial innovation system.",
+      "timestamp_abs": "44:52"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Your players, your landscape. How does it look like?",
+      "timestamp_abs": "44:55"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "You need to really...",
+      "timestamp_abs": "44:59"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "Aryang": {
+    "weighted_average": 2.97,
+    "quantity_bonus": 0.15,
+    "final_grade": 3.12,
+    "final_letter": "C",
+    "total_participations": 83,
+    "responses": 20,
+    "questions": 21,
+    "comments": 42,
+    "avg_response": 3.1,
+    "avg_question": 2.9,
+    "avg_comment": 2.74,
+    "breakdown": {
+      "responses": [
+        3,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        4,
+        3,
+        3,
+        3,
+        5,
+        5,
+        5,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3
+      ],
+      "questions": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3
+      ],
+      "comments": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        3,
+        3,
+        2,
+        4,
+        4,
+        4,
+        3,
+        2,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2
+      ]
+    }
+  },
+  "Grace": {
+    "weighted_average": 2.72,
+    "quantity_bonus": 0.1,
+    "final_grade": 2.82,
+    "final_letter": "C",
+    "total_participations": 21,
+    "responses": 9,
+    "questions": 3,
+    "comments": 9,
+    "avg_response": 2.67,
+    "avg_question": 3.0,
+    "avg_comment": 2.44,
+    "breakdown": {
+      "responses": [
+        4,
+        3,
+        3,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2
+      ],
+      "questions": [
+        3,
+        3,
+        3
+      ],
+      "comments": [
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3
+      ]
+    }
+  },
+  "Sthepen": {
+    "weighted_average": 2.98,
+    "quantity_bonus": 0,
+    "final_grade": 2.98,
+    "final_letter": "C",
+    "total_participations": 12,
+    "responses": 1,
+    "questions": 2,
+    "comments": 9,
+    "avg_response": 3.0,
+    "avg_question": 3.0,
+    "avg_comment": 2.89,
+    "breakdown": {
+      "responses": [
+        3
+      ],
+      "questions": [
+        3,
+        3
+      ],
+      "comments": [
+        3,
+        2,
+        2,
+        2,
+        4,
+        4,
+        3,
+        3,
+        3
+      ]
+    }
+  },
+  "Chilaka": {
+    "weighted_average": 2.0,
+    "quantity_bonus": -0.2,
+    "final_grade": 1.8,
+    "final_letter": "D",
+    "total_participations": 1,
+    "responses": 0,
+    "questions": 0,
+    "comments": 1,
+    "avg_response": 0,
+    "avg_question": 0,
+    "avg_comment": 2.0,
+    "breakdown": {
+      "responses": [],
+      "questions": [],
+      "comments": [
+        2
+      ]
+    }
+  }
+}

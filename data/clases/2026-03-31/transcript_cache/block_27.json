@@ -1,0 +1,246 @@
+{
+  "block": 27,
+  "time_range": "130:00-135:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Corea and the ecosystem is like this. You have a Korea Ministry of Science and Technology.",
+      "timestamp_abs": "130:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then there are a couple of Korea Ministry of SMEs. I would say maybe the Korea Ministry of Industry.",
+      "timestamp_abs": "130:06"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I would simplify, probably there's many big ecosystems. But then there's the president house and probably the Congress that has all the units or the committees that can the congressional committees that the very big committee of Science and Technology within the Congress, and they oversee all the budget that goes into this for for R&D.",
+      "timestamp_abs": "130:16"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then I'm just gonna use this as a black box, black box. And we know these players manage certain things, but that's it. Let's assume that's a black box.",
+      "timestamp_abs": "130:39"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But within this ministry, we have lots of agencies.",
+      "timestamp_abs": "130:49"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And you have universities, and for example, we have KAIST.",
+      "timestamp_abs": "130:53"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "And um, uh, 우리는 교육부 밑에 아니죠? 과학기술부 밑에 있죠? KAIST. So,",
+      "timestamp_abs": "130:59"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the interesting thing in Korea is that you have for example, R&D agencies like KISTI.",
+      "timestamp_abs": "131:07"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or KRRI.",
+      "timestamp_abs": "131:14"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But also you have an intermediate layer called the R&D management agencies.",
+      "timestamp_abs": "131:17"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So sometimes these agencies are intermediate agencies that get their budget and they allocate it within different priorities that the ecosystem is so complex and there's so much money, so generous, that they invented this middle layer to manage better the allocation of the R&D and the management also.",
+      "timestamp_abs": "131:26"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is a very simplified picture of how the ecosystem works. Probably it has also mistakes because I'm not an expert of the Korea S&T and I'm not up to date with the latest uh, governance changes. But if you could make something like that you see in Nigeria, these are the stakeholders, blah blah blah. And could even make a small draw when I like that will be really good because it also delivers an illustrative example of the scale of the system that would be required.",
+      "timestamp_abs": "131:50"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or even if you can give me, for example, an idea of the amount of employers, because anyway, your system anyway when we talk about a system metrics, one of the key metrics is users. How many users will you need? Transactions is another metric that is needed, right? How how much the volume of transactions?",
+      "timestamp_abs": "132:22"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, the one of the governance to see how easy or who are the stakeholders you need to deal with for this project. But also how many imagine just this kind of case. KRRI and to these kind of institutes. Ten thousands of thousands of thousands of employers, each one of them.",
+      "timestamp_abs": "132:41"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I wanna know more or less in Nigeria, you could say, I'm we're talking about this kind of population. That kind of metric really provides good hints.",
+      "timestamp_abs": "133:00"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not saying you have to find everything, I'm just giving you ideas of how to improve.",
+      "timestamp_abs": "133:08"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Go ahead.",
+      "timestamp_abs": "133:15"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "So, this uh, is a solution for internet of things.",
+      "timestamp_abs": "133:17"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Uh, for [inaudible] also, this is also in the absence of [inaudible] agencies, under [inaudible].",
+      "timestamp_abs": "133:22"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "So sorry. In the absence of [inaudible] agencies, under which [inaudible] will be [inaudible]?",
+      "timestamp_abs": "133:26"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is something you need to put there as a problem. Within the R&D agencies, these are the ones that have to be developed.",
+      "timestamp_abs": "133:30"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "So my point towards the R&D management.",
+      "timestamp_abs": "133:36"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly.",
+      "timestamp_abs": "133:39"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because eventually, if we want to integrate the ecosystem, all R&D agencies have to log in into this platform eventually.",
+      "timestamp_abs": "133:42"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "So, [inaudible] something [inaudible] I [inaudible].",
+      "timestamp_abs": "133:50"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right, perfect. Yeah, that's exactly what I was trying to do. You got the point, that's exactly what I wanted. Thank you.",
+      "timestamp_abs": "133:56"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "He said [inaudible] for our [inaudible].",
+      "timestamp_abs": "134:03"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, because I remember I had a talent, just saying. He gave a presentation with lots of details of what he wanted, and then in the document, he's just saying, I want the R&D management sector. That's all. No, give me more.",
+      "timestamp_abs": "134:07"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "134:22"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "And we will ask.",
+      "timestamp_abs": "134:28"
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah, you will ask.",
+      "timestamp_abs": "134:29"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think KISTEP, I'm not sure. KISTEP is an R&D management entity.",
+      "timestamp_abs": "134:31"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And they have some, especially for planning and evaluation, they're important stakeholders. But I would say they're just another user of the platform.",
+      "timestamp_abs": "134:36"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So in terms of this project, I'm not sure. I think, if to tell you the truth, I think your stakeholder is going to be KISTI. And KISTEP, maybe some solid.",
+      "timestamp_abs": "134:45"
+    }
+  ]
+}

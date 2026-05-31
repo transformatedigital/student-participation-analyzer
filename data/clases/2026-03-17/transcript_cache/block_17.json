@@ -1,0 +1,392 @@
+{
+  "block": 17,
+  "time_range": "80:00-85:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is an old one. Jenica come the 31st, probably he will bring a little bit more information. That I think it's just like to show you how I started as a student.",
+      "timestamp_abs": "80:00"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I really study for studying the courses, these are like the modules of the system.",
+      "timestamp_abs": "80:09"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is a 60 million dollar IT platform. It's a very complex and humongous IT platform.",
+      "timestamp_abs": "80:13"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe like three Ferraris. We don't need that maybe, right? Especially for the R&D traction that we have.",
+      "timestamp_abs": "80:20"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But we don't need also a car. We need something in the middle that is good enough to roll and scale and create value.",
+      "timestamp_abs": "80:26"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to understand which modules of these ones are critical, which modules could be in the second or third phase.",
+      "timestamp_abs": "80:32"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I, I, I explained to you, to the minister at the time, what they were disclosing, what the system was about.",
+      "timestamp_abs": "80:38"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I just translated it and tried to let them understand it.",
+      "timestamp_abs": "80:44"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "One of the things that I proposed at the end of my meeting was, how do we make this happen?",
+      "timestamp_abs": "80:49"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I proposed one of the things I proposed to my professor, to my minister at the time, is listen, we need to sign.",
+      "timestamp_abs": "80:54"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You minister, you want this system. You need to send a letter of intention, what we call an LOI.",
+      "timestamp_abs": "81:00"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "To KISTI and to KAIST and to really officialize, please, I want Costa Rica, Minister of Science and Technology, really has the intention to adopt the Korean R&D management module.",
+      "timestamp_abs": "81:07"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And in that sense, I need your support. I need your know-how, I need your policy, blah blah blah.",
+      "timestamp_abs": "81:17"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this letter, we, we need, this letter is not only with blah blah blah. You need to commit a certain cast, an investment.",
+      "timestamp_abs": "81:22"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And we'll work together with the Koreans to really know what is useful for Costa Rica based on the Korean model.",
+      "timestamp_abs": "81:30"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because not everything, the process is probably different, the workflow is probably different, the governance is probably very different.",
+      "timestamp_abs": "81:36"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The ministry is the ministry, KISTI is a semi-government.",
+      "timestamp_abs": "81:44"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you need to really match those things.",
+      "timestamp_abs": "81:46"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And probably, if possible, I asked him, you couldn't fund the Costa Rican experts to come to Korea to define the scope, the transformation and the activation report.",
+      "timestamp_abs": "81:50"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "At that time, the minister said, \"This one? Yes.\"",
+      "timestamp_abs": "82:00"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "\"This one? Okay, I will see but I don't have a lot of people and everybody in the ministry is a very small ministry. There's not a lot of experts, but I will see what I can do, but this one, this one I don't have money.\"",
+      "timestamp_abs": "82:04"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "[typing sounds]",
+      "timestamp_abs": "82:14"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "To send the people to Korea.",
+      "timestamp_abs": "82:16"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I feel like, okay. But later after we visit the president, President, the president lady that is there, she said, \"Okay, yeah, I think I can start giving the funds for this. I can buy the tickets for the experts.\"",
+      "timestamp_abs": "82:18"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the experts of the Ministry of Science and Technology stay in the KAIST student dormitory. I tried to manage to let them stay there so that they could have a cheap way to stay.",
+      "timestamp_abs": "82:30"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then they stay for one month, working together with KISTI there.",
+      "timestamp_abs": "82:40"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But that's the initial of the project, right?",
+      "timestamp_abs": "82:45"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "What happened, you ask?",
+      "timestamp_abs": "82:48"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "[typing sounds]",
+      "timestamp_abs": "82:51"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What's the difference?",
+      "timestamp_abs": "82:59"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "What's the [inaudible]",
+      "timestamp_abs": "83:00"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "[inaudible]",
+      "timestamp_abs": "83:01"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I tell a story in that sense that changes everything, just the movement.",
+      "timestamp_abs": "83:03"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "One of the important backgrounds of this story is the milestone, is the need, the context of the need.",
+      "timestamp_abs": "83:09"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the first part, it's not general, it's very specific.",
+      "timestamp_abs": "83:15"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "[typing sounds] In 2015, I've tried to tell the story like it is present in 2015, right?",
+      "timestamp_abs": "83:19"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I tried to say, okay, this is a technology post-collaboration.",
+      "timestamp_abs": "83:23"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The project is called development of the National Science. It's very specific, right?",
+      "timestamp_abs": "83:27"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not like AI in Costa Rica. Very specific. Development of a National R&D for Costa Rica through Korea.",
+      "timestamp_abs": "83:32"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I just invented this.",
+      "timestamp_abs": "83:38"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I told ChatGPT, give me a name of this project, I really like this one.",
+      "timestamp_abs": "83:40"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In 2015, doing, I'm always using AI. I also believe, I, I, I told all my students for GPT, right? I asked you, please help me if like, you guys are doing the same, right?",
+      "timestamp_abs": "83:45"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just try to help the write, because English is not my first language, so it's okay, you can do, use AI to help you write or just, as I told you to myself, I was only downloading the syllabus.",
+      "timestamp_abs": "83:53"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You downloaded it, right?",
+      "timestamp_abs": "84:03"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You saw that in my syllabus, at the end of my syllabus, there is a guide of how you can report ethically the use of AI.",
+      "timestamp_abs": "84:04"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't have a problem with you using AI. I use AI every day in my life.",
+      "timestamp_abs": "84:10"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For raising my children, I hope that AI is helping me.",
+      "timestamp_abs": "84:14"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it's okay if you use it to write or to proofread.",
+      "timestamp_abs": "84:17"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the copyright, you can use it to copy anything, for discussing things, but the writing and the full discrimination of that, you have to use it.",
+      "timestamp_abs": "84:20"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I used to write a paraphrase and it improves my writing.",
+      "timestamp_abs": "84:28"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Especially because I write a little bit too long and it helps me summarize and makes it concise.",
+      "timestamp_abs": "84:33"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I wrote like this.",
+      "timestamp_abs": "84:38"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think keywords is to really give a real milestone and like a hint of real commitment.",
+      "timestamp_abs": "84:40"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I think here the key part, key part was that the OEC was pressuring my country.",
+      "timestamp_abs": "84:48"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That the OEC was really, my country really had a real need, it's not my invention.",
+      "timestamp_abs": "84:54"
+    }
+  ]
+}

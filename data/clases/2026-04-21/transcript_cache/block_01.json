@@ -1,0 +1,368 @@
+{
+  "block": 1,
+  "time_range": "00:00-05:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And probably also you want to uh get told before, kind of tip-tap if if they would be willing to invest something or we would have to find the funding from Korea, how to do that.",
+      "timestamp_abs": "00:00"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? And then if you update your ICP and your your PPT to this one, then I will try to contact KBM too.",
+      "timestamp_abs": "00:11"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe we can not that, but that's. Thank you so much.",
+      "timestamp_abs": "00:19"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so that's why",
+      "timestamp_abs": "00:23"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mega, so with that explanation, try to draw your own drawing. Probably now you will have one. So probably you will have one more here. One more here then",
+      "timestamp_abs": "00:26"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "case. In this case, it will be",
+      "timestamp_abs": "00:40"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Where's the the keyboard?",
+      "timestamp_abs": "00:42"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, the keyboard it's behind the table.",
+      "timestamp_abs": "00:45"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Here?",
+      "timestamp_abs": "00:49"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, no, no. Here.",
+      "timestamp_abs": "00:50"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay.",
+      "timestamp_abs": "00:53"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So probably you will have here, here. Right? This is. Ah, no, sorry. What's your ICP?",
+      "timestamp_abs": "00:55"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Bring.",
+      "timestamp_abs": "01:02"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Bring. B R I N.",
+      "timestamp_abs": "01:03"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? Ah, but then I don't like it. And then this one.",
+      "timestamp_abs": "01:06"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is one scenario.",
+      "timestamp_abs": "01:19"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "01:21"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh. And then",
+      "timestamp_abs": "01:22"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then we would have here KBM.",
+      "timestamp_abs": "01:34"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I'm going to check maybe there's like that. I'm also going to check if there is within KBM. I'm going to make one more which is probably within KBM.",
+      "timestamp_abs": "01:39"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "within KBM. Oh, I forgot to mention.",
+      "timestamp_abs": "02:02"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "That was supposed to be a consultant.",
+      "timestamp_abs": "02:05"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "KBM is a consultant, right?",
+      "timestamp_abs": "02:06"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "But if one says, you know, they're not a...",
+      "timestamp_abs": "02:09"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay. No, no. Yeah, just let me check. I was just giving what's up. I was just saying probably you could later on go with that. So probably you will have not within Green. It's important to mention that you have like behind, maybe, maybe not like that. Maybe like it could be important for you to have to clearly mention in your ICP that Green has to respond to the Ministry of Environment. Of environment. And also to the KDD company of Jirapa, right? And then probably we will think",
+      "timestamp_abs": "02:11"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "02:50"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Probably you will have company one, company two, because probably KBM doesn't work directly. And here it will be either the Department of Care in charge of consulting or Department of Care with technology.",
+      "timestamp_abs": "02:52"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's too big.",
+      "timestamp_abs": "03:13"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "One is the people who can do consulting, and the other one is people expert in the technology. Or both.",
+      "timestamp_abs": "03:18"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Kind of.",
+      "timestamp_abs": "03:28"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "03:29"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It happens after this one.",
+      "timestamp_abs": "03:32"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Whatever it happens after. There's no time right here. It will be all parallel.",
+      "timestamp_abs": "03:37"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Parallel.",
+      "timestamp_abs": "03:42"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Not together.",
+      "timestamp_abs": "03:43"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In there.",
+      "timestamp_abs": "03:44"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In there. You're taking one, you're taking the other, you're knocking both doors.",
+      "timestamp_abs": "03:45"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But after after you visit, you will say you need words.",
+      "timestamp_abs": "03:49"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm a very long winded one by the way.",
+      "timestamp_abs": "03:52"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "03:55"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But I think just to offer...",
+      "timestamp_abs": "03:58"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's all parallel. So you're knocking the door. Hey, we have this opportunity. Would you interested? So it's not nothing to do. We're just knocking the door. Because to knock the door, we have to be very clear of what we need.",
+      "timestamp_abs": "04:00"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And that's where we can yeah, visibly discharge it here. And what this is, one. Also.",
+      "timestamp_abs": "04:11"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Also.",
+      "timestamp_abs": "04:17"
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is a company that, this is all. So we don't need to make a new project. For now, we're still just briefly saying, hey, we have this need or this ability to do, but you'll be willing to work with us for this project. Okay?",
+      "timestamp_abs": "04:18"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Next. I'm sorry, it's taking a long time, but this is important. We have to work on it.",
+      "timestamp_abs": "04:34"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "My my first idea, all the homeworks for you this week.",
+      "timestamp_abs": "04:38"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? So.",
+      "timestamp_abs": "04:42"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, so for you, Grace, that you can pay like I was telling everybody that I did a lot of um.",
+      "timestamp_abs": "04:44"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The first thing is I had a lot of to-do's, so I wanted to show you what I what I discussed for each one of you.",
+      "timestamp_abs": "04:50"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For Steven, now let's see, I'm going to listen to part two, okay?",
+      "timestamp_abs": "04:56"
+    }
+  ]
+}

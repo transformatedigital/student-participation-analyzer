@@ -1,0 +1,590 @@
+{
+  "total": 117,
+  "evaluations": [
+    {
+      "id": 16,
+      "grade": "C",
+      "rationale": "Relevant comment reflecting context, but lacks significant depth or new insight."
+    },
+    {
+      "id": 17,
+      "grade": "D",
+      "rationale": "Surface-level comment that adds minimal value to the discussion."
+    },
+    {
+      "id": 18,
+      "grade": "B",
+      "rationale": "Clarifying question that deepens understanding about the IC's role."
+    },
+    {
+      "id": 19,
+      "grade": "C",
+      "rationale": "Relevant question seeking clarification, but without significant depth or new insight."
+    },
+    {
+      "id": 20,
+      "grade": "E",
+      "rationale": "Does not add value or insight to the class discussion."
+    },
+    {
+      "id": 21,
+      "grade": "C",
+      "rationale": "Relevant comment showing topic awareness and personal project update, but without new insight."
+    },
+    {
+      "id": 22,
+      "grade": "B",
+      "rationale": "Meaningful contribution connecting external issues to technology commercialization opportunities, building on previous point."
+    },
+    {
+      "id": 23,
+      "grade": "B",
+      "rationale": "Elaborates on previous point, highlighting a problem relevant to technology commercialization."
+    },
+    {
+      "id": 24,
+      "grade": "C",
+      "rationale": "Correct response, but limited in detail, depth, or elaboration."
+    },
+    {
+      "id": 25,
+      "grade": "C",
+      "rationale": "Correct response showing awareness, but limited in detail or elaboration."
+    },
+    {
+      "id": 26,
+      "grade": "C",
+      "rationale": "Relevant continuation of personal project update, but lacks significant depth or new insight."
+    },
+    {
+      "id": 27,
+      "grade": "C",
+      "rationale": "Correct response, but limited in detail, depth, or elaboration."
+    },
+    {
+      "id": 28,
+      "grade": "C",
+      "rationale": "Correct acknowledgment, but limited in detail, depth, or elaboration."
+    },
+    {
+      "id": 29,
+      "grade": "D",
+      "rationale": "Unclear and surface-level question that adds minimal value."
+    },
+    {
+      "id": 30,
+      "grade": "D",
+      "rationale": "Signals intent to ask a question, but the contribution itself is incomplete and adds minimal value."
+    },
+    {
+      "id": 31,
+      "grade": "E",
+      "rationale": "The response \"I'm sorry\" is irrelevant and does not add value to the class discussion."
+    },
+    {
+      "id": 32,
+      "grade": "E",
+      "rationale": "The response \"I'm sorry\" is irrelevant and adds no value to the class discussion."
+    },
+    {
+      "id": 33,
+      "grade": "E",
+      "rationale": "The student's incomplete statement \"저는...\" is unclear and adds no value to the discussion."
+    },
+    {
+      "id": 34,
+      "grade": "B",
+      "rationale": "Student asks a clarifying question about benefits, connecting to an implicit ongoing discussion."
+    },
+    {
+      "id": 35,
+      "grade": "C",
+      "rationale": "Student provides a correct, clear answer but it is limited in detail and elaboration."
+    },
+    {
+      "id": 36,
+      "grade": "C",
+      "rationale": "The response is a correct, minimal affirmation, but lacks detail or elaboration."
+    },
+    {
+      "id": 37,
+      "grade": "A",
+      "rationale": "The student offers an insightful, critical interpretation of the funding strategy, advancing the discussion."
+    },
+    {
+      "id": 38,
+      "grade": "C",
+      "rationale": "The student provides a relevant, simple confirmation without significant depth or new insight."
+    },
+    {
+      "id": 39,
+      "grade": "C",
+      "rationale": "The student provides a relevant, simple confirmation without significant depth or new insight."
+    },
+    {
+      "id": 40,
+      "grade": "B",
+      "rationale": "Student offers a meaningful clarification, building on the instructor's point with a specific detail."
+    },
+    {
+      "id": 41,
+      "grade": "C",
+      "rationale": "The student provides a relevant acknowledgment showing awareness but no significant depth."
+    },
+    {
+      "id": 42,
+      "grade": "E",
+      "rationale": "The student's incomplete interjection \"So\" is unclear and adds no value to the discussion."
+    },
+    {
+      "id": 43,
+      "grade": "C",
+      "rationale": "The student offers a relevant, brief interjection, showing topic awareness but lacking significant depth."
+    },
+    {
+      "id": 44,
+      "grade": "E",
+      "rationale": "The student's contribution is inaudible, rendering it unclear and adding no value."
+    },
+    {
+      "id": 45,
+      "grade": "C",
+      "rationale": "The student provides a relevant acknowledgment showing awareness but no significant depth."
+    },
+    {
+      "id": 46,
+      "grade": "E",
+      "rationale": "The interjection \"Ooh\" does not add value to the class discussion."
+    },
+    {
+      "id": 47,
+      "grade": "E",
+      "rationale": "\"Twelve\" is an unclear and irrelevant comment, adding no value to the discussion."
+    },
+    {
+      "id": 48,
+      "grade": "E",
+      "rationale": "The comment is unclear and appears off-topic, not adding value to the discussion."
+    },
+    {
+      "id": 49,
+      "grade": "E",
+      "rationale": "The interjection \"Oh, professor\" does not add value or clarity to the discussion."
+    },
+    {
+      "id": 50,
+      "grade": "E",
+      "rationale": "\"Okay\" is a simple acknowledgment, not a question or contribution adding value."
+    },
+    {
+      "id": 51,
+      "grade": "C",
+      "rationale": "Student proposes discussing after the teacher's question, showing some topic awareness but no new insight."
+    },
+    {
+      "id": 52,
+      "grade": "E",
+      "rationale": "\"Okay\" is a simple acknowledgment, adding no value to the discussion on scheduling."
+    },
+    {
+      "id": 53,
+      "grade": "E",
+      "rationale": "The comment \"Uh for you\" is unclear and does not add value to the discussion."
+    },
+    {
+      "id": 54,
+      "grade": "C",
+      "rationale": "Student expresses intent to explain their project, showing topic awareness and relevance."
+    },
+    {
+      "id": 55,
+      "grade": "C",
+      "rationale": "Student identifies their project component as \"the portal,\" directly relevant to the discussion."
+    },
+    {
+      "id": 56,
+      "grade": "C",
+      "rationale": "Student clarifies the specific name \"Ministry of AI Education,\" relevant to their project's context."
+    },
+    {
+      "id": 57,
+      "grade": "C",
+      "rationale": "Student provides a relevant update about their project's language, aiding understanding."
+    },
+    {
+      "id": 58,
+      "grade": "B",
+      "rationale": "Student provides meaningful details about the project's launch and digital initiatives, building on previous points."
+    },
+    {
+      "id": 59,
+      "grade": "C",
+      "rationale": "Student provides a correct but extremely limited affirmative response to the direct question."
+    },
+    {
+      "id": 60,
+      "grade": "B",
+      "rationale": "Student confirms sending the link and adds relevant details about its contents and schedule."
+    },
+    {
+      "id": 61,
+      "grade": "C",
+      "rationale": "Provides a relevant, but very basic and generic, statement without adding depth."
+    },
+    {
+      "id": 62,
+      "grade": "D",
+      "rationale": "Rephrases prior information and does not answer the question about the portal's scope."
+    },
+    {
+      "id": 63,
+      "grade": "C",
+      "rationale": "Correctly identifies the general scope, but lacks specific details or deeper elaboration."
+    },
+    {
+      "id": 64,
+      "grade": "B",
+      "rationale": "Provides a clear and correct detail about the digitalization scope, directly addressing the question."
+    },
+    {
+      "id": 65,
+      "grade": "A",
+      "rationale": "Provides specific details of the portal and introduces a strategic idea for engagement."
+    },
+    {
+      "id": 66,
+      "grade": "E",
+      "rationale": "An incomplete thought that does not add value to the class discussion."
+    },
+    {
+      "id": 67,
+      "grade": "A",
+      "rationale": "Explains a strategic approach, connecting the project to a broader policy framework."
+    },
+    {
+      "id": 68,
+      "grade": "B",
+      "rationale": "Elaborates on the top-down strategy and implementation plan, demonstrating solid understanding."
+    },
+    {
+      "id": 69,
+      "grade": "E",
+      "rationale": "Shifts to personal connections, not directly responding to the discussion about policy approach."
+    },
+    {
+      "id": 70,
+      "grade": "B",
+      "rationale": "Provides a clear and correct answer to a direct clarifying question."
+    },
+    {
+      "id": 71,
+      "grade": "C",
+      "rationale": "Indicates intent to ask a question, but the question itself is not stated."
+    },
+    {
+      "id": 72,
+      "grade": "C",
+      "rationale": "Indicates intent to ask a question, but the question itself is not stated."
+    },
+    {
+      "id": 73,
+      "grade": "B",
+      "rationale": "Connects the bureaucracy point to universities, building on the previous discussion."
+    },
+    {
+      "id": 74,
+      "grade": "D",
+      "rationale": "An incomplete statement that adds minimal value to the discussion."
+    },
+    {
+      "id": 75,
+      "grade": "B",
+      "rationale": "Provides a specific, relevant point about funding which connects to the discussion of slowness."
+    },
+    {
+      "id": 76,
+      "grade": "C",
+      "rationale": "Correct but extremely limited in detail and elaboration."
+    },
+    {
+      "id": 77,
+      "grade": "B",
+      "rationale": "Meaningful contribution identifying a specific authority, building on the discussion."
+    },
+    {
+      "id": 78,
+      "grade": "B",
+      "rationale": "Builds on previous point by explaining funding mechanisms and governmental connections."
+    },
+    {
+      "id": 79,
+      "grade": "C",
+      "rationale": "Relevant clarification summarizing previous points, but without significant new depth."
+    },
+    {
+      "id": 80,
+      "grade": "B",
+      "rationale": "Clarifies the process for funding by identifying the authority and specific contact."
+    },
+    {
+      "id": 81,
+      "grade": "B",
+      "rationale": "Extends the previous point by identifying the ultimate source for funding."
+    },
+    {
+      "id": 82,
+      "grade": "D",
+      "rationale": "Acknowledgment, but adds minimal value to the discussion content."
+    },
+    {
+      "id": 83,
+      "grade": "D",
+      "rationale": "Acknowledgment, but adds minimal value to the discussion content."
+    },
+    {
+      "id": 84,
+      "grade": "D",
+      "rationale": "Conversational acknowledgment, adding minimal academic value to the discussion."
+    },
+    {
+      "id": 85,
+      "grade": "B",
+      "rationale": "Clear and complete direct response to the teacher's question."
+    },
+    {
+      "id": 86,
+      "grade": "B",
+      "rationale": "Correct and clear factual response to a direct question."
+    },
+    {
+      "id": 87,
+      "grade": "C",
+      "rationale": "Relevant acknowledgment showing topic awareness, but adds no new insight."
+    },
+    {
+      "id": 88,
+      "grade": "B",
+      "rationale": "Clarifying question that connects the assignment to a known concept, deepening understanding."
+    },
+    {
+      "id": 89,
+      "grade": "B",
+      "rationale": "Clarifying summary of assignment expectations, demonstrating solid comprehension."
+    },
+    {
+      "id": 90,
+      "grade": "B",
+      "rationale": "Clarifying question connecting the debate format to course frameworks and theories."
+    },
+    {
+      "id": 91,
+      "grade": "C",
+      "rationale": "The student's response is a correct but very limited affirmation of the teacher's point."
+    },
+    {
+      "id": 92,
+      "grade": "B",
+      "rationale": "The student asks a clarifying question that helps deepen understanding of the first week's task."
+    },
+    {
+      "id": 93,
+      "grade": "C",
+      "rationale": "The student provides a correct but very limited acknowledgement, lacking detail or elaboration."
+    },
+    {
+      "id": 94,
+      "grade": "C",
+      "rationale": "The student provides a correct but very limited acknowledgement, lacking detail or elaboration."
+    },
+    {
+      "id": 95,
+      "grade": "C",
+      "rationale": "The student provides a correct but very limited acknowledgement, lacking detail or elaboration."
+    },
+    {
+      "id": 96,
+      "grade": "B",
+      "rationale": "The student asks a clarifying question, demonstrating engagement and seeking deeper understanding of the debate structure."
+    },
+    {
+      "id": 97,
+      "grade": "B",
+      "rationale": "The student provides a clear, complete, and correct response, helping the teacher identify the last team member."
+    },
+    {
+      "id": 98,
+      "grade": "B",
+      "rationale": "The student provides a clear, complete, and correct response, helping the teacher identify the last team member."
+    },
+    {
+      "id": 99,
+      "grade": "A",
+      "rationale": "Student makes an insightful analogy (\"mini Shark Tank\"), showing original thinking and advancing understanding of the debate format."
+    },
+    {
+      "id": 100,
+      "grade": "B",
+      "rationale": "The student asks a clarifying question, confirming the scope of the team's project topic."
+    },
+    {
+      "id": 101,
+      "grade": "C",
+      "rationale": "The student provides a correct but very limited acknowledgement, lacking detail or elaboration."
+    },
+    {
+      "id": 102,
+      "grade": "C",
+      "rationale": "The student provides a correct but very limited affirmation of understanding."
+    },
+    {
+      "id": 103,
+      "grade": "E",
+      "rationale": "The student's contribution is unclear and incomplete, thus adding no value to the discussion."
+    },
+    {
+      "id": 104,
+      "grade": "C",
+      "rationale": "The student expresses a relevant point of confusion, indicating topic awareness but lacking depth."
+    },
+    {
+      "id": 105,
+      "grade": "C",
+      "rationale": "The student provides a correct but limited acknowledgement of understanding the clarified term."
+    },
+    {
+      "id": 106,
+      "grade": "C",
+      "rationale": "Student offers a relevant analogy for the class format."
+    },
+    {
+      "id": 107,
+      "grade": "C",
+      "rationale": "Student acknowledges the statement but provides no detail or elaboration."
+    },
+    {
+      "id": 108,
+      "grade": "B",
+      "rationale": "Student asks a clarifying question about the class discussion format."
+    },
+    {
+      "id": 109,
+      "grade": "C",
+      "rationale": "Student makes a relevant but specific comment about their individual project update."
+    },
+    {
+      "id": 110,
+      "grade": "C",
+      "rationale": "Student gives a correct but minimal one-word answer to a direct question."
+    },
+    {
+      "id": 111,
+      "grade": "B",
+      "rationale": "Student asks a clarifying question to deepen understanding about BLN's role."
+    },
+    {
+      "id": 112,
+      "grade": "D",
+      "rationale": "Student provides a minimal acknowledgement without elaboration."
+    },
+    {
+      "id": 113,
+      "grade": "D",
+      "rationale": "Student's comment is vague and adds minimal value to the discussion."
+    },
+    {
+      "id": 114,
+      "grade": "D",
+      "rationale": "Student's comment is incomplete and adds minimal value to the discussion."
+    },
+    {
+      "id": 115,
+      "grade": "E",
+      "rationale": "Student's comment is a polite closing remark, adding no value to the discussion."
+    },
+    {
+      "id": 116,
+      "grade": "B",
+      "rationale": "Student asks a meaningful clarifying question about future class logistics."
+    },
+    {
+      "id": 117,
+      "grade": "C",
+      "rationale": "Student offers a relevant, but very brief, rephrasing of the task."
+    },
+    {
+      "id": 1,
+      "grade": "D",
+      "rationale": "A very brief and incomplete question, adding minimal value to the discussion."
+    },
+    {
+      "id": 2,
+      "grade": "B",
+      "rationale": "Meaningful update on ICP progress, responding directly to teacher's prompt."
+    },
+    {
+      "id": 3,
+      "grade": "B",
+      "rationale": "Clarifies the specific technology for the Microsoft partnership, building on previous information."
+    },
+    {
+      "id": 4,
+      "grade": "B",
+      "rationale": "Builds on the discussion about project limitations, explaining efforts to find further opportunities."
+    },
+    {
+      "id": 5,
+      "grade": "E",
+      "rationale": "Incomplete thought, unclear, and adds no substantive value to the ongoing discussion."
+    },
+    {
+      "id": 6,
+      "grade": "A",
+      "rationale": "Clarifies project status, defines personal role, and poses an insightful question about commercialization."
+    },
+    {
+      "id": 7,
+      "grade": "E",
+      "rationale": "An interjection that does not clarify, question, or contribute to the discussion."
+    },
+    {
+      "id": 8,
+      "grade": "B",
+      "rationale": "Poses a clarifying question regarding the payment flow and roles between the entities."
+    },
+    {
+      "id": 9,
+      "grade": "A",
+      "rationale": "Challenges the translation strategy and questions the reasoning behind it, advancing the discussion."
+    },
+    {
+      "id": 10,
+      "grade": "B",
+      "rationale": "Persistently rephrases and clarifies a previous question, seeking deeper understanding of the strategy."
+    },
+    {
+      "id": 11,
+      "grade": "B",
+      "rationale": "Poses a clarifying question to understand the broader scope beyond just language."
+    },
+    {
+      "id": 12,
+      "grade": "E",
+      "rationale": "An interjection that does not clarify, question, or contribute to the discussion."
+    },
+    {
+      "id": 13,
+      "grade": "B",
+      "rationale": "Poses a specific clarifying question about who is responsible for the adaptation process."
+    },
+    {
+      "id": 14,
+      "grade": "E",
+      "rationale": "Minimal acknowledgment that does not contribute further to the discussion."
+    },
+    {
+      "id": 15,
+      "grade": "A",
+      "rationale": "Makes an insightful observation about their project, reflecting on the discussed models and adaptation opportunities."
+    }
+  ]
+}

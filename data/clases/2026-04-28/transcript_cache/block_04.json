@@ -1,0 +1,379 @@
+{
+  "block": 4,
+  "time_range": "15:00-20:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want to really share with you. I was the I was beneficiary of this program and thanks to that, I got a career, I work with really interesting projects, I got I get I get freedom to choose because I'm an expert of the field where I get projects, they come to me and they say, do you want to join? And I want, uh, this is a project I want to I want to be part of, and this one I don't want to be part.",
+      "timestamp_abs": "15:00"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I get that because because of this.",
+      "timestamp_abs": "15:19"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So and one of the things is that I learned is that through this course, through this past the the journey of ITP was that...",
+      "timestamp_abs": "15:22"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We cannot grow alone.",
+      "timestamp_abs": "15:33"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Costa Rica cannot become a leading country alone.",
+      "timestamp_abs": "15:36"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Korea didn't do it alone. Korea did it with the help of USA, with the",
+      "timestamp_abs": "15:39"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So if anybody of you, if Chilaka will become the minister, if Grace will become the president of the the",
+      "timestamp_abs": "15:44"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Correct.",
+      "timestamp_abs": "15:51"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the name of your university?",
+      "timestamp_abs": "15:53"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Roho, huh?",
+      "timestamp_abs": "15:55"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Kinshasa.",
+      "timestamp_abs": "15:56"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Kinshasa University. Kinshasa University.",
+      "timestamp_abs": "15:57"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yes.",
+      "timestamp_abs": "15:59"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, if Stephen will become the new president of the NIDA, huh, or the new regulator, huh, senior authority in the regulation entity. Or he's going to be at least like, ah, promoted to the, the, the leader of the PTFT to solve the fishing and fishing problem.",
+      "timestamp_abs": "16:01"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh? Or he might become the next really like, uh, telecommunication smart care or identification and ID digital public infrastructure expert, right? For the African Development Bank, for example.",
+      "timestamp_abs": "16:17"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Anyway, if you want that kind of upgrading your own professional career.",
+      "timestamp_abs": "16:28"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You cannot do it alone.",
+      "timestamp_abs": "16:32"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Even me these days, I contact, look at how many people I contact for your projects.",
+      "timestamp_abs": "16:33"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I contact here, I contact the companies.",
+      "timestamp_abs": "16:37"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to learn how to collaborate.",
+      "timestamp_abs": "16:39"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We need to learn how to work together.",
+      "timestamp_abs": "16:42"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And when you collaborate professionally, these kind of proposals are daily, daily, daily, daily, right?",
+      "timestamp_abs": "16:44"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Either you, today I was talking to Cesar, they were working to to uh, apply for a project, like almost $13 million or million euro project.",
+      "timestamp_abs": "16:49"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, funding, uh, and they were working very hard to build a proposal to get the funding.",
+      "timestamp_abs": "16:59"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So ICP is just really is just the excuse of the document that we have to do, but really believe me, if we learn how to write these thing, you will learn a lot of skill set that you can use in many other things.",
+      "timestamp_abs": "17:04"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so so I want to really stress upon that.",
+      "timestamp_abs": "17:15"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, and then about the collaboration approach, because we have to grow together as countries even, right?",
+      "timestamp_abs": "17:19"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the vision behind the Kai GDP?",
+      "timestamp_abs": "17:26"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want to be open about it because I don't want to you to think that I'm just like, oh, this professor is a little bit crazy. Just went ahead and then went back.",
+      "timestamp_abs": "17:28"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "because he was like last week and I I I was on a on a ride, no.",
+      "timestamp_abs": "17:35"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because I really thought, ah, we need to really learn how to build ardent capacity, how to uh, produce globally competent graduates through authentic projects.",
+      "timestamp_abs": "17:41"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is what we wrote in the in the in the strategic planning of this program.",
+      "timestamp_abs": "17:51"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ensure ethics, safety, data governance, and inclusivity.",
+      "timestamp_abs": "17:56"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So when we think about our projects, we need to think about all these issues.",
+      "timestamp_abs": "17:59"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Actually, next project in the next course, there is a part of the force where we consider a lot of about the ethics, the inclusivity, the technology neutrality issues.",
+      "timestamp_abs": "18:03"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, and again, as I was going to say, remember I told you, this is more or less the pro the the global technology commercialization journey.",
+      "timestamp_abs": "18:12"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But at that time I also explained to you, it's not really linear.",
+      "timestamp_abs": "18:20"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's kind of there's also another dilemma in my head when I designed this course.",
+      "timestamp_abs": "18:23"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because I told you before, if if as a person who had never done technology commercialization before, but even though I was from business area.",
+      "timestamp_abs": "18:29"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Some of the aspects of technology commercialization just seemed to very abstract, like not related to what I was used to.",
+      "timestamp_abs": "18:39"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So if I just had come here to say, ah, technology readiness level is this, this, this, minimum viable product is this, this, this.",
+      "timestamp_abs": "18:46"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, it is like a textbook course.",
+      "timestamp_abs": "18:52"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But for many of you would have been like, okay, what does that have to do with my topic or whatever? Like, it would have been maybe very, very weird.",
+      "timestamp_abs": "18:54"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So one of the reasons why I kind of do it jumping is because I want to give you some idea of what could happen with your projects ahead.",
+      "timestamp_abs": "19:03"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Otherwise, it's like going blind, like, okay, I have to write an ICP, okay, I'll just write it, right?",
+      "timestamp_abs": "19:11"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You're talking at home with people who are asking you questions of what does that, then what do you need, why do you need this?",
+      "timestamp_abs": "19:16"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I I also sat in your chairs and I remember I was contacting my boss and my boss was like, okay, okay, so you have to.",
+      "timestamp_abs": "19:22"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "At the beginning my boss just was just like, helping me because he thought he's like a homework project. I'm like, no, no, it's a real project, boss, I need to do this.",
+      "timestamp_abs": "19:28"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And he's like, okay, okay, then let me see what I can find that that is could be interesting for you to make.",
+      "timestamp_abs": "19:36"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will try to help you maybe ask some people or me help you set up a meeting.",
+      "timestamp_abs": "19:40"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I remember about that feeling that I was not really certain about what was the next step.",
+      "timestamp_abs": "19:45"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why I try when I when I give my class, I try to give you more and more examples.",
+      "timestamp_abs": "19:51"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And when you think about the end when the whole framework where where",
+      "timestamp_abs": "19:56"
+    }
+  ]
+}

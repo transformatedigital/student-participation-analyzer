@@ -1,0 +1,20 @@
+{
+  "block": 25,
+  "time_range": "120:00-125:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "somebody could say, if you're creating startups anyway and they're not not related to research. So why you need this? So maybe research is just not necessary in Nigeria.",
+      "timestamp_abs": "120:00"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Somebody could just really like very annoyingly say this kind of argument, counter-argument. But you have to say, hey, there is well known knowledge that the creation of startups that are knowledge-based, that are related to technology commercialization have a different impact in the economy. Or, for example, there's certain data that tells me that startups that are university-driven or university research or university-industry collaboration startups have a higher chance of becoming a unicorn. I don't know, I'm just making things up right now, but I would like really logically make my argument so that it's like, ah, okay, yeah, Nigeria has all these things going for and if only the missing link of the R&D management information is solved, Nigeria could just become, wow, the next amazing leader of the world, you know?",
+      "timestamp_abs": "120:09"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "block": 34,
+  "time_range": "165:00-167:15",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "powerhouse in inhouse.",
+      "timestamp_abs": "165:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So be careful with the camera project in the digital era.",
+      "timestamp_abs": "165:01"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Before, yes, you can do that.",
+      "timestamp_abs": "165:05"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now, it's hard because you cannot take three years investing the salaries of those engineers in the public air field, paying a lot, and they don't deliver the same outcomes with the same guarantee.",
+      "timestamp_abs": "165:07"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's a risky, risky and tricky approach.",
+      "timestamp_abs": "165:19"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not, I'm not saying this is right, this is wrong, I'm just saying it's not always right.",
+      "timestamp_abs": "165:23"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "165:28"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "165:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, uhm.",
+      "timestamp_abs": "165:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "There are some words like S.P.O.C. and P.P. pilot production.",
+      "timestamp_abs": "165:31"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And I think there's nothing like Core and NDA and LOA, uh,",
+      "timestamp_abs": "165:36"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "An LOI, of course, there's. Yeah, yeah, yeah.",
+      "timestamp_abs": "165:41"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "165:43"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "I mean, you mean ICP needs to put those words?",
+      "timestamp_abs": "165:44"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No.",
+      "timestamp_abs": "165:49"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I mean like, uh, for my guess maybe [inaudible] three, four [inaudible] and so on.",
+      "timestamp_abs": "165:50"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's all.",
+      "timestamp_abs": "165:54"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For you, you don't. Probably after the ICP in the next course.",
+      "timestamp_abs": "165:55"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You're gonna start the development of the project.",
+      "timestamp_abs": "166:00"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then probably you're gonna have, I would say at the middle, maybe at the end of this course or the beginning of next course, you will start having the LOI.",
+      "timestamp_abs": "166:04"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The just a formalization. Right now we're in the really brainstorming and planning approach.",
+      "timestamp_abs": "166:13"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But with me, I'm giving you a big push because I want you to be able to imagine quickly where you're going, what will happen when you pursue this relation.",
+      "timestamp_abs": "166:19"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If we keep just planning like in the you know, only just a conception. It's goes too slow because it's hard for you to imagine what will happen after this.",
+      "timestamp_abs": "166:29"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because you haven't married on a technology commercialization project.",
+      "timestamp_abs": "166:37"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I'm just giving you a lot of credit. This could happen, that could happen, this could happen.",
+      "timestamp_abs": "166:40"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you can say, ah, okay, this is kinda the path that we're talking about.",
+      "timestamp_abs": "166:44"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why I did give so many examples and I tell you so many ideas and I push you to look at the landscape of the market so that you can imagine better what your technology commercialization project will look like.",
+      "timestamp_abs": "166:48"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "167:00"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "See you next week with a better voice.",
+      "timestamp_abs": "167:03"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[laughter]",
+      "timestamp_abs": "167:06"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "167:07"
+    }
+  ]
+}

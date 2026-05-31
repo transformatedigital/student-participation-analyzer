@@ -1,0 +1,69 @@
+{
+  "block": 23,
+  "time_range": "110:00-115:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I told you many of you on the conversation after, and I said briefly last time, do not worry too much, in Spanish we say don't worry about money because we don't have it.",
+      "timestamp_abs": "110:00"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "110:16"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? I told you about that. So, it's a joke, but actually, in both of them, my experience is in many of the projects that I've been making, 90% of the projects, the country didn't have the funds. The funds came from Korea. So, one of the attractive things of this course and the whole track in the GDI is that you can be a very big savior because you're bringing funds that are not so easy to find if you are in your country. When you're in your country, the only way to find these funds is through your embassy in Korea or through the Korean embassy, basically. But here, who knew that KISTI had some personal funds to fund the initial part of this collaboration with Costa Rica? It was not a KOICA fund. It was not a KOICA is the Korean International Cooperation Agency. It's one of them.",
+      "timestamp_abs": "110:17"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "111:50"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you know the Rwanda Telecom company or NIDA or whatever public private partnership. And they apply for a for a subsidy for doing a global commercialization initially abroad. The government can give up to $100,000 per per project. Korea is a very generous ecosystem. And they are really willing to help their own ventures, startups and small-medium enterprises and public companies to help them go abroad. Why? Because they understand probably if you go to abroad market, you earn lots of money and come back and pay taxes. There is a return in the investment, right?",
+      "timestamp_abs": "111:50"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "In some like countries already. We have good connection.",
+      "timestamp_abs": "112:44"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So. So if they can think, happy, we go to Rwanda, we succeed in the solution and we send the solution. They will take it, right?",
+      "timestamp_abs": "112:48"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, they do. They do.",
+      "timestamp_abs": "112:56"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I think there are different ways to. Ah, maybe there are a lot of initial that. Even the partners that you find might already know, ah, if you don't have money, don't worry. I will ask the Korean government to give me some money to start the project. Meanwhile, we prepare the project. So, my almost 90% of the projects I did, never, almost never, 85, 85. 15% of funding came from the or 50 60, 50 50, 60 40, shared investment, or almost 100% the initial investment, the seeding investment of the project, the feasibility study, the consulting project, to prepare the project or the pre-investment stage, almost certainly came from Korea.",
+      "timestamp_abs": "112:57"
+    }
+  ]
+}

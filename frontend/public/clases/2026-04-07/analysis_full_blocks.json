@@ -1,0 +1,3877 @@
+{
+  "session_id": "2026-04-07",
+  "total_duration": "69:24",
+  "blocks_analyzed": 7,
+  "teacher_questions": [
+    {
+      "timestamp": "00:33",
+      "question": "With Microsoft?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Microsoft Copilot for using the AI for uh you know for knowledge management.",
+        "quality_score": "B"
+      },
+      "block": 1,
+      "id": 1
+    },
+    {
+      "timestamp": "05:39",
+      "question": "You get it?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": ""
+      },
+      "block": 1,
+      "id": 2
+    },
+    {
+      "timestamp": "06:21",
+      "question": "Do you think MICIT is willing to pay to a guy, to a company, who has no know-how?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": ""
+      },
+      "block": 1,
+      "id": 3
+    },
+    {
+      "timestamp": "07:09",
+      "question": "Right?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": ""
+      },
+      "block": 1,
+      "id": 4
+    },
+    {
+      "timestamp": "11:33",
+      "question": "Kisbee, okay?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "No no no not not for Kisbee, for this For GDI. Yeah.",
+        "quality_score": "C"
+      },
+      "block": 2,
+      "id": 5
+    },
+    {
+      "timestamp": "13:23",
+      "question": "Is there, right? See that?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yeah it is, it is.",
+        "quality_score": "C"
+      },
+      "block": 2,
+      "id": 6
+    },
+    {
+      "timestamp": "13:41",
+      "question": "That's all you see. When you reach and like, what? I have to do collaboration? Why? Why am I not here for the global?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "No.",
+        "quality_score": "C"
+      },
+      "block": 2,
+      "id": 7
+    },
+    {
+      "timestamp": "20:31",
+      "question": "Anything else from ICP? Anybody else drop in their ICP?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": ""
+      },
+      "block": 3,
+      "id": 8
+    },
+    {
+      "timestamp": "21:46",
+      "question": "Can you send me the link?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yeah, yeah. This one?",
+        "quality_score": "B"
+      },
+      "block": 3,
+      "id": 9
+    },
+    {
+      "timestamp": "22:02",
+      "question": "How did I I wonder how deep this digital portal is.",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Uh actually it's useful.",
+        "quality_score": "C"
+      },
+      "block": 3,
+      "id": 10
+    },
+    {
+      "timestamp": "22:09",
+      "question": "How out I mean, okay, so they are trying to deploy the portal and it's gonna be officially launched, it was officially launched. So what is the scope of this portal? It's very important to you for you to know what's the real scope.",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yeah, actually it's uh they are really focusing on digitalizing uh uh I mean the the academic uh sector. I mean the high education",
+        "quality_score": "B"
+      },
+      "block": 3,
+      "id": 11
+    },
+    {
+      "timestamp": "22:35",
+      "question": "But digitalizing means what? Like you have training, online training, right?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Online training, yes this one. They are this is the training module.",
+        "quality_score": "B"
+      },
+      "block": 3,
+      "id": 12
+    },
+    {
+      "timestamp": "23:25",
+      "question": "So you're trying to connect it to whatever they're doing here using this as a framework?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Uh actually I wanted to bring it as uh the project for the Ministry of High Education.",
+        "quality_score": "B"
+      },
+      "block": 3,
+      "id": 13
+    },
+    {
+      "timestamp": "24:25",
+      "question": "It's interesting, but what I worry again is how how far how far or how close are you to the minister?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "I am I am I am somehow closer because I am working with one of the professor who is is academic advisor. So to him, I can contact him.",
+        "quality_score": "B"
+      },
+      "block": 3,
+      "id": 14
+    },
+    {
+      "timestamp": "24:43",
+      "question": "He's academic advisor of this initiative or the Minister of Higher Education?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Of the Minister of I education.",
+        "quality_score": "B"
+      },
+      "block": 3,
+      "id": 15
+    },
+    {
+      "timestamp": "25:34",
+      "question": "I think this is important. Who's gonna be the owner?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": ""
+      },
+      "block": 3,
+      "id": 16
+    },
+    {
+      "timestamp": "25:40",
+      "question": "Who's gonna be the owner and who are gonna be the partners in the sense like if the learning management system is gonna be from the Ministry of Higher Education, maybe the Minister of Higher Education is just like the policy maker, he's just gonna provide the framework, but he's not gonna operate the learning management system. Maybe they're going to say, no, I'm gonna ask the university of Kinshasa to be the first operator of the system and if they approve the public concept, later on, we will make it available to the other public universities like that.",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": ""
+      },
+      "block": 3,
+      "id": 17
+    },
+    {
+      "timestamp": "30:09",
+      "question": "Anybody knows what a FabLab is?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Unknown",
+        "response": "[Unclear mumbling, possibly attempting to define 'FabLab']",
+        "quality_score": "D"
+      },
+      "block": 4,
+      "id": 18
+    },
+    {
+      "timestamp": "35:31",
+      "question": "I don't know how you will connect this point of LMS within this. I think this is something you need to contact the academic advisor and say, 'I'm trying to connect my project to this is how how to align it and how to justify it?'",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": ""
+      },
+      "block": 4,
+      "id": 19
+    },
+    {
+      "timestamp": "36:34",
+      "question": "And please next week, please report me. 'Ah, I checked the tools, this is the problem, this is whatever.' 'I think this one could work, but no, I want that kind of feedback because then we will contact the developers just to start bringing what they can do.'",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": ""
+      },
+      "block": 4,
+      "id": 20
+    },
+    {
+      "timestamp": "39:26",
+      "question": "Okay. Um, any, is that crazy? Anything else you want to talk about?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "No, actually I just wanted to discuss that one, so I will just try to restructure.",
+        "quality_score": "B"
+      },
+      "block": 4,
+      "id": 21
+    },
+    {
+      "timestamp": "39:49",
+      "question": "Next week, when is it going to be the midterm?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Student",
+        "response": "22nd. [Another student adds:] Check again.",
+        "quality_score": "B"
+      },
+      "block": 4,
+      "id": 22
+    },
+    {
+      "timestamp": "41:19",
+      "question": "So, what is Chilaka doing now?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": ""
+      },
+      "block": 5,
+      "id": 23
+    },
+    {
+      "timestamp": "43:27",
+      "question": "Grace, are you gonna... so when you're asking me, should I ask, should I make the minister of higher education my owner of this project or not?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": ""
+      },
+      "block": 5,
+      "id": 24
+    },
+    {
+      "timestamp": "43:53",
+      "question": "Am I using my logic to connect to that?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": ""
+      },
+      "block": 5,
+      "id": 25
+    },
+    {
+      "timestamp": "45:39",
+      "question": "So already you guys read about this, right?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": ""
+      },
+      "block": 5,
+      "id": 26
+    },
+    {
+      "timestamp": "55:37",
+      "question": "Right?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": null
+      },
+      "block": 6,
+      "id": 27
+    },
+    {
+      "timestamp": "56:11",
+      "question": "I want you to discuss with Cesar, when the the submission of the midterm could happen.",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": null
+      },
+      "block": 6,
+      "id": 28
+    },
+    {
+      "timestamp": "58:05",
+      "question": "from your family of startups or companies, who are having the good energy management systems?",
+      "directed_to": "Unnamed",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": null
+      },
+      "block": 6,
+      "id": 29
+    },
+    {
+      "timestamp": "58:10",
+      "question": "or here, do you have a good contact point at Samsung SBI?",
+      "directed_to": "Unnamed",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": null
+      },
+      "block": 6,
+      "id": 30
+    },
+    {
+      "timestamp": "59:10",
+      "question": "Let's make it 10 minutes.",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "",
+        "response": "",
+        "quality_score": null
+      },
+      "block": 6,
+      "id": 31
+    },
+    {
+      "timestamp": "61:31",
+      "question": "\u00bfen qu\u00e9 sentido ustedes pueden decir que la cultura es central en la obra de Arguedas?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yo creo que eh... La cultura es central en Arguedas porque \u00e9l est\u00e1 mostrando los problemas entre las culturas de los Andes y la cultura europea.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 32
+    },
+    {
+      "timestamp": "61:42",
+      "question": "Aryang, \u00bfqu\u00e9 piensas t\u00fa?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yo creo que eh... La cultura es central en Arguedas porque \u00e9l est\u00e1 mostrando los problemas entre las culturas de los Andes y la cultura europea.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 33
+    },
+    {
+      "timestamp": "62:01",
+      "question": "\u00bfQui\u00e9n m\u00e1s?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Grace",
+        "response": "Ah, yo creo tambi\u00e9n que \u00e9l est\u00e1 usando eh... los conceptos de la lengua.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 34
+    },
+    {
+      "timestamp": "62:06",
+      "question": "La lengua. \u00bfLa lengua como qu\u00e9?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh, como una... una manera para comunicar con... los Andes, la cultura andina. Eh, y la cultura.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 35
+    },
+    {
+      "timestamp": "62:14",
+      "question": "Mmh. \u00bfQu\u00e9 significa eso, Grace?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh, que \u00e9l est\u00e1 escribiendo en espa\u00f1ol y tambi\u00e9n que est\u00e1 traduciendo eh... ah, los cantos quechuas.",
+        "quality_score": "A"
+      },
+      "block": 7,
+      "id": 36
+    },
+    {
+      "timestamp": "62:25",
+      "question": "\u00bfY qu\u00e9 significa eso en su obra?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Que \u00e9l tiene un entendimiento de ambas culturas.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 37
+    },
+    {
+      "timestamp": "62:34",
+      "question": "Y, \u00bfqu\u00e9 otra cosa nos est\u00e1 mostrando?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Eh... la colonizaci\u00f3n eh... que es importante para Arguedas porque \u00e9l est\u00e1 viendo eh... est\u00e1 mostrando c\u00f3mo los ind\u00edgenas sufrieron bajo la colonizaci\u00f3n.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 38
+    },
+    {
+      "timestamp": "62:47",
+      "question": "\u00bfNo?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Class",
+        "response": "S\u00ed.",
+        "quality_score": "C"
+      },
+      "block": 7,
+      "id": 39
+    },
+    {
+      "timestamp": "63:00",
+      "question": "\u00bfEn qu\u00e9 otro sentido podr\u00edamos decir que la cultura es central?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yo creo que eh, el mestizaje y la cultura es central tambi\u00e9n. Por ejemplo, eh, creo que la cultura de Per\u00fa es mestiza, \u00bfno?",
+        "quality_score": "A"
+      },
+      "block": 7,
+      "id": 40
+    },
+    {
+      "timestamp": "63:14",
+      "question": "\u00bfCon sus eh... qu\u00e9?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Con los personajes, como Gabriel.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 41
+    },
+    {
+      "timestamp": "63:19",
+      "question": "Mmh. \u00bfCon sus personajes que son mestizos?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "S\u00ed, s\u00ed. O ah...",
+        "quality_score": "C"
+      },
+      "block": 7,
+      "id": 42
+    },
+    {
+      "timestamp": "63:24",
+      "question": "Que eh... est\u00e1n en un proceso de b\u00fasqueda, \u00bfno?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Class",
+        "response": "S\u00ed.",
+        "quality_score": "C"
+      },
+      "block": 7,
+      "id": 43
+    },
+    {
+      "timestamp": "63:32",
+      "question": "Mmh. O sea, est\u00e1 la cultura. \u00bfQu\u00e9 m\u00e1s?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Eh... la cultura andina est\u00e1 siendo influenciada por la cultura europea. Entonces, hay como eh, un conflicto entre las dos.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 44
+    },
+    {
+      "timestamp": "63:47",
+      "question": "\u00bfQu\u00e9 m\u00e1s?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh, yo creo que tambi\u00e9n el... eh... el contexto de el gobierno. C\u00f3mo es el gobierno uhm... en contra de los ind\u00edgenas.",
+        "quality_score": "A"
+      },
+      "block": 7,
+      "id": 45
+    },
+    {
+      "timestamp": "64:00",
+      "question": "La discriminaci\u00f3n. \u00bfY c\u00f3mo muestra Arguedas eso, Grace?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh... con los personajes que son indios, que est\u00e1n sufriendo con el... el gobierno.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 46
+    },
+    {
+      "timestamp": "64:08",
+      "question": "Mmh. \u00bfCon el gobierno? \u00bfO con los personajes que representan al sistema?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Ah, s\u00ed, s\u00ed, s\u00ed. Con el sistema.",
+        "quality_score": "C"
+      },
+      "block": 7,
+      "id": 47
+    },
+    {
+      "timestamp": "64:22",
+      "question": "Y, \u00bfqui\u00e9n m\u00e1s? \u00bfQui\u00e9nes m\u00e1s son parte de este sistema?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh... la polic\u00eda, el alcalde. Eh... tambi\u00e9n la iglesia.",
+        "quality_score": "A"
+      },
+      "block": 7,
+      "id": 48
+    },
+    {
+      "timestamp": "64:31",
+      "question": "Y, \u00bfc\u00f3mo muestra la iglesia?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Grace",
+        "response": "Ah... el cura es eh... no es una persona que... va a ayudar.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 49
+    },
+    {
+      "timestamp": "64:38",
+      "question": "Correcto. \u00bfMuestra un cura?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "S\u00ed.",
+        "quality_score": "C"
+      },
+      "block": 7,
+      "id": 50
+    },
+    {
+      "timestamp": "64:41",
+      "question": "\u00bfQu\u00e9 les parece ese cura? \u00bfQu\u00e9 hace el cura? \u00bfQu\u00e9 hace?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Eh... \u00e9l no tiene compasi\u00f3n por los ind\u00edgenas y \u00e9l est\u00e1 apoyando a los eh... a los blancos, a los mestizos.",
+        "quality_score": "A"
+      },
+      "block": 7,
+      "id": 51
+    },
+    {
+      "timestamp": "64:52",
+      "question": "Mmh. \u00bfA los blancos?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "O sea, eh... a los ricos, a los eh... No s\u00e9 la palabra, pero s\u00ed.",
+        "quality_score": "C"
+      },
+      "block": 7,
+      "id": 52
+    },
+    {
+      "timestamp": "65:01",
+      "question": "Y, \u00bfqu\u00e9 m\u00e1s? Eh... \u00bfqui\u00e9n m\u00e1s, Aryang, est\u00e1 en este sistema de poder?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Uhm... los que venden la eh... los que tienen la eh... las tiendas y los que est\u00e1n eh...",
+        "quality_score": "C"
+      },
+      "block": 7,
+      "id": 53
+    },
+    {
+      "timestamp": "65:22",
+      "question": "\u00bfQu\u00e9 m\u00e1s? \u00bfQu\u00e9 otra cosa es central?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh, el folklore.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 54
+    },
+    {
+      "timestamp": "65:30",
+      "question": "\u00bfY qu\u00e9 significa ese folklore, Grace?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh, como los cantos, la m\u00fasica, las fiestas, los bailes. Todo eso es s\u00faper importante en la cultura andina.",
+        "quality_score": "A"
+      },
+      "block": 7,
+      "id": 55
+    },
+    {
+      "timestamp": "65:38",
+      "question": "Mmh. \u00bfY Arguedas lo incorpora c\u00f3mo?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "A trav\u00e9s de las eh... las descripciones de las fiestas y los bailes y los cantos.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 56
+    },
+    {
+      "timestamp": "65:48",
+      "question": "A trav\u00e9s de los personajes. \u00bfNo?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Class",
+        "response": "S\u00ed.",
+        "quality_score": "C"
+      },
+      "block": 7,
+      "id": 57
+    },
+    {
+      "timestamp": "65:53",
+      "question": "Y, \u00bfpor qu\u00e9 es importante que Arguedas haga eso?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh, yo creo que porque uhm... los otras eh... la otra literatura est\u00e1 como mostrando la cultura eh... eh... la cultura europea, \u00bfno?",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 58
+    },
+    {
+      "timestamp": "66:13",
+      "question": "Mmh. \u00bfQu\u00e9 m\u00e1s?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Y ah... mostrando eh... que tienen eh... la misma importancia.",
+        "quality_score": "A"
+      },
+      "block": 7,
+      "id": 59
+    },
+    {
+      "timestamp": "66:21",
+      "question": "\u00bfY qu\u00e9 otra cosa es central?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Grace",
+        "response": "Uhm... el eh... las emociones.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 60
+    },
+    {
+      "timestamp": "66:27",
+      "question": "\u00bfLas emociones?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "S\u00ed. Como los... los personajes.",
+        "quality_score": "C"
+      },
+      "block": 7,
+      "id": 61
+    },
+    {
+      "timestamp": "66:30",
+      "question": "Mmh. \u00bfY en qu\u00e9 sentido son centrales las emociones?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh... la nostalgia de su ni\u00f1ez, de su casa, de la cultura.",
+        "quality_score": "A"
+      },
+      "block": 7,
+      "id": 62
+    },
+    {
+      "timestamp": "66:40",
+      "question": "\u00bfDe qu\u00e9 m\u00e1s?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Eh... el sentimiento de... de perder la cultura andina.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 63
+    },
+    {
+      "timestamp": "66:49",
+      "question": "\u00bfQu\u00e9 m\u00e1s?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh... el amor por la tierra, por los animales, por el mundo.",
+        "quality_score": "A"
+      },
+      "block": 7,
+      "id": 64
+    },
+    {
+      "timestamp": "67:06",
+      "question": "\u00bfY qu\u00e9 otra cosa es central, eh... Aryang?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Uhm... el dolor de la discriminaci\u00f3n, y el dolor de los conflictos.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 65
+    },
+    {
+      "timestamp": "67:14",
+      "question": "Mmh. \u00bfHay algo m\u00e1s?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh, s\u00ed. Ah... el sentido de los uh... de las tradiciones y los rituales.",
+        "quality_score": "A"
+      },
+      "block": 7,
+      "id": 66
+    },
+    {
+      "timestamp": "67:27",
+      "question": "\u00bfVerdad?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Class",
+        "response": "S\u00ed.",
+        "quality_score": "C"
+      },
+      "block": 7,
+      "id": 67
+    },
+    {
+      "timestamp": "67:35",
+      "question": "Mmh. Y, \u00bfqu\u00e9 m\u00e1s?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "La educaci\u00f3n que es importante tambi\u00e9n.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 68
+    },
+    {
+      "timestamp": "67:42",
+      "question": "Mmh. La educaci\u00f3n. \u00bfC\u00f3mo?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Eh... la educaci\u00f3n de los... los ind\u00edgenas.",
+        "quality_score": "C"
+      },
+      "block": 7,
+      "id": 69
+    },
+    {
+      "timestamp": "67:47",
+      "question": "Y, \u00bfqu\u00e9 nos muestra con respecto a la educaci\u00f3n?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Eh... que est\u00e1 como eh... que est\u00e1 tratando de eh... cambiar a los ind\u00edgenas, a que sean como eh... como los blancos.",
+        "quality_score": "A"
+      },
+      "block": 7,
+      "id": 70
+    },
+    {
+      "timestamp": "68:00",
+      "question": "Y, \u00bfqu\u00e9 m\u00e1s?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh... el rol de las mujeres tambi\u00e9n.",
+        "quality_score": "A"
+      },
+      "block": 7,
+      "id": 71
+    },
+    {
+      "timestamp": "68:06",
+      "question": "Mmh. \u00bfEl rol de las mujeres?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh... que... las mujeres son como las diosas.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 72
+    },
+    {
+      "timestamp": "68:12",
+      "question": "Mmh. Correcto. La mujer andina, \u00bfno?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "S\u00ed.",
+        "quality_score": "C"
+      },
+      "block": 7,
+      "id": 73
+    },
+    {
+      "timestamp": "68:26",
+      "question": "Y, \u00bfqu\u00e9 otro elemento es central?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Uhm... el eh... la conexi\u00f3n entre los ind\u00edgenas y los esp\u00edritus.",
+        "quality_score": "A"
+      },
+      "block": 7,
+      "id": 74
+    },
+    {
+      "timestamp": "68:36",
+      "question": "Los apus, \u00bfno?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "S\u00ed, s\u00ed.",
+        "quality_score": "C"
+      },
+      "block": 7,
+      "id": 75
+    },
+    {
+      "timestamp": "68:45",
+      "question": "\u00bfQu\u00e9 m\u00e1s?",
+      "directed_to": "Class",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh... la violencia que ah... se ve en los ind\u00edgenas.",
+        "quality_score": "B"
+      },
+      "block": 7,
+      "id": 76
+    },
+    {
+      "timestamp": "68:50",
+      "question": "Mmh. \u00bfLa violencia?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "S\u00ed, s\u00ed.",
+        "quality_score": "C"
+      },
+      "block": 7,
+      "id": 77
+    },
+    {
+      "timestamp": "68:53",
+      "question": "\u00bfQu\u00e9 tipo de violencia, Grace?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Eh... la violencia simb\u00f3lica que uhm... el gobierno y los ricos est\u00e1n usando para eh... para cambiar los ind\u00edgenas y para que no tengan sus... sus tradiciones.",
+        "quality_score": "A"
+      },
+      "block": 7,
+      "id": 78
+    }
+  ],
+  "student_contributions": [
+    {
+      "timestamp": "00:08",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Can I know?",
+      "quality_score": "B",
+      "block": 1,
+      "id": 1
+    },
+    {
+      "timestamp": "00:20",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "for the collaboration I already talked to my uh department and actually they already move so they go strike partnership with the Microsoft.",
+      "quality_score": "B",
+      "block": 1,
+      "id": 2
+    },
+    {
+      "timestamp": "00:44",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "is there any any other opportunity for for me to to join with the the the the project?",
+      "quality_score": "B",
+      "block": 1,
+      "id": 3
+    },
+    {
+      "timestamp": "01:15",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "They already doing the kick off. I think tomorrow they will do the kick off with the Microsoft. so the one that available for me is evaluate the system of the R&D team from the Microsoft copilot.",
+      "quality_score": "A",
+      "block": 1,
+      "id": 4
+    },
+    {
+      "timestamp": "01:33",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "is it possible to make it some technology if it's only about evaluating the system evaluating the system?",
+      "quality_score": "B",
+      "block": 1,
+      "id": 5
+    },
+    {
+      "timestamp": "02:32",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "not KIST pay to SoftItech because KIST asked SoftItech to convert the language?",
+      "quality_score": "A",
+      "block": 1,
+      "id": 6
+    },
+    {
+      "timestamp": "03:29",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "why didn't the SoftItech try to the to the Costa Rican language? Why should it be English and the ICT?",
+      "quality_score": "A",
+      "block": 1,
+      "id": 7
+    },
+    {
+      "timestamp": "04:00",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "why didn't the KISTI request the SoftItech to provide the NIST version of Costa Rican language? Why not like that? Why not why must translate to English first and ICE?",
+      "quality_score": "A",
+      "block": 1,
+      "id": 8
+    },
+    {
+      "timestamp": "05:10",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "So who make the adaptation, the ICE or the SoftItech?",
+      "quality_score": "B",
+      "block": 1,
+      "id": 9
+    },
+    {
+      "timestamp": "05:37",
+      "student": "Grace",
+      "type": "comment",
+      "content": "And KIST also collaborate here",
+      "quality_score": "B",
+      "block": 1,
+      "id": 10
+    },
+    {
+      "timestamp": "06:01",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "another new",
+      "quality_score": "C",
+      "block": 1,
+      "id": 11
+    },
+    {
+      "timestamp": "06:04",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "That's how it happens",
+      "quality_score": "C",
+      "block": 1,
+      "id": 12
+    },
+    {
+      "timestamp": "06:09",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Why didn't the ICE create the system itself?",
+      "quality_score": "A",
+      "block": 1,
+      "id": 13
+    },
+    {
+      "timestamp": "06:17",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "No no money, no people?",
+      "quality_score": "B",
+      "block": 1,
+      "id": 14
+    },
+    {
+      "timestamp": "08:10",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Okay, okay.",
+      "quality_score": "C",
+      "block": 1,
+      "id": 15
+    },
+    {
+      "timestamp": "08:41",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Actually tomorrow I will have uh you know because I I feeling that it will not work so I try to find another friends and some of my friends told me that they have some also some issue uh regardless the TTS text to speech and text to text in AI because they want to use the mobile banking in my bank to use that service. But right now they have difficulties because the the the percentage of success is very low and they want to improve.",
+      "quality_score": "A",
+      "block": 1,
+      "id": 16
+    },
+    {
+      "timestamp": "09:24",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "so tomorrow, maybe I will I have some meeting with them and maybe something comes up.",
+      "quality_score": "B",
+      "block": 1,
+      "id": 17
+    },
+    {
+      "timestamp": "09:34",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "happens",
+      "quality_score": "C",
+      "block": 1,
+      "id": 18
+    },
+    {
+      "timestamp": "09:46",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "that's result",
+      "quality_score": "B",
+      "block": 1,
+      "id": 19
+    },
+    {
+      "timestamp": "11:00",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "and one more maybe the Grace already asked this but because there's no Korean here I wanna ask you uh-",
+      "quality_score": "B",
+      "block": 2,
+      "id": 20
+    },
+    {
+      "timestamp": "11:11",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "I'm sorry. \uc800\ub294 \ud55c\uad6d \uba70\ub290\ub9ac\uc608\uc694. \ubbf8\uc548\ud574\uc694. \uc8c4\uc1a1\ud569\ub2c8\ub2e4. \uc800\ub294 \uc548\uc0c1\uc0ac \uc0ac\ub78c\uc774\uc5d0\uc694.",
+      "quality_score": "B",
+      "block": 2,
+      "id": 21
+    },
+    {
+      "timestamp": "11:20",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "besides the the the opportunity to do next business, but I I I believe about give and take and you already say it. So what's really there's benefit doing this kind of thing?",
+      "quality_score": "B",
+      "block": 2,
+      "id": 22
+    },
+    {
+      "timestamp": "12:41",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "So right right now is like burning money for them investing.",
+      "quality_score": "B",
+      "block": 2,
+      "id": 23
+    },
+    {
+      "timestamp": "18:59",
+      "student": "Grace",
+      "type": "comment",
+      "content": "12.",
+      "quality_score": "C",
+      "block": 2,
+      "id": 24
+    },
+    {
+      "timestamp": "19:02",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "This is only compare to Professor. Okay, Professor.",
+      "quality_score": "B",
+      "block": 2,
+      "id": 25
+    },
+    {
+      "timestamp": "20:38",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "Uh what do you after you finish your uh question then we can discuss maybe something",
+      "quality_score": "C",
+      "block": 3,
+      "id": 26
+    },
+    {
+      "timestamp": "21:08",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Actually I wanted to to explain the the portal in another way or maybe to show you this.",
+      "quality_score": "B",
+      "block": 3,
+      "id": 27
+    },
+    {
+      "timestamp": "21:25",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "I have translated so now it's in English.",
+      "quality_score": "B",
+      "block": 3,
+      "id": 28
+    },
+    {
+      "timestamp": "21:29",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Yeah, yeah. So it tells that it was launched very recently. And then uh uh from there they are even trying to initiate already some of the digital uh incentives university. This is actually the minister of higher education.",
+      "quality_score": "B",
+      "block": 3,
+      "id": 29
+    },
+    {
+      "timestamp": "21:51",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Yeah, I'll check it. And you see, it's really the schedule this is actually the training they are scheduling from April 15th, 17th.",
+      "quality_score": "B",
+      "block": 3,
+      "id": 30
+    },
+    {
+      "timestamp": "22:44",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "You have this this time.",
+      "quality_score": "C",
+      "block": 3,
+      "id": 31
+    },
+    {
+      "timestamp": "22:47",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "The training will actually there are some things like for managing students' card. National digital library, the system of financial governance control, something like that.",
+      "quality_score": "B",
+      "block": 3,
+      "id": 32
+    },
+    {
+      "timestamp": "22:59",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "But since uh they are not really talking about like uh management system from now. So, I was like instead of like uh going directly to the university, like partnership directly with uh university there, work on the ministry of higher education.",
+      "quality_score": "A",
+      "block": 3,
+      "id": 33
+    },
+    {
+      "timestamp": "23:34",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "If they can because they are already giving incentives in terms of digitalization, if they see something related like learning management system, the minister has the authority if they see that something is better, they can now launch it to be implemented to public university. So it will not be like uh",
+      "quality_score": "A",
+      "block": 3,
+      "id": 34
+    },
+    {
+      "timestamp": "23:56",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Yeah, it's all the authority see that something is valuable because we already given the incentive of digitalization but now we have really the tool like for management digital management system. So that's like the spread of many public university. They are starting from the Kinshasa because it's the capital city and later on uh maybe uh set to something so I was like trying to bring this project like",
+      "quality_score": "A",
+      "block": 3,
+      "id": 35
+    },
+    {
+      "timestamp": "25:28",
+      "student": "Grace",
+      "type": "question_to_teacher",
+      "content": "Who's your partner?",
+      "quality_score": "C",
+      "block": 3,
+      "id": 36
+    },
+    {
+      "timestamp": "25:32",
+      "student": "Student",
+      "type": "comment",
+      "content": "Higher education.",
+      "quality_score": "C",
+      "block": 3,
+      "id": 37
+    },
+    {
+      "timestamp": "25:33",
+      "student": "Student",
+      "type": "comment",
+      "content": "Higher education.",
+      "quality_score": "C",
+      "block": 3,
+      "id": 38
+    },
+    {
+      "timestamp": "28:25",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "So far so as the case for like the university like let's say my university is like the public university. Even if they want to like to integrate this project. I don't believe they have a direct fund. The university to provide support. So since they have to contact the authority, which is the Ministry of Higher Education and the Ministry of Education based on its budget like has may be to contact the government. You know for funding something. You see? So it's not like the university of Kinshasa directly funding without any so they have no maybe that funding capacity uh directly. So they need to contact the authority which is the Minister of uh higher education through the minister, if he or she has also to contact, you see, the the the the government for any funding possibility something like.",
+      "quality_score": "A",
+      "block": 3,
+      "id": 39
+    },
+    {
+      "timestamp": "49:29",
+      "student": "Aryang",
+      "type": "question_to_teacher",
+      "content": "So, do you think there will be five, five, five",
+      "quality_score": "B",
+      "block": 5,
+      "id": 40
+    },
+    {
+      "timestamp": "49:34",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Five sessions.",
+      "quality_score": "B",
+      "block": 5,
+      "id": 41
+    },
+    {
+      "timestamp": "49:48",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Ah.",
+      "quality_score": "C",
+      "block": 5,
+      "id": 42
+    },
+    {
+      "timestamp": "53:57",
+      "student": "Unnamed",
+      "type": "question_to_teacher",
+      "content": "I I I don't still get the sectoring...",
+      "quality_score": "B",
+      "block": 6,
+      "id": 43
+    },
+    {
+      "timestamp": "54:17",
+      "student": "Unnamed",
+      "type": "comment",
+      "content": "It's like a workshop.",
+      "quality_score": "A",
+      "block": 6,
+      "id": 44
+    },
+    {
+      "timestamp": "54:37",
+      "student": "Unnamed",
+      "type": "voluntary_response",
+      "content": "I have",
+      "quality_score": "C",
+      "block": 6,
+      "id": 45
+    },
+    {
+      "timestamp": "54:38",
+      "student": "Unnamed",
+      "type": "voluntary_response",
+      "content": "Yeah, yeah, yeah.",
+      "quality_score": "C",
+      "block": 6,
+      "id": 46
+    },
+    {
+      "timestamp": "57:07",
+      "student": "Unnamed",
+      "type": "comment",
+      "content": "Mhm.",
+      "quality_score": "C",
+      "block": 6,
+      "id": 47
+    },
+    {
+      "timestamp": "57:09",
+      "student": "Unnamed",
+      "type": "comment",
+      "content": "I'm just curious, yeah.",
+      "quality_score": "B",
+      "block": 6,
+      "id": 48
+    },
+    {
+      "timestamp": "57:35",
+      "student": "Unnamed",
+      "type": "question_to_teacher",
+      "content": "The research just like to give to the BLN?",
+      "quality_score": "B",
+      "block": 6,
+      "id": 49
+    },
+    {
+      "timestamp": "57:41",
+      "student": "Unnamed",
+      "type": "question_to_teacher",
+      "content": "Ah, electric coming?",
+      "quality_score": "C",
+      "block": 6,
+      "id": 50
+    },
+    {
+      "timestamp": "57:49",
+      "student": "Unnamed",
+      "type": "voluntary_response",
+      "content": "So the reason I just want to like...",
+      "quality_score": "C",
+      "block": 6,
+      "id": 51
+    },
+    {
+      "timestamp": "57:52",
+      "student": "Unnamed",
+      "type": "question_to_teacher",
+      "content": "Ah, really?",
+      "quality_score": "C",
+      "block": 6,
+      "id": 52
+    },
+    {
+      "timestamp": "58:42",
+      "student": "Unnamed",
+      "type": "voluntary_response",
+      "content": "Yeah, but maybe after our meeting with...",
+      "quality_score": "B",
+      "block": 6,
+      "id": 53
+    },
+    {
+      "timestamp": "59:01",
+      "student": "Unnamed",
+      "type": "question_to_teacher",
+      "content": "Professor, is it going to still be a on...",
+      "quality_score": "B",
+      "block": 6,
+      "id": 54
+    },
+    {
+      "timestamp": "59:49",
+      "student": "Unnamed",
+      "type": "comment",
+      "content": "Oh man... (giggling)",
+      "quality_score": "C",
+      "block": 6,
+      "id": 55
+    },
+    {
+      "timestamp": "59:55",
+      "student": "Class",
+      "type": "voluntary_response",
+      "content": "Thank you so much, Professor.",
+      "quality_score": "A",
+      "block": 6,
+      "id": 56
+    },
+    {
+      "timestamp": "62:02",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Ah, yo creo tambi\u00e9n que \u00e9l est\u00e1 usando eh... los conceptos de la lengua.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 57
+    },
+    {
+      "timestamp": "62:08",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh, como una... una manera para comunicar con... los Andes, la cultura andina. Eh, y la cultura.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 58
+    },
+    {
+      "timestamp": "62:16",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh, que \u00e9l est\u00e1 escribiendo en espa\u00f1ol y tambi\u00e9n que est\u00e1 traduciendo eh... ah, los cantos quechuas.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 59
+    },
+    {
+      "timestamp": "62:27",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Que \u00e9l tiene un entendimiento de ambas culturas.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 60
+    },
+    {
+      "timestamp": "62:37",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Eh... la colonizaci\u00f3n eh... que es importante para Arguedas porque \u00e9l est\u00e1 viendo eh... est\u00e1 mostrando c\u00f3mo los ind\u00edgenas sufrieron bajo la colonizaci\u00f3n.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 61
+    },
+    {
+      "timestamp": "62:48",
+      "student": "Class",
+      "type": "voluntary_response",
+      "content": "S\u00ed.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 62
+    },
+    {
+      "timestamp": "63:03",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Yo creo que eh, el mestizaje y la cultura es central tambi\u00e9n. Por ejemplo, eh, creo que la cultura de Per\u00fa es mestiza, \u00bfno?",
+      "quality_score": "A",
+      "block": 7,
+      "id": 63
+    },
+    {
+      "timestamp": "63:16",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Con los personajes, como Gabriel.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 64
+    },
+    {
+      "timestamp": "63:22",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "S\u00ed, s\u00ed. O ah...",
+      "quality_score": "C",
+      "block": 7,
+      "id": 65
+    },
+    {
+      "timestamp": "63:28",
+      "student": "Class",
+      "type": "voluntary_response",
+      "content": "S\u00ed.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 66
+    },
+    {
+      "timestamp": "63:35",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Eh... la cultura andina est\u00e1 siendo influenciada por la cultura europea. Entonces, hay como eh, un conflicto entre las dos.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 67
+    },
+    {
+      "timestamp": "63:49",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh, yo creo que tambi\u00e9n el... eh... el contexto de el gobierno. C\u00f3mo es el gobierno uhm... en contra de los ind\u00edgenas.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 68
+    },
+    {
+      "timestamp": "63:57",
+      "student": "Grace",
+      "type": "comment",
+      "content": "S\u00ed, la injusticia, el racismo, la discriminaci\u00f3n.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 69
+    },
+    {
+      "timestamp": "64:03",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh... con los personajes que son indios, que est\u00e1n sufriendo con el... el gobierno.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 70
+    },
+    {
+      "timestamp": "64:13",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Ah, s\u00ed, s\u00ed, s\u00ed. Con el sistema.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 71
+    },
+    {
+      "timestamp": "64:18",
+      "student": "Class",
+      "type": "voluntary_response",
+      "content": "S\u00ed.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 72
+    },
+    {
+      "timestamp": "64:25",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh... la polic\u00eda, el alcalde. Eh... tambi\u00e9n la iglesia.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 73
+    },
+    {
+      "timestamp": "64:33",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Ah... el cura es eh... no es una persona que... va a ayudar.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 74
+    },
+    {
+      "timestamp": "64:40",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "S\u00ed.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 75
+    },
+    {
+      "timestamp": "64:45",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Eh... \u00e9l no tiene compasi\u00f3n por los ind\u00edgenas y \u00e9l est\u00e1 apoyando a los eh... a los blancos, a los mestizos.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 76
+    },
+    {
+      "timestamp": "64:54",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "O sea, eh... a los ricos, a los eh... No s\u00e9 la palabra, pero s\u00ed.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 77
+    },
+    {
+      "timestamp": "65:05",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Uhm... los que venden la eh... los que tienen la eh... las tiendas y los que est\u00e1n eh...",
+      "quality_score": "C",
+      "block": 7,
+      "id": 78
+    },
+    {
+      "timestamp": "65:12",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Los comerciantes, s\u00ed.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 79
+    },
+    {
+      "timestamp": "65:24",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh, el folklore. \u00bfEs una palabra correcta?",
+      "quality_score": "B",
+      "block": 7,
+      "id": 80
+    },
+    {
+      "timestamp": "65:28",
+      "student": "Grace",
+      "type": "comment",
+      "content": "S\u00ed.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 81
+    },
+    {
+      "timestamp": "65:32",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh, como los cantos, la m\u00fasica, las fiestas, los bailes. Todo eso es s\u00faper importante en la cultura andina.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 82
+    },
+    {
+      "timestamp": "65:40",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "A trav\u00e9s de las eh... las descripciones de las fiestas y los bailes y los cantos.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 83
+    },
+    {
+      "timestamp": "65:51",
+      "student": "Class",
+      "type": "voluntary_response",
+      "content": "S\u00ed.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 84
+    },
+    {
+      "timestamp": "65:57",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh, yo creo que porque uhm... los otras eh... la otra literatura est\u00e1 como mostrando la cultura eh... eh... la cultura europea, \u00bfno?",
+      "quality_score": "B",
+      "block": 7,
+      "id": 85
+    },
+    {
+      "timestamp": "66:06",
+      "student": "Grace",
+      "type": "comment",
+      "content": "Y \u00e9l est\u00e1 dando voz a la cultura andina.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 86
+    },
+    {
+      "timestamp": "66:15",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Y ah... mostrando eh... que tienen eh... la misma importancia.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 87
+    },
+    {
+      "timestamp": "66:23",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Uhm... el eh... las emociones.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 88
+    },
+    {
+      "timestamp": "66:28",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "S\u00ed. Como los... los personajes.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 89
+    },
+    {
+      "timestamp": "66:33",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh... la nostalgia de su ni\u00f1ez, de su casa, de la cultura.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 90
+    },
+    {
+      "timestamp": "66:42",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Eh... el sentimiento de... de perder la cultura andina.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 91
+    },
+    {
+      "timestamp": "66:51",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh... el amor por la tierra, por los animales, por el mundo.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 92
+    },
+    {
+      "timestamp": "67:08",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Uhm... el dolor de la discriminaci\u00f3n, y el dolor de los conflictos.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 93
+    },
+    {
+      "timestamp": "67:16",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh, s\u00ed.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 94
+    },
+    {
+      "timestamp": "67:18",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Ah... el sentido de los uh... de las tradiciones y los rituales.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 95
+    },
+    {
+      "timestamp": "67:28",
+      "student": "Class",
+      "type": "voluntary_response",
+      "content": "S\u00ed.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 96
+    },
+    {
+      "timestamp": "67:38",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "La educaci\u00f3n que es importante tambi\u00e9n.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 97
+    },
+    {
+      "timestamp": "67:44",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Eh... la educaci\u00f3n de los... los ind\u00edgenas.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 98
+    },
+    {
+      "timestamp": "67:50",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Eh... que est\u00e1 como eh... que est\u00e1 tratando de eh... cambiar a los ind\u00edgenas, a que sean como eh... como los blancos.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 99
+    },
+    {
+      "timestamp": "68:02",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh... el rol de las mujeres tambi\u00e9n.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 100
+    },
+    {
+      "timestamp": "68:08",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh... que... las mujeres son como las diosas.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 101
+    },
+    {
+      "timestamp": "68:16",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "S\u00ed.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 102
+    },
+    {
+      "timestamp": "68:29",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Uhm... el eh... la conexi\u00f3n entre los ind\u00edgenas y los esp\u00edritus.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 103
+    },
+    {
+      "timestamp": "68:38",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "S\u00ed, s\u00ed.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 104
+    },
+    {
+      "timestamp": "68:46",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh... la violencia que ah... se ve en los ind\u00edgenas.",
+      "quality_score": "B",
+      "block": 7,
+      "id": 105
+    },
+    {
+      "timestamp": "68:51",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "S\u00ed, s\u00ed.",
+      "quality_score": "C",
+      "block": 7,
+      "id": 106
+    },
+    {
+      "timestamp": "68:57",
+      "student": "Grace",
+      "type": "voluntary_response",
+      "content": "Eh... la violencia simb\u00f3lica que uhm... el gobierno y los ricos est\u00e1n usando para eh... para cambiar los ind\u00edgenas y para que no tengan sus... sus tradiciones.",
+      "quality_score": "A",
+      "block": 7,
+      "id": 107
+    }
+  ],
+  "per_student_summary": {
+    "Dr. Ileana": {
+      "questions_asked": 78
+    },
+    "Aryang": {
+      "responses": 28,
+      "contributions": 53
+    },
+    "Grace": {
+      "responses": 27,
+      "contributions": 33
+    }
+  },
+  "block_results": [
+    {
+      "block": 1,
+      "time_range": "00:00-10:00",
+      "teacher_questions": [
+        {
+          "timestamp": "00:33",
+          "question": "With Microsoft?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Microsoft Copilot for using the AI for uh you know for knowledge management.",
+            "quality_score": "B"
+          },
+          "block": 1,
+          "id": 1
+        },
+        {
+          "timestamp": "05:39",
+          "question": "You get it?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": ""
+          },
+          "block": 1,
+          "id": 2
+        },
+        {
+          "timestamp": "06:21",
+          "question": "Do you think MICIT is willing to pay to a guy, to a company, who has no know-how?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": ""
+          },
+          "block": 1,
+          "id": 3
+        },
+        {
+          "timestamp": "07:09",
+          "question": "Right?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": ""
+          },
+          "block": 1,
+          "id": 4
+        }
+      ],
+      "student_contributions": [
+        {
+          "timestamp": "00:08",
+          "student": "Aryang",
+          "type": "question_to_teacher",
+          "content": "Can I know?",
+          "quality_score": "B",
+          "block": 1,
+          "id": 1
+        },
+        {
+          "timestamp": "00:20",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "for the collaboration I already talked to my uh department and actually they already move so they go strike partnership with the Microsoft.",
+          "quality_score": "B",
+          "block": 1,
+          "id": 2
+        },
+        {
+          "timestamp": "00:44",
+          "student": "Aryang",
+          "type": "question_to_teacher",
+          "content": "is there any any other opportunity for for me to to join with the the the the project?",
+          "quality_score": "B",
+          "block": 1,
+          "id": 3
+        },
+        {
+          "timestamp": "01:15",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "They already doing the kick off. I think tomorrow they will do the kick off with the Microsoft. so the one that available for me is evaluate the system of the R&D team from the Microsoft copilot.",
+          "quality_score": "A",
+          "block": 1,
+          "id": 4
+        },
+        {
+          "timestamp": "01:33",
+          "student": "Aryang",
+          "type": "question_to_teacher",
+          "content": "is it possible to make it some technology if it's only about evaluating the system evaluating the system?",
+          "quality_score": "B",
+          "block": 1,
+          "id": 5
+        },
+        {
+          "timestamp": "02:32",
+          "student": "Aryang",
+          "type": "question_to_teacher",
+          "content": "not KIST pay to SoftItech because KIST asked SoftItech to convert the language?",
+          "quality_score": "A",
+          "block": 1,
+          "id": 6
+        },
+        {
+          "timestamp": "03:29",
+          "student": "Aryang",
+          "type": "question_to_teacher",
+          "content": "why didn't the SoftItech try to the to the Costa Rican language? Why should it be English and the ICT?",
+          "quality_score": "A",
+          "block": 1,
+          "id": 7
+        },
+        {
+          "timestamp": "04:00",
+          "student": "Aryang",
+          "type": "question_to_teacher",
+          "content": "why didn't the KISTI request the SoftItech to provide the NIST version of Costa Rican language? Why not like that? Why not why must translate to English first and ICE?",
+          "quality_score": "A",
+          "block": 1,
+          "id": 8
+        },
+        {
+          "timestamp": "05:10",
+          "student": "Aryang",
+          "type": "question_to_teacher",
+          "content": "So who make the adaptation, the ICE or the SoftItech?",
+          "quality_score": "B",
+          "block": 1,
+          "id": 9
+        },
+        {
+          "timestamp": "05:37",
+          "student": "Grace",
+          "type": "comment",
+          "content": "And KIST also collaborate here",
+          "quality_score": "B",
+          "block": 1,
+          "id": 10
+        },
+        {
+          "timestamp": "06:01",
+          "student": "Aryang",
+          "type": "comment",
+          "content": "another new",
+          "quality_score": "C",
+          "block": 1,
+          "id": 11
+        },
+        {
+          "timestamp": "06:04",
+          "student": "Aryang",
+          "type": "comment",
+          "content": "That's how it happens",
+          "quality_score": "C",
+          "block": 1,
+          "id": 12
+        },
+        {
+          "timestamp": "06:09",
+          "student": "Aryang",
+          "type": "question_to_teacher",
+          "content": "Why didn't the ICE create the system itself?",
+          "quality_score": "A",
+          "block": 1,
+          "id": 13
+        },
+        {
+          "timestamp": "06:17",
+          "student": "Aryang",
+          "type": "question_to_teacher",
+          "content": "No no money, no people?",
+          "quality_score": "B",
+          "block": 1,
+          "id": 14
+        },
+        {
+          "timestamp": "08:10",
+          "student": "Aryang",
+          "type": "comment",
+          "content": "Okay, okay.",
+          "quality_score": "C",
+          "block": 1,
+          "id": 15
+        },
+        {
+          "timestamp": "08:41",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Actually tomorrow I will have uh you know because I I feeling that it will not work so I try to find another friends and some of my friends told me that they have some also some issue uh regardless the TTS text to speech and text to text in AI because they want to use the mobile banking in my bank to use that service. But right now they have difficulties because the the the percentage of success is very low and they want to improve.",
+          "quality_score": "A",
+          "block": 1,
+          "id": 16
+        },
+        {
+          "timestamp": "09:24",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "so tomorrow, maybe I will I have some meeting with them and maybe something comes up.",
+          "quality_score": "B",
+          "block": 1,
+          "id": 17
+        },
+        {
+          "timestamp": "09:34",
+          "student": "Aryang",
+          "type": "comment",
+          "content": "happens",
+          "quality_score": "C",
+          "block": 1,
+          "id": 18
+        },
+        {
+          "timestamp": "09:46",
+          "student": "Aryang",
+          "type": "comment",
+          "content": "that's result",
+          "quality_score": "B",
+          "block": 1,
+          "id": 19
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "time_range": "10:00-20:00",
+      "teacher_questions": [
+        {
+          "timestamp": "11:33",
+          "question": "Kisbee, okay?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "No no no not not for Kisbee, for this For GDI. Yeah.",
+            "quality_score": "C"
+          },
+          "block": 2,
+          "id": 5
+        },
+        {
+          "timestamp": "13:23",
+          "question": "Is there, right? See that?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Grace",
+            "response": "Yeah it is, it is.",
+            "quality_score": "C"
+          },
+          "block": 2,
+          "id": 6
+        },
+        {
+          "timestamp": "13:41",
+          "question": "That's all you see. When you reach and like, what? I have to do collaboration? Why? Why am I not here for the global?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Aryang",
+            "response": "No.",
+            "quality_score": "C"
+          },
+          "block": 2,
+          "id": 7
+        }
+      ],
+      "student_contributions": [
+        {
+          "timestamp": "11:00",
+          "student": "Aryang",
+          "type": "question_to_teacher",
+          "content": "and one more maybe the Grace already asked this but because there's no Korean here I wanna ask you uh-",
+          "quality_score": "B",
+          "block": 2,
+          "id": 20
+        },
+        {
+          "timestamp": "11:11",
+          "student": "Aryang",
+          "type": "comment",
+          "content": "I'm sorry. \uc800\ub294 \ud55c\uad6d \uba70\ub290\ub9ac\uc608\uc694. \ubbf8\uc548\ud574\uc694. \uc8c4\uc1a1\ud569\ub2c8\ub2e4. \uc800\ub294 \uc548\uc0c1\uc0ac \uc0ac\ub78c\uc774\uc5d0\uc694.",
+          "quality_score": "B",
+          "block": 2,
+          "id": 21
+        },
+        {
+          "timestamp": "11:20",
+          "student": "Aryang",
+          "type": "question_to_teacher",
+          "content": "besides the the the opportunity to do next business, but I I I believe about give and take and you already say it. So what's really there's benefit doing this kind of thing?",
+          "quality_score": "B",
+          "block": 2,
+          "id": 22
+        },
+        {
+          "timestamp": "12:41",
+          "student": "Aryang",
+          "type": "comment",
+          "content": "So right right now is like burning money for them investing.",
+          "quality_score": "B",
+          "block": 2,
+          "id": 23
+        },
+        {
+          "timestamp": "18:59",
+          "student": "Grace",
+          "type": "comment",
+          "content": "12.",
+          "quality_score": "C",
+          "block": 2,
+          "id": 24
+        },
+        {
+          "timestamp": "19:02",
+          "student": "Aryang",
+          "type": "comment",
+          "content": "This is only compare to Professor. Okay, Professor.",
+          "quality_score": "B",
+          "block": 2,
+          "id": 25
+        }
+      ]
+    },
+    {
+      "block": 3,
+      "time_range": "20:00-30:00",
+      "teacher_questions": [
+        {
+          "timestamp": "20:31",
+          "question": "Anything else from ICP? Anybody else drop in their ICP?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": ""
+          },
+          "block": 3,
+          "id": 8
+        },
+        {
+          "timestamp": "21:46",
+          "question": "Can you send me the link?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Yeah, yeah. This one?",
+            "quality_score": "B"
+          },
+          "block": 3,
+          "id": 9
+        },
+        {
+          "timestamp": "22:02",
+          "question": "How did I I wonder how deep this digital portal is.",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Uh actually it's useful.",
+            "quality_score": "C"
+          },
+          "block": 3,
+          "id": 10
+        },
+        {
+          "timestamp": "22:09",
+          "question": "How out I mean, okay, so they are trying to deploy the portal and it's gonna be officially launched, it was officially launched. So what is the scope of this portal? It's very important to you for you to know what's the real scope.",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Yeah, actually it's uh they are really focusing on digitalizing uh uh I mean the the academic uh sector. I mean the high education",
+            "quality_score": "B"
+          },
+          "block": 3,
+          "id": 11
+        },
+        {
+          "timestamp": "22:35",
+          "question": "But digitalizing means what? Like you have training, online training, right?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Online training, yes this one. They are this is the training module.",
+            "quality_score": "B"
+          },
+          "block": 3,
+          "id": 12
+        },
+        {
+          "timestamp": "23:25",
+          "question": "So you're trying to connect it to whatever they're doing here using this as a framework?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Uh actually I wanted to bring it as uh the project for the Ministry of High Education.",
+            "quality_score": "B"
+          },
+          "block": 3,
+          "id": 13
+        },
+        {
+          "timestamp": "24:25",
+          "question": "It's interesting, but what I worry again is how how far how far or how close are you to the minister?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "I am I am I am somehow closer because I am working with one of the professor who is is academic advisor. So to him, I can contact him.",
+            "quality_score": "B"
+          },
+          "block": 3,
+          "id": 14
+        },
+        {
+          "timestamp": "24:43",
+          "question": "He's academic advisor of this initiative or the Minister of Higher Education?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Of the Minister of I education.",
+            "quality_score": "B"
+          },
+          "block": 3,
+          "id": 15
+        },
+        {
+          "timestamp": "25:34",
+          "question": "I think this is important. Who's gonna be the owner?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": ""
+          },
+          "block": 3,
+          "id": 16
+        },
+        {
+          "timestamp": "25:40",
+          "question": "Who's gonna be the owner and who are gonna be the partners in the sense like if the learning management system is gonna be from the Ministry of Higher Education, maybe the Minister of Higher Education is just like the policy maker, he's just gonna provide the framework, but he's not gonna operate the learning management system. Maybe they're going to say, no, I'm gonna ask the university of Kinshasa to be the first operator of the system and if they approve the public concept, later on, we will make it available to the other public universities like that.",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": ""
+          },
+          "block": 3,
+          "id": 17
+        }
+      ],
+      "student_contributions": [
+        {
+          "timestamp": "20:38",
+          "student": "Aryang",
+          "type": "question_to_teacher",
+          "content": "Uh what do you after you finish your uh question then we can discuss maybe something",
+          "quality_score": "C",
+          "block": 3,
+          "id": 26
+        },
+        {
+          "timestamp": "21:08",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Actually I wanted to to explain the the portal in another way or maybe to show you this.",
+          "quality_score": "B",
+          "block": 3,
+          "id": 27
+        },
+        {
+          "timestamp": "21:25",
+          "student": "Aryang",
+          "type": "comment",
+          "content": "I have translated so now it's in English.",
+          "quality_score": "B",
+          "block": 3,
+          "id": 28
+        },
+        {
+          "timestamp": "21:29",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Yeah, yeah. So it tells that it was launched very recently. And then uh uh from there they are even trying to initiate already some of the digital uh incentives university. This is actually the minister of higher education.",
+          "quality_score": "B",
+          "block": 3,
+          "id": 29
+        },
+        {
+          "timestamp": "21:51",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Yeah, I'll check it. And you see, it's really the schedule this is actually the training they are scheduling from April 15th, 17th.",
+          "quality_score": "B",
+          "block": 3,
+          "id": 30
+        },
+        {
+          "timestamp": "22:44",
+          "student": "Aryang",
+          "type": "comment",
+          "content": "You have this this time.",
+          "quality_score": "C",
+          "block": 3,
+          "id": 31
+        },
+        {
+          "timestamp": "22:47",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "The training will actually there are some things like for managing students' card. National digital library, the system of financial governance control, something like that.",
+          "quality_score": "B",
+          "block": 3,
+          "id": 32
+        },
+        {
+          "timestamp": "22:59",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "But since uh they are not really talking about like uh management system from now. So, I was like instead of like uh going directly to the university, like partnership directly with uh university there, work on the ministry of higher education.",
+          "quality_score": "A",
+          "block": 3,
+          "id": 33
+        },
+        {
+          "timestamp": "23:34",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "If they can because they are already giving incentives in terms of digitalization, if they see something related like learning management system, the minister has the authority if they see that something is better, they can now launch it to be implemented to public university. So it will not be like uh",
+          "quality_score": "A",
+          "block": 3,
+          "id": 34
+        },
+        {
+          "timestamp": "23:56",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Yeah, it's all the authority see that something is valuable because we already given the incentive of digitalization but now we have really the tool like for management digital management system. So that's like the spread of many public university. They are starting from the Kinshasa because it's the capital city and later on uh maybe uh set to something so I was like trying to bring this project like",
+          "quality_score": "A",
+          "block": 3,
+          "id": 35
+        },
+        {
+          "timestamp": "25:28",
+          "student": "Grace",
+          "type": "question_to_teacher",
+          "content": "Who's your partner?",
+          "quality_score": "C",
+          "block": 3,
+          "id": 36
+        },
+        {
+          "timestamp": "25:32",
+          "student": "Student",
+          "type": "comment",
+          "content": "Higher education.",
+          "quality_score": "C",
+          "block": 3,
+          "id": 37
+        },
+        {
+          "timestamp": "25:33",
+          "student": "Student",
+          "type": "comment",
+          "content": "Higher education.",
+          "quality_score": "C",
+          "block": 3,
+          "id": 38
+        },
+        {
+          "timestamp": "28:25",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "So far so as the case for like the university like let's say my university is like the public university. Even if they want to like to integrate this project. I don't believe they have a direct fund. The university to provide support. So since they have to contact the authority, which is the Ministry of Higher Education and the Ministry of Education based on its budget like has may be to contact the government. You know for funding something. You see? So it's not like the university of Kinshasa directly funding without any so they have no maybe that funding capacity uh directly. So they need to contact the authority which is the Minister of uh higher education through the minister, if he or she has also to contact, you see, the the the the government for any funding possibility something like.",
+          "quality_score": "A",
+          "block": 3,
+          "id": 39
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "time_range": "30:00-40:00",
+      "teacher_questions": [
+        {
+          "timestamp": "30:09",
+          "question": "Anybody knows what a FabLab is?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Unknown",
+            "response": "[Unclear mumbling, possibly attempting to define 'FabLab']",
+            "quality_score": "D"
+          },
+          "block": 4,
+          "id": 18
+        },
+        {
+          "timestamp": "35:31",
+          "question": "I don't know how you will connect this point of LMS within this. I think this is something you need to contact the academic advisor and say, 'I'm trying to connect my project to this is how how to align it and how to justify it?'",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": ""
+          },
+          "block": 4,
+          "id": 19
+        },
+        {
+          "timestamp": "36:34",
+          "question": "And please next week, please report me. 'Ah, I checked the tools, this is the problem, this is whatever.' 'I think this one could work, but no, I want that kind of feedback because then we will contact the developers just to start bringing what they can do.'",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": ""
+          },
+          "block": 4,
+          "id": 20
+        },
+        {
+          "timestamp": "39:26",
+          "question": "Okay. Um, any, is that crazy? Anything else you want to talk about?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "No, actually I just wanted to discuss that one, so I will just try to restructure.",
+            "quality_score": "B"
+          },
+          "block": 4,
+          "id": 21
+        },
+        {
+          "timestamp": "39:49",
+          "question": "Next week, when is it going to be the midterm?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Student",
+            "response": "22nd. [Another student adds:] Check again.",
+            "quality_score": "B"
+          },
+          "block": 4,
+          "id": 22
+        }
+      ],
+      "student_contributions": []
+    },
+    {
+      "block": 5,
+      "time_range": "40:00-50:00",
+      "teacher_questions": [
+        {
+          "timestamp": "41:19",
+          "question": "So, what is Chilaka doing now?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": ""
+          },
+          "block": 5,
+          "id": 23
+        },
+        {
+          "timestamp": "43:27",
+          "question": "Grace, are you gonna... so when you're asking me, should I ask, should I make the minister of higher education my owner of this project or not?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": ""
+          },
+          "block": 5,
+          "id": 24
+        },
+        {
+          "timestamp": "43:53",
+          "question": "Am I using my logic to connect to that?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": ""
+          },
+          "block": 5,
+          "id": 25
+        },
+        {
+          "timestamp": "45:39",
+          "question": "So already you guys read about this, right?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": ""
+          },
+          "block": 5,
+          "id": 26
+        }
+      ],
+      "student_contributions": [
+        {
+          "timestamp": "49:29",
+          "student": "Aryang",
+          "type": "question_to_teacher",
+          "content": "So, do you think there will be five, five, five",
+          "quality_score": "B",
+          "block": 5,
+          "id": 40
+        },
+        {
+          "timestamp": "49:34",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Five sessions.",
+          "quality_score": "B",
+          "block": 5,
+          "id": 41
+        },
+        {
+          "timestamp": "49:48",
+          "student": "Aryang",
+          "type": "comment",
+          "content": "Ah.",
+          "quality_score": "C",
+          "block": 5,
+          "id": 42
+        }
+      ]
+    },
+    {
+      "block": 6,
+      "time_range": "50:00-60:00",
+      "teacher_questions": [
+        {
+          "timestamp": "55:37",
+          "question": "Right?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": null
+          },
+          "block": 6,
+          "id": 27
+        },
+        {
+          "timestamp": "56:11",
+          "question": "I want you to discuss with Cesar, when the the submission of the midterm could happen.",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": null
+          },
+          "block": 6,
+          "id": 28
+        },
+        {
+          "timestamp": "58:05",
+          "question": "from your family of startups or companies, who are having the good energy management systems?",
+          "directed_to": "Unnamed",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": null
+          },
+          "block": 6,
+          "id": 29
+        },
+        {
+          "timestamp": "58:10",
+          "question": "or here, do you have a good contact point at Samsung SBI?",
+          "directed_to": "Unnamed",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": null
+          },
+          "block": 6,
+          "id": 30
+        },
+        {
+          "timestamp": "59:10",
+          "question": "Let's make it 10 minutes.",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "",
+            "response": "",
+            "quality_score": null
+          },
+          "block": 6,
+          "id": 31
+        }
+      ],
+      "student_contributions": [
+        {
+          "timestamp": "53:57",
+          "student": "Unnamed",
+          "type": "question_to_teacher",
+          "content": "I I I don't still get the sectoring...",
+          "quality_score": "B",
+          "block": 6,
+          "id": 43
+        },
+        {
+          "timestamp": "54:17",
+          "student": "Unnamed",
+          "type": "comment",
+          "content": "It's like a workshop.",
+          "quality_score": "A",
+          "block": 6,
+          "id": 44
+        },
+        {
+          "timestamp": "54:37",
+          "student": "Unnamed",
+          "type": "voluntary_response",
+          "content": "I have",
+          "quality_score": "C",
+          "block": 6,
+          "id": 45
+        },
+        {
+          "timestamp": "54:38",
+          "student": "Unnamed",
+          "type": "voluntary_response",
+          "content": "Yeah, yeah, yeah.",
+          "quality_score": "C",
+          "block": 6,
+          "id": 46
+        },
+        {
+          "timestamp": "57:07",
+          "student": "Unnamed",
+          "type": "comment",
+          "content": "Mhm.",
+          "quality_score": "C",
+          "block": 6,
+          "id": 47
+        },
+        {
+          "timestamp": "57:09",
+          "student": "Unnamed",
+          "type": "comment",
+          "content": "I'm just curious, yeah.",
+          "quality_score": "B",
+          "block": 6,
+          "id": 48
+        },
+        {
+          "timestamp": "57:35",
+          "student": "Unnamed",
+          "type": "question_to_teacher",
+          "content": "The research just like to give to the BLN?",
+          "quality_score": "B",
+          "block": 6,
+          "id": 49
+        },
+        {
+          "timestamp": "57:41",
+          "student": "Unnamed",
+          "type": "question_to_teacher",
+          "content": "Ah, electric coming?",
+          "quality_score": "C",
+          "block": 6,
+          "id": 50
+        },
+        {
+          "timestamp": "57:49",
+          "student": "Unnamed",
+          "type": "voluntary_response",
+          "content": "So the reason I just want to like...",
+          "quality_score": "C",
+          "block": 6,
+          "id": 51
+        },
+        {
+          "timestamp": "57:52",
+          "student": "Unnamed",
+          "type": "question_to_teacher",
+          "content": "Ah, really?",
+          "quality_score": "C",
+          "block": 6,
+          "id": 52
+        },
+        {
+          "timestamp": "58:42",
+          "student": "Unnamed",
+          "type": "voluntary_response",
+          "content": "Yeah, but maybe after our meeting with...",
+          "quality_score": "B",
+          "block": 6,
+          "id": 53
+        },
+        {
+          "timestamp": "59:01",
+          "student": "Unnamed",
+          "type": "question_to_teacher",
+          "content": "Professor, is it going to still be a on...",
+          "quality_score": "B",
+          "block": 6,
+          "id": 54
+        },
+        {
+          "timestamp": "59:49",
+          "student": "Unnamed",
+          "type": "comment",
+          "content": "Oh man... (giggling)",
+          "quality_score": "C",
+          "block": 6,
+          "id": 55
+        },
+        {
+          "timestamp": "59:55",
+          "student": "Class",
+          "type": "voluntary_response",
+          "content": "Thank you so much, Professor.",
+          "quality_score": "A",
+          "block": 6,
+          "id": 56
+        }
+      ]
+    },
+    {
+      "block": 7,
+      "time_range": "60:00-69:24",
+      "teacher_questions": [
+        {
+          "timestamp": "61:31",
+          "question": "\u00bfen qu\u00e9 sentido ustedes pueden decir que la cultura es central en la obra de Arguedas?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Yo creo que eh... La cultura es central en Arguedas porque \u00e9l est\u00e1 mostrando los problemas entre las culturas de los Andes y la cultura europea.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 32
+        },
+        {
+          "timestamp": "61:42",
+          "question": "Aryang, \u00bfqu\u00e9 piensas t\u00fa?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Yo creo que eh... La cultura es central en Arguedas porque \u00e9l est\u00e1 mostrando los problemas entre las culturas de los Andes y la cultura europea.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 33
+        },
+        {
+          "timestamp": "62:01",
+          "question": "\u00bfQui\u00e9n m\u00e1s?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Grace",
+            "response": "Ah, yo creo tambi\u00e9n que \u00e9l est\u00e1 usando eh... los conceptos de la lengua.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 34
+        },
+        {
+          "timestamp": "62:06",
+          "question": "La lengua. \u00bfLa lengua como qu\u00e9?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh, como una... una manera para comunicar con... los Andes, la cultura andina. Eh, y la cultura.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 35
+        },
+        {
+          "timestamp": "62:14",
+          "question": "Mmh. \u00bfQu\u00e9 significa eso, Grace?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh, que \u00e9l est\u00e1 escribiendo en espa\u00f1ol y tambi\u00e9n que est\u00e1 traduciendo eh... ah, los cantos quechuas.",
+            "quality_score": "A"
+          },
+          "block": 7,
+          "id": 36
+        },
+        {
+          "timestamp": "62:25",
+          "question": "\u00bfY qu\u00e9 significa eso en su obra?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Que \u00e9l tiene un entendimiento de ambas culturas.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 37
+        },
+        {
+          "timestamp": "62:34",
+          "question": "Y, \u00bfqu\u00e9 otra cosa nos est\u00e1 mostrando?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Eh... la colonizaci\u00f3n eh... que es importante para Arguedas porque \u00e9l est\u00e1 viendo eh... est\u00e1 mostrando c\u00f3mo los ind\u00edgenas sufrieron bajo la colonizaci\u00f3n.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 38
+        },
+        {
+          "timestamp": "62:47",
+          "question": "\u00bfNo?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Class",
+            "response": "S\u00ed.",
+            "quality_score": "C"
+          },
+          "block": 7,
+          "id": 39
+        },
+        {
+          "timestamp": "63:00",
+          "question": "\u00bfEn qu\u00e9 otro sentido podr\u00edamos decir que la cultura es central?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Grace",
+            "response": "Yo creo que eh, el mestizaje y la cultura es central tambi\u00e9n. Por ejemplo, eh, creo que la cultura de Per\u00fa es mestiza, \u00bfno?",
+            "quality_score": "A"
+          },
+          "block": 7,
+          "id": 40
+        },
+        {
+          "timestamp": "63:14",
+          "question": "\u00bfCon sus eh... qu\u00e9?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "Grace",
+            "response": "Con los personajes, como Gabriel.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 41
+        },
+        {
+          "timestamp": "63:19",
+          "question": "Mmh. \u00bfCon sus personajes que son mestizos?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "Grace",
+            "response": "S\u00ed, s\u00ed. O ah...",
+            "quality_score": "C"
+          },
+          "block": 7,
+          "id": 42
+        },
+        {
+          "timestamp": "63:24",
+          "question": "Que eh... est\u00e1n en un proceso de b\u00fasqueda, \u00bfno?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Class",
+            "response": "S\u00ed.",
+            "quality_score": "C"
+          },
+          "block": 7,
+          "id": 43
+        },
+        {
+          "timestamp": "63:32",
+          "question": "Mmh. O sea, est\u00e1 la cultura. \u00bfQu\u00e9 m\u00e1s?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Eh... la cultura andina est\u00e1 siendo influenciada por la cultura europea. Entonces, hay como eh, un conflicto entre las dos.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 44
+        },
+        {
+          "timestamp": "63:47",
+          "question": "\u00bfQu\u00e9 m\u00e1s?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh, yo creo que tambi\u00e9n el... eh... el contexto de el gobierno. C\u00f3mo es el gobierno uhm... en contra de los ind\u00edgenas.",
+            "quality_score": "A"
+          },
+          "block": 7,
+          "id": 45
+        },
+        {
+          "timestamp": "64:00",
+          "question": "La discriminaci\u00f3n. \u00bfY c\u00f3mo muestra Arguedas eso, Grace?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh... con los personajes que son indios, que est\u00e1n sufriendo con el... el gobierno.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 46
+        },
+        {
+          "timestamp": "64:08",
+          "question": "Mmh. \u00bfCon el gobierno? \u00bfO con los personajes que representan al sistema?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "Grace",
+            "response": "Ah, s\u00ed, s\u00ed, s\u00ed. Con el sistema.",
+            "quality_score": "C"
+          },
+          "block": 7,
+          "id": 47
+        },
+        {
+          "timestamp": "64:22",
+          "question": "Y, \u00bfqui\u00e9n m\u00e1s? \u00bfQui\u00e9nes m\u00e1s son parte de este sistema?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh... la polic\u00eda, el alcalde. Eh... tambi\u00e9n la iglesia.",
+            "quality_score": "A"
+          },
+          "block": 7,
+          "id": 48
+        },
+        {
+          "timestamp": "64:31",
+          "question": "Y, \u00bfc\u00f3mo muestra la iglesia?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Grace",
+            "response": "Ah... el cura es eh... no es una persona que... va a ayudar.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 49
+        },
+        {
+          "timestamp": "64:38",
+          "question": "Correcto. \u00bfMuestra un cura?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "Grace",
+            "response": "S\u00ed.",
+            "quality_score": "C"
+          },
+          "block": 7,
+          "id": 50
+        },
+        {
+          "timestamp": "64:41",
+          "question": "\u00bfQu\u00e9 les parece ese cura? \u00bfQu\u00e9 hace el cura? \u00bfQu\u00e9 hace?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Eh... \u00e9l no tiene compasi\u00f3n por los ind\u00edgenas y \u00e9l est\u00e1 apoyando a los eh... a los blancos, a los mestizos.",
+            "quality_score": "A"
+          },
+          "block": 7,
+          "id": 51
+        },
+        {
+          "timestamp": "64:52",
+          "question": "Mmh. \u00bfA los blancos?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "O sea, eh... a los ricos, a los eh... No s\u00e9 la palabra, pero s\u00ed.",
+            "quality_score": "C"
+          },
+          "block": 7,
+          "id": 52
+        },
+        {
+          "timestamp": "65:01",
+          "question": "Y, \u00bfqu\u00e9 m\u00e1s? Eh... \u00bfqui\u00e9n m\u00e1s, Aryang, est\u00e1 en este sistema de poder?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Uhm... los que venden la eh... los que tienen la eh... las tiendas y los que est\u00e1n eh...",
+            "quality_score": "C"
+          },
+          "block": 7,
+          "id": 53
+        },
+        {
+          "timestamp": "65:22",
+          "question": "\u00bfQu\u00e9 m\u00e1s? \u00bfQu\u00e9 otra cosa es central?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh, el folklore.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 54
+        },
+        {
+          "timestamp": "65:30",
+          "question": "\u00bfY qu\u00e9 significa ese folklore, Grace?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh, como los cantos, la m\u00fasica, las fiestas, los bailes. Todo eso es s\u00faper importante en la cultura andina.",
+            "quality_score": "A"
+          },
+          "block": 7,
+          "id": 55
+        },
+        {
+          "timestamp": "65:38",
+          "question": "Mmh. \u00bfY Arguedas lo incorpora c\u00f3mo?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Aryang",
+            "response": "A trav\u00e9s de las eh... las descripciones de las fiestas y los bailes y los cantos.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 56
+        },
+        {
+          "timestamp": "65:48",
+          "question": "A trav\u00e9s de los personajes. \u00bfNo?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Class",
+            "response": "S\u00ed.",
+            "quality_score": "C"
+          },
+          "block": 7,
+          "id": 57
+        },
+        {
+          "timestamp": "65:53",
+          "question": "Y, \u00bfpor qu\u00e9 es importante que Arguedas haga eso?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh, yo creo que porque uhm... los otras eh... la otra literatura est\u00e1 como mostrando la cultura eh... eh... la cultura europea, \u00bfno?",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 58
+        },
+        {
+          "timestamp": "66:13",
+          "question": "Mmh. \u00bfQu\u00e9 m\u00e1s?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Y ah... mostrando eh... que tienen eh... la misma importancia.",
+            "quality_score": "A"
+          },
+          "block": 7,
+          "id": 59
+        },
+        {
+          "timestamp": "66:21",
+          "question": "\u00bfY qu\u00e9 otra cosa es central?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Grace",
+            "response": "Uhm... el eh... las emociones.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 60
+        },
+        {
+          "timestamp": "66:27",
+          "question": "\u00bfLas emociones?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "Grace",
+            "response": "S\u00ed. Como los... los personajes.",
+            "quality_score": "C"
+          },
+          "block": 7,
+          "id": 61
+        },
+        {
+          "timestamp": "66:30",
+          "question": "Mmh. \u00bfY en qu\u00e9 sentido son centrales las emociones?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh... la nostalgia de su ni\u00f1ez, de su casa, de la cultura.",
+            "quality_score": "A"
+          },
+          "block": 7,
+          "id": 62
+        },
+        {
+          "timestamp": "66:40",
+          "question": "\u00bfDe qu\u00e9 m\u00e1s?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Eh... el sentimiento de... de perder la cultura andina.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 63
+        },
+        {
+          "timestamp": "66:49",
+          "question": "\u00bfQu\u00e9 m\u00e1s?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh... el amor por la tierra, por los animales, por el mundo.",
+            "quality_score": "A"
+          },
+          "block": 7,
+          "id": 64
+        },
+        {
+          "timestamp": "67:06",
+          "question": "\u00bfY qu\u00e9 otra cosa es central, eh... Aryang?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Uhm... el dolor de la discriminaci\u00f3n, y el dolor de los conflictos.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 65
+        },
+        {
+          "timestamp": "67:14",
+          "question": "Mmh. \u00bfHay algo m\u00e1s?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh, s\u00ed. Ah... el sentido de los uh... de las tradiciones y los rituales.",
+            "quality_score": "A"
+          },
+          "block": 7,
+          "id": 66
+        },
+        {
+          "timestamp": "67:27",
+          "question": "\u00bfVerdad?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Class",
+            "response": "S\u00ed.",
+            "quality_score": "C"
+          },
+          "block": 7,
+          "id": 67
+        },
+        {
+          "timestamp": "67:35",
+          "question": "Mmh. Y, \u00bfqu\u00e9 m\u00e1s?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Aryang",
+            "response": "La educaci\u00f3n que es importante tambi\u00e9n.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 68
+        },
+        {
+          "timestamp": "67:42",
+          "question": "Mmh. La educaci\u00f3n. \u00bfC\u00f3mo?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Eh... la educaci\u00f3n de los... los ind\u00edgenas.",
+            "quality_score": "C"
+          },
+          "block": 7,
+          "id": 69
+        },
+        {
+          "timestamp": "67:47",
+          "question": "Y, \u00bfqu\u00e9 nos muestra con respecto a la educaci\u00f3n?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Eh... que est\u00e1 como eh... que est\u00e1 tratando de eh... cambiar a los ind\u00edgenas, a que sean como eh... como los blancos.",
+            "quality_score": "A"
+          },
+          "block": 7,
+          "id": 70
+        },
+        {
+          "timestamp": "68:00",
+          "question": "Y, \u00bfqu\u00e9 m\u00e1s?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh... el rol de las mujeres tambi\u00e9n.",
+            "quality_score": "A"
+          },
+          "block": 7,
+          "id": 71
+        },
+        {
+          "timestamp": "68:06",
+          "question": "Mmh. \u00bfEl rol de las mujeres?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh... que... las mujeres son como las diosas.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 72
+        },
+        {
+          "timestamp": "68:12",
+          "question": "Mmh. Correcto. La mujer andina, \u00bfno?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "Grace",
+            "response": "S\u00ed.",
+            "quality_score": "C"
+          },
+          "block": 7,
+          "id": 73
+        },
+        {
+          "timestamp": "68:26",
+          "question": "Y, \u00bfqu\u00e9 otro elemento es central?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Aryang",
+            "response": "Uhm... el eh... la conexi\u00f3n entre los ind\u00edgenas y los esp\u00edritus.",
+            "quality_score": "A"
+          },
+          "block": 7,
+          "id": 74
+        },
+        {
+          "timestamp": "68:36",
+          "question": "Los apus, \u00bfno?",
+          "directed_to": "Aryang",
+          "student_response": {
+            "student": "Aryang",
+            "response": "S\u00ed, s\u00ed.",
+            "quality_score": "C"
+          },
+          "block": 7,
+          "id": 75
+        },
+        {
+          "timestamp": "68:45",
+          "question": "\u00bfQu\u00e9 m\u00e1s?",
+          "directed_to": "Class",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh... la violencia que ah... se ve en los ind\u00edgenas.",
+            "quality_score": "B"
+          },
+          "block": 7,
+          "id": 76
+        },
+        {
+          "timestamp": "68:50",
+          "question": "Mmh. \u00bfLa violencia?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "Grace",
+            "response": "S\u00ed, s\u00ed.",
+            "quality_score": "C"
+          },
+          "block": 7,
+          "id": 77
+        },
+        {
+          "timestamp": "68:53",
+          "question": "\u00bfQu\u00e9 tipo de violencia, Grace?",
+          "directed_to": "Grace",
+          "student_response": {
+            "student": "Grace",
+            "response": "Eh... la violencia simb\u00f3lica que uhm... el gobierno y los ricos est\u00e1n usando para eh... para cambiar los ind\u00edgenas y para que no tengan sus... sus tradiciones.",
+            "quality_score": "A"
+          },
+          "block": 7,
+          "id": 78
+        }
+      ],
+      "student_contributions": [
+        {
+          "timestamp": "62:02",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Ah, yo creo tambi\u00e9n que \u00e9l est\u00e1 usando eh... los conceptos de la lengua.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 57
+        },
+        {
+          "timestamp": "62:08",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh, como una... una manera para comunicar con... los Andes, la cultura andina. Eh, y la cultura.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 58
+        },
+        {
+          "timestamp": "62:16",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh, que \u00e9l est\u00e1 escribiendo en espa\u00f1ol y tambi\u00e9n que est\u00e1 traduciendo eh... ah, los cantos quechuas.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 59
+        },
+        {
+          "timestamp": "62:27",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Que \u00e9l tiene un entendimiento de ambas culturas.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 60
+        },
+        {
+          "timestamp": "62:37",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Eh... la colonizaci\u00f3n eh... que es importante para Arguedas porque \u00e9l est\u00e1 viendo eh... est\u00e1 mostrando c\u00f3mo los ind\u00edgenas sufrieron bajo la colonizaci\u00f3n.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 61
+        },
+        {
+          "timestamp": "62:48",
+          "student": "Class",
+          "type": "voluntary_response",
+          "content": "S\u00ed.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 62
+        },
+        {
+          "timestamp": "63:03",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Yo creo que eh, el mestizaje y la cultura es central tambi\u00e9n. Por ejemplo, eh, creo que la cultura de Per\u00fa es mestiza, \u00bfno?",
+          "quality_score": "A",
+          "block": 7,
+          "id": 63
+        },
+        {
+          "timestamp": "63:16",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Con los personajes, como Gabriel.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 64
+        },
+        {
+          "timestamp": "63:22",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "S\u00ed, s\u00ed. O ah...",
+          "quality_score": "C",
+          "block": 7,
+          "id": 65
+        },
+        {
+          "timestamp": "63:28",
+          "student": "Class",
+          "type": "voluntary_response",
+          "content": "S\u00ed.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 66
+        },
+        {
+          "timestamp": "63:35",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Eh... la cultura andina est\u00e1 siendo influenciada por la cultura europea. Entonces, hay como eh, un conflicto entre las dos.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 67
+        },
+        {
+          "timestamp": "63:49",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh, yo creo que tambi\u00e9n el... eh... el contexto de el gobierno. C\u00f3mo es el gobierno uhm... en contra de los ind\u00edgenas.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 68
+        },
+        {
+          "timestamp": "63:57",
+          "student": "Grace",
+          "type": "comment",
+          "content": "S\u00ed, la injusticia, el racismo, la discriminaci\u00f3n.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 69
+        },
+        {
+          "timestamp": "64:03",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh... con los personajes que son indios, que est\u00e1n sufriendo con el... el gobierno.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 70
+        },
+        {
+          "timestamp": "64:13",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Ah, s\u00ed, s\u00ed, s\u00ed. Con el sistema.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 71
+        },
+        {
+          "timestamp": "64:18",
+          "student": "Class",
+          "type": "voluntary_response",
+          "content": "S\u00ed.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 72
+        },
+        {
+          "timestamp": "64:25",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh... la polic\u00eda, el alcalde. Eh... tambi\u00e9n la iglesia.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 73
+        },
+        {
+          "timestamp": "64:33",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Ah... el cura es eh... no es una persona que... va a ayudar.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 74
+        },
+        {
+          "timestamp": "64:40",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "S\u00ed.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 75
+        },
+        {
+          "timestamp": "64:45",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Eh... \u00e9l no tiene compasi\u00f3n por los ind\u00edgenas y \u00e9l est\u00e1 apoyando a los eh... a los blancos, a los mestizos.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 76
+        },
+        {
+          "timestamp": "64:54",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "O sea, eh... a los ricos, a los eh... No s\u00e9 la palabra, pero s\u00ed.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 77
+        },
+        {
+          "timestamp": "65:05",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Uhm... los que venden la eh... los que tienen la eh... las tiendas y los que est\u00e1n eh...",
+          "quality_score": "C",
+          "block": 7,
+          "id": 78
+        },
+        {
+          "timestamp": "65:12",
+          "student": "Aryang",
+          "type": "comment",
+          "content": "Los comerciantes, s\u00ed.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 79
+        },
+        {
+          "timestamp": "65:24",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh, el folklore. \u00bfEs una palabra correcta?",
+          "quality_score": "B",
+          "block": 7,
+          "id": 80
+        },
+        {
+          "timestamp": "65:28",
+          "student": "Grace",
+          "type": "comment",
+          "content": "S\u00ed.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 81
+        },
+        {
+          "timestamp": "65:32",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh, como los cantos, la m\u00fasica, las fiestas, los bailes. Todo eso es s\u00faper importante en la cultura andina.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 82
+        },
+        {
+          "timestamp": "65:40",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "A trav\u00e9s de las eh... las descripciones de las fiestas y los bailes y los cantos.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 83
+        },
+        {
+          "timestamp": "65:51",
+          "student": "Class",
+          "type": "voluntary_response",
+          "content": "S\u00ed.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 84
+        },
+        {
+          "timestamp": "65:57",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh, yo creo que porque uhm... los otras eh... la otra literatura est\u00e1 como mostrando la cultura eh... eh... la cultura europea, \u00bfno?",
+          "quality_score": "B",
+          "block": 7,
+          "id": 85
+        },
+        {
+          "timestamp": "66:06",
+          "student": "Grace",
+          "type": "comment",
+          "content": "Y \u00e9l est\u00e1 dando voz a la cultura andina.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 86
+        },
+        {
+          "timestamp": "66:15",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Y ah... mostrando eh... que tienen eh... la misma importancia.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 87
+        },
+        {
+          "timestamp": "66:23",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Uhm... el eh... las emociones.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 88
+        },
+        {
+          "timestamp": "66:28",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "S\u00ed. Como los... los personajes.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 89
+        },
+        {
+          "timestamp": "66:33",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh... la nostalgia de su ni\u00f1ez, de su casa, de la cultura.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 90
+        },
+        {
+          "timestamp": "66:42",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Eh... el sentimiento de... de perder la cultura andina.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 91
+        },
+        {
+          "timestamp": "66:51",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh... el amor por la tierra, por los animales, por el mundo.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 92
+        },
+        {
+          "timestamp": "67:08",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Uhm... el dolor de la discriminaci\u00f3n, y el dolor de los conflictos.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 93
+        },
+        {
+          "timestamp": "67:16",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh, s\u00ed.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 94
+        },
+        {
+          "timestamp": "67:18",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Ah... el sentido de los uh... de las tradiciones y los rituales.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 95
+        },
+        {
+          "timestamp": "67:28",
+          "student": "Class",
+          "type": "voluntary_response",
+          "content": "S\u00ed.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 96
+        },
+        {
+          "timestamp": "67:38",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "La educaci\u00f3n que es importante tambi\u00e9n.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 97
+        },
+        {
+          "timestamp": "67:44",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Eh... la educaci\u00f3n de los... los ind\u00edgenas.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 98
+        },
+        {
+          "timestamp": "67:50",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Eh... que est\u00e1 como eh... que est\u00e1 tratando de eh... cambiar a los ind\u00edgenas, a que sean como eh... como los blancos.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 99
+        },
+        {
+          "timestamp": "68:02",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh... el rol de las mujeres tambi\u00e9n.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 100
+        },
+        {
+          "timestamp": "68:08",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh... que... las mujeres son como las diosas.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 101
+        },
+        {
+          "timestamp": "68:16",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "S\u00ed.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 102
+        },
+        {
+          "timestamp": "68:29",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "Uhm... el eh... la conexi\u00f3n entre los ind\u00edgenas y los esp\u00edritus.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 103
+        },
+        {
+          "timestamp": "68:38",
+          "student": "Aryang",
+          "type": "voluntary_response",
+          "content": "S\u00ed, s\u00ed.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 104
+        },
+        {
+          "timestamp": "68:46",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh... la violencia que ah... se ve en los ind\u00edgenas.",
+          "quality_score": "B",
+          "block": 7,
+          "id": 105
+        },
+        {
+          "timestamp": "68:51",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "S\u00ed, s\u00ed.",
+          "quality_score": "C",
+          "block": 7,
+          "id": 106
+        },
+        {
+          "timestamp": "68:57",
+          "student": "Grace",
+          "type": "voluntary_response",
+          "content": "Eh... la violencia simb\u00f3lica que uhm... el gobierno y los ricos est\u00e1n usando para eh... para cambiar los ind\u00edgenas y para que no tengan sus... sus tradiciones.",
+          "quality_score": "A",
+          "block": 7,
+          "id": 107
+        }
+      ]
+    }
+  ]
+}

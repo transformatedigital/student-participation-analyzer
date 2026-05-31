@@ -1,0 +1,279 @@
+{
+  "block": 6,
+  "time_range": "25:00-30:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "or no. And I will try to with digital, with the digital for this program, with the Ministry of Higher Education, and then I will",
+      "timestamp_abs": "25:00"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "they have all these training modules, one of the modules will be the learning management module, which is Grace's project. Up to you how you tell the story. But, but what I what what's very important and I will go into this this, this is what we're going to discuss next time.",
+      "timestamp_abs": "25:08"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "This your part, right?",
+      "timestamp_abs": "25:28"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yes, your part.",
+      "timestamp_abs": "25:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "No.",
+      "timestamp_abs": "25:30"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "I have a question.",
+      "timestamp_abs": "25:32"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "text": "I have a question.",
+      "timestamp_abs": "25:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think this is important. Who's gonna be the owner? Who's gonna be the owner and who are gonna be your partners in the sense like if the learning management system is gonna be from the Ministry of Higher Higher Education,",
+      "timestamp_abs": "25:34"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "maybe the Ministry of Education is just like the policy maker, who's just gonna provide the framework, but he's not gonna operate the learning management system.",
+      "timestamp_abs": "25:49"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe they're going to say, no, I'm gonna ask the university of Chaco to be the first operator of the system, blah blah. And if they prove the concept, later on, we will make it available to the other public universities that operate like that.",
+      "timestamp_abs": "25:57"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you have to tell me the story in terms of who are going to be the partners like like same as this, right?",
+      "timestamp_abs": "26:10"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Who's gonna be the owner of the system? Okay, he's the he's the owner of the system, but they have a IT partner.",
+      "timestamp_abs": "26:16"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then this IT partner is gonna be hired to collaborate in the team, but the owner of the system is gonna be me. However, the operator of the system and who's gonna get the knowledge is this IC.",
+      "timestamp_abs": "26:23"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, saying you have to tell the story and that is not so easy. You can tell me from your imagination, but when you talk to the stakeholders, who's gonna be really the one able to",
+      "timestamp_abs": "26:34"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "uptake, the recipient to uptake all this technology transfer. Who's gonna be the one committing to some budget, whatever it is.",
+      "timestamp_abs": "26:44"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe the Ministry, because during these discussions at the beginning as I told you, Casey provided me some percentage.",
+      "timestamp_abs": "26:54"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But then at the end the the Ministry requested, hey, if my budget is not approved, please IC invest initially, and later on I will contract you.",
+      "timestamp_abs": "26:59"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the initial investment of the $300,000 was made by IC. So IC because it's a public entity, they don't need to get an approval of budget, because they have some funds to operate. It's easier from them than the ministry. The ministry, if they didn't approve the budget last year, they cannot, as you very well know, they cannot use any money, right?",
+      "timestamp_abs": "27:08"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "IC has more flexibility, so IC did the initial investment in all behalf of the Ministry. And then Ministry later on they can contract and buy services or something, they need some kind of business model.",
+      "timestamp_abs": "27:27"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this hooking this kind of arrangement takes very big coordinations, okay?",
+      "timestamp_abs": "27:38"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I worry in your case like, uh, sometimes as I told you before, having the big whales, like I told you eventually Steven, Steven, you have big names there in the proposal.",
+      "timestamp_abs": "27:45"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Having this whale make it like, for example, your question Megan, you said I took one month to sign a MOU between the two ministries, right? So putting a minister as a as a stakeholder and as a counterpart.",
+      "timestamp_abs": "27:55"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It could be very good because it's a very heavy, heavy, heavy weight, heavy, heavy, very, very highly political stakeholder and with a lot of political power, great.",
+      "timestamp_abs": "28:07"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But also very bureaucratic and very slow in the decision making and that might work against you.",
+      "timestamp_abs": "28:18"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So far so as the case for like the university, like let's say by universities, like the first public university.",
+      "timestamp_abs": "28:24"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Even if they want to like to implement this budget.",
+      "timestamp_abs": "28:35"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I don't believe they have a direct fund.",
+      "timestamp_abs": "28:40"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "The university?",
+      "timestamp_abs": "28:43"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "The university to like support.",
+      "timestamp_abs": "28:44"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So since they have to contact the authority, which is the Ministry of High Education.",
+      "timestamp_abs": "28:47"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And the Ministry of Education based on its budget line, it's may be to contact the government you know for funding something such.",
+      "timestamp_abs": "28:54"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You see, so it's not like uh the University of Kuchaza directly funding without uh any.",
+      "timestamp_abs": "29:04"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So they have no, they don't have that funding capacity. Okay.",
+      "timestamp_abs": "29:10"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh directly. So they need to contact the authority which is the Ministry of High Education through the minister, if he, uh she has also to contact, you see.",
+      "timestamp_abs": "29:14"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The the the the government for any funding possibility something such.",
+      "timestamp_abs": "29:26"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "29:32"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. I'll give you another example of another project.",
+      "timestamp_abs": "29:33"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I'm gonna give you an homework that I already gave you but you didn't maybe you haven't done.",
+      "timestamp_abs": "29:35"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There is an agency called the National Informatization, National IP industry promotion agency. National IT industry promotion agency called Nipa, N I P A. I already told you to look at it last time. They have an entity called K-Lab.",
+      "timestamp_abs": "29:42"
+    }
+  ]
+}

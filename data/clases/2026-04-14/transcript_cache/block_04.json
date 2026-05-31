@@ -1,0 +1,69 @@
+{
+  "block": 4,
+  "time_range": "15:00-20:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Hello, good afternoon, respected professor and everyone. I'd like to present my study on",
+      "timestamp_abs": "15:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "techno-economic optimizations of battery energy storage systems for grid stability.",
+      "timestamp_abs": "15:02"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Uh, this is my background and necessity.",
+      "timestamp_abs": "15:09"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Uh, we, Indonesia has a target for net zero emissions by 2060 or sooner.",
+      "timestamp_abs": "15:11"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "It's a global commitment and also, Indonesia has a big solar potential.",
+      "timestamp_abs": "15:15"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "It's equivalent to 112,000 gigawatt peak and it enormous uh, anticipated uh, solar resources.",
+      "timestamp_abs": "15:20"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "And this March, the president's uh, directive mandates 100 gigawatt of solar renewable energy deployment in the shortest possible time.",
+      "timestamp_abs": "15:28"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "And the problem for the solar PV is the if it cannot produce if during the night and also the rains,",
+      "timestamp_abs": "15:39"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "So, it makes supply...",
+      "timestamp_abs": "15:44"
+    }
+  ]
+}

@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transcription - Class Analytics</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #ffffff; color: #1f2937; }
+        header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px 20px; }
+        header h1 { margin-bottom: 5px; }
+        header .breadcrumb { font-size: 12px; opacity: 0.8; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 30px 20px; }
+        .section-title { font-size: 22px; font-weight: 700; color: #1f2937; margin-bottom: 20px; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
+        .nav-buttons { margin-bottom: 30px; }
+        .nav-buttons a { display: inline-block; margin-right: 10px; padding: 10px 20px; background: #667eea; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; margin-bottom: 10px; }
+        .nav-buttons a:hover { background: #764ba2; }
+        .filter-section { background: #f0f9ff; border: 1px solid #bfdbfe; border-radius: 8px; padding: 20px; margin-bottom: 30px; }
+        .filter-section label { display: block; font-weight: 600; margin-bottom: 10px; color: #1f2937; }
+        .filter-section select { width: 100%; padding: 10px; border: 1px solid #bfdbfe; border-radius: 6px; font-size: 14px; }
+        .filter-stats { margin-top: 15px; padding-top: 15px; border-top: 1px solid #bfdbfe; font-size: 13px; color: #6b7280; }
+        table { width: 100%; border-collapse: collapse; margin-bottom: 30px; }
+        th { background: #667eea; color: white; padding: 12px; text-align: left; font-weight: 600; font-size: 13px; }
+        tr:hover { background: #f9fafb; }
+        footer { text-align: center; padding: 20px; color: #6b7280; font-size: 12px; border-top: 1px solid #e5e7eb; margin-top: 40px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>📝 Transcription with Student Filter</h1>
+        <div class="breadcrumb">← <a href="index.html" style="color: white; text-decoration: underline;">Dashboard</a> / Transcription</div>
+    </header>
+
+    <div class="container">
+        <div class="nav-buttons">
+            <a href="index.html">← Back to Dashboard</a>
+            <a href="overview.html">📊 Overview</a>
+            <a href="class_transcript.html">🎤 Class Transcript</a>
+            <a href="evaluacion.html">🤖 Evaluations</a>
+            <a href="timeline.html">⏱️ Timeline</a>
+            <a href="rubrics.html">📋 Rubrics</a>
+        </div>
+
+        <div class="filter-section">
+            <label for="speaker-filter">Filter by Student:</label>
+            <select id="speaker-filter" onchange="filterBySpeaker()">
+                <option value="all">All Students</option>
+<option value="ARYANG">Aryang (83 statements)</option>
+<option value="GRACE">Grace (21 statements)</option>
+<option value="STHEPEN">Sthepen (12 statements)</option>
+<option value="CHILAKA">Chilaka (1 statement)</option>
+            </select>
+            <div class="filter-stats">
+                <strong id="filter-info">Showing: All Students (137 statements)</strong>
+            </div>
+        </div>
+
+        <div class="section-title">📋 Transcription</div>
+        <table>
+            <thead>
+                <tr>
+                    <th style="width: 5%">#</th>
+                    <th style="width: 10%">Time</th>
+                    <th style="width: 15%">Speaker</th>
+                    <th style="width: 10%">Type</th>
+                    <th style="width: 60%">Statement</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">1</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:08</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Can I know? Can I know?</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">2</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:18</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Alright, thank you, ma'am. Oh, so, um, for the for the collaboration, I already talked to my, uh, de...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">3</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:34</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Microsoft Copilot for using the AI for, uh, you know, for knowledge. For knowledge management.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">4</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:43</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Nah, yeah, yeah. So, and I asked him, uh, is there any any other opportunity for for me to to join w...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">5</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:02</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">For the, hmm.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">6</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:11</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Uh, wait, wait, wait, wait, wait a minute. They already j- they already doing the kick off. I think ...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">7</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:32</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Sorry, sorry, sorry.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">8</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:33</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Not not not KISTI paid to SoftITech because KISTI asked SoftITech to convert the language?</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">9</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:29</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">No, but but that that, why didn't the SoftITech convert straight to the to the Costa Rican language?...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">10</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:00</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">So I I mean I mean uh why why didn't the the KISTI request the SoftITech to provide the NIST version...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">11</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:10</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">So, what not only about the language?</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">12</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:12</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Ah, ah. So, sorry.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">13</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:15</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Uh, who make the adaptation? The IC or the soft ITEC?</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">14</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:22</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Oh.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">15</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:56</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">So I don't see an opportunity for a Korean adaptation.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">16</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:02</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">You are back to square one.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">17</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:09</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Okay, just one more quick. Why didn't the IC create the system itself?</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">18</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:17</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">No, no money, no people?</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">19</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:10</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Okay.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">20</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:41</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Actually tomorrow I will have, uh, you know, because I I feeling that it will not work so I try to a...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">21</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:50</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">And some of my friends told me that they have some also some TTS issue uh regardless the TTS text to...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">22</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:07</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">But right now they have difficulties because the the the percentage of success is very low and they ...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">23</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:19</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah, the accuracy level.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">24</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:21</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">I know it.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">25</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:24</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">And so tomorrow maybe I will I have some meeting with them and</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">26</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:29</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">27</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:35</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Okay, okay.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">28</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:46</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Was it, sir?</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">29</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:00</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Uh, and one more. Ma, maybe the Grace already asked this, but uh, because there's no Korean here, I ...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">30</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:09</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Oh, I'm sorry.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">31</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:14</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">미안해요.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">32</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:16</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">저는...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">33</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:19</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Uh. Besides the the the opportunity to do next business, but I I I believe about give and take and y...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">34</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:34</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">No, no, no, not not for KISTI. For this.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">35</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:37</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">36</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:41</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">So right right now it's like burning money for the investing.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">37</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:25</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">It is, it is.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">38</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:34</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">39</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:01</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">This is only small compared to Professor.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">40</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:30</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Okay.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">41</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:38</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Uh what would you uh after you finish your uh question then we can discuss maybe something.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">42</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:01</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Okay.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">43</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:06</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Uh for you.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">44</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:09</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Actually, I wanted to to explain the the project in another way, or maybe to show you this.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">45</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:17</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah. This is actually the the portal.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">46</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:23</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">The Ministry of AI Education.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">47</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:25</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">I've been translating so now it's in English. Okay.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">48</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:29</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah, yeah. So, it's going to be launched very recently. And then uh uh from there they are even try...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">49</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:47</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah, yeah.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">50</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:51</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah, I'll check it. And you see it's really with the schedule. This is actually the training they a...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">51</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:06</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Uh actually, it's useful.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">52</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:16</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">It has been it was launched.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">53</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:23</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah, actually it's a they are really focusing on digitalizing uh so I mean the academic uh sector. ...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">54</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:39</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Online training. That's this one. They are this is the training module. Okay. You have this this tim...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">55</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:47</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">The training will be actually. They also have some things, okay? National platform for managing stud...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">56</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:22</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">In this context, if the the minister the minister.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">57</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:28</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Uh actually, I wanted to bring it as uh the project for the Ministry of High Education. If they can,...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">58</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:56</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah, it's all the authority see that something is valuable because we need we have always been givi...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">59</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:33</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">I am I am I am somehow closer because I am working with one of the professors who is academic adviso...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">60</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:46</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Of the Minister of Education.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">61</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:32</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">I have a question.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">62</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:24</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">So far so as the case for like the university, like let's say by universities, like the first public...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">63</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:35</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Even if they want to like to implement this budget.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">64</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:40</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">I don't believe they have a direct fund.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">65</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:44</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">The university to like support.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">66</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:47</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">So since they have to contact the authority, which is the Ministry of High Education.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">67</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:54</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">And the Ministry of Education based on its budget line, it's may be to contact the government you kn...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">68</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:04</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">You see, so it's not like uh the University of Kuchaza directly funding without uh any.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">69</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:14</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Uh directly. So they need to contact the authority which is the Ministry of High Education through t...</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">70</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:26</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">The the the the government for any funding possibility something such.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">71</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:32</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">72</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:14</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">73</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:00</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">No, no, no, don't look like that.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">74</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:53</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">22nd, right?</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">75</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:10</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">So we will have different themes assigned to each of us in that debate then?</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">76</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:53</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yes.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">77</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:54</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Sorry, I.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">78</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:57</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">I I I don't still get the sec sector the sectoring.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">79</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:03</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Ah sector lab. Okay, okay.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">80</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:36</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Ah, I I I heard that.</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">81</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:42</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah, but maybe after I'm meeting with my</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">82</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:01</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Professor, is it going to still be EPT or the one?</td>
+</tr>
+<tr class="student-aryang" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">83</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:08</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #dc2626;">Aryang</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Presentation.</td>
+</tr>
+<tr class="student-chilaka" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">1</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:55</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #d97706;">Chilaka</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Okay, so that's fine.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">1</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">01:04</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">That happened.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">2</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:33</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">That's when you get almost at the school.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">3</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:52</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">So</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">4</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:18</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">[inaudible]</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">5</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:06</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yes.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">6</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:59</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Twelve.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">7</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:33</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">I have a question.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">8</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:31</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">No, actually I just wanted to tell that one so I will just try to restructure.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">9</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:59</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">So for the first week, we'll just have the debate, right? The discussion without presentation.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">10</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:26</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Okay.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">11</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:42</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Okay.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">12</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:08</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Okay.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">13</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:31</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Myself.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">14</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:36</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Sthephen.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">15</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">06:17</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">So one topic for the whole team.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">16</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">06:22</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Okay.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">17</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:35</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">And my side there is I just like to give to BLN.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">18</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:41</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yes.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">19</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:43</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">BLN is this set on enterprise, is that the, uh, you know, their point?</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">20</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:47</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah, yeah.</td>
+</tr>
+<tr class="student-grace" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">21</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:49</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #0284c7;">Grace</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">So there is that just like, I don't know, talk to BLN.</td>
+</tr>
+<tr class="student-sthepen" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">1</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:24</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #7c3aed;">Sthepen</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Yeah, it is.</td>
+</tr>
+<tr class="student-sthepen" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">2</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:01</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #7c3aed;">Sthepen</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Dissertation.</td>
+</tr>
+<tr class="student-sthepen" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">3</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:58</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #7c3aed;">Sthepen</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Ooh.</td>
+</tr>
+<tr class="student-sthepen" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">4</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:05</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #7c3aed;">Sthepen</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Oh, professor, oh professor.</td>
+</tr>
+<tr class="student-sthepen" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">5</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:43</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #7c3aed;">Sthepen</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">So it's like a pitch, right?</td>
+</tr>
+<tr class="student-sthepen" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">6</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">00:59</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #7c3aed;">Sthepen</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">So like for example if it's too advanced and the market's too immature, what kind of challenges woul...</td>
+</tr>
+<tr class="student-sthepen" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">7</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:00</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #7c3aed;">Sthepen</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Mmm. So like the question will be based around the frameworks we've been reading or what we've been ...</td>
+</tr>
+<tr class="student-sthepen" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">8</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:22</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #7c3aed;">Sthepen</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">↩️ response</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Right.</td>
+</tr>
+<tr class="student-sthepen" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">9</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">05:15</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #7c3aed;">Sthepen</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">So it's like our own mini Shark Tank.</td>
+</tr>
+<tr class="student-sthepen" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">10</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">04:16</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #7c3aed;">Sthepen</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">It's like a workshop.</td>
+</tr>
+<tr class="student-sthepen" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">11</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">02:07</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #7c3aed;">Sthepen</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">❓ question</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">We're just going to get to discuss it, yeah?</td>
+</tr>
+<tr class="student-sthepen" style="display: none;">
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">12</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px; color: #6b7280;">03:48</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-weight: 600; color: #7c3aed;">Sthepen</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 12px;">💬 comment</td>
+    <td style="padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px;">Thank you very much, guys.</td>
+</tr>
+            </tbody>
+        </table>
+    </div>
+
+    <footer>
+        <p>Class Analytics | April 7, 2026 | 137 total statements</p>
+    </footer>
+
+    <script>
+        function filterBySpeaker() {
+            const select = document.getElementById('speaker-filter');
+            const selectedValue = select.value;
+            const rows = document.querySelectorAll('tbody tr');
+            
+            let visibleCount = 0;
+            let selectedText = 'All Students (137 statements)';
+            
+            const speakerCounts = {
+                'ARYANG': 83,
+                'GRACE': 21,
+                'STHEPEN': 12,
+                'CHILAKA': 1
+            };
+            
+            rows.forEach(row => {
+                if (selectedValue === 'all') {
+                    row.style.display = '';
+                    visibleCount++;
+                } else {
+                    const className = 'student-' + selectedValue.toLowerCase();
+                    if (row.classList.contains(className)) {
+                        row.style.display = '';
+                        visibleCount++;
+                    } else {
+                        row.style.display = 'none';
+                    }
+                }
+            });
+            
+            if (selectedValue !== 'all') {
+                const speakerName = select.options[select.selectedIndex].text.split('(')[0].trim();
+                selectedText = speakerName + ' (' + visibleCount + ' statements)';
+            }
+            
+            document.getElementById('filter-info').textContent = 'Showing: ' + selectedText;
+        }
+    </script>
+</body>
+</html>

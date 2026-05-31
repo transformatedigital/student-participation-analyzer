@@ -1,0 +1,49 @@
+{
+  "block": 10,
+  "time_range": "45:00-50:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't know, I have to think about it very well because it's it's very",
+      "timestamp_abs": "45:00"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "straightforward?",
+      "timestamp_abs": "45:05"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's straightforward, right? It's nice because it's that,",
+      "timestamp_abs": "45:06"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "but then from the professor's perspective, from the committee member, they're like, \"okay, then you just",
+      "timestamp_abs": "45:09"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "found the partner, built a technology,\" like, that cannot be your master's.",
+      "timestamp_abs": "45:15"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Many professors...",
+      "timestamp_abs": "45:19"
+    }
+  ]
+}

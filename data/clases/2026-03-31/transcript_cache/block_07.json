@@ -1,0 +1,309 @@
+{
+  "block": 7,
+  "time_range": "30:00-35:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Can, uh, coordinate with. But no. One, I told you, what is the difference between our national innovation systems in our countries and Korea's innovation system?",
+      "timestamp_abs": "30:00"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Anybody remember what I said in the first lecture? What is the main difference?",
+      "timestamp_abs": "30:21"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Training.",
+      "timestamp_abs": "30:27"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Training, what's the big difference?",
+      "timestamp_abs": "30:28"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Preparing is important. The project is about NTS.",
+      "timestamp_abs": "30:30"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Why is the main difference between our, our R&D ecosystem and countries like Korea R&D ecosystem?",
+      "timestamp_abs": "30:33"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "What are the, I told you about the main hi-poll, I told you. Korea has an R&D hi-poll. I R&D hi-poll.",
+      "timestamp_abs": "30:41"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "30:50"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, Korean R&D centers are not for papers. They're not writing papers.",
+      "timestamp_abs": "30:51"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What are they doing?",
+      "timestamp_abs": "30:57"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "They focus on customer satisfaction.",
+      "timestamp_abs": "30:59"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Well, I know in the in the website they CARE is part of the GNT.",
+      "timestamp_abs": "31:02"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That is correct. Yes, you remember your, your homework. Yes, part of the, yes. But believe me, I don't want to get to you just to see K-AIR accomplish it. Yes.",
+      "timestamp_abs": "31:08"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "K-AIR?",
+      "timestamp_abs": "31:18"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "K-AIR. They as a byproduct of their work, they are publishing, yes.",
+      "timestamp_abs": "31:19"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But believe me, the president of K-AIR is not saying, 'Hey, you, how many publications did you publish, K-AIR?' No.",
+      "timestamp_abs": "31:25"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Specifically.",
+      "timestamp_abs": "31:31"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, they're saying how much money did you produce, how many patents did you register, how many products did you commercialize? How many startups did you start with your technology? That's what they're asking.",
+      "timestamp_abs": "31:32"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the vision of the Korean technology transformation, the philosophy is to make money.",
+      "timestamp_abs": "31:42"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Is to make money and create value in the market.",
+      "timestamp_abs": "31:50"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? The vision of our research centers is not the same. Because of course, creating knowledge is important. I'm not saying it's not important. It's important. But remember the example of the professor, the physics professors versus Steve Jobs. Or the example of Tesla versus, uh, what's [inaudible] Tesla?",
+      "timestamp_abs": "31:55"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Thomas Alva Edison.",
+      "timestamp_abs": "32:19"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Edison.",
+      "timestamp_abs": "32:20"
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Edison. And I will write. So, it's really like that, right? So, when I see your paper, I'm like, ah, Mega forgot that the new AI era requests, for requires, for calls, to generate value in the market by using the technology. And I know.",
+      "timestamp_abs": "32:21"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not only to publish a paper, but also to create valuable projects that improve people's lives. So, if you think about it, yeah, of course, a paper that proves and gives me the formula of how to improve the energy supply in the other, that's a very important thing. Yes, great, I agree.",
+      "timestamp_abs": "32:40"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But rather than having a paper, tell me how to do it. If I can implement a Google concept of how to blogging a chain, and how to run them like a start, and then start startup running, and then solar and the sun in house, you can start running this system and the system is going to give the energy to the grid and the grid is going to provide and distribute the energy to the household and drop. That's more valuable.",
+      "timestamp_abs": "32:59"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Probably, right? Does it probably right?",
+      "timestamp_abs": "33:22"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So it's a big difference.",
+      "timestamp_abs": "33:25"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "33:28"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So from here's perspective, K-AIR was going to write K-AIR technology, promote K-AIR technology and their know-how to Indonesian companies, definitely, that would be a great start.",
+      "timestamp_abs": "33:29"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But from this program in my course, I don't want to promote to get a paper to.",
+      "timestamp_abs": "33:42"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay?",
+      "timestamp_abs": "33:48"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want to promote to get a real product into the market, to create value for Indonesia, for Mega, for Mega's pen box and for the Korean company that will accompany you.",
+      "timestamp_abs": "33:49"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's a makes makes more sense in this era.",
+      "timestamp_abs": "33:58"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, in the K-Tec institution also, K-Tec, if you think about it, is a Korean thing.",
+      "timestamp_abs": "34:05"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But they have their own family of companies. I always tell you, yesterday I explained to you, SK or Samsung. Normally, I in Korea they use this name like family, they're part of our company family, like that.",
+      "timestamp_abs": "34:11"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "In ITBI, how many companies do we have in our family? Christ, IBBI has?",
+      "timestamp_abs": "34:25"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Not many.",
+      "timestamp_abs": "34:32"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Because most of them are companies that have been [inaudible].",
+      "timestamp_abs": "34:34"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So maybe more or less, more or less.",
+      "timestamp_abs": "34:38"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Maybe 50.",
+      "timestamp_abs": "34:40"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "50. So, even along the line of K-TBI, we have made different collaboration projects. They, now is now is taking this over, she's also new. So she's now making this network alive, because it was kind of dead for a while, so some contacts that were active are no no longer active. So she's going to-",
+      "timestamp_abs": "34:41"
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "session": "2026-04-28",
+  "generated_at": "2026-05-31T12:19:08",
+  "count": 35,
+  "questions": [
+    {
+      "timestamp": "21:07",
+      "topic": "Five Whys Analysis",
+      "question": "Have any of you ever used or performed the Five Whys analysis methodology for understanding the difference between symptoms and root problems?",
+      "raw_question": "Have you ever, anybody of you said to [inaudible]? Have you ever done the five-wise analysis?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yes, I have.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "21:17",
+      "topic": "Five Whys Application",
+      "question": "Grace, did you use the Five Whys analysis framework during your MBA studies, for example?",
+      "raw_question": "In your MBA, for example, did you use the five-wise analysis framework?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "No.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "22:08",
+      "topic": "Jefferson Memorial deterioration",
+      "question": "In the case study about the Jefferson Memorial, why was the stone deteriorating?",
+      "raw_question": "Why was the stone deteriorating?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "High-powered sprayers were being used to wash the memorial.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "28:37",
+      "topic": "Course structure problem",
+      "question": "Why does the course structure only track the final delivery of assignments, rather than incorporating intermediate milestones?",
+      "raw_question": "And then, ah, why is the course only tracks the final delivery?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Because we don't need any other checkpoint during the syllabus.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "32:48",
+      "topic": "ICP title attractiveness",
+      "question": "Aryang, I recall your previous question in the Google Docs about whether you should add 'TPS' to your ICP title to make it more attractive. Is that correct?",
+      "raw_question": "I remember even your question, you gave me the question there in the Google Docs. Should I add the T-P-S because I wanted to look more attractive. You asked?",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "Yes, I mean if we put the more technical it's not fancy.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "36:32",
+      "topic": "Problem-driven title",
+      "question": "If your project is problem-driven, should the title of your report include the technology name, or should it not?",
+      "raw_question": "Thank you. But then in your case, if you're a draw, that's that's giving me the answer. If you're problem driven, your title should have the technology or should not have the technology name?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No, it should not include technology. It should be much more broader.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "38:51",
+      "topic": "AI vs. human problem-solving",
+      "question": "So, instead of identifying solutions, we should focus on underlying problems. In this AI era, what is the name of the AI technology (referring to 'Cloud') that will distinguish us from machines in understanding human problems?",
+      "raw_question": "So, it's identifying solutions instead of underlying problems. We fix with the solutions. And in this AI era, the difference between all of us and whatever, what's the name of this [inaudible] Cloud?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Cloud.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "55:00",
+      "topic": "ICP symptom identification",
+      "question": "Aryang, please start by identifying a symptom related to your ICP.",
+      "raw_question": "start by Arya.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Symptoms.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "55:08",
+      "topic": "Root cause identification",
+      "question": "And following that symptom, what could be a potential root cause?",
+      "raw_question": "And what could be a root cause of that one?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "The system is not good, not running well.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "55:18",
+      "topic": "Clarification request",
+      "question": "Could you please rephrase or elaborate on your previous statement?",
+      "raw_question": "I beg your pardon?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "The system is not good, not running well.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "56:00",
+      "topic": "Term categorization",
+      "question": "Regarding the term 'mobile application for service booking,' how would you categorize it?",
+      "raw_question": "Mobile application for service booking.",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Solution.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "56:07",
+      "topic": "Term categorization confirmation",
+      "question": "Does everyone agree that 'mobile application for service booking' is a solution?",
+      "raw_question": "Everybody agree, solution?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah. Agree.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "56:20",
+      "topic": "Justifying solution categorization",
+      "question": "Why do you categorize 'mobile application for service booking' as a solution?",
+      "raw_question": "Why is it a solution?",
+      "answered_by": "Sthepen",
+      "score": 4,
+      "response_text": "I think the solution is the above problem.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "56:25",
+      "topic": "Term categorization",
+      "question": "How would you categorize the term 'cloud computing system'?",
+      "raw_question": "Okay, cloud computing system.",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Technology.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "56:30",
+      "topic": "Term categorization",
+      "question": "How would you categorize the term 'user interface module'?",
+      "raw_question": "User interface module.",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Component.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "56:34",
+      "topic": "Term categorization",
+      "question": "How would you categorize the term 'Government digital service platform'?",
+      "raw_question": "Government digital service platform.",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Platform.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "56:38",
+      "topic": "Term categorization",
+      "question": "How would you categorize the term 'server maintenance budget'?",
+      "raw_question": "Server maintenance budget.",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Problem. The budget.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "57:07",
+      "topic": "Articulating a problem",
+      "question": "Mega, would you like to start the 'one sentence rule challenge' by articulating your stimulating problem?",
+      "raw_question": "You wanna start, Mega?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "Yes, I started with a stimulating problem in mobile banking.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "58:22",
+      "topic": "Root cause of scamming",
+      "question": "Continuing your problem statement, why are mobile money users in Rwanda losing money due to scams?",
+      "raw_question": "Because.",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "Because of unsecured identity.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "60:23",
+      "topic": "Latency definition",
+      "question": "Do you understand that 'latency' as a key point means that intervention is not timely, especially concerning your problem statement?",
+      "raw_question": "This is the key point in your, yeah, you don't get it now?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yes, they have telling.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "72:11",
+      "topic": "Root cause of AI solution",
+      "question": "Given that regulations are forcing EDM to adopt a voice AI solution, what is the *real* underlying problem that this solution aims to address?",
+      "raw_question": "The real problem is why again, why they need the voice AI solution?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "From the city, from the city.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "78:32",
+      "topic": "Class continuation",
+      "question": "(Lighthearted) May I now proceed with the rest of our class activities?",
+      "raw_question": "Can I do my class?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "Thank you, Professor. (Stephen then indicates he wanted to read something, implying a delay).",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "87:19",
+      "topic": "Project justification",
+      "question": "How do they (BRI) justify this decision to implement a voice AI solution, given it's part of their plan?",
+      "raw_question": "How do they justify this?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "It's from the BRI plan. The next thing we want to do is switch from text to voice.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "91:45",
+      "topic": "Clarification/Confirmation",
+      "question": "(Responding to a student's interjection of 'rules') What kind of 'rules' are you referring to in the context of university internal regulation or process?",
+      "raw_question": "Hm?",
+      "answered_by": "Aryang",
+      "score": null,
+      "response_text": "",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "94:58",
+      "topic": "Project budget",
+      "question": "Regarding the problem you've identified, what is the existing budget situation or allocation for it?",
+      "raw_question": "existing what is the budget situation?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "106:06",
+      "topic": "Midterm deadline",
+      "question": "Cesar, could you please remind everyone what the official submission date for our midterm ICP is?",
+      "raw_question": "Or I but I wanna see, so please everybody, again, until the submission that we have as a midterm is on what date, Cesar?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "It was 20, 2024, the midterm. The spring, the midterm exams was between 20 and 24.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "106:18",
+      "topic": "Midterm deadline clarification",
+      "question": "Could you clarify the specific date for the midterm, as '20, 2024' is unclear or incorrect for our ICP submission?",
+      "raw_question": "The midterm was 20, 20 what?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "The spring, the midterm exams was between 20 and 24.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "106:29",
+      "topic": "Midterm deadline recall",
+      "question": "Was the original midterm ICP submission date perhaps May 4th, May 5th, or May 8th?",
+      "raw_question": "Maybe May 4th, May 5th, May 8th?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "May, May, hold on.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "106:41",
+      "topic": "Midterm deadline confirmation",
+      "question": "Wasn't the ICP submission date May 11th?",
+      "raw_question": "ICP, it was 11, no?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "11, 11.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "110:02",
+      "topic": "Plan confirmation",
+      "question": "Do you understand and agree with the plan to show only parts one and two of the document to the director?",
+      "raw_question": "Okay?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Okay.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "111:55",
+      "topic": "Document changes",
+      "question": "Earlier, you mentioned you had two files for Kier and Kepco. I noticed you changed it slightly; did you make any modifications to the document content?",
+      "raw_question": "You changed it slightly?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "Yes, I made a slight change, but only to the title.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "111:58",
+      "topic": "Title changes",
+      "question": "To confirm, was the only change you made to the document just the title?",
+      "raw_question": "Only the title?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Yes, only the title was changed.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "112:50",
+      "topic": "Document versioning strategy",
+      "question": "Given the changes you made specifically for potential Korean partners, I suggest we create two versions: one for your director that does not include the Korean partner information to avoid confusion, and then another for the Korean partners, merging section two for your director so she knows all potential partners. What do you think of this approach?",
+      "raw_question": "Then how about we do this, Mega?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Mmm. Mhm. (Acknowledging and accepting the suggestion)",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "120:09",
+      "topic": "Policy development process",
+      "question": "Regarding policy development, when you build policy, do you normally do it in-house with your internal staff?",
+      "raw_question": "So then to build the policy normally, you just do it in-house with your internal staff, right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "120:47",
+      "topic": "Collaboration funding status",
+      "question": "You mentioned that the lack of funding means there hasn't been any collaboration with Korea. Is this situation still current, as in, 'until now'?",
+      "raw_question": "Uh, until now.",
+      "answered_by": "Aryang",
+      "score": 6,
+      "response_text": "Yes, until now, we still lack funding. Korean organizations like KIER or KADIAN will not work if they don't have any funding, and that's the central problem for collaboration.",
+      "is_substantive": true
+    }
+  ]
+}

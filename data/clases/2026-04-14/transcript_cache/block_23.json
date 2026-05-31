@@ -1,0 +1,160 @@
+{
+  "block": 23,
+  "time_range": "110:00-115:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "stronger university industry collaboration, increased research commercialization and IP creation.",
+      "timestamp_abs": "110:00"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thank you, Chilaka.",
+      "timestamp_abs": "110:05"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thank you very much.",
+      "timestamp_abs": "110:06"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, okay. So, several comments I have.",
+      "timestamp_abs": "110:08"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm going to go through them quickly.",
+      "timestamp_abs": "110:09"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, in your first slide, Chilaka, I like it a lot. It's actually very similar to what I've pinpointed of Mega.",
+      "timestamp_abs": "110:10"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You guys are improving a lot your starting point, starting strong, starting direct.",
+      "timestamp_abs": "110:12"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Actually, I also I missed to say like that to maybe you don't need to do you and Stephen, I think.",
+      "timestamp_abs": "110:13"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe maybe it's a African culture thing, I'm not sure.",
+      "timestamp_abs": "110:15"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But, um, I think in Latin America, we have the same, like you say, hello, how are you?",
+      "timestamp_abs": "110:17"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like you kind of greet people at the very beginning of your presentation.",
+      "timestamp_abs": "110:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Steven also said like a formal thing. It's good, but in this in especially in, depending on the context,",
+      "timestamp_abs": "110:21"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "but I'm just giving you a feedback like, there's many meetings I go where there is the president, there everybody already know who you are.",
+      "timestamp_abs": "110:23"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you're sitting in that chair, many people already know who you are. The initial greeting of the meeting was already done by somebody who moderated the meeting.",
+      "timestamp_abs": "110:25"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You don't need to say, hello, I am blah, blah, blah. Go straight to the point directly.",
+      "timestamp_abs": "110:27"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, this is my topic, this is my problem, especially when you have a pitch presentation of five or 10 minutes.",
+      "timestamp_abs": "110:28"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You use your time wisely. And this is something I'm telling you, not only for this presentation.",
+      "timestamp_abs": "110:32"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, all of you will have to do the master's defense or PhD defense.",
+      "timestamp_abs": "110:35"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Don't start your presentation by, hello professors, No, no need.",
+      "timestamp_abs": "110:38"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Use your time wisely. You have 20 minutes, 15 minutes to show the work that you've done.",
+      "timestamp_abs": "110:41"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mean, you're showing me in five minutes work that you've done probably for like the last two, the last five weeks you've been gathering this information trying to tell me a story.",
+      "timestamp_abs": "110:46"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So be wise about that.",
+      "timestamp_abs": "110:50"
+    }
+  ]
+}

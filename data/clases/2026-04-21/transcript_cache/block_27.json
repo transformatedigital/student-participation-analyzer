@@ -1,0 +1,472 @@
+{
+  "block": 27,
+  "time_range": "130:00-135:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "from the Korean foundations. Ah, okay.",
+      "timestamp_abs": "130:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe Indonesia, this is an important question for all of you, right?",
+      "timestamp_abs": "130:02"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe Indonesia doesn't have",
+      "timestamp_abs": "130:06"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Indonesia, no money.",
+      "timestamp_abs": "130:10"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? But",
+      "timestamp_abs": "130:14"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Indonesia bring",
+      "timestamp_abs": "130:15"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "has resources.",
+      "timestamp_abs": "130:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. People, right?",
+      "timestamp_abs": "130:21"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, and you have specialists in every part, right?",
+      "timestamp_abs": "130:24"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the utility company, and also you have the Chilaka utility company.",
+      "timestamp_abs": "130:28"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Who here?",
+      "timestamp_abs": "130:34"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "PLN.",
+      "timestamp_abs": "130:36"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Hmm.",
+      "timestamp_abs": "130:37"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "PLN. Uh-huh. They also have some resources.",
+      "timestamp_abs": "130:38"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, no. People. There are experts in the Chilaka part.",
+      "timestamp_abs": "130:41"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, uh, we can put",
+      "timestamp_abs": "130:44"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "four resources to this project, who will work full-time",
+      "timestamp_abs": "130:46"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "for three months",
+      "timestamp_abs": "130:52"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "to develop this project. That's already equal.",
+      "timestamp_abs": "130:55"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And for example, you can say, and we might commit to",
+      "timestamp_abs": "130:59"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "their visiting Korea two times, right?",
+      "timestamp_abs": "131:05"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm just saying this for this example. Or maybe no, no visiting to Korea. We cannot, no budget for travel for this case.",
+      "timestamp_abs": "131:10"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. And then maybe you can say, could maybe the Korea says, \"Ah, yeah, okay. We will commit to this project.\"",
+      "timestamp_abs": "131:17"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Why?",
+      "timestamp_abs": "131:27"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because",
+      "timestamp_abs": "131:29"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "we can provide from here",
+      "timestamp_abs": "131:30"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "one stop. We'll make this project.",
+      "timestamp_abs": "131:33"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And plus Company X",
+      "timestamp_abs": "131:36"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "from the Korean company, Korean company.",
+      "timestamp_abs": "131:40"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then they will ask, \"Hey, you guys, please work on this preliminary project.\"",
+      "timestamp_abs": "131:43"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because this company can earn the opportunity to sell this technology, to market their technology to the PLN.",
+      "timestamp_abs": "131:47"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "131:56"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This could be a way. So, you could suggest, ah, okay, if we could make a project, which means, we don't need to invest really like make a project fund.",
+      "timestamp_abs": "131:59"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But we can commit to three months",
+      "timestamp_abs": "132:07"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "of intense work to build the plan.",
+      "timestamp_abs": "132:11"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then later, later, like for example with KISTI, what we did is,",
+      "timestamp_abs": "132:15"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "okay, KISTI made this money for this project to happen.",
+      "timestamp_abs": "132:20"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then the Costa Rican staff came to Korea twice with the GCC company.",
+      "timestamp_abs": "132:24"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "With the possibility that later, easy.",
+      "timestamp_abs": "132:29"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When we see, we will create a a contract.",
+      "timestamp_abs": "132:34"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So with the possibility that later, if we have the concrete, concrete conditions,",
+      "timestamp_abs": "132:38"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "they will make an open bid. It's not necessarily a direct contract, an open bid.",
+      "timestamp_abs": "132:42"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Comparatively.",
+      "timestamp_abs": "132:47"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because anyway, at some point, if this project really gives me the proof",
+      "timestamp_abs": "132:50"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that the BESS is needed,",
+      "timestamp_abs": "132:54"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and these are the conditions,",
+      "timestamp_abs": "132:57"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "eventually maybe not, maybe not, but PLN or the Ministry of Environment will need to acquire the technology, right?",
+      "timestamp_abs": "133:00"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the problem right now is that there is no market opportunity because Brin and PLN doesn't know",
+      "timestamp_abs": "133:11"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "what exactly they need.",
+      "timestamp_abs": "133:18"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So if this Korean company really wants to create this opportunity, they need to invest in this effort.",
+      "timestamp_abs": "133:20"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, but",
+      "timestamp_abs": "133:29"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this is one way just to, I'm just imagining that. This is just an illustrative example.",
+      "timestamp_abs": "133:31"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "My question is that what you need to really know is, is your director willing to",
+      "timestamp_abs": "133:37"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "put this staff to work on this project",
+      "timestamp_abs": "133:42"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "or not? Because if it's not even that,",
+      "timestamp_abs": "133:46"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the real feasibility is very low because",
+      "timestamp_abs": "133:49"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "what they want to expect and to tell you the truth, even if Korea some give you the money to develop, I don't recommend.",
+      "timestamp_abs": "133:52"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Why?",
+      "timestamp_abs": "133:59"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because the know-how is here, not here. The know-how, the information conditions are here.",
+      "timestamp_abs": "134:00"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So there needs to be a joint collaborative effort of people",
+      "timestamp_abs": "134:06"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "to make this happen.",
+      "timestamp_abs": "134:10"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "We actually donate to pay for the human resource, but for their research, we still have a fund for their research.",
+      "timestamp_abs": "134:15"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, a little bit worried if I, if the director asked me, uh, where is the funding coming from?",
+      "timestamp_abs": "134:28"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I know that Korea, if out of this effort, a joint venture will happen, for example.",
+      "timestamp_abs": "134:40"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For example, you guys, yeah, joint venture. Joint venture is like a type of strategic partnership between two companies.",
+      "timestamp_abs": "134:47"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Korea has not. I spoke today about here.",
+      "timestamp_abs": "134:56"
+    }
+  ]
+}

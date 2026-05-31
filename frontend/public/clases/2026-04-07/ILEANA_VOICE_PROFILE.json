@@ -1,0 +1,69 @@
+{
+  "speaker_name": "Ileana",
+  "role": "Teacher (Profesora)",
+  "language": "Spanish",
+  "total_samples": 9,
+  "total_duration_seconds": 220,
+  "samples": [
+    {
+      "file": "Ileana_sample_01.m4a",
+      "timestamp": "00:02:02-00:02:30",
+      "duration": 28,
+      "context": "Responding/explaining"
+    },
+    {
+      "file": "Ileana_sample_02.m4a",
+      "timestamp": "00:06:48-00:07:40",
+      "duration": 52,
+      "context": "Teaching/explaining"
+    },
+    {
+      "file": "CHECK_1250.m4a",
+      "timestamp": "00:12:45-00:13:05",
+      "duration": 20,
+      "context": "Instruction"
+    },
+    {
+      "file": "CHECK_1545.m4a",
+      "timestamp": "00:15:40-00:16:00",
+      "duration": 20,
+      "context": "Instruction"
+    },
+    {
+      "file": "CHECK_1830.m4a",
+      "timestamp": "00:18:25-00:18:45",
+      "duration": 20,
+      "context": "Instruction"
+    },
+    {
+      "file": "CHECK_3000.m4a",
+      "timestamp": "00:29:55-00:30:15",
+      "duration": 20,
+      "context": "Instruction"
+    },
+    {
+      "file": "CHECK_3500.m4a",
+      "timestamp": "00:34:55-00:35:15",
+      "duration": 20,
+      "context": "Instruction"
+    },
+    {
+      "file": "CHECK_4000.m4a",
+      "timestamp": "00:39:55-00:40:15",
+      "duration": 20,
+      "context": "Instruction"
+    },
+    {
+      "file": "CHECK_4200.m4a",
+      "timestamp": "00:42:00-00:42:20",
+      "duration": 20,
+      "context": "Instruction"
+    }
+  ],
+  "voice_characteristics": {
+    "dominance": "Teacher - speaks most of the class",
+    "speech_pattern": "Clear instruction, explanation, questioning",
+    "context": "Educational setting - April 7 class",
+    "confidence_level": "VERY HIGH - 9+ samples, 172 seconds"
+  }
+}

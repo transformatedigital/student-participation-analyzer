@@ -1,0 +1,390 @@
+{
+  "block": 2,
+  "time_range": "05:00-10:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know. So, if your project is not about techno economic optimization, why are you calling it techno economic optimization? Is it about, but you know, you can say, 'Okay, it's it's not we're not aiming for that.' It's like, I want to optimize something, like I told you, I optimize my coffee machine. It doesn't mean it's going to be a techno economic optimization unless you're selling coffee. Are you going to sell energy? Or what is the project trying to optimize? That's what I was thinking. I mean, not what I'm thinking, but if I was an outsider, I would read this and be like, 'Okay, this is just a techno economic optimization of an energy storage system.' So, what about the rest? That's why I'm asking you, Arang. What about the rest of the course? You know, the 15 weeks that you're going to spend with me.",
+      "timestamp_abs": "05:00"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, basically we'll try to apply this in our project. So, in our project we also have battery energy storage system with the solar panel, then yeah, that's it.",
+      "timestamp_abs": "06:23"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, so you're going to apply it in a project that you're already doing.",
+      "timestamp_abs": "06:40"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes. Yes. Yes. It's a group project. Okay.",
+      "timestamp_abs": "06:44"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Okay. And that's why you're here. You want to optimize that system. That battery energy storage system. In your project. right?",
+      "timestamp_abs": "06:46"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, yes.",
+      "timestamp_abs": "06:54"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, okay. It's not the project of this course. This is the project of your other course.",
+      "timestamp_abs": "06:55"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "07:00"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Thank you. Thank you. Thank you for clarifying.",
+      "timestamp_abs": "07:01"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Mega, what about you? What about your project?",
+      "timestamp_abs": "07:04"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "My project is optimizing the hydrogen production.",
+      "timestamp_abs": "07:09"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Optimizing hydrogen production.",
+      "timestamp_abs": "07:14"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes, and the title for my project is techno-economic optimization of green hydrogen production with hybrid renewable energy system.",
+      "timestamp_abs": "07:16"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "So that's an existing project that you have, or it's a project for this course for the future?",
+      "timestamp_abs": "07:29"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh, no, this is the project, a new project for this course.",
+      "timestamp_abs": "07:37"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For this course. Oh, okay.",
+      "timestamp_abs": "07:40"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "07:42"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "But you mentioned something about like, uh, I changed the title and everything. What was that?",
+      "timestamp_abs": "07:43"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh, no. I am just. My previous research was on this techno-economic optimization of green hydrogen production.",
+      "timestamp_abs": "07:51"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, so it's aligned with something that you know very well.",
+      "timestamp_abs": "08:00"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "08:03"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "And the scope of this one, uh, is the scope of this project, which is for this course, going to be the same as your previous one, or you're just using the topic because it's your area of expertise?",
+      "timestamp_abs": "08:04"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh, yes. I am just using the topic. Because this, the previous research was a case study from Korea. Uh, in this project I'm using a general system. Yeah.",
+      "timestamp_abs": "08:19"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, general. Okay. So, that's why it's it's a new project within this course. Okay. So, uh, I think this is a very important point you just mentioned, and I wish you had mentioned it earlier. So, this is not just like you're trying to use a new term that you picked up in the literature. This is aligned with something you do very, very well. Okay. Thank you. Thank you. That that's a good point for the project definition. Who's next? Chilaka. Chilaka.",
+      "timestamp_abs": "08:36"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes, professor.",
+      "timestamp_abs": "09:10"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "What about you? Why are you here? What is your project title? You know, the usual questions.",
+      "timestamp_abs": "09:11"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Okay. My project title is a comparative analysis of the techno-economic viability of hybrid renewable energy systems in South Korea. The specific goal is to compare the cost-effectiveness and feasibility of different hybrid systems for power generation, considering both economic and technical factors.",
+      "timestamp_abs": "09:19"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, again, why are you here? You're studying in Korea, so you're focusing on South Korea.",
+      "timestamp_abs": "09:54"
+    },
+    {
+      "timestamp": "05:01",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes, professor.",
+      "timestamp_abs": "10:01"
+    },
+    {
+      "timestamp": "05:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Okay. So, this is a thesis for you, or it's just a project for this class? You know, the same question I asked the others.",
+      "timestamp_abs": "10:02"
+    },
+    {
+      "timestamp": "05:11",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Uh, no. It's it's a project for this class.",
+      "timestamp_abs": "10:11"
+    },
+    {
+      "timestamp": "05:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. And what's your background? Like, have you done this before? Or are you just trying to pick up this topic because it's relevant to this course?",
+      "timestamp_abs": "10:14"
+    },
+    {
+      "timestamp": "05:25",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Uh, no. My background is in chemical engineering. My master's was in chemical engineering. But I'm specializing in renewable energy systems, so that's why this course is very relevant to my career part, so that's why I'm here.",
+      "timestamp_abs": "10:25"
+    },
+    {
+      "timestamp": "05:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, you're not going to be like me doing a techno-economic optimization on a chemical engineering topic. You're trying to shift to renewable energy systems.",
+      "timestamp_abs": "10:46"
+    },
+    {
+      "timestamp": "05:59",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes. Yes.",
+      "timestamp_abs": "10:59"
+    },
+    {
+      "timestamp": "06:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Okay. Thank you. Thank you, Chilaka. Grace.",
+      "timestamp_abs": "11:01"
+    },
+    {
+      "timestamp": "06:08",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Grace, why are you here? What is your project title? What do you want to accomplish? Tell us about your plans.",
+      "timestamp_abs": "11:08"
+    },
+    {
+      "timestamp": "06:17",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Okay. So, my project title is a Techno-Economic Optimization of a Smart Home Energy Management System.",
+      "timestamp_abs": "11:17"
+    },
+    {
+      "timestamp": "06:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Smart Home. Okay.",
+      "timestamp_abs": "11:27"
+    },
+    {
+      "timestamp": "06:28",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "So, uh, the objective is to model and optimize the energy consumption and generation within a smart home environment, aiming to minimize electricity costs, maximize self-consumption of renewable energy sources, and enhance overall energy efficiency.",
+      "timestamp_abs": "11:28"
+    },
+    {
+      "timestamp": "06:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. So, why are you here, Grace? Is this your background? Is this your thesis? Or it's just a project for this class? Why?",
+      "timestamp_abs": "11:55"
+    },
+    {
+      "timestamp": "07:07",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Uh, yes. So, this is also a project for this class. And, uh, I want to pursue research in smart homes in the future, so that's why I chose this topic. And also, my background is in electrical engineering. So, I have some basic understanding of the energy system. Yeah.",
+      "timestamp_abs": "12:07"
+    },
+    {
+      "timestamp": "07:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "And the smart home part. Is it new to you, or have you done some work on it before?",
+      "timestamp_abs": "12:33"
+    },
+    {
+      "timestamp": "07:40",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Uh, no, it's new to me. But I'm actually doing a project, uh, on a smart farm, for another class. So, it's kind of similar, just that it's smart home, yeah.",
+      "timestamp_abs": "12:40"
+    },
+    {
+      "timestamp": "07:56",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. So, you're going for the smart anything optimization. So, smart home, smart farm. Okay. Thank you. So, you're trying to move in that direction. And this project is an opportunity for you to do that. Great. Thank you. Thank you, Grace. Stepha. Stephen.",
+      "timestamp_abs": "12:56"
+    },
+    {
+      "timestamp": "08:19",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yes, professor. I can hear you.",
+      "timestamp_abs": "13:19"
+    },
+    {
+      "timestamp": "08:21",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Okay. What about your project, Stephen? What do you want to achieve with this project? What's the topic? Is it related to your thesis, your background, or it's a new opportunity for you?",
+      "timestamp_abs": "13:21"
+    },
+    {
+      "timestamp": "08:34",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Okay. My project title is Techno-Economic Analysis of Hydrogen Production through Water Electrolysis in Korea. So, the main goal is to identify the most cost-effective and environmentally friendly methods for producing hydrogen from water electrolysis in Korea. I'm choosing this topic because it's aligning with my research interests. I have done several projects concerning hydrogen production in a few courses, uh, like the advanced hydrogen production course and hydrogen production processes.",
+      "timestamp_abs": "13:34"
+    },
+    {
+      "timestamp": "09:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "14:12"
+    },
+    {
+      "timestamp": "09:13",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "And is it part of your thesis as well? Or it's just a topic that you have good knowledge about?",
+      "timestamp_abs": "14:13"
+    },
+    {
+      "timestamp": "09:23",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Uh, it's a topic that I have good knowledge about.",
+      "timestamp_abs": "14:23"
+    },
+    {
+      "timestamp": "09:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, what you're doing is taking a topic that you are an expert in, and you want to use the tools of this course to optimize something that you're already familiar with. Okay. Very good. Okay. So, uh, I like all of your definitions. I like the titles. Uh, they all seem to be very, very focused on the optimization part. So, it's going to be a perfect fit for this course. So, you're not trying to do a feasibility study. You're not trying to do something else. You're trying to learn the tools for optimization, and then you're going to apply it to your projects. That's what I understand from all of you, right?",
+      "timestamp_abs": "14:26"
+    },
+    {
+      "timestamp": "09:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, um, my next question is regarding to",
+      "timestamp_abs": "14:59"
+    }
+  ]
+}

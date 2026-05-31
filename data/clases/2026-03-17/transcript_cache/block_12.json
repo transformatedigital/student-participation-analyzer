@@ -1,0 +1,447 @@
+{
+  "block": 12,
+  "time_range": "55:00-60:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't want you to become expert on each one of these words,",
+      "timestamp_abs": "55:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm going to explain you very quick like uh not like uh no I'm not going to give you uh",
+      "timestamp_abs": "55:01"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you're not going to be like lost or not tied to this.",
+      "timestamp_abs": "55:05"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "55:09"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yes.",
+      "timestamp_abs": "55:10"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "55:11"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ladies first.",
+      "timestamp_abs": "55:11"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "ladies first",
+      "timestamp_abs": "55:12"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, go ahead.",
+      "timestamp_abs": "55:12"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "who is decided the level of the readiness of the technology?",
+      "timestamp_abs": "55:13"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh there are certain methods, technical methods.",
+      "timestamp_abs": "55:18"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But normally the R&D normally each R&D center have their own kind of uh like uh they apply they they they they already use their own methodology, depends on the labs for example.",
+      "timestamp_abs": "55:21"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But um it also depends on the field.",
+      "timestamp_abs": "55:31"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like each field have a different, let's say, assessment methods.",
+      "timestamp_abs": "55:35"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There's also a specialist, auditing specialist on technology valuation, it's called technology valuation and the TRL is more of the aspects they will check so there are special people who specialized in technology finance.",
+      "timestamp_abs": "55:40"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So they will realize okay, this and also depends also on the type of technology.",
+      "timestamp_abs": "55:52"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because if it's materials or if it's software,",
+      "timestamp_abs": "55:57"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "or if it's uh hardware or if it's uh different type of like uh bio bio something, you know?",
+      "timestamp_abs": "56:00"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So uh molecules, I don't know, medical, pharmaceutical.",
+      "timestamp_abs": "56:07"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it also depends on the industry.",
+      "timestamp_abs": "56:11"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why the TRL as a as a degree, like Celsius or Fahrenheit, as a scale, you know?",
+      "timestamp_abs": "56:13"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's it's a common topic it was actually pointed out so NASA NASA invented it for aviation industry.",
+      "timestamp_abs": "56:20"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And there's many people who have applied the TRL scale for software engineering, right?",
+      "timestamp_abs": "56:28"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the depending on the industry and the product that is being applied, the scale might and the the definitions of the scale might change.",
+      "timestamp_abs": "56:33"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Up to the recipient.",
+      "timestamp_abs": "56:41"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think this is the original NASA map.",
+      "timestamp_abs": "56:48"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So the source that have to prepare the TRL.",
+      "timestamp_abs": "56:50"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Source intermediary or the recipient.",
+      "timestamp_abs": "56:55"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Normally the source.",
+      "timestamp_abs": "56:58"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Source.",
+      "timestamp_abs": "57:00"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the recipient should have clear what TRL is look he or she is looking.",
+      "timestamp_abs": "57:01"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because there will be a mismatch.",
+      "timestamp_abs": "57:10"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "A mismatch.",
+      "timestamp_abs": "57:11"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There might be a mismatch. Maybe that we have the same product or the same technology related need or business opportunity, but I need something right now ready to come to the market and the source has something that is a couple of years needs to be a little bit more invested to to discharge.",
+      "timestamp_abs": "57:12"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that that mismatch happens.",
+      "timestamp_abs": "57:30"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The conversation might be risking the situation.",
+      "timestamp_abs": "57:33"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or when both parties are willing to invest and bring into center and go for.",
+      "timestamp_abs": "57:35"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I I don't think like probably the owner of the technology.",
+      "timestamp_abs": "57:41"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In this case the source has the TRL of the technology they have.",
+      "timestamp_abs": "57:45"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the recipient have to know their his clear requirement, right?",
+      "timestamp_abs": "57:51"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "58:00"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And another important thing is nowadays,",
+      "timestamp_abs": "58:01"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "58:03"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "especially you guys, your your the technology push may be slightly different.",
+      "timestamp_abs": "58:04"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The problem driven.",
+      "timestamp_abs": "58:09"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Many times the problem driven approach will demand an adaptation.",
+      "timestamp_abs": "58:10"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you cannot really just do copy paste because your problem is very probably unique,",
+      "timestamp_abs": "58:17"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the nature of your country, the context and your national innovation system.",
+      "timestamp_abs": "58:22"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it means that whatever TRL I have.",
+      "timestamp_abs": "58:29"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a TRL for the currently technology that I have.",
+      "timestamp_abs": "58:32"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But for the Indonesian version of that technology.",
+      "timestamp_abs": "58:36"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The TRL goes down.",
+      "timestamp_abs": "58:38"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because I need to prepare to.",
+      "timestamp_abs": "58:41"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "To tropicalize it into the Indonesian market.",
+      "timestamp_abs": "58:42"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is an example for you.",
+      "timestamp_abs": "58:49"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Well question makers.",
+      "timestamp_abs": "58:50"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is like a thermometer, right? Like a little bit like a measurement scale.",
+      "timestamp_abs": "58:52"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Normally basic technology research is very low.",
+      "timestamp_abs": "58:56"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "lower TRLs and then as it grows is very very very ready to test.",
+      "timestamp_abs": "58:59"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Very mature for operation.",
+      "timestamp_abs": "59:04"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this was the original definition from NASA.",
+      "timestamp_abs": "59:06"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Basically critical research, technology concept.",
+      "timestamp_abs": "59:09"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And application from that concept of just round to like really ready to the rocket ready to.",
+      "timestamp_abs": "59:12"
+    }
+  ]
+}

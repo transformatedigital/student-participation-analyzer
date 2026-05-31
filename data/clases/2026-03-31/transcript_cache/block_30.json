@@ -1,0 +1,20 @@
+{
+  "block": 30,
+  "time_range": "145:00-150:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "by country. I know what we need in terms of modules and",
+      "timestamp_abs": "145:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, but it's just from one side.",
+      "timestamp_abs": "145:04"
+    }
+  ]
+}

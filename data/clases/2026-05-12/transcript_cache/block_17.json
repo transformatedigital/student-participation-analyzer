@@ -1,0 +1,49 @@
+{
+  "block": 17,
+  "time_range": "80:00-85:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, guys. We're not gonna finish today, so just leave it where it is, and I want you to take a picture, take a picture to this, uh, my canvas and audio. Sorry.",
+      "timestamp_abs": "80:00"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We're not gonna finish today, okay? I just wanna finish this class maybe in 10 or 15 minutes from now. But I wanna let you, I'll explain you what you're gonna do next week. So next week we're gonna, we have two things to do next week. Our quiz discussion, quiz and ICP discussion, because next week I'm gonna bring my comments of your ICP and we're gonna compare it to what you've been writing in your quizzes. So that's one activity we're gonna do next week. Very funny.",
+      "timestamp_abs": "80:09"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And another activity very, very, very funny is this: We're gonna exercise not with our ICP topics, with real other products, projects who help you understand better so that you can apply this understanding into your own ICP projects.",
+      "timestamp_abs": "80:41"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So we're gonna do one initial exercise is, which is very straightforward, I tried to write it in a very easy way, um, this case. So you, team one has case one, team two has case three, right?",
+      "timestamp_abs": "80:55"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So we're gonna write here the symptoms that we read from that case and the symptoms that we read from that case versus the root cause that every researcher team found from each case. Okay? That's one table that I want you to fill out.",
+      "timestamp_abs": "81:03"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the other table we're gonna fill out, and this one will take time, but since we know already...",
+      "timestamp_abs": "81:14"
+    }
+  ]
+}

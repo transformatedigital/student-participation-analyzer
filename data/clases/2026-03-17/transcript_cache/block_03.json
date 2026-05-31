@@ -1,0 +1,240 @@
+{
+  "block": 3,
+  "time_range": "10:00-15:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "upon Grace to work with you because Grace topic is related to educational and enjoy [inaudible] Grace has to look at the KLMS or this kind of classroom, kind of solution, what. But I just thinking about your Grace. I thought I will surround. So I built this space.",
+      "timestamp_abs": "10:00"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If it gets traction and you want to use it, let me know. We can use it, otherwise we just leave it there.",
+      "timestamp_abs": "10:14"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "10:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And so as I said to you in the KLMS, there is always the the lectures. You always download the lectures of today. Because in the lecture you will see there is assignment, right? It's the same design of the slide I want just to give um the number of the assignment and I can try of when that is like for example assignment five. Assignment four is the keywords and there's gonna be assignment five. So it means",
+      "timestamp_abs": "10:21"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "in a assignment What do you know what is assignment two? Everybody remembers what is assignment two?",
+      "timestamp_abs": "10:48"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Assignment two.",
+      "timestamp_abs": "10:55"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Nobody remembers.",
+      "timestamp_abs": "10:56"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Read the first paper.",
+      "timestamp_abs": "10:57"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I am the one who's cracking you. You don't read the first paper. Exactly, to read the first paper. Thank you very much.",
+      "timestamp_abs": "10:58"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the assignment two is to read the first paper. The first papers are gonna be due today and then it's the next week, right? So today we're gonna discuss a little bit about Estella. That's Patty Estella is the first paper and the other paper is the chapter 10 for the commercialization section. So those are, you don't really need to deliver anything to me. It's for you to prepare and understand better what I'm going to explain. Yeah.",
+      "timestamp_abs": "11:05"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Same for assignment four. It was glossary, still not due. The learning.",
+      "timestamp_abs": "11:25"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But then assignment five includes two parts. Again, part one, already you know, assignment four, and glossary part two. So I am delivering now this other glossary. So you already had the previous one, this one is new. And this one is already coming from chapter 10 we already read. So it's supposed to be very straightforward to you because you already read the whole context about this. But I want you to domain, I want you to know when I'm talking to uh Stephen, Stephen, what's the IP situation or whatever I'm talking about? What is the IP criticism of the uh NBI or NAD MIP solutions that you saw, because uh actually you didn't, you know, we have stuff like that. But I cannot talk to you like that. I'm like IP. It's not an internet protocol situation, right?",
+      "timestamp_abs": "11:30"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a intellectual property related. So you need to know, okay? So going back, before we reach that class, I want all these topics just in case, sometimes what I read, what I write, I think it's very simple, and I think it's very straightforward. But when you read it, you talk to Professor, you're talking to me in Arabic or in Chinese. So I want to make sure that you understand this. Because it's very important that you can manage these theories.",
+      "timestamp_abs": "12:17"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So many times you're gonna see that I say your technology commercialization journey, your global technology commercialization pathway. I use these terms. Because for me, global technology commercialization projects, and especially I told you before, that I I think about it like the very basic biology course in elementary school. The plant, they are born, they reproduce, they they are born, they grow, they reproduce and they die, kind of a life cycle. So technology growth journey. When we talk about global technology commercialization, I'm always thinking about the last stage of the technology journey. So we're talking about the progression from invention to innovation. Somebody can tell me the difference between invention and innovation?",
+      "timestamp_abs": "12:45"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Invention to brought something, like you create something new.",
+      "timestamp_abs": "13:33"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "But uh innovation is like uh the change in the system that we allow to make other like improvements of what they think and still they prove it. They prove it.",
+      "timestamp_abs": "13:38"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "13:54"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "I will say 70% of the definition. But the key difference is anybody also wants to try?",
+      "timestamp_abs": "13:56"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "I think",
+      "timestamp_abs": "14:06"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "14:07"
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "I think invention is you know to create something new.",
+      "timestamp_abs": "14:08"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "From zero.",
+      "timestamp_abs": "14:14"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "From zero. Okay.",
+      "timestamp_abs": "14:16"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It doesn't exist. And innovation can be an improvement.",
+      "timestamp_abs": "14:17"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "14:21"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Something around the product, right?",
+      "timestamp_abs": "14:21"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "14:25"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's both, but still about 70%. But as I mentioned, Stephen, he was recently reading about Tesla.",
+      "timestamp_abs": "14:27"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "14:33"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You told me, right? Yes, Tesla, yeah.",
+      "timestamp_abs": "14:34"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "The Tesla, yeah.",
+      "timestamp_abs": "14:35"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Maybe you can give it a try. What's the difference between what Tesla made and what actually came to happen later on with electricity?",
+      "timestamp_abs": "14:36"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Uh, well, he, he was working with the alter current and he developed the motor, uh, to to send the this electricity in a further distance and there was a bottle.",
+      "timestamp_abs": "14:45"
+    }
+  ]
+}

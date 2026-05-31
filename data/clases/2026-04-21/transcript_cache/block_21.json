@@ -1,0 +1,722 @@
+{
+  "block": 21,
+  "time_range": "100:00-105:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "report.",
+      "timestamp_abs": "100:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So ICP is just a very, let's say, the cover letter.",
+      "timestamp_abs": "100:01"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The cover letter.",
+      "timestamp_abs": "100:06"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the GCR is a very much more sturdy kind of output where you will tell the story in detail with more we're still, actually we're still working on that template.",
+      "timestamp_abs": "100:07"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I'm I have I have the idea that as our final term paper, final term paper,",
+      "timestamp_abs": "100:18"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "we will try to build a draft GCR.",
+      "timestamp_abs": "100:24"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "See, it's going to use a little bit of the inputs of the ICP, but we have to write more.",
+      "timestamp_abs": "100:28"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Hmm.",
+      "timestamp_abs": "100:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm sorry, but we need",
+      "timestamp_abs": "100:34"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "the final report. Yeah, the final the final report.",
+      "timestamp_abs": "100:35"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. So this is going to be the first.",
+      "timestamp_abs": "100:37"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But anyway, the GCR is not going to be the final draft.",
+      "timestamp_abs": "100:39"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's going to be just an early draft of the GCR.",
+      "timestamp_abs": "100:44"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then you're going to develop further in the next course.",
+      "timestamp_abs": "100:47"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "100:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, because your next course,",
+      "timestamp_abs": "100:53"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "you know what a capstone project is?",
+      "timestamp_abs": "100:55"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh, I see.",
+      "timestamp_abs": "100:56"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "You know, what's a capstone project?",
+      "timestamp_abs": "100:57"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Mhm.",
+      "timestamp_abs": "100:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "A project as the name implies, it has to be [inaudible] just like a thesis.",
+      "timestamp_abs": "100:59"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So, in other words, it has like a milestone that needs to be achieved through many exercises.",
+      "timestamp_abs": "101:02"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, yeah.",
+      "timestamp_abs": "101:09"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's like really a practical, we are during the course, right now we are, our course is not, I'm not giving you textbook contents, right?",
+      "timestamp_abs": "101:10"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not, I'm not delivering here like, like just the like just theoretical contents about technological commercialization, we're discussing about the real project, right?",
+      "timestamp_abs": "101:19"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But we're not executing it yet. We're just starting to plan it, that's all.",
+      "timestamp_abs": "101:28"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In the capstone project, you guys will set up a journey and with milestones that we're going to say, okay,",
+      "timestamp_abs": "101:33"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh, good.",
+      "timestamp_abs": "101:40"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, like a timeline.",
+      "timestamp_abs": "101:41"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then you're going to execute it with the course and deliver the output.",
+      "timestamp_abs": "101:42"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "101:46"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "So within the course?",
+      "timestamp_abs": "101:47"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, along with the course.",
+      "timestamp_abs": "101:47"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "101:49"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "After this.",
+      "timestamp_abs": "101:50"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's like a journey.",
+      "timestamp_abs": "101:51"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Actually.",
+      "timestamp_abs": "101:53"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Actually.",
+      "timestamp_abs": "101:54"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But so to define the milestones, you have to have clarity about the whole journey.",
+      "timestamp_abs": "101:55"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why this is the preparatory course to that course.",
+      "timestamp_abs": "101:59"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "So, uh, because my, my, my, my colleague asked me, uh, how long you will, can you deliver this? So I, yeah, I will be off asked my question.",
+      "timestamp_abs": "102:02"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "As soon as possible.",
+      "timestamp_abs": "102:14"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yes, indeed. Yeah.",
+      "timestamp_abs": "102:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "102:17"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "but",
+      "timestamp_abs": "102:18"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, no. But the project throughout, like you say, actually the time, my response to that question will be, you guys set up the rhythm, actually.",
+      "timestamp_abs": "102:18"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "They they they should set up the rhythm. How urgent is for you?",
+      "timestamp_abs": "102:27"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "And what if they say, uh, as soon as possible? Yeah.",
+      "timestamp_abs": "102:31"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Then what does that mean?",
+      "timestamp_abs": "102:36"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's better for you.",
+      "timestamp_abs": "102:37"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No problem.",
+      "timestamp_abs": "102:38"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No problem.",
+      "timestamp_abs": "102:39"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "For them.",
+      "timestamp_abs": "102:40"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Because you don't have any, I think it's.",
+      "timestamp_abs": "102:41"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no.",
+      "timestamp_abs": "102:44"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The question is.",
+      "timestamp_abs": "102:45"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But but you guys say, listen, I'm a student here and I'm part-time providing this doing this action. So as soon as as as much as I can, I will support.",
+      "timestamp_abs": "102:45"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, but you can say, actually, I during my stay in Korea, I should carry out this project.",
+      "timestamp_abs": "102:53"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So in your case, I would say less than six months. I would say it's probably like, if if the conversation goes well and the visibility goes well,",
+      "timestamp_abs": "103:00"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I would say maybe less than a year.",
+      "timestamp_abs": "103:08"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I think the rhythm, the rhythm and the pace of,",
+      "timestamp_abs": "103:10"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the pace of progress will be marked by both sides.",
+      "timestamp_abs": "103:14"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But probably the demand side will have a higher stake in the rhythm.",
+      "timestamp_abs": "103:20"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because if you guys say, no, no, we are urgent and we have already some budget, so but what we need is you guys to say, okay, and give us our conditions and how can we share the know the ID or whatever, then if that is so fastly delivered from the Korea side, most likely they're going to be fast, most likely.",
+      "timestamp_abs": "103:28"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because Koreans are quite fast.",
+      "timestamp_abs": "103:42"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Unless there's some Korean issue, like for example, in the ODA, where we're going to use ODA, that becomes much slower.",
+      "timestamp_abs": "103:44"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because we need to find the funding source and normally funding has timelines.",
+      "timestamp_abs": "103:50"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You cannot get funding any time you want, you have to apply for it.",
+      "timestamp_abs": "103:55"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "You have to apply for it, right?",
+      "timestamp_abs": "103:59"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So then, then that means you have to consider how to prepare all the documents for applying.",
+      "timestamp_abs": "104:00"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So in that sense, if you need ODA, then you're going to take much more time.",
+      "timestamp_abs": "104:04"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you have a private funding or some other, you know, funding available to start the project.",
+      "timestamp_abs": "104:07"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then, of course, you can say we are able to do it much faster.",
+      "timestamp_abs": "104:12"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But those timelines are not for me.",
+      "timestamp_abs": "104:15"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Those timelines are for you.",
+      "timestamp_abs": "104:17"
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And you have to put your realistic timeline.",
+      "timestamp_abs": "104:18"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "104:21"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I'm going to give you my support.",
+      "timestamp_abs": "104:21"
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Whatever I can give you, right?",
+      "timestamp_abs": "104:23"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So what do you mean by by having this preparatory course?",
+      "timestamp_abs": "104:24"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We are discussing all of these things related to your project.",
+      "timestamp_abs": "104:27"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That the final project for this course is going to be the draft for the GCR.",
+      "timestamp_abs": "104:30"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why I'm telling you, it's not going to be the final final.",
+      "timestamp_abs": "104:35"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Final is going to be for your next course.",
+      "timestamp_abs": "104:38"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But we are giving you that opportunity to prepare it really well now.",
+      "timestamp_abs": "104:40"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that you're going to develop it further.",
+      "timestamp_abs": "104:44"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "104:46"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "104:46"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "You get it?",
+      "timestamp_abs": "104:47"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yep. Yep.",
+      "timestamp_abs": "104:47"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "104:48"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Perfect.",
+      "timestamp_abs": "104:48"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Any other question?",
+      "timestamp_abs": "104:49"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Nope.",
+      "timestamp_abs": "104:50"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I guess that's okay.",
+      "timestamp_abs": "104:50"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "104:51"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, I'm going to go to the next topic.",
+      "timestamp_abs": "104:51"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, yes.",
+      "timestamp_abs": "104:52"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "104:53"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So as I told you last class,",
+      "timestamp_abs": "104:53"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "we're going to have an extra class tomorrow.",
+      "timestamp_abs": "104:55"
+    }
+  ]
+}

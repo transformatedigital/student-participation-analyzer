@@ -1,0 +1,99 @@
+{
+  "block": 3,
+  "time_range": "10:00-15:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you is like I see your writing I say, ah. I really think about myself in my first semester of PhD or first semester of masters. If I had really understood the importance of what it is, if you guys PhD, Grace, Chilaka, Mega, you are three PhDs, right? You are you are masters. Um, you guys are going to probably dedicate maybe 50 or 60% of your PhD course, like the the the length just searching and finding your problem.",
+      "timestamp_abs": "10:00"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So if you really understand the importance of how to generate your lenses, your new eyes, in finding the gap, in finding the problem, even for this project, which is very applied and very practical, it has nothing to do with the research related academic area. You will save a lot of time, okay? So I'm going to I I tried. That's why I told you I did a lot of self-reflection. My course is a very basic introductory level course. Rather than rushing you into building an ICP. I'm going to building an ICP that's written with a very nice logic that the professor gave you feedback in line to write. I want to try to help you to develop the eyes, the lens, even at the beginning to really pinpoint your problems.",
+      "timestamp_abs": "10:28"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I thought, ah, I need to really let teach them how to cook this thing, not teach them the recipe directly. So I want to go back a little bit. That's the first thing. That's why I asked you, please let's write down because I feel like again, many times we are um like now getting used to a very high level output because AI is really into us. So writing it by hand, I will know how far really you guys have understood what I'm saying when I say what this course is about.",
+      "timestamp_abs": "11:11"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So for example, I'm going to I'm going to just because I didn't read you were in the course. I read Arias.",
+      "timestamp_abs": "11:41"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this course is about commercializing the technology from lab to market, correct? But this course is that what I just said, is the introductory level course to help you engage into your global technology commercialization journey that you have to go through in this scholarship program. Okay? So that's important, like, of course, the theory is of course what you wrote is correct. You know what technology commercialization is. Thank you. But um but this course is about and the global technology commercialization journey, this global technology commercialization is about discovering a problem, discovering a demand, whether it's tech problem-driven, right? Discovering a problem in our country and trying to build up like build a problem, an initiative, a project that can actually help overcome, help your country overcome this, okay? And in this I keep saying there is something that we keep being confused, all of us. When I say problem, many times I think you guys are thinking about your own problem. For example, some of you wrote the budget is, it's like your own problem to pursue the project is one thing. But when I say the problem, I'm talking Arya, your problem. Your problem should not be to develop a TTS model. That's a solution.",
+      "timestamp_abs": "11:47"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. Your problem is sovereignty.",
+      "timestamp_abs": "13:09"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Your problem is Indonesia. Your problem I'm not sure, it's sovereignty or probably something related to customer service personalization.",
+      "timestamp_abs": "13:14"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Personalization.",
+      "timestamp_abs": "13:22"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like it's like you need personalization level in a sovereign situation. So you cannot use the American TTS or whatever, you know, like, kind of that's your problem. You see the difference? So if you ask me right now, which of you have very clear, your problem, Grace, cannot be the lack of an LMS. That's not your problem.",
+      "timestamp_abs": "13:23"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "What's your problem? I ask you.",
+      "timestamp_abs": "13:46"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Your problem should not be the lack of an R&D management system. Right? So we need to simplify this better because it will really improve the argumentation and it will really improve your capacity to to really differentiate from differentiate yourselves from other professionals. Okay? That's what I want.",
+      "timestamp_abs": "13:50"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So, first of all, I told you before, please understand well what this course is about in terms of who we are as KAIST GDI. How many of you went back to the website to check what what the what the story is about?",
+      "timestamp_abs": "14:13"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I thought, okay, why? Because that's why I went to refer for reflection. Do I want these guys to finish my course and say, 'Okay, checklist. I finished the project here. Miss ma'am, Professor Ham here, I finished this project at TBI, another thing.' Now let me go my research, let's go. No, I want to later on really, when I say, I want to later on go to Nigeria and see that Chilaka became the next really good ministry minister or that you became the president of the university of Cristiano. Oh, I want you to understand, look, this is the vision of this problem. Why is the reason why I came back to teach here? I'm a busy mother of of twins. It's because of this vision.",
+      "timestamp_abs": "14:25"
+    }
+  ]
+}

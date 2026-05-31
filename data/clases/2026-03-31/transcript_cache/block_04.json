@@ -1,0 +1,370 @@
+{
+  "block": 4,
+  "time_range": "15:00-20:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And uh for replacing this for replacing the goal of energy for replacing the goal of energy and electricity production in in the neighboring areas.",
+      "timestamp_abs": "15:00"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Except from this paper uh super is specific to uh about uh.",
+      "timestamp_abs": "15:16"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Hi, it's a paper about.",
+      "timestamp_abs": "15:24"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "15:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "15:26"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "15:27"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Experiment uh I mean.",
+      "timestamp_abs": "15:28"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "S, experiment.",
+      "timestamp_abs": "15:30"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will have that question.",
+      "timestamp_abs": "15:32"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "was established already since 2022.",
+      "timestamp_abs": "15:35"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But they release the article about 2023. The launch was like.",
+      "timestamp_abs": "15:40"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "15:46"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "15:48"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I already uh I probably bear.",
+      "timestamp_abs": "15:49"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah, yeah. I remember that.",
+      "timestamp_abs": "15:54"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I hope I write it.",
+      "timestamp_abs": "15:57"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah.",
+      "timestamp_abs": "15:58"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I probably that's why I had to do it too when also because I started thinking like, when, when was this project open already? How long has it been?",
+      "timestamp_abs": "16:00"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's operating.",
+      "timestamp_abs": "16:07"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And if it was so well announced uh in 2023.",
+      "timestamp_abs": "16:09"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "2023.",
+      "timestamp_abs": "16:13"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, since 2023, the the solar power plant is is operating.",
+      "timestamp_abs": "16:15"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But there it's shown to have problems of reliability.",
+      "timestamp_abs": "16:21"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Also the the.",
+      "timestamp_abs": "16:26"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Production of energy.",
+      "timestamp_abs": "16:28"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, production of energy is limited.",
+      "timestamp_abs": "16:30"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "16:36"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then I follow uh in the race, they they still have uh with the coal power plant for replacing this power plant.",
+      "timestamp_abs": "16:37"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, if they don't have a battery, we can say the energy is uh for the night hours.",
+      "timestamp_abs": "16:49"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "16:58"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh.",
+      "timestamp_abs": "16:59"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, in this case, the coal plant replacement really becomes an argument here.",
+      "timestamp_abs": "17:00"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Before I because at the beginning, you were just describing the soil for the co plant as a general national problem.",
+      "timestamp_abs": "17:08"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But rather than that, a global national problem in this case, your problem is just about just the specific removing the backup, the backup resources being used for you need to replace it because it's a non renewable.",
+      "timestamp_abs": "17:16"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "solution.",
+      "timestamp_abs": "17:32"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That argument fits here now under this level.",
+      "timestamp_abs": "17:34"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "17:38"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "17:39"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, so like the the energy sources would be helpful.",
+      "timestamp_abs": "17:40"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Even if your research is not as I also try to find out about the uh best solution here but uh we only have one best in the capacity.",
+      "timestamp_abs": "17:46"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But there's only uh this one. 4.2 megawatt hour.",
+      "timestamp_abs": "18:05"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's very small skill.",
+      "timestamp_abs": "18:10"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe that's the fact, like, I think that's the fact it's when you tell me it's very limited, then you can say, okay, the example so the first sentence is a very strong argument, you're telling me it's very limited and the use is in a very small scale project.",
+      "timestamp_abs": "18:14"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the second thing is good because it completes the argument, it's small scale, only 40.2 megawatt hour.",
+      "timestamp_abs": "18:32"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And all like you can say to the best of our knowledge or because we don't know 100% sure there's nothing else but from your research, you can tell there's no reported or documented case to refer to, but except for this one, who is too small and too limited.",
+      "timestamp_abs": "18:39"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's the point, that's why the problem.",
+      "timestamp_abs": "19:02"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You will need a study, you will need this economic protection project because we don't have any other good references to look at in Indonesia and therefore you need to refer to the Korean to provide this project.",
+      "timestamp_abs": "19:05"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that is why I write the argumentation in the center, I wanted something that makes stronger, it's just like because uh mega there is no case up like that.",
+      "timestamp_abs": "19:21"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's additional, when you create a one like a okay from what they can see, there's only one very little case referable.",
+      "timestamp_abs": "19:33"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh so uh therefore, we're looking for this.",
+      "timestamp_abs": "19:42"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think it's.",
+      "timestamp_abs": "19:47"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I have the.",
+      "timestamp_abs": "19:57"
+    }
+  ]
+}

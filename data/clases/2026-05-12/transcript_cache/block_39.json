@@ -1,0 +1,87 @@
+{
+  "block": 39,
+  "time_range": "190:00-195:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What are the benefits or what are the disadvantages you see to one or the other?",
+      "timestamp_abs": "190:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "The benefits to the individual assessment would be that you know that this individual knows what they're doing. There's no like free rider effect or anything like that. But a disadvantage would be you're only testing that one person. If you're talking about a group project for example, you're only testing one aspect of that person's knowledge so you wouldn't know if they can cooperate with other people or if they can you know, um, lead the group or if they can um, communicate properly.",
+      "timestamp_abs": "190:06"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Thank you. That's a good one.",
+      "timestamp_abs": "190:30"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Anyone else?",
+      "timestamp_abs": "190:32"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The benefit of group assessment is it's an opportunity for students to learn from each other.",
+      "timestamp_abs": "190:34"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's a good one too.",
+      "timestamp_abs": "190:39"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "And disadvantages of group assessment?",
+      "timestamp_abs": "190:40"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "That one student will do all the work and get the same grade as another student.",
+      "timestamp_abs": "190:43"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. That is the free rider effect that Chilaka was mentioning.",
+      "timestamp_abs": "190:47"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So how can we overcome that with group assessment?",
+      "timestamp_abs": "190:51"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Maybe have them grade each other?",
+      "timestamp_abs": "190:55"
+    }
+  ]
+}

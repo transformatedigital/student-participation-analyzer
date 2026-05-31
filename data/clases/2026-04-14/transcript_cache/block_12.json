@@ -1,0 +1,384 @@
+{
+  "block": 12,
+  "time_range": "55:00-60:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "ka is.",
+      "timestamp_abs": "55:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They are trying to scam the citizen and then after we come after.",
+      "timestamp_abs": "55:02"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We are not proactive.",
+      "timestamp_abs": "55:07"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You see now it's going to delete to report the case.",
+      "timestamp_abs": "55:08"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to be proactive rather than to be reactive.",
+      "timestamp_abs": "55:10"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So,",
+      "timestamp_abs": "55:13"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the this are as last presentation they requested me to bring the real tangible statistical evidence.",
+      "timestamp_abs": "55:14"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is what it is.",
+      "timestamp_abs": "55:22"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh 68% of the by fraud calls or SMS.",
+      "timestamp_abs": "55:25"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "26 missing and 84% of exposed to fraud attempt and 42 lost money.",
+      "timestamp_abs": "55:29"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you see it's a big number.",
+      "timestamp_abs": "55:38"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And as you can see happened within six months.",
+      "timestamp_abs": "55:40"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The million 424 million lost in 2024 for the case.",
+      "timestamp_abs": "55:43"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This was report for our investigation Bureau.",
+      "timestamp_abs": "55:50"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then not only even because this is a cross cutting problem even still I'm still to try to do analysis here but this case of social engineering sending SMS and fishing.",
+      "timestamp_abs": "55:54"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "also happens all the world mainly in Africa.",
+      "timestamp_abs": "56:10"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You can see in Kenya, Uganda, Ghana, Nigeria they are all suffering with this problem because in Africa we are all mainly using mobile money.",
+      "timestamp_abs": "56:13"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mobile money is like our life.",
+      "timestamp_abs": "56:23"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So,",
+      "timestamp_abs": "56:26"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this is overview of the solution.",
+      "timestamp_abs": "56:27"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to to to to analyze the missing and the missing by through SMS and the voice.",
+      "timestamp_abs": "56:28"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So as even the last time you told me about to think about the how the the solution should look like.",
+      "timestamp_abs": "56:39"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I went through and I found that the solution will go directly to the telecommunication network, not on the mobile money of the of the user.",
+      "timestamp_abs": "56:47"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I I start with the telecommunication network, SMS and voice data we collect data then we we we we we we we we the the logs of SMS and the voice and then we process we process it.",
+      "timestamp_abs": "56:56"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "text cleaning, speech and the future expression and then we go here AI detection AI now.",
+      "timestamp_abs": "57:09"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We start to interpret the the language and the voice and then we see the behavior of the SMS or the voice.",
+      "timestamp_abs": "57:15"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then we go to fraud risk scoring.",
+      "timestamp_abs": "57:24"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If AI assigns risk level if it is low or medium if it is high, we will react now.",
+      "timestamp_abs": "57:27"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's when we will react.",
+      "timestamp_abs": "57:35"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then we go to response.",
+      "timestamp_abs": "57:38"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We can either block or suppress the SMS or flag the suspicious calls.",
+      "timestamp_abs": "57:39"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Alert the operator and even you can notify the affected user to tell him what is happening on him.",
+      "timestamp_abs": "57:46"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then uh this is also this monitoring tools will be integrated through Nida, Nida is just we as national database we need to know who is scamming and how to flag them.",
+      "timestamp_abs": "57:53"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And even for the security, for regulation and the security companies.",
+      "timestamp_abs": "58:07"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this is the investigation bureau.",
+      "timestamp_abs": "58:12"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So,",
+      "timestamp_abs": "58:16"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "after all that, we need also to keep think about the implementation plan how it should look like.",
+      "timestamp_abs": "58:17"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Phase one.",
+      "timestamp_abs": "58:24"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We are now on phase one we are still analyzing the fraud patterns, SMS and call, identify the high risk user groups, correct the telecom and the data.",
+      "timestamp_abs": "58:26"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This this is going to be the the phase one.",
+      "timestamp_abs": "58:36"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The phase two system development.",
+      "timestamp_abs": "58:40"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We're gonna build the AI model for language, voice and behavior.",
+      "timestamp_abs": "58:42"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And we're gonna develop to the real time monitoring system, design front risk mechanism.",
+      "timestamp_abs": "58:48"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then phase two, phase three, sorry, testing.",
+      "timestamp_abs": "58:54"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "deploy with telecom operators, test detection and and adjust system based on the on the feedback from the ground.",
+      "timestamp_abs": "58:58"
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then phase four, connect with Nida.",
+      "timestamp_abs": "59:08"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think here we will use the the the the the pilot with minimum user number of users.",
+      "timestamp_abs": "59:12"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then after we see the success, we're gonna connect with Nida, and.",
+      "timestamp_abs": "59:20"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Integrate with telecom network and enable time.",
+      "timestamp_abs": "59:25"
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then phase five, full deployment, national, continuous monitoring and update and policy and regulation alignment.",
+      "timestamp_abs": "59:29"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "After think that the system can work effectively, then we need to come up with the policy and regulation again.",
+      "timestamp_abs": "59:37"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So.",
+      "timestamp_abs": "59:46"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "uh this is the collaboration.",
+      "timestamp_abs": "59:47"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I I I chose two two companies here.",
+      "timestamp_abs": "59:53"
+    }
+  ]
+}

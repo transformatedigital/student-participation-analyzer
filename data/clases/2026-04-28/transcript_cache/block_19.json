@@ -1,0 +1,451 @@
+{
+  "block": 19,
+  "time_range": "90:00-95:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "talk to you about this, right? This is a technical condition, not a problem.",
+      "timestamp_abs": "90:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "How can we connect this project to your own role and expertise?",
+      "timestamp_abs": "90:04"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I I keep thinking about this, Mega.",
+      "timestamp_abs": "90:07"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now we had a conversation about, okay, probably the way to do this is because it should really focus not on the technology,",
+      "timestamp_abs": "90:09"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "but on the socio-economic business model.",
+      "timestamp_abs": "90:16"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? So that it can be related to your national development agency and it could end up into some kind of policy recommendation, some kind of guideline. Okay?",
+      "timestamp_abs": "90:20"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe I I thought maybe grid failure, economic loss, operational impact, something related to that needs to be more included or kind of so that",
+      "timestamp_abs": "90:30"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "because until now, we wrote it a lot and until last week my coming to you was, we need to choose whether we will tell to yeah, what we need is the BSS.",
+      "timestamp_abs": "90:37"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or we will tell, no, what we need is some consulting.",
+      "timestamp_abs": "90:47"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now, based on this conversation, we are saying, ah no, it has to be the the output of your project is probably going to be some kind of education, consulting, some guideline,",
+      "timestamp_abs": "90:50"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "some joint work to do some guideline, that's all.",
+      "timestamp_abs": "91:00"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And within that guideline, probably there's going to be a recommendation of how to do a setup of I don't know, the grid or grid flexibility issues, something like that.",
+      "timestamp_abs": "91:03"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And Grace, again, problem is solution framed, no system.",
+      "timestamp_abs": "91:15"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So like, I think we need to be more specific and the more failure driven.",
+      "timestamp_abs": "91:19"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Show the failure, I told you like processing time, backlog, admin workload, student complaints.",
+      "timestamp_abs": "91:23"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So even if you don't have the data because it's all manual right now, probably there's no systematized data.",
+      "timestamp_abs": "91:28"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why I asked you, maybe you can ask",
+      "timestamp_abs": "91:34"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "um if there is some kind of in the regulation, for example, of the university internal regulation or internal process.",
+      "timestamp_abs": "91:36"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "rules",
+      "timestamp_abs": "91:45"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "UNKNOWN",
+      "text": "Hm?",
+      "timestamp_abs": "91:45"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "About uh for example, how many steps does it take or how much time or how many effort, how to quantify or even qualitatively present,",
+      "timestamp_abs": "91:47"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "illustrate, how much workload compare the workload of Kinshasa University versus Kaiza.",
+      "timestamp_abs": "92:01"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In my case, I just log in, how many steps? Log in to KLMS, review your homework, grade, that's it.",
+      "timestamp_abs": "92:10"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, but there is not, there is, there is no system.",
+      "timestamp_abs": "92:18"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In my yeah, in my case, in my case.",
+      "timestamp_abs": "92:20"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Kinshasa, as you mentioned, Kinshasa, the process is the processor has to receive",
+      "timestamp_abs": "92:22"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Pay for",
+      "timestamp_abs": "92:28"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this one, read it, grade it, make an Excel table.",
+      "timestamp_abs": "92:29"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "that's why.",
+      "timestamp_abs": "92:32"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Reright, yeah.",
+      "timestamp_abs": "92:33"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That can, so we need to find a way to register like really kind registration tax at at X weeks.",
+      "timestamp_abs": "92:34"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know, that kind of really like specific thing that hints me the real problem.",
+      "timestamp_abs": "92:41"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so the root issue may be something like institutional capacity, capability framework, not the system.",
+      "timestamp_abs": "92:47"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, right?",
+      "timestamp_abs": "92:53"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to, now we today's exercise, I think you get it.",
+      "timestamp_abs": "92:54"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Of course, yes.",
+      "timestamp_abs": "92:58"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's basically my general, like my general. The other core issue is weak demand verification.",
+      "timestamp_abs": "93:01"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because until now, I think many of you can show me context evidence.",
+      "timestamp_abs": "93:07"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Many, all of you actually complete context evidence, the context, the policy, the presidential law, the TFT.",
+      "timestamp_abs": "93:13"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You can leave it.",
+      "timestamp_abs": "93:20"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the demand, so for example, your ICPs mostly show I I made it a very general example.",
+      "timestamp_abs": "93:21"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This sector is important. This is important like like this this project is important.",
+      "timestamp_abs": "93:26"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I need something like this specific problem is urgently demanded.",
+      "timestamp_abs": "93:32"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And it's slightly different.",
+      "timestamp_abs": "93:37"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You see?",
+      "timestamp_abs": "93:38"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The sector, the issue is an important issue, the context.",
+      "timestamp_abs": "93:39"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But we need something more specific.",
+      "timestamp_abs": "93:43"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That will, I mean, as far as we can, as far as we can.",
+      "timestamp_abs": "93:45"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is not a very critical issue, but I I found it in several places.",
+      "timestamp_abs": "93:49"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I thought like, okay,",
+      "timestamp_abs": "93:53"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "for example, many of you could say like, ah, there's like again like complaint rates, the service delay, financial loss.",
+      "timestamp_abs": "93:56"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Except you, actually. You guys you have it right in this case, the problem failure related it should because you have how many much people you show me so I think except for you.",
+      "timestamp_abs": "94:06"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The loss of the budget issue, you know, I think this is important. Even if you if the situation is no budget.",
+      "timestamp_abs": "94:14"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We need to mention about this somehow.",
+      "timestamp_abs": "94:21"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like I think the the demand verification includes",
+      "timestamp_abs": "94:22"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the current budget situation?",
+      "timestamp_abs": "94:27"
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If it's not urgent, if it if the demand is not real, probably nobody felt any urgency to include it in the budget.",
+      "timestamp_abs": "94:29"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I would be I would be a little bit a little bit suspicious of how real the demand is if nobody really tried to make anything for it.",
+      "timestamp_abs": "94:37"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right?",
+      "timestamp_abs": "94:47"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For example, in your case, the justification is it just came out in the 2026 plan, so okay, it's part of it.",
+      "timestamp_abs": "94:48"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And there's what's the budget.",
+      "timestamp_abs": "94:54"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think",
+      "timestamp_abs": "94:55"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "existing what is the budget situation?",
+      "timestamp_abs": "94:58"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "block": 20,
+  "time_range": "95:00-98:57",
+  "utterances": [
+    {
+      "timestamp": "95:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "que, que or Kisty for Chilaka and for Mega.",
+      "timestamp_abs": "190:00"
+    },
+    {
+      "timestamp": "95:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I could have a meeting with you and we can try to have a visit to A3 or have a meeting with A3 to talk about this directly, okay?",
+      "timestamp_abs": "190:03"
+    },
+    {
+      "timestamp": "95:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think that's also going to clear out our doubts.",
+      "timestamp_abs": "190:10"
+    },
+    {
+      "timestamp": "95:14",
+      "speaker": "ILEANA",
+      "type": "teacher_instruction",
+      "directed_to": "Class",
+      "text": "Just directly ask them, you know?",
+      "timestamp_abs": "190:14"
+    },
+    {
+      "timestamp": "95:16",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Hey, what's the status of Genny talk?",
+      "timestamp_abs": "190:16"
+    },
+    {
+      "timestamp": "95:18",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "If a bank in Indonesia would like to get a technology transfer project for this, what would be the conditions?",
+      "timestamp_abs": "190:18"
+    },
+    {
+      "timestamp": "95:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just straightforward know what are the constraints, what are the possibilities and then from then we can start a conversation or not.",
+      "timestamp_abs": "190:24"
+    },
+    {
+      "timestamp": "95:31",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Uh sorry professor.",
+      "timestamp_abs": "190:31"
+    },
+    {
+      "timestamp": "95:32",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "but to make sure uh I can then I can uh use this as my ICP, right? Because I need to confirm with my friend in ADM.",
+      "timestamp_abs": "190:32"
+    },
+    {
+      "timestamp": "95:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh I think definitely right now if it's the approach you're choosing which is trying to solve the issue, this is what I'm understanding from your presentation.",
+      "timestamp_abs": "190:41"
+    },
+    {
+      "timestamp": "95:52",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Your presentation has a you're you're telling me that you have an issue of text to speech where in Indonesian language, right?",
+      "timestamp_abs": "190:52"
+    },
+    {
+      "timestamp": "95:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And you would like to try to solve this issue because Korea has a good solution, two types of good solutions, reference technologies that could solve this issue, but they are not yet developed for the Indonesian language.",
+      "timestamp_abs": "190:59"
+    },
+    {
+      "timestamp": "96:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you would would like to collaborate jointly with a Korean partner to solve the issue of the Indonesian language using the baseline Korean technology that is already up to certain point already developed.",
+      "timestamp_abs": "191:11"
+    },
+    {
+      "timestamp": "96:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, with that conceptual logic I don't I don't see.",
+      "timestamp_abs": "191:24"
+    },
+    {
+      "timestamp": "96:28",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Thank you, Professor.",
+      "timestamp_abs": "191:28"
+    },
+    {
+      "timestamp": "96:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "191:29"
+    },
+    {
+      "timestamp": "96:31",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "191:31"
+    },
+    {
+      "timestamp": "96:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let's go. I think it's it sounds it sounds interesting.",
+      "timestamp_abs": "191:32"
+    },
+    {
+      "timestamp": "96:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Good job.",
+      "timestamp_abs": "191:35"
+    },
+    {
+      "timestamp": "96:36",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Thank you.",
+      "timestamp_abs": "191:36"
+    },
+    {
+      "timestamp": "96:45",
+      "speaker": "ILEANA",
+      "type": "teacher_instruction",
+      "directed_to": "Class",
+      "text": "Okay guys, it's uh we could have a small nine minute break, please get ready with the rest um because we only have two more to go, right?",
+      "timestamp_abs": "191:45"
+    },
+    {
+      "timestamp": "96:53",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "It's uh Mega, sorry, Grace and uh Chilaka, right?",
+      "timestamp_abs": "191:53"
+    },
+    {
+      "timestamp": "96:59",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "191:59"
+    },
+    {
+      "timestamp": "97:00",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "192:00"
+    },
+    {
+      "timestamp": "97:01",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "192:01"
+    },
+    {
+      "timestamp": "97:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "192:01"
+    },
+    {
+      "timestamp": "97:02",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "192:02"
+    },
+    {
+      "timestamp": "97:03",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Next one.",
+      "timestamp_abs": "192:03"
+    },
+    {
+      "timestamp": "97:04",
+      "speaker": "ILEANA",
+      "type": "teacher_instruction",
+      "directed_to": "Class",
+      "text": "So let's do a nine minute break, let's start at three so we can do very quickly Mega and Chilaka because I want to have at least the last 30 minutes to discuss quickly with you the our our middle, okay?",
+      "timestamp_abs": "192:04"
+    },
+    {
+      "timestamp": "97:18",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "my my my my my",
+      "timestamp_abs": "192:18"
+    },
+    {
+      "timestamp": "97:25",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "This one?",
+      "timestamp_abs": "192:25"
+    },
+    {
+      "timestamp": "97:26",
+      "speaker": "ILEANA",
+      "type": "teacher_response",
+      "text": "Yes.",
+      "timestamp_abs": "192:26"
+    },
+    {
+      "timestamp": "97:27",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "192:27"
+    },
+    {
+      "timestamp": "97:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "we are ready. Let's take a break and then you can try. Okay.",
+      "timestamp_abs": "192:27"
+    },
+    {
+      "timestamp": "98:08",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "[inaudible]",
+      "timestamp_abs": "193:08"
+    },
+    {
+      "timestamp": "98:36",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "[inaudible]",
+      "timestamp_abs": "193:36"
+    },
+    {
+      "timestamp": "98:39",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "So, one.",
+      "timestamp_abs": "193:39"
+    },
+    {
+      "timestamp": "98:51",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "[inaudible]",
+      "timestamp_abs": "193:51"
+    },
+    {
+      "timestamp": "98:52",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "from the top",
+      "timestamp_abs": "193:52"
+    },
+    {
+      "timestamp": "98:55",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "still I still I'm confused.",
+      "timestamp_abs": "193:55"
+    },
+    {
+      "timestamp": "98:57",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "The first time you said my problem is clear, the first time you said my problem is clear.",
+      "timestamp_abs": "193:57"
+    }
+  ]
+}

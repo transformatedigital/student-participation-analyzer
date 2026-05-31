@@ -1,0 +1,486 @@
+{
+  "generated_at": "2026-05-31T12:36:57",
+  "students": [
+    "Aryang",
+    "Mega",
+    "Chilaka",
+    "Grace",
+    "Sthepen"
+  ],
+  "n_classes": 8,
+  "class_ids": [
+    "2026-03-17",
+    "2026-03-31",
+    "2026-04-07",
+    "2026-04-14",
+    "2026-04-21",
+    "2026-04-28",
+    "2026-05-12",
+    "2026-05-26"
+  ],
+  "aggregated": {
+    "Aryang": {
+      "n_classes": 8,
+      "preparation_sum": 23.77,
+      "participation_a_sum": 29.679999999999996,
+      "participation_b_sum": 41.67999999999999,
+      "attendance_sum": 40.0,
+      "total_a_sum": 93.45000000000002,
+      "total_b_sum": 105.45000000000002,
+      "by_class": [
+        {
+          "session_id": "2026-03-17",
+          "preparation": 2.59,
+          "participation_a": 3.45,
+          "participation_b": 4.95,
+          "attendance": 5.0,
+          "total_a": 11.04,
+          "total_b": 12.54
+        },
+        {
+          "session_id": "2026-03-31",
+          "preparation": 2.88,
+          "participation_a": 4.25,
+          "participation_b": 5.75,
+          "attendance": 5.0,
+          "total_a": 12.13,
+          "total_b": 13.63
+        },
+        {
+          "session_id": "2026-04-07",
+          "preparation": 3.75,
+          "participation_a": 3.88,
+          "participation_b": 5.38,
+          "attendance": 5.0,
+          "total_a": 12.63,
+          "total_b": 14.13
+        },
+        {
+          "session_id": "2026-04-14",
+          "preparation": 2.8,
+          "participation_a": 3.12,
+          "participation_b": 4.62,
+          "attendance": 5.0,
+          "total_a": 10.92,
+          "total_b": 12.42
+        },
+        {
+          "session_id": "2026-04-21",
+          "preparation": 2.63,
+          "participation_a": 3.67,
+          "participation_b": 5.17,
+          "attendance": 5.0,
+          "total_a": 11.3,
+          "total_b": 12.8
+        },
+        {
+          "session_id": "2026-04-28",
+          "preparation": 3.21,
+          "participation_a": 3.79,
+          "participation_b": 5.29,
+          "attendance": 5.0,
+          "total_a": 12.0,
+          "total_b": 13.5
+        },
+        {
+          "session_id": "2026-05-12",
+          "preparation": 3.38,
+          "participation_a": 3.52,
+          "participation_b": 5.02,
+          "attendance": 5.0,
+          "total_a": 11.9,
+          "total_b": 13.4
+        },
+        {
+          "session_id": "2026-05-26",
+          "preparation": 2.53,
+          "participation_a": 4.0,
+          "participation_b": 5.5,
+          "attendance": 5.0,
+          "total_a": 11.53,
+          "total_b": 13.03
+        }
+      ],
+      "preparation_avg": 2.97,
+      "participation_a_avg": 3.71,
+      "participation_b_avg": 5.21,
+      "attendance_avg": 5.0,
+      "total_a_avg": 11.68,
+      "total_b_avg": 13.18,
+      "pct_a_avg": 58.4,
+      "pct_b_avg": 65.9
+    },
+    "Mega": {
+      "n_classes": 8,
+      "preparation_sum": 20.55,
+      "participation_a_sum": 25.459999999999997,
+      "participation_b_sum": 32.46,
+      "attendance_sum": 40.0,
+      "total_a_sum": 86.00999999999999,
+      "total_b_sum": 93.00999999999999,
+      "by_class": [
+        {
+          "session_id": "2026-03-17",
+          "preparation": 2.5,
+          "participation_a": 3.47,
+          "participation_b": 3.97,
+          "attendance": 5.0,
+          "total_a": 10.97,
+          "total_b": 11.47
+        },
+        {
+          "session_id": "2026-03-31",
+          "preparation": 4.79,
+          "participation_a": 3.65,
+          "participation_b": 4.15,
+          "attendance": 5.0,
+          "total_a": 13.44,
+          "total_b": 13.94
+        },
+        {
+          "session_id": "2026-04-07",
+          "preparation": 0,
+          "participation_a": 0,
+          "participation_b": 0.0,
+          "attendance": 5.0,
+          "total_a": 5.0,
+          "total_b": 5.0
+        },
+        {
+          "session_id": "2026-04-14",
+          "preparation": 2.64,
+          "participation_a": 3.9,
+          "participation_b": 5.4,
+          "attendance": 5.0,
+          "total_a": 11.54,
+          "total_b": 13.04
+        },
+        {
+          "session_id": "2026-04-21",
+          "preparation": 2.32,
+          "participation_a": 3.08,
+          "participation_b": 4.08,
+          "attendance": 5.0,
+          "total_a": 10.4,
+          "total_b": 11.4
+        },
+        {
+          "session_id": "2026-04-28",
+          "preparation": 2.5,
+          "participation_a": 3.66,
+          "participation_b": 4.66,
+          "attendance": 5.0,
+          "total_a": 11.16,
+          "total_b": 12.16
+        },
+        {
+          "session_id": "2026-05-12",
+          "preparation": 3.61,
+          "participation_a": 3.82,
+          "participation_b": 5.32,
+          "attendance": 5.0,
+          "total_a": 12.43,
+          "total_b": 13.93
+        },
+        {
+          "session_id": "2026-05-26",
+          "preparation": 2.19,
+          "participation_a": 3.88,
+          "participation_b": 4.88,
+          "attendance": 5.0,
+          "total_a": 11.07,
+          "total_b": 12.07
+        }
+      ],
+      "preparation_avg": 2.57,
+      "participation_a_avg": 3.18,
+      "participation_b_avg": 4.06,
+      "attendance_avg": 5.0,
+      "total_a_avg": 10.75,
+      "total_b_avg": 11.63,
+      "pct_a_avg": 53.8,
+      "pct_b_avg": 58.1
+    },
+    "Chilaka": {
+      "n_classes": 8,
+      "preparation_sum": 19.5,
+      "participation_a_sum": 31.33,
+      "participation_b_sum": 41.33,
+      "attendance_sum": 40.0,
+      "total_a_sum": 90.83,
+      "total_b_sum": 100.83,
+      "by_class": [
+        {
+          "session_id": "2026-03-17",
+          "preparation": 2.25,
+          "participation_a": 3.75,
+          "participation_b": 5.25,
+          "attendance": 5.0,
+          "total_a": 11.0,
+          "total_b": 12.5
+        },
+        {
+          "session_id": "2026-03-31",
+          "preparation": 3.33,
+          "participation_a": 4.26,
+          "participation_b": 5.26,
+          "attendance": 5.0,
+          "total_a": 12.59,
+          "total_b": 13.59
+        },
+        {
+          "session_id": "2026-04-07",
+          "preparation": 0,
+          "participation_a": 5.0,
+          "participation_b": 5.0,
+          "attendance": 5.0,
+          "total_a": 10.0,
+          "total_b": 10.0
+        },
+        {
+          "session_id": "2026-04-14",
+          "preparation": 2.34,
+          "participation_a": 4.2,
+          "participation_b": 5.7,
+          "attendance": 5.0,
+          "total_a": 11.54,
+          "total_b": 13.04
+        },
+        {
+          "session_id": "2026-04-21",
+          "preparation": 1.5,
+          "participation_a": 2.72,
+          "participation_b": 4.22,
+          "attendance": 5.0,
+          "total_a": 9.22,
+          "total_b": 10.72
+        },
+        {
+          "session_id": "2026-04-28",
+          "preparation": 2.95,
+          "participation_a": 3.07,
+          "participation_b": 4.57,
+          "attendance": 5.0,
+          "total_a": 11.02,
+          "total_b": 12.52
+        },
+        {
+          "session_id": "2026-05-12",
+          "preparation": 3.8,
+          "participation_a": 3.61,
+          "participation_b": 5.11,
+          "attendance": 5.0,
+          "total_a": 12.41,
+          "total_b": 13.91
+        },
+        {
+          "session_id": "2026-05-26",
+          "preparation": 3.33,
+          "participation_a": 4.72,
+          "participation_b": 6.22,
+          "attendance": 5.0,
+          "total_a": 13.05,
+          "total_b": 14.55
+        }
+      ],
+      "preparation_avg": 2.44,
+      "participation_a_avg": 3.92,
+      "participation_b_avg": 5.17,
+      "attendance_avg": 5.0,
+      "total_a_avg": 11.35,
+      "total_b_avg": 12.6,
+      "pct_a_avg": 56.8,
+      "pct_b_avg": 63.0
+    },
+    "Grace": {
+      "n_classes": 8,
+      "preparation_sum": 19.27,
+      "participation_a_sum": 26.979999999999997,
+      "participation_b_sum": 32.480000000000004,
+      "attendance_sum": 40.0,
+      "total_a_sum": 86.24999999999999,
+      "total_b_sum": 91.74999999999999,
+      "by_class": [
+        {
+          "session_id": "2026-03-17",
+          "preparation": 0,
+          "participation_a": 3.33,
+          "participation_b": 3.33,
+          "attendance": 5.0,
+          "total_a": 8.33,
+          "total_b": 8.33
+        },
+        {
+          "session_id": "2026-03-31",
+          "preparation": 4.69,
+          "participation_a": 3.54,
+          "participation_b": 4.04,
+          "attendance": 5.0,
+          "total_a": 13.23,
+          "total_b": 13.73
+        },
+        {
+          "session_id": "2026-04-07",
+          "preparation": 3.33,
+          "participation_a": 3.04,
+          "participation_b": 4.04,
+          "attendance": 5.0,
+          "total_a": 11.37,
+          "total_b": 12.37
+        },
+        {
+          "session_id": "2026-04-14",
+          "preparation": 3.54,
+          "participation_a": 3.19,
+          "participation_b": 4.19,
+          "attendance": 5.0,
+          "total_a": 11.73,
+          "total_b": 12.73
+        },
+        {
+          "session_id": "2026-04-21",
+          "preparation": 1.25,
+          "participation_a": 3.3,
+          "participation_b": 4.3,
+          "attendance": 5.0,
+          "total_a": 9.55,
+          "total_b": 10.55
+        },
+        {
+          "session_id": "2026-04-28",
+          "preparation": 0.83,
+          "participation_a": 3.33,
+          "participation_b": 3.33,
+          "attendance": 5.0,
+          "total_a": 9.16,
+          "total_b": 9.16
+        },
+        {
+          "session_id": "2026-05-12",
+          "preparation": 3.75,
+          "participation_a": 3.71,
+          "participation_b": 5.21,
+          "attendance": 5.0,
+          "total_a": 12.46,
+          "total_b": 13.96
+        },
+        {
+          "session_id": "2026-05-26",
+          "preparation": 1.88,
+          "participation_a": 3.54,
+          "participation_b": 4.04,
+          "attendance": 5.0,
+          "total_a": 10.42,
+          "total_b": 10.92
+        }
+      ],
+      "preparation_avg": 2.41,
+      "participation_a_avg": 3.37,
+      "participation_b_avg": 4.06,
+      "attendance_avg": 5.0,
+      "total_a_avg": 10.78,
+      "total_b_avg": 11.47,
+      "pct_a_avg": 53.9,
+      "pct_b_avg": 57.4
+    },
+    "Sthepen": {
+      "n_classes": 8,
+      "preparation_sum": 18.99,
+      "participation_a_sum": 26.04,
+      "participation_b_sum": 36.54,
+      "attendance_sum": 40.0,
+      "total_a_sum": 85.03000000000002,
+      "total_b_sum": 95.53,
+      "by_class": [
+        {
+          "session_id": "2026-03-17",
+          "preparation": 2.78,
+          "participation_a": 3.5,
+          "participation_b": 5.0,
+          "attendance": 5.0,
+          "total_a": 11.28,
+          "total_b": 12.78
+        },
+        {
+          "session_id": "2026-03-31",
+          "preparation": 2.92,
+          "participation_a": 3.8,
+          "participation_b": 5.3,
+          "attendance": 5.0,
+          "total_a": 11.72,
+          "total_b": 13.22
+        },
+        {
+          "session_id": "2026-04-07",
+          "preparation": 0,
+          "participation_a": 0,
+          "participation_b": 0.0,
+          "attendance": 5.0,
+          "total_a": 5.0,
+          "total_b": 5.0
+        },
+        {
+          "session_id": "2026-04-14",
+          "preparation": 2.5,
+          "participation_a": 3.81,
+          "participation_b": 5.31,
+          "attendance": 5.0,
+          "total_a": 11.31,
+          "total_b": 12.81
+        },
+        {
+          "session_id": "2026-04-21",
+          "preparation": 1.5,
+          "participation_a": 3.84,
+          "participation_b": 5.34,
+          "attendance": 5.0,
+          "total_a": 10.34,
+          "total_b": 11.84
+        },
+        {
+          "session_id": "2026-04-28",
+          "preparation": 2.29,
+          "participation_a": 3.34,
+          "participation_b": 4.84,
+          "attendance": 5.0,
+          "total_a": 10.63,
+          "total_b": 12.13
+        },
+        {
+          "session_id": "2026-05-12",
+          "preparation": 3.62,
+          "participation_a": 3.46,
+          "participation_b": 4.96,
+          "attendance": 5.0,
+          "total_a": 12.08,
+          "total_b": 13.58
+        },
+        {
+          "session_id": "2026-05-26",
+          "preparation": 3.38,
+          "participation_a": 4.29,
+          "participation_b": 5.79,
+          "attendance": 5.0,
+          "total_a": 12.67,
+          "total_b": 14.17
+        }
+      ],
+      "preparation_avg": 2.37,
+      "participation_a_avg": 3.25,
+      "participation_b_avg": 4.57,
+      "attendance_avg": 5.0,
+      "total_a_avg": 10.63,
+      "total_b_avg": 11.94,
+      "pct_a_avg": 53.2,
+      "pct_b_avg": 59.7
+    }
+  },
+  "rubric_levels": {
+    "6": "Comes prepared. Contributes readily without dominating. Thoughtful, advances conversation. Respects others. Active in small groups.",
+    "5": "Comes prepared, makes thoughtful comments when called. Contributes occasionally without prompting. Respects others. Active in small groups.",
+    "4": "Generally prepared. Participates but may dominate, ramble, interrupt with digressive questions, bluff when unprepared, miss social cues.",
+    "3": "Comes prepared. Does NOT voluntarily contribute. Minimal answers when called. Listens attentively, takes notes.",
+    "2": "Comes but NOT prepared. Does not contribute. Unable to contribute usefully when called.",
+    "1": "Comes but NOT prepared. May be disruptive. Negative impact on others."
+  }
+}

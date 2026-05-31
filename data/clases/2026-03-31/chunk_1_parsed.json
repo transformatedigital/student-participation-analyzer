@@ -1,0 +1,244 @@
+{
+  "teacher_questions": [
+    {
+      "timestamp": "00:56:11",
+      "question": "This is the way, right?",
+      "directed_to": "class",
+      "student_response": {
+        "student": "Arya",
+        "response": "Yeah, yeah.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:14:62",
+      "question": "AI-related knowledge base, right?",
+      "directed_to": "class",
+      "student_response": {
+        "student": "Arya",
+        "response": "Yes, exactly, yeah.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "03:27:07",
+      "question": "Do you pray for me?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "laughs",
+        "quality_score": "E",
+        "quality_label": "Weak"
+      }
+    },
+    {
+      "timestamp": "04:14:48",
+      "question": "Is it correct?",
+      "directed_to": "class",
+      "student_response": null
+    },
+    {
+      "timestamp": "04:17:60",
+      "question": "Are you understanding better the difference between one approach and the other?",
+      "directed_to": "class",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yeah.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "06:05:07",
+      "question": "With, with which researcher, like, with",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "In my, in my institute.",
+        "quality_score": "C",
+        "quality_label": "Good"
+      }
+    },
+    {
+      "timestamp": "06:08:08",
+      "question": "Energy researchers in a global research institute or within the research?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "In my, in my institute.",
+        "quality_score": "C",
+        "quality_label": "Good"
+      }
+    },
+    {
+      "timestamp": "06:13:39",
+      "question": "Oh, within the institute?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Only the researchers within the network in my agency.",
+        "quality_score": "C",
+        "quality_label": "Good"
+      }
+    },
+    {
+      "timestamp": "06:42:34",
+      "question": "Right. So you spoke to them.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yeah.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "07:18:22",
+      "question": "It's great for academic work, but this course and this project is not academic, I mean, technology commercialization is kind of a product, an output of an academic endeavor, right?",
+      "directed_to": "Mega",
+      "student_response": null
+    },
+    {
+      "timestamp": "08:07:66",
+      "question": "Yeah. So that's why I thought, is the project going to be the salad only or is it going to be the full course meal?",
+      "directed_to": "Mega",
+      "student_response": null
+    },
+    {
+      "timestamp": "10:42:49",
+      "question": "So your second question was about the data, right?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Oh, I mean the economic optimization.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "15:24:26",
+      "question": "Ah, it's a paper about Chilaka.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yeah.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "15:34:49",
+      "question": "Chilaka was established already since 2023.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "I think, yeah, yeah, the relation from February about 2026.",
+        "quality_score": "C",
+        "quality_label": "Good"
+      }
+    },
+    {
+      "timestamp": "16:00:26",
+      "question": "I thought there's, that's why I looked it up too and also I started thinking, 'When, when was this project open already? How long has it been operating?'",
+      "directed_to": "Mega",
+      "student_response": null
+    },
+    {
+      "timestamp": "16:09:47",
+      "question": "And if it was so well announced in 2023.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "2023.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "16:34:39",
+      "question": "Yeah, the production of energy is limited.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yeah.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "17:22:04",
+      "question": "removing the backup, the backup resources can be used for Chilaka, you need to replace it because it's a non-renewable.",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Yeah, non-renewable.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "20:12:15",
+      "question": "At the beginning, you told me I was a little bit.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "You are. Yeah.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "21:40:02",
+      "question": "with again, in this other section of the existing solution, because.",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yeah, I already.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "22:02:44",
+      "question": "But generic. Which one of the generic?",
+      "directed_to": "Mega",
+      "student_response": null
+    },
+    {
+      "timestamp": "22:19:35",
+      "question": "How many households are already using solar for me?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "50, 50,000 households.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "24:08:44",
+      "question": "Especially in this case, who is Chilaka's operator? Is it a public entity or is it a private?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "To the households.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "24:15:23",
+      "question": "It's a state or a utility company?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "To the households. Also, also to the uh.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    }
+  ],
+  "student_contributions": []
+}

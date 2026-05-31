@@ -1,0 +1,20 @@
+{
+  "block": 24,
+  "time_range": "115:00-120:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm just making an exaggeration but this kind of thing.",
+      "timestamp_abs": "115:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In this case, focus will be the national, this case, technology transfer or adaptation.",
+      "timestamp_abs": "115:02"
+    }
+  ]
+}

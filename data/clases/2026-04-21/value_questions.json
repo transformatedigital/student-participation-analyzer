@@ -1,0 +1,437 @@
+{
+  "session": "2026-04-21",
+  "generated_at": "2026-05-31T10:02:39",
+  "count": 43,
+  "questions": [
+    {
+      "timestamp": "00:42",
+      "topic": "Physical object location",
+      "question": "Could you please tell me the location of the keyboard?",
+      "raw_question": "Where's the the keyboard?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "The keyboard is behind the table.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "00:49",
+      "topic": "Keyboard location confirmation",
+      "question": "Is the keyboard located here, as I'm indicating?",
+      "raw_question": "Here?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No, no, no. It's located here.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "00:55",
+      "topic": "Student's ICP",
+      "question": "Could you please tell me your ICP (Ideal Customer Profile)?",
+      "raw_question": "So probably you will have here, here. Right? This is. Ah, no, sorry. What's your ICP?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Bring.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "07:00",
+      "topic": "Strategy for Kisa",
+      "question": "Considering your case, which might be separated into two parts, and our approach to Kisa, can we develop a strategy along the lines I'm suggesting?",
+      "raw_question": "Can we make a strategy like you're saying here?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Both. You are right.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "07:46",
+      "topic": "Student/project identification",
+      "question": "Are you Grace, and is your project/entity named Rura?",
+      "raw_question": "Grace is Rura, right?",
+      "answered_by": "Grace",
+      "score": 3,
+      "response_text": "No, my name is Nita.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "07:55",
+      "topic": "Stakeholder identification",
+      "question": "Could you clarify if Rura is a telecommunication company?",
+      "raw_question": "And Rura is a telecom?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Rura is a government agency that regulates the telecom.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "10:19",
+      "topic": "Solution operator",
+      "question": "Regarding this solution, will NIDA or the telecommunication company (teleco) be the operator?",
+      "raw_question": "NIDA or teleco?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Teleco.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "10:23",
+      "topic": "Solution acquisition model",
+      "question": "If the telecommunication company (teleco) will operate the solution, will they purchase it or acquire it through another means?",
+      "raw_question": "Okay. So if the teleco will operate it, the teleco will buy it, or will they get it?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, we buy.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "10:45",
+      "topic": "Student's project role",
+      "question": "Given that the teleco will operate the solution and NIDA will design the rules, what is your specific role in this process? Do you provide the [service]?",
+      "raw_question": "So what is your role then? You provide the",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "For us, we connect. Because if they are doing the SIM card registration, we have integration with the team, teleco and NIDA.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "10:59",
+      "topic": "NIDA integration contract",
+      "question": "Do you have a formal integration contract with NIDA?",
+      "raw_question": "You have an integration contract with NIDA?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, yeah, yeah.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "11:56",
+      "topic": "NIDA as ICP",
+      "question": "Is NIDA your Ideal Customer Profile (ICP), or is your ICP something else?",
+      "raw_question": "You're NIDA ICP or",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, yeah. We have a good [ICP]. They wrote it very clearly.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "27:17",
+      "topic": "Student location disclosure",
+      "question": "When you spoke with him about the project's feasibility, did you inform him that you are currently in Korea?",
+      "raw_question": "And you told him that you're now in Korea?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yes, yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "27:30",
+      "topic": "Meeting location",
+      "question": "Regarding the meeting that has been arranged, will it take place here or at the 'Dollar In'?",
+      "raw_question": "Are you gonna meet here or at the Dollar In?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "In Dollar In. Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "30:27",
+      "topic": "Project scenario feedback",
+      "question": "Regarding the proposed scenario for your project and the formal processes we've discussed, please let me know if there is any aspect of this scenario that you believe is not suitable for you.",
+      "raw_question": "If there is anything of this scenario that you think, professor, this scenario is not good for me.",
+      "answered_by": "Aryang",
+      "score": null,
+      "response_text": "For me, the best way is moving from the FMST to KISTI.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "31:11",
+      "topic": "KISTI engagement preference",
+      "question": "Given these potential collaboration pathways, how can we determine KISTI's preferred method of engagement or their specific requirements?",
+      "raw_question": "How do I know?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No explicit answer provided by Aryang; the teacher continues speaking.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "33:26",
+      "topic": "Clarification of entities",
+      "question": "Could you please repeat your previous statement or question?",
+      "raw_question": "Let's rest from now until 2:20, 2:25, is that okay?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "NAIPA is actually the Ministry of Science and ICT. It's the same as KIST, then. No, no, no, KIST is under this.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "34:16",
+      "topic": "Knowledge of discipline/process",
+      "question": "Are you familiar with this particular discipline or aspect of the process? Do you not know what it is for this specific context?",
+      "raw_question": "Say it again.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No, I didn't know that.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "35:00",
+      "topic": "Entity identification",
+      "question": "Among the entities or places we've been discussing, which one is this one (referring to something specific)?",
+      "raw_question": "a discipline where because you have to know what it is you can't be you you directed it unluckily. Oh yeah. You don't know what it is for that?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Yeah, this one.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "35:10",
+      "topic": "Academic management system scope",
+      "question": "You mentioned that the priority is an 'academic management system.' Could you elaborate on what specific functionalities or types of systems this refers to, such as a Learning Management System (LMS)?",
+      "raw_question": "Which one is this place?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Like that. So I think it's slightly like where we are here at Kaist.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "51:22",
+      "topic": "Project priority shift",
+      "question": "So, is the focus now shifting away from a digital ID solution?",
+      "raw_question": "Okay. Like I like but academic management in terms of like uh L, like uh LMS, LMS kind of.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Not just a digital ID. I suggested some digital ID functionalities, like student ID authentication, but they said the priority is academic system management because it will help manage all the faculty.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "52:12",
+      "topic": "Communication language",
+      "question": "In your discussion with them about project priorities, did you communicate in English or French?",
+      "raw_question": "So not digital ID anymore.",
+      "answered_by": "Aryang",
+      "score": 6,
+      "response_text": "He speaks English, but because our administration communicates in French, and I also speak French, we communicated in French.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "52:26",
+      "topic": "Classroom app exploration",
+      "question": "Have you had the opportunity to examine or interact with the other application, the 'class classroom' app?",
+      "raw_question": "And you spoke in English or French?",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "Sorry.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "55:50",
+      "topic": "Opinion on classroom app",
+      "question": "If you have seen the 'class classroom' application, what are your thoughts on it, or do you like it?",
+      "raw_question": "Or did you have a chance to see to the other app, the class, classroom?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Actually, you know...",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "55:56",
+      "topic": "R&D center purpose",
+      "question": "Mega, what do you think is the purpose of R&D (Research & Development) centers?",
+      "raw_question": "Do you like it or what do you think about that?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Publications.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "62:44",
+      "topic": "R&D center purpose",
+      "question": "Could you please repeat or elaborate on your answer regarding the purpose of R&D centers?",
+      "raw_question": "Mega?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "The purpose of the R&D centers is to make publications.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "62:49",
+      "topic": "R&D center purpose",
+      "question": "Is the sole purpose of R&D centers merely to produce publications, or are there other objectives?",
+      "raw_question": "Hm?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "Prototype.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "62:54",
+      "topic": "Prototype purpose",
+      "question": "When R&D centers create prototypes, what is the ultimate purpose or application of these prototypes?",
+      "raw_question": "Publications only?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "A lot.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "62:56",
+      "topic": "Prototype purpose",
+      "question": "Can you specify for what purpose these prototypes are made, beyond just 'a lot'?",
+      "raw_question": "Prototype for what?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Prototype for [incomplete thought].",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "63:00",
+      "topic": "Indonesia's tech needs",
+      "question": "In my discussion with a colleague, she inquired about Indonesia's specific technological needs. For example, do they require an increase in accuracy levels for their existing solutions?",
+      "raw_question": "Yeah, for what?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "For the TTS (Text-to-Speech).",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "65:17",
+      "topic": "",
+      "question": "So she kept asking me, but what is it that Indonesia needs? Is it like accuracy? They want to increase the accuracy level? like this.",
+      "raw_question": "So she kept asking me, but what is it that Indonesia needs? Is it like accuracy? They want to increase the accuracy level? like this.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "79:33",
+      "topic": "ICP partners",
+      "question": "Sthepen previously asked if he could add more partners to his ICP. Professor Ileana confirmed that he could add more. However, when Sthepen says 'Yeah' in response to her asking 'More?', Professor Ileana then clarifies if he really wants to add more, as he is only allowed one partner for his ICP.",
+      "raw_question": "More?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Sthepen confirms that he wants to add more.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "79:54",
+      "topic": "ICP partner name",
+      "question": "Following up on who Sthepen wants to add as a partner to his ICP, Professor Ileana asks for confirmation of the name 'Adri'.",
+      "raw_question": "Adri?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Sthepen confirms 'Adri'.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "82:20",
+      "topic": "ICP challenge scope",
+      "question": "Considering that some students, like Chilaka and Sthephen, previously discussed challenges for their ICP, Professor Ileana wants to confirm if the students understand the crucial distinction between personal challenges they face in pursuing the ICP for the course, and the global commercialization challenges inherent to the technology project itself, which should be the focus of the ICP document.",
+      "raw_question": "So you guys mentioned some of the challenges you have. So I want to show you, I like Chilaka, for example, mentioned very generalized. Stephen also mentioned certain aspects that he already had personal. So I wanted to add because I think it's very important that you guys when you're writing, you use the right keywords and sometimes you're just for example writing a personal level, what you're remember the last time when Chilaka presented as [inaudible] presented. Some of you presented on a personal level what challenges you're having to pursue the ICP, this course, and some of you presented what are the global commercialization challenges of the in general of the project. You see the difference?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Sthepen indicates that he sees the difference.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "83:01",
+      "topic": "ICP challenge section",
+      "question": "Professor Ileana, after explaining the proper scope of challenges for the ICP document (focusing on technology commercialization rather than personal issues) and providing examples, asks the students if they are aware of the specific section in the ICP template that addresses 'possible challenges' or 'barriers'.",
+      "raw_question": "So in your ICP officially, of course, as a professor, I'm hearing a discussion, we can I can know, \"Professor, I'm having a problem to...\" For example, Grace can tell me, \"Actually, I have a problem, I have a problem in my WhatsApp when the president is, like, this isn't relevant.\" That kind of problem we can discuss in class. But in the ICP officially, we need to discuss about the challenges in pursuing the technology commercialization. What kind of uh, hills we have to overcome officially. So I gave you different ideas, like these are bullets of ideas that we generically face in the theory of technology commercialization, okay? And these are special like really just on the issues of availability of funding or in the issue of internal structure like I mentioned. What are the very key processes like when we are drawing here, how can we align the stakeholders and map them well so that we can create a full cultural marriage? Um, so in the in the structure or in the internal, because one thing is internal arrangements and another thing is external arrangements, right? Um, so I left this slide, and please, I'm going to make one more chat for discussing challenges. At that time, please use this slide to start brainstorming and filling up this. In your ICP, you have a place where it says, \"Do you what are the possible challenges?\" There is a one section that asks about this. You know, right? In the ICP.",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Sthepen confirms that he knows about that section.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "85:18",
+      "topic": "Clarifying challenges",
+      "question": "Following a student's comment about their memory going crazy while trying to define 'challenge,' and her own comment about self-doubt, Professor Ileana asks, perhaps lightheartedly, 'Do I dream it?', implying 'Am I imagining that there is a distinction we need to make here, or is this real?'",
+      "raw_question": "Do I dream it?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Aryang responds by asking for clarification: 'Professor, the challenge I defined this the the mean of challenge is challenge for the for the ICP or the [project]'.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "95:21",
+      "topic": "Lecturer status",
+      "question": "In response to Aryang's clarification that he is not a 'former' lecturer, Professor Ileana asks for confirmation if he is a 'current' lecturer.",
+      "raw_question": "You're current?",
+      "answered_by": "Aryang",
+      "score": 1,
+      "response_text": "Aryang confirms that he is still a current lecturer and receives his salary, explaining that he received official permission from the Ministry of Education for his three-year PhD studies.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "95:29",
+      "topic": "Employment leave status",
+      "question": "Following Aryang's confirmation that he is a 'current' lecturer, Professor Ileana further clarifies his employment status, asking if he is currently on a leave of absence or has an official permit for his studies.",
+      "raw_question": "So if you're not, but you're not, you're on a leave or you're you're on a permit.",
+      "answered_by": "Aryang",
+      "score": 1,
+      "response_text": "Aryang explains that he has an official permission from the Ministry of Education to be away for three years for his PhD, so everything is secured for his return.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "104:24",
+      "topic": "Course purpose",
+      "question": "Professor Ileana asks the students to explain their understanding of the purpose and value of this preparatory course, especially in the context of preparing the GCR draft.",
+      "raw_question": "So what do you mean by by having this preparatory course?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No direct student response is recorded immediately after this question; the professor continues explaining the purpose of the course herself.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "104:47",
+      "topic": "Course progression understanding",
+      "question": "After explaining that the GCR draft from this course will be further developed in the next course, Professor Ileana asks for confirmation if the students understand this progression.",
+      "raw_question": "You get it?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Aryang confirms that he understands.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "104:49",
+      "topic": "Further questions",
+      "question": "Professor Ileana asks the students if they have any further questions regarding the discussed topics.",
+      "raw_question": "Any other question?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Aryang replies 'Nope', and Sthepen adds 'I guess that's okay'.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "112:53",
+      "topic": "Commercialization model",
+      "question": "After describing a 'market pull' scenario for technology commercialization, Professor Ileana presents an alternative scenario where a technology originates from a researcher's idea and lab development, which is then packaged into an application, branded as a product, and launched into the market. She then asks the students to identify this specific technology commercialization model.",
+      "raw_question": "This one is the other. Ah, yeah. From the researcher's brain, he was showering and ah, you know, I have an idea. And then he and his professor in his lab, blah, blah, blah, created a technology that later on, they would package it into an application and eventually they branded it into a product and they launched it into the market. That's that. What is this one?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Mega responds with 'TAP,' while Aryang and Chilaka respond with 'Technology push.'",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "113:11",
+      "topic": "Commercialization model differences",
+      "question": "Following the identification of 'Technology Push' as a technology commercialization model, Professor Ileana wants to test the students' understanding by asking them to explain the differences between 'TAP,' 'PMT,' and the concept she refers to as 'jolly crap' (likely a placeholder for another model like Market Pull/Technology Pull), emphasizing that they should not look up the answers.",
+      "raw_question": "So, I want to test it. What's the difference between TAP and PMT and jolly crap? They don't have, look and answer.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No direct student response is recorded immediately after this question; the professor continues providing more context about frameworks.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "130:34",
+      "topic": "Indonesian utility company",
+      "question": "While discussing the resources and specialists within a utility company in Indonesia (referring to 'Chilaka utility company' as an example), Professor Ileana asks the students to identify the specific Indonesian utility company she is referring to.",
+      "raw_question": "Who here?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "An unknown student responds with 'PLN', and Aryang confirms with 'Hmm'.",
+      "is_substantive": false
+    }
+  ]
+}

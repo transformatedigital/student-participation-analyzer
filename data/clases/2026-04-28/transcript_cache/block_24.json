@@ -1,0 +1,27 @@
+{
+  "block": 24,
+  "time_range": "115:00-120:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is still too much related to",
+      "timestamp_abs": "115:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Mhm",
+      "timestamp_abs": "115:02"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay, now you improved it.",
+      "timestamp_abs": "115:04"
+    }
+  ]
+}

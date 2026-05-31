@@ -1,0 +1,35 @@
+{
+  "block": 22,
+  "time_range": "105:00-110:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Eventually?",
+      "timestamp_abs": "105:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Hopefully?",
+      "timestamp_abs": "105:02"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "So so I mean if the way is the same?",
+      "timestamp_abs": "105:06"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, but they are, that's why I said.",
+      "timestamp_abs": "105:09"
+    }
+  ]
+}

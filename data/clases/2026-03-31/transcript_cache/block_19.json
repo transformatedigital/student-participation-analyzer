@@ -1,0 +1,286 @@
+{
+  "block": 19,
+  "time_range": "90:00-95:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "very very innovative and it's a very blue ocean and you're going to be the next innovator or there's no real opportunity there. Because in this time, the fact that there's nothing been done, it's very rare.",
+      "timestamp_abs": "90:00"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh, but this uh I know because uh the startups on the university, I do a lot of on universities. Uh, like trying to do something.",
+      "timestamp_abs": "90:14"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "uh trying to do something and uh get maybe uh uh sides or maybe custom that's somehow helping uh students to be uh to get some of materials, and things such. That's uh",
+      "timestamp_abs": "90:30"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So you're nobody's been able to describe this thing.",
+      "timestamp_abs": "90:48"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, in some universities that so uh you see that uh uh it's hard somehow to compare with the university of chance and the other sides and uh doing those things. So it's going to be easier with maybe have one student or maybe 10 students per room or 20 students per room, to do something such.",
+      "timestamp_abs": "90:51"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So so you can say like this, think about the example of Mexico. They cannot have the same nation. You don't make it better. In your example, you're just giving me general energy of your regulations. And I told,",
+      "timestamp_abs": "91:13"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "do you have any example of being as in your country or maybe it's not even it's not even a thing that it's just maybe even the sh- shame artists of the one project is very little, it's very very little, not been in the new scale of the industry that you know, right? At least you can say this helps your argument, because it tells you. So the best of the knowledge right now, you know, we haven't have enough exposure to this technology, therefore we need this much. So it helps the argument. So you can also tell me, no.",
+      "timestamp_abs": "91:24"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you can also tell me, like, Coto has registered 20 common universities, make you know, 20 common universities. Out of 20 universities, only five are registered. Which is this is only an example of the blah, blah, blah.",
+      "timestamp_abs": "91:54"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay. Let me let me show you something in the first place, ma'am. Okay.",
+      "timestamp_abs": "92:11"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "This is, you see, current in French, right? This is the website.",
+      "timestamp_abs": "92:33"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "This is in French.",
+      "timestamp_abs": "92:38"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "You say correct in French also, English is French. Yes.",
+      "timestamp_abs": "92:41"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, it's official language, so.",
+      "timestamp_abs": "92:43"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, no.",
+      "timestamp_abs": "92:45"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, this is the main",
+      "timestamp_abs": "92:46"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is the French one. Okay.",
+      "timestamp_abs": "92:48"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay. So, actually,",
+      "timestamp_abs": "92:50"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So,",
+      "timestamp_abs": "92:53"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "You can see French?",
+      "timestamp_abs": "92:53"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "See, it's it's my official language, so.",
+      "timestamp_abs": "92:55"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oui, oui.",
+      "timestamp_abs": "92:58"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oui.",
+      "timestamp_abs": "92:59"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oui.",
+      "timestamp_abs": "93:00"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oui, oui.",
+      "timestamp_abs": "93:01"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oui, oui.",
+      "timestamp_abs": "93:03"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah. So, this is the the official website of the university of the official site.",
+      "timestamp_abs": "93:04"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's uh specialized. So, actually, this one is just the presentation of the university from its uh from the beginning in creation and uh the faculty, all these things.",
+      "timestamp_abs": "93:10"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When he needs to be this is important example. You know, you know, because on the other hand, actually the website is not a channel, you know. I mean, they are not. The website is not a channel, you know. I can find the information on the website, but you cannot find it.",
+      "timestamp_abs": "93:23"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "I mean, how?",
+      "timestamp_abs": "93:37"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "How?",
+      "timestamp_abs": "93:38"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, it's so so hard to know for the for the for the yesterday, that I was trying to ask something. So you were talking about what's the what's the director of the universe?",
+      "timestamp_abs": "93:39"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So this is the present of the",
+      "timestamp_abs": "94:02"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, yes, this.",
+      "timestamp_abs": "94:03"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "of the university, all the things. So all the faculties and the director of the director of the university. So I can show the president of the university.",
+      "timestamp_abs": "94:03"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, these are very recent recent uh activities that I have here.",
+      "timestamp_abs": "94:15"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So, it's just like a repository of some news and that's it.",
+      "timestamp_abs": "94:22"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, you see that even their their website, this is not sophisticated.",
+      "timestamp_abs": "94:26"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "This is not really sophisticated. This is normally information about uh faculties. We can see we have a school of orthodontic couch. We have uh Faculty of law. This is all gold. Institute of Arts and Human Science, medicines and uh this is Yeah. And we have for catering and for culinary, oil, polytechniques, uh psychology and",
+      "timestamp_abs": "94:31"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And all these are always new",
+      "timestamp_abs": "94:59"
+    }
+  ]
+}

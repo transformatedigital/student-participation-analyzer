@@ -1,0 +1,332 @@
+{
+  "block": 6,
+  "time_range": "25:00-30:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It was very hard to really like practice your brain to deal in one more time, one more time.",
+      "timestamp_abs": "25:00"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "To ask yourself why and to and to be very concrete and and to be very able to connect logically why one thing connects to the next thing, okay?",
+      "timestamp_abs": "25:07"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this uh issue of and and one of the differences uh I think when I I remember I told you PhDs and masters we were here to be have a different set of filters and that's related to this.",
+      "timestamp_abs": "25:16"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "To the capacity to really see something that the general public will not be able to see.",
+      "timestamp_abs": "25:30"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "To to analyze something with a different uh vision.",
+      "timestamp_abs": "25:36"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think that kind of and and another important thing that I was gonna say is the capacity to not be confused or or deceived by the symptoms.",
+      "timestamp_abs": "25:40"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Symptoms sometimes are very difficult to distinguish between symptoms and real root cause.",
+      "timestamp_abs": "25:51"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the symptoms and the real real problem.",
+      "timestamp_abs": "25:57"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The problem might not be the headache itself, the pain that you're seeing, the pain point that is visible or sometimes even the pain point is not so visible.",
+      "timestamp_abs": "26:00"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But those pain points from the real root cause of that pain point.",
+      "timestamp_abs": "26:06"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think that is really uh um a way like a way to think, a way to drill down to make sure that your argument is really connected to a real problem and and why and and how to really make sure that the solution that you're proposing, the initiative, the objectives, even the components of the objectives, the scope, for many of you that are still, for example, Cilaka is now in this stage where he's trying to figure out the scope.",
+      "timestamp_abs": "26:11"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When the when the objective, when the problem and the objective are well connected, then the scope should also be very directly connected to why you are saying that stage one will include this, stage two will include this.",
+      "timestamp_abs": "26:38"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It has to be all very well connected and that should be like needed, like quilted, very connected.",
+      "timestamp_abs": "26:51"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And still when I read your files I think, ah, yeah, of course, well I proofread and it's very nice, we written better than anybody could have.",
+      "timestamp_abs": "26:56"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I could have probably never write something like that because it's nicely written, but when I see the logical behind and how you guys are structuring, I can see those gaps and I say, ah, rather than teaching them how to write a very nice ICP, I need to really help them exercise how to think.",
+      "timestamp_abs": "27:03"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "How to critically think about this problem.",
+      "timestamp_abs": "27:20"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I gave you that example like five ways in in action like about the why students consist like, it's just a I'm just joking.",
+      "timestamp_abs": "27:23"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Why they consistently miss ICP project deadlines, right?",
+      "timestamp_abs": "27:31"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that could be a problem, why are they missing the deadlines, okay?",
+      "timestamp_abs": "27:34"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then first, okay, they just work, they they just, you know, miss the deadlines, they submitted in the final week, okay?",
+      "timestamp_abs": "27:37"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "But why do they wait until the final week is the second question, right?",
+      "timestamp_abs": "27:43"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah.",
+      "timestamp_abs": "27:46"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because they are not preparing, they don't work into and they this process of analyzation is different.",
+      "timestamp_abs": "27:47"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For me, I will tell you, the questioning is not a big deal.",
+      "timestamp_abs": "27:52"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I can I could drill down the questions quickly.",
+      "timestamp_abs": "27:55"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "What I cannot do easily, what I can what I normally takes me a lot of time to analyze is what is the real correct answer here that leads you that leads me to the next question that leads here this this.",
+      "timestamp_abs": "27:58"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "From left, from right to left and back is the the key difficult part.",
+      "timestamp_abs": "28:10"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "If you ask me.",
+      "timestamp_abs": "28:16"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So and then, ah, okay, because you are not segmenting well the workload, okay?",
+      "timestamp_abs": "28:18"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay, when why do they not segment it?",
+      "timestamp_abs": "28:22"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, because I didn't give any intermediate milestones, right?",
+      "timestamp_abs": "28:25"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe there is some intermediate milestones that need to be required, okay?",
+      "timestamp_abs": "28:28"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, uh, the course structure is only delivered to the final, for example.",
+      "timestamp_abs": "28:32"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "And then, ah, why is the course only tracks the final delivery?",
+      "timestamp_abs": "28:37"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because we don't need we don't need any other checkpoint during the syllabus.",
+      "timestamp_abs": "28:40"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, ah, okay, then maybe the route is we need to redesign the course syllabus for that.",
+      "timestamp_abs": "28:44"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is just an example, uh, many of you have used this, so I'm sure you know what I'm talking about.",
+      "timestamp_abs": "28:49"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then again, many of the symptoms, especially in this era, many of the symptoms that we're looking at is because especially in our governments, like I can see and I've mentioned about it, like like the case of Grace, like already the university president of Rachel, I we wish I wish we could have that kind of system because it's very known that if you have an ERP or you have an LMS, you can increase efficiency.",
+      "timestamp_abs": "28:56"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I don't think the problem when in the case of of of Aryan, you guys already you, because you were saying, what's the need right now?",
+      "timestamp_abs": "29:20"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Kind of your question was what kind of project or technology, kind of collaboration project is needed in the organization?",
+      "timestamp_abs": "29:27"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you were digging around, who needs anything that I can help in kind of and then the what is the team, the team?",
+      "timestamp_abs": "29:33"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "EDM.",
+      "timestamp_abs": "29:40"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "EDM team.",
+      "timestamp_abs": "29:41"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "EDM team came to you or you you came to them somehow and then you were able to do that.",
+      "timestamp_abs": "29:42"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think at this stage, um, symptoms are kind of what you see in the surface.",
+      "timestamp_abs": "29:47"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the root causes are really the underlying issues, systematic issues, it's not IT system.",
+      "timestamp_abs": "29:55"
+    }
+  ]
+}

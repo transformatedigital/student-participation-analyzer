@@ -1,0 +1,660 @@
+{
+  "block": 30,
+  "time_range": "145:00-150:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "from what I gave you, so I'm gonna start having a better idea. I couldn't finish reading all the way.",
+      "timestamp_abs": "145:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I'm gonna go read it.",
+      "timestamp_abs": "145:04"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm gonna also run it through my system.",
+      "timestamp_abs": "145:05"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and check what things I can see as a specific weakness. I'll try to give you feedback and next class, no.",
+      "timestamp_abs": "145:07"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Next class there's no class.",
+      "timestamp_abs": "145:10"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We're gonna do the one-on-one.",
+      "timestamp_abs": "145:11"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In the one-on-one we're gonna do what I just did with Steven.",
+      "timestamp_abs": "145:12"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "with each one of you in detail after I'll read it.",
+      "timestamp_abs": "145:14"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, and my idea is that is what you learned today.",
+      "timestamp_abs": "145:18"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because today you already have things to improve.",
+      "timestamp_abs": "145:20"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the example I gave you.",
+      "timestamp_abs": "145:22"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you can if you say, I I can actually improve this one already.",
+      "timestamp_abs": "145:23"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then improve it and resubmit.",
+      "timestamp_abs": "145:26"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'll give you a chance to resubmit before I do this.",
+      "timestamp_abs": "145:27"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "If you want to resubmit on",
+      "timestamp_abs": "145:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Sunday.",
+      "timestamp_abs": "145:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Sunday? No, no, no. When do you want to resubmit?",
+      "timestamp_abs": "145:31"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Monday.",
+      "timestamp_abs": "145:33"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "One more.",
+      "timestamp_abs": "145:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Monday.",
+      "timestamp_abs": "145:34"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[laughter]",
+      "timestamp_abs": "145:34"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "145:35"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Next year.",
+      "timestamp_abs": "145:35"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Next year.",
+      "timestamp_abs": "145:36"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "145:37"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "145:37"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I need to ask her, okay, no.",
+      "timestamp_abs": "145:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "When do you wanna schedule our one-on-ones?",
+      "timestamp_abs": "145:39"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you're gonna because you need to give me time to read five documents and review them.",
+      "timestamp_abs": "145:42"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay, professor.",
+      "timestamp_abs": "145:45"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "You said that next week there is no class. So the one-on-one class will be...",
+      "timestamp_abs": "145:46"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "...the upcoming week, or...",
+      "timestamp_abs": "145:49"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, exactly. If I, if we could, we could we should do it during next week.",
+      "timestamp_abs": "145:50"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So from the 21st, 23rd until the 30th.",
+      "timestamp_abs": "145:52"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah, next week. Yeah.",
+      "timestamp_abs": "145:55"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "145:56"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So I think for us I I mean we can help last time we need to rev it.",
+      "timestamp_abs": "145:57"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "well then tell us when possible to just like",
+      "timestamp_abs": "146:00"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "just like",
+      "timestamp_abs": "146:02"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[humming]",
+      "timestamp_abs": "146:03"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "session.",
+      "timestamp_abs": "146:04"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "What?",
+      "timestamp_abs": "146:05"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, first the first thing I want to define is the resubmission.",
+      "timestamp_abs": "146:06"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you guys want to resubmit, try to resubmit until Thursday night.",
+      "timestamp_abs": "146:07"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "Thursday?",
+      "timestamp_abs": "146:10"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Too much.",
+      "timestamp_abs": "146:11"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You don't wanna resubmit enough.",
+      "timestamp_abs": "146:12"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "It's okay. You'll say.",
+      "timestamp_abs": "146:13"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "We will receive just... Okay. Okay.",
+      "timestamp_abs": "146:14"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Okay.",
+      "timestamp_abs": "146:16"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then no resubmission, no resubmission.",
+      "timestamp_abs": "146:17"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You're gonna collect what I gave today plus the one-on-one and then resubmit.",
+      "timestamp_abs": "146:19"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "That's good.",
+      "timestamp_abs": "146:23"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "146:24"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. If that's the case then let's have the session earlier than later.",
+      "timestamp_abs": "146:25"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So for example, we can have a session on Monday morning.",
+      "timestamp_abs": "146:27"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Monday.",
+      "timestamp_abs": "146:31"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "But I don't know what you mean by free slots.",
+      "timestamp_abs": "146:32"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, no.",
+      "timestamp_abs": "146:34"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Monday.",
+      "timestamp_abs": "146:35"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No.",
+      "timestamp_abs": "146:36"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Monday.",
+      "timestamp_abs": "146:37"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, I know all your free slots.",
+      "timestamp_abs": "146:38"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "How?",
+      "timestamp_abs": "146:39"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm a stalker.",
+      "timestamp_abs": "146:40"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[laughter]",
+      "timestamp_abs": "146:41"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm a stalker.",
+      "timestamp_abs": "146:42"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "How can you know?",
+      "timestamp_abs": "146:42"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[laughter]",
+      "timestamp_abs": "146:43"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm a stalker. I'm a stalker.",
+      "timestamp_abs": "146:44"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "How can you know?",
+      "timestamp_abs": "146:45"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[laughter]",
+      "timestamp_abs": "146:46"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, no, no, I know, I know, I know.",
+      "timestamp_abs": "146:46"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I know, I know.",
+      "timestamp_abs": "146:47"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "146:48"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He knows your free slots in terms of class, of official class.",
+      "timestamp_abs": "146:48"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because I asked him to check.",
+      "timestamp_abs": "146:51"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because I have two two different events between this semester, so I have to do make-up classes.",
+      "timestamp_abs": "146:52"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I asked him to check when are your possible make-up classes.",
+      "timestamp_abs": "146:57"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Oh.",
+      "timestamp_abs": "146:59"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh.",
+      "timestamp_abs": "146:59"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe, probably.",
+      "timestamp_abs": "147:00"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Fridays you have a lot of I don't like Fridays.",
+      "timestamp_abs": "147:01"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But Friday is like a day where you don't wanna do So.",
+      "timestamp_abs": "147:03"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yes.",
+      "timestamp_abs": "147:06"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I try not to get your Friday, but try to find another slot for me.",
+      "timestamp_abs": "147:07"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is better in the morning, between 10 to 12.",
+      "timestamp_abs": "147:09"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "147:12"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "10 to 12 a.m. where you don't have class.",
+      "timestamp_abs": "147:12"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "147:14"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "or or your classes.",
+      "timestamp_abs": "147:15"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or it could be also late afternoon or even night, like 7:00 to 9:00 p.m.",
+      "timestamp_abs": "147:16"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because it's it's not a class, it's a",
+      "timestamp_abs": "147:20"
+    }
+  ]
+}

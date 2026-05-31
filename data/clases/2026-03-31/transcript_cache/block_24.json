@@ -1,0 +1,13 @@
+{
+  "block": 24,
+  "time_range": "115:00-120:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "just for you. And I brought it. This is more progressive because I wanted you to search what options there are.",
+      "timestamp_abs": "115:00"
+    }
+  ]
+}

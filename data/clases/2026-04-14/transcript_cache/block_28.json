@@ -1,0 +1,314 @@
+{
+  "block": 28,
+  "time_range": "135:00-140:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "can be like a Korean best practice. Uh, we can like uh adapt based on the challenges that we have in in the Democratic Republic of Congo.",
+      "timestamp_abs": "135:00"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So as such, I have tried to use the documents you sent me and also with uh what I know in the Congo, I've tried to build some things so that uh I can discuss about this uh best practice and the challenges in Congo.",
+      "timestamp_abs": "135:10"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, as we can see that uh identifying it's actually Korea's best practice vs. their Congo challenges.",
+      "timestamp_abs": "135:26"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Identifying which Korean strength are transferable to the Congolese university and public service environment.",
+      "timestamp_abs": "135:34"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not as a single technology, but as a foundational system.",
+      "timestamp_abs": "135:42"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "What I've understood is that Korean strength is a system, not a tool.",
+      "timestamp_abs": "135:50"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When I see Korean administration, we just don't see a system, but it will not not just a tool, but it's actually a system.",
+      "timestamp_abs": "135:57"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, we can see that uh Korea's performance stems from a broader integrated system.",
+      "timestamp_abs": "136:05"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We have high education attainment, long public investments, strong digital governments, as well as coordinated institution.",
+      "timestamp_abs": "136:12"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, OECD um uh explains that we have a 9.0.93 digital government indexed.",
+      "timestamp_abs": "136:21"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "vs. uh the average, which is 0.61.",
+      "timestamp_abs": "136:30"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, Korea is really big, really far on that.",
+      "timestamp_abs": "136:36"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And also we can see uh young adults without uh upper uh secondary attainment.",
+      "timestamp_abs": "136:40"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, the level is really only 1%, but the OECD average it's even about uh 2%.",
+      "timestamp_abs": "136:46"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, Korea is really uh uh advancing so far.",
+      "timestamp_abs": "136:53"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, we see that it's the system which is working not like a tool as such.",
+      "timestamp_abs": "136:56"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, as for the Democratic Republic of Congo, the World Bank described the DRC as missing many foundation foundational digital elements such as digital application.",
+      "timestamp_abs": "137:07"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Digital uh application exists isolated form.",
+      "timestamp_abs": "137:20"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It is really in isolated from what then as part of uh a coherent national system.",
+      "timestamp_abs": "137:24"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, we have some of the digital uh I mean system in operational, but uh it is not like coordinated like as a governmental system as such.",
+      "timestamp_abs": "137:30"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, like maybe working in the separate way, which is uh also a problem.",
+      "timestamp_abs": "137:42"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And it is really related to weak infrastructure, so we have a weak infrastructure, and we are also facing problem with the ID system.",
+      "timestamp_abs": "137:47"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know, in Korea, everything we do is related to the ID.",
+      "timestamp_abs": "137:56"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in the case of Congo, it's not really the case.",
+      "timestamp_abs": "138:03"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not really the case.",
+      "timestamp_abs": "138:06"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because even with uh like given an example, the mobile SIM, the mobile SIM, the SIM card, you can see someone purchasing a SIM card without any procedure.",
+      "timestamp_abs": "138:09"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe just come with giving some money, then he collects the the SIM card, and you will see the SIM card is even registered with someone else ID.",
+      "timestamp_abs": "138:23"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it's really a problem.",
+      "timestamp_abs": "138:34"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm even thinking of uh a paper to publish on this uh way uh later on.",
+      "timestamp_abs": "138:35"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "138:41"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And so we have a manual process.",
+      "timestamp_abs": "138:42"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, we're still using paper, we still have informal communication, like saying WhatsApp, all those things.",
+      "timestamp_abs": "138:44"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think within the organization, it seems like uh informal.",
+      "timestamp_abs": "138:51"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Person to person arrangements dominate uh uh I mean uh daily life in uh in Congo.",
+      "timestamp_abs": "138:55"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "139:05"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, the core gap is fragmented delivery.",
+      "timestamp_abs": "139:06"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We can see disconnected uh system.",
+      "timestamp_abs": "139:10"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We have uh weak uh administration, also we have uh infrastructure constraint.",
+      "timestamp_abs": "139:14"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, all those things are like uh difficult for us.",
+      "timestamp_abs": "139:19"
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, that's why we are I'm trying to ask this key question, what foundational Korean practice could be adapted in a context sensitive, commercially viable form for the Congo.",
+      "timestamp_abs": "139:23"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I think uh the answer lies not in uh copying high tech solution, but in uh extracting one foundational function and redesign it for a constrained environment like uh we are in Congo.",
+      "timestamp_abs": "139:38"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, this is what I'm trying to think uh further.",
+      "timestamp_abs": "139:53"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "139:56"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, this is like a kind of opportunity.",
+      "timestamp_abs": "139:57"
+    }
+  ]
+}

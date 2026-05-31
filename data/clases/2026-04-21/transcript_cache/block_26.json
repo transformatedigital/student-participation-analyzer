@@ -1,0 +1,161 @@
+{
+  "block": 26,
+  "time_range": "125:00-130:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "update there and then I will try to submit everything, every comment until this Friday. Can I",
+      "timestamp_abs": "125:00"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "upload it?",
+      "timestamp_abs": "125:05"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "mine?",
+      "timestamp_abs": "125:05"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah, we need to re-upload.",
+      "timestamp_abs": "125:06"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In Google Drive.",
+      "timestamp_abs": "125:08"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "In Google Drive. Ah, okay. The same work you sent",
+      "timestamp_abs": "125:09"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The same work you sent.",
+      "timestamp_abs": "125:11"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, the same with you sent in KMS. And I will reply in case normally in KMS I will leave you a grade.",
+      "timestamp_abs": "125:12"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "a-a-like somehow",
+      "timestamp_abs": "125:18"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "a reflective grade. I will grade you like 90, normally you guys are all A something 90.",
+      "timestamp_abs": "125:19"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Oh yeah.",
+      "timestamp_abs": "125:24"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'll give my idea. And I'll feedback the detailed comments in the Google Docs.",
+      "timestamp_abs": "125:25"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "I think that's fine from here.",
+      "timestamp_abs": "125:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No professor gives this kind of service.",
+      "timestamp_abs": "125:31"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If I",
+      "timestamp_abs": "125:34"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "What about the",
+      "timestamp_abs": "125:34"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I ask you the",
+      "timestamp_abs": "125:35"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "the project my",
+      "timestamp_abs": "125:36"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "project my",
+      "timestamp_abs": "125:37"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "directory my",
+      "timestamp_abs": "125:37"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. My",
+      "timestamp_abs": "125:38"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "So",
+      "timestamp_abs": "125:38"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "block": 14,
+  "time_range": "65:00-70:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And that was kind of the idea, right? And then, what happened was that, uh, in this situation I went to work with the Vice-Rectorate of Research and Extension, which is now the Vice-Rectorate of Research. We started a project on this competitiveness index we were talking about. So, again, the rich countries already know — they have the public policies and everything they need to improve in this. But poor countries like ours have to find tools to improve in this area. So we started this project, and I had to research, okay, how could the University of Costa Rica begin to measure and see the impact the university was having, in terms of its research projects, its students, its professors, its publications, and especially the engagement, which was very important. So we started this project, I had to lead it, I had to do a lot of background research, right? And let's say, again, if we're a small country, we have to find ways to improve in this index. So we started this project with the Vice-Rectorate of Research. Honestly, it didn't go very well, because we didn't have the resources or the support we needed. But I was able to keep researching and studying this, and that became my area of expertise. Now, this is very important, because I keep working on this. I did this in 2017, 2018, around those years. And from there, this is what led my professor of this course, at this university, to tell me, 'Ah, Ileana, why don't you come to Korea?' And I said, 'Ah, okay.' And he asked, 'Wait, what have you worked on?' And I said, 'Well, I've worked on the indices.' And he said, 'Ah, okay, because there's a professor at the university who works on this.' And I said, 'Ah, yes, but I'm in Costa Rica, right?' And he said, 'No, no, the professor wants you to come study here.' And I said, 'Ah, well, okay.' So I came here. And, well, that professor who told me to come, who is my supervisor, is one of the founders of KAIST T.I.I. And he told me, 'Why don't you work with KAIST T.I.I.?' And I said, 'Ah, okay, sure.' And from there, that's how I started with KAIST T.I.I. My expertise is in these indices, in the STI, right? Okay, I want to tell you again, this is very important for you. I want to see if you remember — I know you remember what KAIST T.I.I. is.",
+      "timestamp_abs": "65:00"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah.",
+      "timestamp_abs": "69:00"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "But, but what is KAIST T.I.I.? Who can tell me what KAIST T.I.I. is?",
+      "timestamp_abs": "69:00"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Kaist T.I.I. is the center which helps to convert research outcomes into a real product.",
+      "timestamp_abs": "69:05"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So it's basically like a technology transfer office or a technology commercialization center, right? Okay. And, um, who is the founder or who are the founders of Kaist T.I.I.? Ah, you you already know him. You should know him.",
+      "timestamp_abs": "69:13"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Professor, Professor Roh?",
+      "timestamp_abs": "69:26"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. Professor Roh. So Professor Roh is, uh, very important, uh, for us in the Innovation course. Because he is a great professor, a great human, and he is a great researcher, but he also has like, um, an expertise, uh, in, uh, in technology transfer and technology commercialization. So, I will move this forward.",
+      "timestamp_abs": "69:27"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay. That's, that's what he was working on, right? So he was one of the founders of Kaist T.I.I.",
+      "timestamp_abs": "69:52"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Now, Kaist T.I.I. as you said, it's uh, it's basically a center. But what's the difference between Kaist T.I.I. and GCC? Because I just explained what GCC is, right?",
+      "timestamp_abs": "69:56"
+    }
+  ]
+}

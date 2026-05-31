@@ -1,0 +1,78 @@
+{
+  "audio_file": "audio_unificado.m4a",
+  "total_duration": 10035.498666666666,
+  "num_clips": 10,
+  "chunk_duration": 15,
+  "clips": [
+    {
+      "num": 1,
+      "start_sec": 912,
+      "end_sec": 927,
+      "start_str": "00:15:12",
+      "end_str": "00:15:27"
+    },
+    {
+      "num": 2,
+      "start_sec": 1824,
+      "end_sec": 1839,
+      "start_str": "00:30:24",
+      "end_str": "00:30:39"
+    },
+    {
+      "num": 3,
+      "start_sec": 2736,
+      "end_sec": 2751,
+      "start_str": "00:45:36",
+      "end_str": "00:45:51"
+    },
+    {
+      "num": 4,
+      "start_sec": 3649,
+      "end_sec": 3664,
+      "start_str": "01:00:49",
+      "end_str": "01:01:04"
+    },
+    {
+      "num": 5,
+      "start_sec": 4561,
+      "end_sec": 4576,
+      "start_str": "01:16:01",
+      "end_str": "01:16:16"
+    },
+    {
+      "num": 6,
+      "start_sec": 5473,
+      "end_sec": 5488,
+      "start_str": "01:31:13",
+      "end_str": "01:31:28"
+    },
+    {
+      "num": 7,
+      "start_sec": 6386,
+      "end_sec": 6401,
+      "start_str": "01:46:26",
+      "end_str": "01:46:41"
+    },
+    {
+      "num": 8,
+      "start_sec": 7298,
+      "end_sec": 7313,
+      "start_str": "02:01:38",
+      "end_str": "02:01:53"
+    },
+    {
+      "num": 9,
+      "start_sec": 8210,
+      "end_sec": 8225,
+      "start_str": "02:16:50",
+      "end_str": "02:17:05"
+    },
+    {
+      "num": 10,
+      "start_sec": 9123,
+      "end_sec": 9138,
+      "start_str": "02:32:03",
+      "end_str": "02:32:18"
+    }
+  ]
+}

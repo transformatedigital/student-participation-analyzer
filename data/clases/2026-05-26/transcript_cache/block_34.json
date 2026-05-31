@@ -1,0 +1,69 @@
+{
+  "block": 34,
+  "time_range": "165:00-165:25",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "so that you guys complete it, okay?",
+      "timestamp_abs": "165:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then next week we can discuss it.",
+      "timestamp_abs": "165:01"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Up until preliminary synthesis.",
+      "timestamp_abs": "165:03"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The rest of the activities until we discuss because it's, I think it's nonsense for me to ask you to complete the rest while we haven't really finished discussing and it's less than a week for us to discuss it, okay?",
+      "timestamp_abs": "165:07"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And that's it.",
+      "timestamp_abs": "165:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Gamsahamnida.",
+      "timestamp_abs": "165:21"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Gamsahamnida.",
+      "timestamp_abs": "165:22"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Gamsahamnida.",
+      "timestamp_abs": "165:23"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Thank you.",
+      "timestamp_abs": "165:24"
+    }
+  ]
+}

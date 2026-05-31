@@ -1,0 +1,315 @@
+{
+  "block": 29,
+  "time_range": "140:00-145:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like a jump in the sense that I'm not sure that proactive AI shield, this is my assumption as a ignorant of this field.",
+      "timestamp_abs": "140:00"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Proactive AI shield to threats in the point of contact, is this the only way to solve this problem?",
+      "timestamp_abs": "140:11"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "I I mean proactive AI.",
+      "timestamp_abs": "140:20"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah yeah.",
+      "timestamp_abs": "140:23"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "To detect the SMS. If maybe like a criminal sent me a message. And AI should know that this message is not, it is for scamming. And if you want to to to send another person, stops it.",
+      "timestamp_abs": "140:23"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why when I see your approach is I keep thinking what technology push? Okay. I keep thinking because you keep not you're not thinking about a problem you gave me an idea of problem, but you kept saying for me the key point is this real time. You kept saying the real time intersection is the solution.",
+      "timestamp_abs": "140:40"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "141:01"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So kind of you already have the technology that you want related to this issue.",
+      "timestamp_abs": "141:02"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah yeah yeah.",
+      "timestamp_abs": "141:07"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we don't",
+      "timestamp_abs": "141:08"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "I don't know if maybe it is",
+      "timestamp_abs": "141:09"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We don't need to dis- but you I wanna know when, this is important in your case.",
+      "timestamp_abs": "141:11"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I wanna move to the next one.",
+      "timestamp_abs": "141:17"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's it.",
+      "timestamp_abs": "141:21"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yes.",
+      "timestamp_abs": "141:23"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one.",
+      "timestamp_abs": "141:27"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one is based for policy issues, or like you, or some other. The beginning I have the sense that you were saying I wanna know how they organize it in the telecom and the media and what's the best way to implement a national system in the whole ecosystem.",
+      "timestamp_abs": "141:30"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why you mentioned that I'm giving a new problem, but now the more I hear you, you already kind of know",
+      "timestamp_abs": "141:47"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "I'm looking for solution.",
+      "timestamp_abs": "141:54"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. So it's more like this one, you already like you have some kind of system alright? That's why you're like I wanna know the, what are the companies that are using this kind of thing? I then start use this as your starting point, maybe it's going to be okay. Try to change just in your imagination, try to change the storyline to this one. Because maybe your question is not the problem to be solved. Again my question in your current, if your current storyline is this one, your narration, your narrative, it's not about the problem that must be solved because you don't you don't you keep not talking a lot about the phishing issue and the fraud. You keep talking about the real time solution that needs to, you know. So that's why I keep you keep talking about the solution, but you're telling me you're problem driven collaboration, why? That's the the logical issue that you have. So in here, you have a need and then you're looking for a solution. But it seems like in your narrative you already have a technology that you think it will solve the problem. And your problem is like you have two.",
+      "timestamp_abs": "141:55"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "143:01"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Perfect.",
+      "timestamp_abs": "143:01"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "Sorry, for the techno- for for the for the post-collaboration should we pinpoint which technology. I mean",
+      "timestamp_abs": "143:02"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's the starting point.",
+      "timestamp_abs": "143:09"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He said NTSA.",
+      "timestamp_abs": "143:10"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah, it means like already know the end.",
+      "timestamp_abs": "143:12"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, yeah. Yeah.",
+      "timestamp_abs": "143:13"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "143:14"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly.",
+      "timestamp_abs": "143:15"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "What if I still don't know the technology?",
+      "timestamp_abs": "143:16"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, you don't know the Korean technology, but you might know the technology. That's why I told you, you already kind of know, but you don't know the Korean technology. But you might that's why I told you the next last time after the class I told you, please check the market landscape, what good players globally are there.",
+      "timestamp_abs": "143:19"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And similar to Korea.",
+      "timestamp_abs": "143:35"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. And then at the beginning you start don't give me the Korean technology, initially let's just draft the technology, I tried to give you something similar.",
+      "timestamp_abs": "143:36"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's very important this one. This one for this one, you need to know that Korea is a real core provider of the knowledge of the technology. So if it's just a generic financial service solution, that USA has good solutions, Europe has good solutions and Korea also has good solutions, might not be really great.",
+      "timestamp_abs": "143:44"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if you think I know actually, I know for a fact that Korean knowledge management systems in finance are well known and very famous because they are very robust and blah blah blah, then it makes sense.",
+      "timestamp_abs": "144:04"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Even though we don't pinpoint the exact technology.",
+      "timestamp_abs": "144:17"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "At this stage not because we're developing, but until the next final weeks we have to. So with the input you give me, I'll try to introduce ah okay, now I catch what you want. Is it this? Is it this? Is it this? So now I'll give you homework back.",
+      "timestamp_abs": "144:21"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will talk to Miss Nam in our one-on-one, I'll say okay, I think what I want is this, but right now I could not pinpoint to introduce you some possible examples. Okay okay okay.",
+      "timestamp_abs": "144:34"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why you need to give me more food so I can give you back something.",
+      "timestamp_abs": "144:42"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "I just curious. I mean, if we go to technology post-collaboration, should we already knew which which technology I want? So it's it's it doesn't matter, right?",
+      "timestamp_abs": "144:46"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes it's okay.",
+      "timestamp_abs": "144:56"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, it's okay.",
+      "timestamp_abs": "144:57"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But",
+      "timestamp_abs": "144:58"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Of course",
+      "timestamp_abs": "144:59"
+    }
+  ]
+}

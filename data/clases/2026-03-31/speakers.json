@@ -1,0 +1,41 @@
+{
+  "speakers": [
+    {
+      "id": "speaker_1",
+      "role": "Teacher",
+      "name": "Dr. Ileana",
+      "color": "emerald",
+      "percentage": 80
+    },
+    {
+      "id": "speaker_2",
+      "role": "Student",
+      "name": "Aryang",
+      "color": "slate"
+    },
+    {
+      "id": "speaker_3",
+      "role": "Student",
+      "name": "Mega",
+      "color": "slate"
+    },
+    {
+      "id": "speaker_4",
+      "role": "Student",
+      "name": "Chilaka",
+      "color": "slate"
+    },
+    {
+      "id": "speaker_5",
+      "role": "Student",
+      "name": "Grace",
+      "color": "slate"
+    },
+    {
+      "id": "speaker_6",
+      "role": "Student",
+      "name": "Sthepen",
+      "color": "slate"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "block": 13,
+  "time_range": "60:00-65:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So that makes sense again. You know, you understand what that means?",
+      "timestamp_abs": "60:00"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "What do you think that means? Technology search exchange.",
+      "timestamp_abs": "60:05"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, technology search uh exchange, so it means that uh...",
+      "timestamp_abs": "60:12"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Uh you see the change, you see uh the the source the source and the recipients. So the source where the technology is coming from and where would come from.",
+      "timestamp_abs": "60:15"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Good, good.",
+      "timestamp_abs": "60:24"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "And then uh the recipient where they need uh...",
+      "timestamp_abs": "60:26"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You keep you get. Many of these actually if I said good idea maybe I'm gonna divide it into what things are more related to recipient, what things are more related to source. So some of the this one for example I think it's more related to the source. You keep scanning. These ones are more related to the recipient. This one recipient. This one and this one are maybe source. You keep looking at the both sides, right? This one you keep looking at, okay, what could be the possible source to these possible problems, what good, what good technology or ecosystem assets or relevant policies, right? Or or or regulatory strategies have tackled? How did Korea, how did Germany, how did other good examples, best practices have solved similar issues? That's why I came up with the news about uh I kept thinking, how is it really the way they solved the fishing? And again, in Korea they haven't solved it. Like you were pointing out to me, you're still getting, so I kept thinking about that. Is that really the way they solved it? Is it even in Skype?",
+      "timestamp_abs": "60:30"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "They have the- [inaudible]",
+      "timestamp_abs": "61:34"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh I just wanted to ask how they do, how they do?",
+      "timestamp_abs": "61:38"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, it didn't, that's what I'm saying, they didn't solve it. You still, Stephen and I were talking about it.",
+      "timestamp_abs": "61:42"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "100%.",
+      "timestamp_abs": "61:45"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You still like he said he told me, \"Professor, I still get the fishing calls in Korea.\" In her Korea, in her Korean form. And I said, \"Actually, I received them too.\" The key difference is that when I receive the call, my phone will say in the phone caller ID, it will say, \"Do not answer. High risk of fishing.\" But again, this could be just an assisted way to to prevent a preventive measure. Because in real time they are prevented. But then again, my questioning to him is to give a his problem is, is that preventive measure really enough? Is it just it could be just the way they started just, you know, painting, they painted the walls kind of think that the mosquitoes are going to, are going to eliminate and they didn't fix it. The mosquitoes kept coming to the memorial, right? To the Washington Memorial. So I kept thinking about that. Is it really the effective? Or are we really shaping the problem wrongly? And then that's why I just try to keep me trying to say, how did Korea fix but they didn't fix it? We know that they don't fix it, it's still there, but how did they relatively reduced the amount of cases? What was the key part? I kept studying about that and I came up with the news that it was more like rather than a software related or telecommunication related strategy, it was like a really down down deep down policial, uh like FBI kind of investigation strategy where they kind of started pinpointing what was the value chain of the criminal activity around, around the identification fraud related.",
+      "timestamp_abs": "61:47"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Even in my country, we do it, we try to to to to localize where the scammers mainly are situated.",
+      "timestamp_abs": "63:33"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I the thing is when they got this very huge uh how am I gonna say gang? They were recruiting Korean young people, students or like that. It was a very big case, it was in the news all over, it was like one year ago, two years ago. So I will send you some links about that, but I think it it it serves as a reflection, like, ah maybe the way we have to frame the problem. Maybe it affected, maybe it doesn't. But I when I saw this, I...",
+      "timestamp_abs": "63:43"
+    }
+  ]
+}

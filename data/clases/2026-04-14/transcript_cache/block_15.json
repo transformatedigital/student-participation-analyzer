@@ -1,0 +1,359 @@
+{
+  "block": 15,
+  "time_range": "70:00-75:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "affecting if you I'm asking who is affected?",
+      "timestamp_abs": "70:00"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I wanted to because for me my understanding, I need maybe to to understand.",
+      "timestamp_abs": "70:05"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "The mobile money use. The mobile money users.",
+      "timestamp_abs": "70:11"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "And if I say mobile money users, is it not clear?",
+      "timestamp_abs": "70:16"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "And if I go here and then I show 44% lost money.",
+      "timestamp_abs": "70:21"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly. I was going to go there.",
+      "timestamp_abs": "70:25"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I love that later on like it's like at the moment where I saw the slide I'm like, ah, it's too general. Then I saw your effort in the next slide I'm like, oh, nice. He breed me the real.",
+      "timestamp_abs": "70:27"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's like you're feeding me like this.",
+      "timestamp_abs": "70:36"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But no, give me the big shock right away in one slide like who is that really? This.",
+      "timestamp_abs": "70:39"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think your strategy for presentation is what I'm giving you the feedback is",
+      "timestamp_abs": "70:45"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you have some very interesting data in the next slide, but because you didn't organize your format well,",
+      "timestamp_abs": "70:50"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is like you show me that and then you're like, I'm like, ah, but this slide, okay, is the problem but it's not really relevant maybe, it's a very high-level problem.",
+      "timestamp_abs": "70:57"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then you give me very specific data. So you got me like jumping.",
+      "timestamp_abs": "71:04"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like first you got give me back and then you bring me around again. Okay, so we're talking a very big issue here. 424 million Rwandan money stolen, blah blah blah.",
+      "timestamp_abs": "71:07"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is I wish you could kind of merge it.",
+      "timestamp_abs": "71:17"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You don't for the presentation, you don't need to stick to the ICP structure.",
+      "timestamp_abs": "71:19"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Look at Mega case. Mega didn't stick to her to the structure. She was telling me a story of her project through the slides.",
+      "timestamp_abs": "71:25"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want you to practice this. This is good for your professional career, believe me.",
+      "timestamp_abs": "71:33"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's not only about the ICP, it's also about how you present a very interesting project and how you try to get everybody here on board or probably an investor on board",
+      "timestamp_abs": "71:37"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "or somebody uh who might like something from the Korean Air is end or from the Rwandan entities to re- to say",
+      "timestamp_abs": "71:48"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "hopefully the Telecom president or the Telecom director general of any Telecom company",
+      "timestamp_abs": "71:55"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "who will listen to say, ah, this is a relevant problem, there is a business opportunity here, I can start working on.",
+      "timestamp_abs": "72:00"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think this I that's why my general comment to you is like",
+      "timestamp_abs": "72:06"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the data is there and I know either it is in your document or within the new progress that you have done.",
+      "timestamp_abs": "72:09"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just the general strategy of how you're telling the story needs to be improved.",
+      "timestamp_abs": "72:15"
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's my general feedback.",
+      "timestamp_abs": "72:21"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Specifically, for example, next slide.",
+      "timestamp_abs": "72:23"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this case, I actually about the statistical sticker I want to I want to congratulate you because it's more specific now. So it's great.",
+      "timestamp_abs": "72:25"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "Next slide, Steven.",
+      "timestamp_abs": "72:33"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, this one a little bit okay. This one I don't have a problem, I think it's okay.",
+      "timestamp_abs": "72:37"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But when I have a problem is this one.",
+      "timestamp_abs": "72:42"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one is like this guy's not being serious. You're just paste you copy-pasted the output of ChatGPT in a slide, really? Without any further effort?",
+      "timestamp_abs": "72:44"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is the output of a ChatGPT almost ChatGPT gave you the No, you need to really try to show.",
+      "timestamp_abs": "72:52"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mean, I'm I don't know if it's like ChatGPT but it's very look looking like that.",
+      "timestamp_abs": "72:58"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why I tell you the the keywords like it's not only who you are, it's how you look, how it looks like. Sorry.",
+      "timestamp_abs": "73:02"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "be careful about that and maybe try to organize it",
+      "timestamp_abs": "73:09"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "in a way that we I you could have had a conversation with any AI and then try to figure it out together. It's okay to do the brainstorming with any AI.",
+      "timestamp_abs": "73:13"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "but you need to show that your input, that your confirmation and your knowledge is there.",
+      "timestamp_abs": "73:21"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And also like I think probably this initial output is is okay, but probably as you also mentioned in your challenges like I'm not an expert of this fully, so I need some feedback from real experts on this field.",
+      "timestamp_abs": "73:28"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So definitely one part of this architecture we need to discuss more and eventually once we can make a a good uh connection with uh maybe Ki, um maybe with the Kisa",
+      "timestamp_abs": "73:41"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "or with the even if SK Telecom at that point, maybe we will get some presentations from them and with that maybe we can find out a better architecture.",
+      "timestamp_abs": "73:52"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But for now, even if you're just starting to set up, this is probably how the process, the big milestones of how the process would look.",
+      "timestamp_abs": "74:01"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't see there's a problem, it looks very logical and very good, but",
+      "timestamp_abs": "74:07"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "again, the format it looks um like you didn't even put the time to really like make it a story, make it a nice presentation. You just put everything there in the slides and",
+      "timestamp_abs": "74:11"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "let's go. And that it shouldn't look like that. It should look professional.",
+      "timestamp_abs": "74:20"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And um uh then towards your last slides,",
+      "timestamp_abs": "74:25"
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I at the beginning when I saw your partners, I thought it's too many and very high-level difficult partners. How to organize these stakeholders will be difficult.",
+      "timestamp_abs": "74:29"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then at the end in your challenges you accepted yourself. Actually RIB and Telecommunications is hard to contact, they are maybe not willing to talk right away because they think it's going to be like something I'm selling them something or like they have to invest in the project.",
+      "timestamp_abs": "74:38"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So yeah, definitely. I think when we do a re the arrangement of the stakeholders,",
+      "timestamp_abs": "74:52"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "there are some level of stakeholders that are directly implicated, and there's",
+      "timestamp_abs": "74:56"
+    }
+  ]
+}

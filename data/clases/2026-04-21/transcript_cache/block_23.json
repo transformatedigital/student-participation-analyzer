@@ -1,0 +1,204 @@
+{
+  "block": 23,
+  "time_range": "110:00-115:00",
+  "utterances": [
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that part I added in this slide and I use this one to say like follow, it's like a checklist. I already have this one, probably you already have, some of you already have this one, some you don't. This one you have to work on it and this one some of you already have, for example Grace, this one you need to work more, right?",
+      "timestamp_abs": "110:01"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the one already I told you that SANTI's project like kind of her something like that, her example was quite good and different from the implementation part.",
+      "timestamp_abs": "110:30"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So use this case to evaluate your, does it demonstrate all five principles? So please, I'm using all these slides so that you can self-evaluate your version before approving on the day of the review. Before that everything is draft, I would give feedback. After that I will grade them, I want to give you a A plus.",
+      "timestamp_abs": "110:40"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "[inaudible] You have no.",
+      "timestamp_abs": "110:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Can we share some slides?",
+      "timestamp_abs": "110:59"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, of course. You can share with them today if you want.",
+      "timestamp_abs": "111:01"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay, thank you.",
+      "timestamp_abs": "111:05"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Mr. Sis, sir.",
+      "timestamp_abs": "111:06"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You can.",
+      "timestamp_abs": "111:07"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So yeah, the [inaudible].",
+      "timestamp_abs": "111:08"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so we're now, we are now 3:30. Our class is until 4 but we only have one break today. So, this is the next step for our discussion. Uh, if we don't have a lot of time.",
+      "timestamp_abs": "111:09"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "111:23"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Next week we're gonna do two things. One is stakeholder analysis. We're gonna divide the class into stakeholder analysis, one part. And the other part is framework application. So, I want to test you. You guys all got the handouts, right? You remember your handouts? Long time ago, open. Okay. So when we talk about technology commercialization simplified, there's many other options, but simplified. We especially also your handout talked about two main streams, right? And it's also how we are organized in DBIR. So he said, technology,",
+      "timestamp_abs": "111:24"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Problem.",
+      "timestamp_abs": "111:57"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm. Problem or technology push or problem driven.",
+      "timestamp_abs": "111:58"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In the in the theory of technology commercialization we call it market pull or technology push.",
+      "timestamp_abs": "112:01"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, that's why I, like if it's technology push it's going to be like this way. And if it's a market driven, it's going to be this way, okay? This is a very very simple but very meaningful graph because uh, from different markets situations, market needs, we will get the products and find some applications and develop a technology that will improve this. So this is kind of a cycle, right? It's never linear. Yeah. This one is going market product application technology. So it means what comes to the lab is not something from the idea of the researcher.",
+      "timestamp_abs": "112:05"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The it's not the researcher in an energy lab said, ah, we need a battery system, so I'm going to develop a battery system. No. The market Indonesia Chigata project demands a product that is related to energy stability, blah, blah. And then we're going to co-develop something that fits that market.",
+      "timestamp_abs": "112:30"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "112:50"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, market.",
+      "timestamp_abs": "112:50"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. From here.",
+      "timestamp_abs": "112:51"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "From here to there [inaudible]",
+      "timestamp_abs": "112:52"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "This one is the other. Ah, yeah. From the researcher's brain, he was showering and ah, you know, I have an idea. And then he and his professor in his lab, blah, blah, blah, created a technology that later on, they would package it into an application and eventually they branded it into a product and they launched it into the market. That's that. What is this one?",
+      "timestamp_abs": "112:53"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "TAP.",
+      "timestamp_abs": "113:09"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Technology push.",
+      "timestamp_abs": "113:10"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Technology push.",
+      "timestamp_abs": "113:10"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So, I want to test it. What's the difference between TAP and PMT and jolly crap? They don't have, look and answer.",
+      "timestamp_abs": "113:11"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I gave you a preview.",
+      "timestamp_abs": "113:28"
+    }
+  ]
+}

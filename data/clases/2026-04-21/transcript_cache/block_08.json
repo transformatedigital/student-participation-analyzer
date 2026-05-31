@@ -1,0 +1,1030 @@
+{
+  "block": 8,
+  "time_range": "35:00-40:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "a discipline where because you have to know what it is you can't be you you directed it unluckily. Oh yeah. You don't know what it is for that?",
+      "timestamp_abs": "35:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, I didn't know that.",
+      "timestamp_abs": "35:04"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I was hoping someone did. It just gave me a fish loss.",
+      "timestamp_abs": "35:05"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yes. He said which of these words you are?",
+      "timestamp_abs": "35:08"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible] what you said.",
+      "timestamp_abs": "35:09"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Which one is this place?",
+      "timestamp_abs": "35:10"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yeah, this one.",
+      "timestamp_abs": "35:11"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "35:12"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Then that they are able to mention something that is good.",
+      "timestamp_abs": "35:13"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "We need more explanation.",
+      "timestamp_abs": "35:16"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, hmm.",
+      "timestamp_abs": "35:17"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh, we can have a lot.",
+      "timestamp_abs": "35:18"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I said.",
+      "timestamp_abs": "35:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "35:20"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know what? They are actually they are defined by the OECD list there.",
+      "timestamp_abs": "35:20"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yes, I know that.",
+      "timestamp_abs": "35:22"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, our country...",
+      "timestamp_abs": "35:24"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Oh, yeah.",
+      "timestamp_abs": "35:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is in the AOD A list, meaning our country gets might gets funded from the Korea because we are in the AOD list.",
+      "timestamp_abs": "35:26"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "For us, no, for us, for Africa, no, I mean by Africa.",
+      "timestamp_abs": "35:30"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, no, by Africa.",
+      "timestamp_abs": "35:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "They said, Africa said no.",
+      "timestamp_abs": "35:34"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because Africa said no.",
+      "timestamp_abs": "35:36"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "Why?",
+      "timestamp_abs": "35:37"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mean, it's only on top of funding.",
+      "timestamp_abs": "35:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So you don't have to pay, you don't have to worry about the money.",
+      "timestamp_abs": "35:39"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because if you care, you can get from the other [inaudible] because we are in the ODA list.",
+      "timestamp_abs": "35:41"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, ah.",
+      "timestamp_abs": "35:45"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, I mean.",
+      "timestamp_abs": "35:46"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "They don't have this. Something like that.",
+      "timestamp_abs": "35:46"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I see, I see.",
+      "timestamp_abs": "35:48"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "What do you mean by that?",
+      "timestamp_abs": "35:49"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Official development assistance.",
+      "timestamp_abs": "35:50"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh, yeah.",
+      "timestamp_abs": "35:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we don't have to worry about our own. Yeah, actually they define by the OECD list.",
+      "timestamp_abs": "35:53"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, something like that.",
+      "timestamp_abs": "35:56"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yes, I know that.",
+      "timestamp_abs": "35:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So our country...",
+      "timestamp_abs": "35:59"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Oh, yeah.",
+      "timestamp_abs": "36:00"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is in the ODA list, meaning our country gets might gets funded from the Korea.",
+      "timestamp_abs": "36:01"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because we are in the ODA list.",
+      "timestamp_abs": "36:04"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For us, no. For us, for Africa.",
+      "timestamp_abs": "36:07"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "No, I mean by Africa.",
+      "timestamp_abs": "36:09"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They said, Africa said no.",
+      "timestamp_abs": "36:10"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because Africa said no. Why?",
+      "timestamp_abs": "36:11"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mean, it's only on top of funding.",
+      "timestamp_abs": "36:13"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So you don't have to pay, you don't have to worry about the money.",
+      "timestamp_abs": "36:14"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because if you care, you can get from the other [inaudible] because we are in the ODA list.",
+      "timestamp_abs": "36:16"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, ah.",
+      "timestamp_abs": "36:20"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, I mean.",
+      "timestamp_abs": "36:21"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "They don't have this. Something like that.",
+      "timestamp_abs": "36:21"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I see, I see.",
+      "timestamp_abs": "36:23"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "What do you mean by that?",
+      "timestamp_abs": "36:24"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Official development assistance.",
+      "timestamp_abs": "36:25"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh, yeah.",
+      "timestamp_abs": "36:27"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we don't have to worry about our own. Yeah, actually they define by the OECD list.",
+      "timestamp_abs": "36:28"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, something like that.",
+      "timestamp_abs": "36:31"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yes, I know that.",
+      "timestamp_abs": "36:33"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So our country...",
+      "timestamp_abs": "36:34"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Oh, yeah.",
+      "timestamp_abs": "36:35"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is in the ODA list, meaning our country gets might gets funded from the Korea.",
+      "timestamp_abs": "36:36"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because we are in the ODA list.",
+      "timestamp_abs": "36:39"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For us, no. For us, for Africa.",
+      "timestamp_abs": "36:42"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "No, I mean by Africa.",
+      "timestamp_abs": "36:44"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They said, Africa said no.",
+      "timestamp_abs": "36:45"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because Africa said no. Why?",
+      "timestamp_abs": "36:46"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mean, it's only on top of funding.",
+      "timestamp_abs": "36:48"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So you don't have to pay, you don't have to worry about the money.",
+      "timestamp_abs": "36:49"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because if you care, you can get from the other [inaudible] because we are in the ODA list.",
+      "timestamp_abs": "36:51"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, ah.",
+      "timestamp_abs": "36:55"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, I mean.",
+      "timestamp_abs": "36:56"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "They don't have this. Something like that.",
+      "timestamp_abs": "36:56"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I see, I see.",
+      "timestamp_abs": "36:58"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "What do you mean by that?",
+      "timestamp_abs": "36:59"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Official development assistance.",
+      "timestamp_abs": "37:00"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh, yeah.",
+      "timestamp_abs": "37:02"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we don't have to worry about our own. Yeah, actually they define by the OECD list.",
+      "timestamp_abs": "37:03"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, something like that.",
+      "timestamp_abs": "37:06"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yes, I know that.",
+      "timestamp_abs": "37:08"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So our country...",
+      "timestamp_abs": "37:09"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Oh, yeah.",
+      "timestamp_abs": "37:10"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is in the ODA list, meaning our country gets might gets funded from the Korea.",
+      "timestamp_abs": "37:11"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because we are in the ODA list.",
+      "timestamp_abs": "37:14"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For us, no. For us, for Africa.",
+      "timestamp_abs": "37:16"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "No, I mean by Africa.",
+      "timestamp_abs": "37:18"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They said, Africa said no.",
+      "timestamp_abs": "37:19"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because Africa said no. Why?",
+      "timestamp_abs": "37:20"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mean, it's only on top of funding.",
+      "timestamp_abs": "37:22"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So you don't have to pay, you don't have to worry about the money.",
+      "timestamp_abs": "37:23"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because if you care, you can get from the other [inaudible] because we are in the ODA list.",
+      "timestamp_abs": "37:25"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, ah.",
+      "timestamp_abs": "37:29"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, I mean.",
+      "timestamp_abs": "37:30"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "They don't have this. Something like that.",
+      "timestamp_abs": "37:30"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I see, I see.",
+      "timestamp_abs": "37:32"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "What do you mean by that?",
+      "timestamp_abs": "37:33"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Official development assistance.",
+      "timestamp_abs": "37:34"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh, yeah.",
+      "timestamp_abs": "37:36"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we don't have to worry about our own. Yeah, actually they define by the OECD list.",
+      "timestamp_abs": "37:37"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, something like that.",
+      "timestamp_abs": "37:40"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yes, I know that.",
+      "timestamp_abs": "37:42"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So our country...",
+      "timestamp_abs": "37:43"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Oh, yeah.",
+      "timestamp_abs": "37:44"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is in the ODA list, meaning our country gets might gets funded from the Korea.",
+      "timestamp_abs": "37:45"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because we are in the ODA list.",
+      "timestamp_abs": "37:48"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For us, no. For us, for Africa.",
+      "timestamp_abs": "37:50"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "No, I mean by Africa.",
+      "timestamp_abs": "37:52"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They said, Africa said no.",
+      "timestamp_abs": "37:53"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because Africa said no. Why?",
+      "timestamp_abs": "37:54"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mean, it's only on top of funding.",
+      "timestamp_abs": "37:56"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So you don't have to pay, you don't have to worry about the money.",
+      "timestamp_abs": "37:57"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because if you care, you can get from the other [inaudible] because we are in the ODA list.",
+      "timestamp_abs": "37:59"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, ah.",
+      "timestamp_abs": "38:03"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, I mean.",
+      "timestamp_abs": "38:04"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "They don't have this. Something like that.",
+      "timestamp_abs": "38:04"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I see, I see.",
+      "timestamp_abs": "38:06"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "What do you mean by that?",
+      "timestamp_abs": "38:07"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Official development assistance.",
+      "timestamp_abs": "38:08"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh, yeah.",
+      "timestamp_abs": "38:10"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we don't have to worry about our own. Yeah, actually they define by the OECD list.",
+      "timestamp_abs": "38:11"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, something like that.",
+      "timestamp_abs": "38:14"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yes, I know that.",
+      "timestamp_abs": "38:16"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So our country...",
+      "timestamp_abs": "38:17"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Oh, yeah.",
+      "timestamp_abs": "38:18"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is in the ODA list, meaning our country gets might gets funded from the Korea.",
+      "timestamp_abs": "38:19"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because we are in the ODA list.",
+      "timestamp_abs": "38:22"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For us, no. For us, for Africa.",
+      "timestamp_abs": "38:25"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "No, I mean by Africa.",
+      "timestamp_abs": "38:27"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They said, Africa said no.",
+      "timestamp_abs": "38:28"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because Africa said no. Why?",
+      "timestamp_abs": "38:29"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mean, it's only on top of funding.",
+      "timestamp_abs": "38:31"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So you don't have to pay, you don't have to worry about the money.",
+      "timestamp_abs": "38:32"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because if you care, you can get from the other [inaudible] because we are in the ODA list.",
+      "timestamp_abs": "38:34"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, ah.",
+      "timestamp_abs": "38:38"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, I mean.",
+      "timestamp_abs": "38:39"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "They don't have this. Something like that.",
+      "timestamp_abs": "38:39"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I see, I see.",
+      "timestamp_abs": "38:41"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "What do you mean by that?",
+      "timestamp_abs": "38:42"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Official development assistance.",
+      "timestamp_abs": "38:43"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh, yeah.",
+      "timestamp_abs": "38:45"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we don't have to worry about our own. Yeah, actually they define by the OECD list.",
+      "timestamp_abs": "38:46"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, something like that.",
+      "timestamp_abs": "38:49"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yes, I know that.",
+      "timestamp_abs": "38:51"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So our country...",
+      "timestamp_abs": "38:52"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Oh, yeah.",
+      "timestamp_abs": "38:53"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is in the ODA list, meaning our country gets might gets funded from the Korea.",
+      "timestamp_abs": "38:54"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because we are in the ODA list.",
+      "timestamp_abs": "38:57"
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "block": 22,
+  "time_range": "00:00-04:59",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "somebody should be very, they have a pain point, a real pain point.",
+      "timestamp_abs": "105:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "105:04"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "105:05"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe this kind of hint, this kind of sentence, I write it so that it can help you digest what I'm saying.",
+      "timestamp_abs": "105:05"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then yeah, we cancelled this one because we have to go back.",
+      "timestamp_abs": "105:14"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, but I hope after we finish, maybe, maybe I'm gonna start to do this one at the end of this class, by the end of this course, almost at the towards the end.",
+      "timestamp_abs": "105:18"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I, I really thought applying this one is very important.",
+      "timestamp_abs": "105:27"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if we don't even understand how to structure and critically think about our problem, applying this one is useless because we are focusing on the wrong target, right?",
+      "timestamp_abs": "105:32"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we're gonna re-go back to figuring out our ICPs well, and then we're gonna go to this one.",
+      "timestamp_abs": "105:44"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe in two classes, okay?",
+      "timestamp_abs": "105:49"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So next class we rest, next Tuesday we rest.",
+      "timestamp_abs": "105:51"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the Tuesday after that, I'm gonna organize with Cesar, we're gonna do picnic, and we're gonna do ICP, maybe pitching again, maybe pitching, maybe, maybe pitching again, okay?",
+      "timestamp_abs": "105:54"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Or I but I wanna see, so please everybody, again, until the submission that we have as a midterm is on what date, Cesar?",
+      "timestamp_abs": "106:06"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "It was 20, 2024, the midterm.",
+      "timestamp_abs": "106:14"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "The midterm was 20, 20 what?",
+      "timestamp_abs": "106:18"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "The spring, the midterm exams was between 20 and 24.",
+      "timestamp_abs": "106:20"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, no, no, our midterm submission, officially was...",
+      "timestamp_abs": "106:24"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Oh, okay.",
+      "timestamp_abs": "106:27"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Maybe May 4th, May 5th, May 8th?",
+      "timestamp_abs": "106:29"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "May May, hold on.",
+      "timestamp_abs": "106:32"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "106:35"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "ICP, it was 11, no?",
+      "timestamp_abs": "106:41"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "11, 11.",
+      "timestamp_abs": "106:43"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "11, yeah.",
+      "timestamp_abs": "106:44"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I wish...",
+      "timestamp_abs": "106:45"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is it okay if I cancel that one and I make a new submission on May 8th, May 8th?",
+      "timestamp_abs": "106:49"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "106:57"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For Friday, for version 4, ICP version 4.",
+      "timestamp_abs": "106:58"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Now, but...",
+      "timestamp_abs": "107:01"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "107:03"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Why?",
+      "timestamp_abs": "107:04"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because it's no longer midterm.",
+      "timestamp_abs": "107:04"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[typing sound]",
+      "timestamp_abs": "107:07"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's no longer midterm, it's just revision.",
+      "timestamp_abs": "107:10"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because we are pivoting, everybody is now rewriting it with this, reviewing it now with this logic, okay?",
+      "timestamp_abs": "107:14"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I think May 8th is not fully midterm.",
+      "timestamp_abs": "107:23"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Midterm it would have been a very strong because you are going to be evaluated, but this one I'm not gonna evaluate it yet.",
+      "timestamp_abs": "107:27"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? I'm just gonna check it, quickly read it and and and give you hints, that's all.",
+      "timestamp_abs": "107:33"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For the case of Arya, Arya needs it revised by 8 because we have to prepare for the meeting.",
+      "timestamp_abs": "107:38"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For the case of Mega, you also wanna revise it early because you wanna send it to your boss.",
+      "timestamp_abs": "107:44"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Steven, I'm gonna organize a meeting with Brown, so we need an updated version as soon as possible, cleaner.",
+      "timestamp_abs": "107:49"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And Grace, also we need to figure out what's gonna be with you.",
+      "timestamp_abs": "107:55"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And your case also I need to send it to the director, she said to me.",
+      "timestamp_abs": "107:59"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will, I will try to find you the way for to invest like that, but you need to give me more or less what's the possibility like that.",
+      "timestamp_abs": "108:03"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, but then I said, okay, I will, I will send.",
+      "timestamp_abs": "108:11"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I told her, I will send the, I told her I I showed show her your LinkedIn.",
+      "timestamp_abs": "108:13"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then I I sold you off, this very, very good guy from here, and then I, uh, and then, um,",
+      "timestamp_abs": "108:19"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I said I will share your LinkedIn profile, I haven't shared, I wanted to ask your permission.",
+      "timestamp_abs": "108:27"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I also send, said I will share the draft ICP.",
+      "timestamp_abs": "108:33"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I haven't shared any of your draft ICPs, but because I am upgrading it to be able to share it as a draft.",
+      "timestamp_abs": "108:37"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it will anyway, definitely with Brown, I think we will get good answers.",
+      "timestamp_abs": "108:43"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm gonna try to schedule a meeting with them online first because they are in Seoul, in Yoido, and they told me online is good, so they can have a discussion.",
+      "timestamp_abs": "108:46"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Same, I'm gonna go through our guinea pig is gonna be Arya.",
+      "timestamp_abs": "108:54"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then we're gonna do probably you and you, you are still, I'm we're still trying to figure out well how to your project and make us well.",
+      "timestamp_abs": "108:59"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You two are still, I'm still trying to process who is gonna, how is gonna be, I I don't care, once it's ready I will share.",
+      "timestamp_abs": "109:07"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I think if we're gonna go this way, maybe there is nobody in here really interested in this project, maybe it's gonna be like K K R N, K R N was it?",
+      "timestamp_abs": "109:14"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "KDN, KDN.",
+      "timestamp_abs": "109:25"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "KDN.",
+      "timestamp_abs": "109:26"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "109:28"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Have a good afternoon.",
+      "timestamp_abs": "109:30"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Thank you, Professor.",
+      "timestamp_abs": "109:31"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thank you, thank you for your efforts.",
+      "timestamp_abs": "109:32"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, Cesar, we'll upload these slides on the KLS today, hopefully.",
+      "timestamp_abs": "109:45"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you have them.",
+      "timestamp_abs": "109:49"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Thank you, Cesar.",
+      "timestamp_abs": "109:50"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Please, Cesar.",
+      "timestamp_abs": "109:51"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Hey, yes.",
+      "timestamp_abs": "109:51"
+    }
+  ]
+}

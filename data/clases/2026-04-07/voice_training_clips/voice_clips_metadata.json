@@ -1,0 +1,108 @@
+{
+  "voice_training_clips": [
+    {
+      "id": "clip_01",
+      "filename": "Aryang_sample_01.m4a",
+      "speaker_estimated": "Aryang",
+      "timestamp_start": "00:23",
+      "duration_seconds": 32,
+      "note": "User-verified segment 00:23-00:55: Aryang",
+      "speaker_verified": "Aryang",
+      "verified_by_user": true
+    },
+    {
+      "id": "clip_02",
+      "filename": "Ileana_sample_01.m4a",
+      "speaker_estimated": "Ileana",
+      "timestamp_start": "00:02:02",
+      "duration_seconds": 28,
+      "note": "User-verified segment 00:02:02-00:02:30: Ileana",
+      "speaker_verified": "Ileana",
+      "verified_by_user": true
+    },
+    {
+      "id": "clip_02b",
+      "filename": "Ileana_sample_02.m4a",
+      "speaker_estimated": "Ileana",
+      "timestamp_start": "00:06:48",
+      "duration_seconds": 52,
+      "note": "User-verified segment 00:06:48-00:07:40: Ileana",
+      "speaker_verified": "Ileana",
+      "verified_by_user": true
+    },
+    {
+      "id": "clip_03",
+      "filename": "Aryang_sample_02.m4a",
+      "speaker_estimated": "Aryang",
+      "timestamp_start": "00:01:14",
+      "duration_seconds": 26,
+      "note": "User-verified segment 00:01:14-00:01:40: Aryang",
+      "speaker_verified": "Aryang",
+      "verified_by_user": true
+    },
+    {
+      "id": "clip_03b",
+      "filename": "Aryang_sample_03.m4a",
+      "speaker_estimated": "Aryang",
+      "timestamp_start": "00:02:33",
+      "duration_seconds": 6,
+      "note": "User-verified segment 00:02:33-00:02:39: Aryang",
+      "speaker_verified": "Aryang",
+      "verified_by_user": true
+    },
+    {
+      "id": "clip_03c",
+      "filename": "Aryang_sample_04.m4a",
+      "speaker_estimated": "Aryang",
+      "timestamp_start": "00:03:30",
+      "duration_seconds": 8,
+      "note": "User-verified segment 00:03:30-00:03:38: Aryang",
+      "speaker_verified": "Aryang",
+      "verified_by_user": true
+    },
+    {
+      "id": "clip_04",
+      "filename": "Grace_sample_02.m4a",
+      "speaker_estimated": "Grace",
+      "timestamp_start": "00:21:10",
+      "duration_seconds": 10,
+      "note": "User-verified segment 00:21:10-00:21:20: Grace de Congo",
+      "speaker_verified": "Grace",
+      "verified_by_user": true
+    },
+    {
+      "id": "clip_04b",
+      "filename": "Grace_sample_03.m4a",
+      "speaker_estimated": "Grace",
+      "timestamp_start": "00:28:26",
+      "duration_seconds": 44,
+      "note": "User-verified segment 00:28:26-00:29:10: Grace de Congo",
+      "speaker_verified": "Grace",
+      "verified_by_user": true
+    },
+    {
+      "id": "clip_05",
+      "filename": "Chilaka_sample_01.m4a",
+      "speaker_estimated": "Chilaka",
+      "timestamp_start": "00:38:06",
+      "duration_seconds": 20,
+      "note": "First 20s from timeline segment at 00:38:06"
+    },
+    {
+      "id": "clip_06",
+      "filename": "Grace_sample_01.m4a",
+      "speaker_estimated": "Grace",
+      "timestamp_start": "00:37:53",
+      "duration_seconds": 20,
+      "note": "First 20s from timeline segment at 00:37:53"
+    },
+    {
+      "id": "clip_07",
+      "filename": "Sthepen_sample_01.m4a",
+      "speaker_estimated": "Sthepen",
+      "timestamp_start": "00:00:19",
+      "duration_seconds": 20,
+      "note": "First 20s from timeline segment at 00:00:19"
+    }
+  ]
+}

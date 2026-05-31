@@ -1,0 +1,43 @@
+{
+  "block": 2,
+  "time_range": "05:00-10:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm telling you, or trying to tell you... is that sometimes, maybe, what you think is like, you know, it's not really like a good product. Okay? So that's why I'm trying to make you think differently. Okay? So, the first thing is, always the first thing is the problem itself. Always when you see, if you remember the previous lectures,",
+      "timestamp_abs": "05:00"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "when I told you, what's a startup?",
+      "timestamp_abs": "05:22"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "A startup is somebody who has identified a problem, a need, a gap. Okay? And it's not only identifying, but it's like, really, being able to find the solution for it. Not just coming up with the solution and then seeing if it matches the problem. You know, it's it's it's like the opposite. The problem is always first. So, I want you to read number one very carefully. It says \"define the problem.\" What's the why of the problem? Who suffers from this problem? How does it impact society? Why is it important to solve it? What's the context of the problem? And how are you solving the problem? Or how is it being solved already? Okay? Who is currently working on it? So that's the reason why when you told me before, okay, Professor, I'm going to work on something about smart cities. I'm like, okay, but smart cities is huge.",
+      "timestamp_abs": "05:24"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What problem are you solving?",
+      "timestamp_abs": "06:21"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah? So, don't forget that one. Then the next thing is, once you define the problem, then you try to define the target users. Okay? So, you have a problem. Who's going to pay you? Who's your client? You know? Who's your target user? So, in that aspect, for example, remember I told you, \"Okay, are you solving the problem in your neighborhood? Or are you solving the problem in your country? Or are you solving the problem in the world? So how big is that problem? How many people have that problem? Then the next thing that you have to define is the value proposition. Value proposition. Okay? So, what makes your solution special and better than other solutions? And then the next thing, once you have identified your value proposition, what's your competitive advantage? How is your solution unique and different from current solutions or substitutions? And then once you have that, what's your main innovation? What makes you disruptive? Why are you being created? Why is this startup going to be a startup and not a regular company? Okay? What's your technology? What makes your technology special? Is it sustainable? Or is it expensive? Or is it complex to build or to produce? And then number six is your product or service itself. What is your product or service? How does it look like? How is it developed? Is it in the making? Is it a prototype? Is it working already? Is it already scaled? Or is it not yet scaled? Then, once you have your product or service, what's your business model? How is it going to get to the client? How are you going to generate money? How are you going to distribute your product or service? What's your business plan for the next five years? How are you going to attract clients? What's your strategy? Then number eight, the most important part, I believe, is your team. Who's in your team? What makes your team special? What makes your team reliable? Why is your team, you know, going to be the next big thing? And then finally, the last thing that I want you to talk about is the funding. How much money do you need? Okay? Who are your investors? How are you planning to attract new investments? So those are the nine points that I want you to talk about. And what I see, for example, is that the first two, the problem and the user, those are two points that you are not really working on too much. Yeah? Like, sometimes when I read it, I'm like, oh, okay, you know, it's just this idea of like, you know, it's very abstract. Oh, like, you know, I'm going to solve the problem of hunger. Yeah, that's a problem of hunger. But what's the specific problem of hunger? In which country? In which people? So you need to be very specific about the problem you're solving. And also the target user. So, so, so those two points you're not putting too much, you know, emphasis on those two points. And so those are the first two things that I want you to rethink. So I want you to rethink that. Uh, and then as well. So, I'm gonna be sending you a document of a previous students who did a very nice job of doing this. Okay? So I'm gonna send you that. And then I want you to really follow it. Okay? So that's the first thing. The other thing is that you remember that last week I put like, you know, it's like a brainstorming session that we're going to have next week. Yeah? Next week is a brainstorming session. So you will come.",
+      "timestamp_abs": "06:24"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "SEARCH_1030": {
+    "file": "SEARCH_1030.m4a",
+    "identified": "UNKNOWN",
+    "confidence": "LOW",
+    "distances": {
+      "Ileana": 48.97980880737305,
+      "Aryang": 20.226293563842773,
+      "Grace": 27.67177391052246
+    },
+    "closest_match_distance": 20.226293563842773
+  },
+  "SEARCH_1330": {
+    "file": "SEARCH_1330.m4a",
+    "identified": "UNKNOWN",
+    "confidence": "LOW",
+    "distances": {
+      "Ileana": 67.85870361328125,
+      "Aryang": 94.68328857421875,
+      "Grace": 120.25983428955078
+    },
+    "closest_match_distance": 67.85870361328125
+  },
+  "SEARCH_1630": {
+    "file": "SEARCH_1630.m4a",
+    "identified": "UNKNOWN",
+    "confidence": "LOW",
+    "distances": {
+      "Ileana": 44.108463287353516,
+      "Aryang": 22.737287521362305,
+      "Grace": 48.82585525512695
+    },
+    "closest_match_distance": 22.737287521362305
+  },
+  "SEARCH_2300": {
+    "file": "SEARCH_2300.m4a",
+    "identified": "UNKNOWN",
+    "confidence": "LOW",
+    "distances": {
+      "Ileana": 79.24163818359375,
+      "Aryang": 44.478179931640625,
+      "Grace": 17.426864624023438
+    },
+    "closest_match_distance": 17.426864624023438
+  },
+  "SEARCH_2600": {
+    "file": "SEARCH_2600.m4a",
+    "identified": "UNKNOWN",
+    "confidence": "LOW",
+    "distances": {
+      "Ileana": 58.59620666503906,
+      "Aryang": 21.9644718170166,
+      "Grace": 32.31755828857422
+    },
+    "closest_match_distance": 21.9644718170166
+  },
+  "SEARCH_3100": {
+    "file": "SEARCH_3100.m4a",
+    "identified": "UNKNOWN",
+    "confidence": "LOW",
+    "distances": {
+      "Ileana": 77.48686981201172,
+      "Aryang": 40.51561737060547,
+      "Grace": 28.695297241210938
+    },
+    "closest_match_distance": 28.695297241210938
+  },
+  "SEARCH_3530": {
+    "file": "SEARCH_3530.m4a",
+    "identified": "UNKNOWN",
+    "confidence": "LOW",
+    "distances": {
+      "Ileana": 35.066139221191406,
+      "Aryang": 20.036846160888672,
+      "Grace": 37.073150634765625
+    },
+    "closest_match_distance": 20.036846160888672
+  },
+  "SEARCH_4100": {
+    "file": "SEARCH_4100.m4a",
+    "identified": "UNKNOWN",
+    "confidence": "LOW",
+    "distances": {
+      "Ileana": 35.91849136352539,
+      "Aryang": 23.35672378540039,
+      "Grace": 32.56173324584961
+    },
+    "closest_match_distance": 23.35672378540039
+  },
+  "SEARCH_4800": {
+    "file": "SEARCH_4800.m4a",
+    "identified": "UNKNOWN",
+    "confidence": "LOW",
+    "distances": {
+      "Ileana": 30.280677795410156,
+      "Aryang": 24.48227310180664,
+      "Grace": 47.78525161743164
+    },
+    "closest_match_distance": 24.48227310180664
+  },
+  "SEARCH_5200": {
+    "file": "SEARCH_5200.m4a",
+    "identified": "UNKNOWN",
+    "confidence": "LOW",
+    "distances": {
+      "Ileana": 63.857521057128906,
+      "Aryang": 25.68092155456543,
+      "Grace": 28.91762924194336
+    },
+    "closest_match_distance": 25.68092155456543
+  },
+  "SEARCH_5700": {
+    "file": "SEARCH_5700.m4a",
+    "identified": "UNKNOWN",
+    "confidence": "LOW",
+    "distances": {
+      "Ileana": 75.23395538330078,
+      "Aryang": 34.05023956298828,
+      "Grace": 32.72311019897461
+    },
+    "closest_match_distance": 32.72311019897461
+  }
+}

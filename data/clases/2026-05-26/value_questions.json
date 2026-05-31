@@ -1,0 +1,707 @@
+{
+  "session": "2026-05-26",
+  "generated_at": "2026-05-31T12:20:39",
+  "count": 70,
+  "questions": [
+    {
+      "timestamp": "05:08",
+      "topic": "Research commercialization rationale",
+      "question": "Could you explain the reasoning or research that led you to the conclusion that processes need to be streamlined for research commercialization?",
+      "raw_question": "So how did you, how did you get to that?",
+      "answered_by": "Chilaka",
+      "score": 4,
+      "response_text": "Based on my research, I realized that most research done in different areas of the country is not reaching the public or private sectors for proper implementation and commercialization. Therefore, to achieve societal benefit, we need to streamline our processes so that every research conducted can be beneficial to society.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "05:46",
+      "topic": "Feedback confirmation",
+      "question": "Chilaka, did you read the feedback I provided regarding the issue with technology in your problem description?",
+      "raw_question": "Chilaka, did you read that comment?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yes, ma'am.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "05:51",
+      "topic": "Problem definition change",
+      "question": "You changed your problem definition, and it's no longer focused on technology. What did you learn from my feedback that led to this change?",
+      "raw_question": "And now the problem is not technology anymore. What did you learn?",
+      "answered_by": "Chilaka",
+      "score": 4,
+      "response_text": "When I reviewed the problem, I noticed it was not related to the technology itself but more about the fragmentation of research and development, because the research in that area is not reaching the users for proper commercialization.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "07:36",
+      "topic": "Feedback difficulty",
+      "question": "Regarding the feedback and the process of refining your problem, would you agree that it wasn't as difficult as it might have seemed?",
+      "raw_question": "So, it was not that bad, right?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "No, it wasn't.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "07:42",
+      "topic": "Presentation order",
+      "question": "Aryang, would you like to present next?",
+      "raw_question": "Do you want to go?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Okay.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "07:47",
+      "topic": "Screen sharing help",
+      "question": "Aryang, do you require any assistance with sharing your screen, or are you ready to proceed?",
+      "raw_question": "Do you need help with the share screen or you're good?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "No, I'm good.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "07:54",
+      "topic": "Project problem statement",
+      "question": "Aryang, could you please state the problem you are addressing in your project?",
+      "raw_question": "What was your problem?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "I'm going to pull up my document.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "08:35",
+      "topic": "Problem redefinition learning",
+      "question": "Aryang, you changed your problem to 'existing inequalities in access to education.' What specific insights or understanding did you gain about the nature of the problem that led you to define it this way?",
+      "raw_question": "What did you learn?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "The existing inequality in access to education occurs when students, especially female students, lack access to quality or reliable education. This is because schools exist, but they often lack resources and quality education due to a shortage of proper teachers.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "09:12",
+      "topic": "Deeper problem analysis",
+      "question": "I advised you to delve deeper into the problem rather than just rephrasing 'lack of' with another term. Since you've indicated you understand this, what else have you learned about the actual underlying problem beyond a simple change in wording?",
+      "raw_question": "So what else did you learn?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "09:22",
+      "topic": "Underlying problem causes",
+      "question": "Considering that 'inequalities in access to education' might not be the fundamental problem but rather a symptom, what have you learned about the actual underlying issues or causes of this situation?",
+      "raw_question": "What did you learn about that?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "There are different problems within that. It's not a direct problem itself; the main cause of the problem involves a lot of things, for example...",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "09:55",
+      "topic": "Problem causes confirmation",
+      "question": "You mentioned there are many problems contributing to the lack of access; are these what you identify as the underlying causes?",
+      "raw_question": "Right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Those are the causes.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "11:01",
+      "topic": "Gap analysis insights",
+      "question": "Did you experience any other significant insights or 'aha moments' during your gap analysis, especially regarding the shift from focusing on a technological solution to understanding the underlying problem?",
+      "raw_question": "Any other like uh aha moments that you got from one to the other? Uh, your gap analysis? Okay.",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "I realized the need to be really specific with data, focusing only on data that is specific to the problem at hand.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "11:33",
+      "topic": "Empirical data examples",
+      "question": "Could you share with your peers some specific examples of the empirical data you have found that relates directly to your problem?",
+      "raw_question": "And just tell your peers, what are the examples of empirical data that you have found?",
+      "answered_by": "Aryang",
+      "score": 5,
+      "response_text": "Examples include the amount of funds lost due to numerous investments in different R&D agencies and the duplication of the same projects across different agencies. For instance, the Third FOND has been funding identical R&D projects in multiple universities. If these efforts had been harmonized, focusing on one project or separating them into distinct R&D areas instead of multiplying the same funds on the same R&D in different universities, it would have saved the country a lot of money.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "12:29",
+      "topic": "Data source methodology",
+      "question": "Could you explain how you managed to find or gather this specific empirical data?",
+      "raw_question": "And how did you find out data?",
+      "answered_by": "Aryang",
+      "score": 5,
+      "response_text": "I found it from Third FOND. Third FOND themselves started picking data from each university, asking them what they were working on. Before, they would just fund projects.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "12:42",
+      "topic": "Data access methods",
+      "question": "Could you elaborate on the specific steps you took to access this data? For instance, did you analyze budgets or consult newspaper articles?",
+      "raw_question": "But how how do you get to that point? You started looking at the budget or you started looking at newspapers?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "I used newspapers and the Third FOND report.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "12:51",
+      "topic": "Source name clarification",
+      "question": "Could you please confirm the name of the organization you mentioned: 'Third FOND'?",
+      "raw_question": "Third FOND?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Third FOND. Yes, the Tertiary Education Trust Fund.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "14:05",
+      "topic": "Project experience reflection",
+      "question": "Could you please share any additional reflections on your experience and understanding of the project, especially comparing it before and after our follow-up discussions?",
+      "raw_question": "Anything you wanna add about your experience before and after the follow-up, please?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Well, now, I need to really...",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "14:13",
+      "topic": "Current problem statement",
+      "question": "After our discussions and your reflections, what is the current status or formulation of your problem statement?",
+      "raw_question": "How about your problem statement? How about your problem statement right now?",
+      "answered_by": "Aryang",
+      "score": 6,
+      "response_text": "I need to completely detach my thinking from technology. I will try my best not to let it influence my problem statement, although it still tends to find a way to creep in.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "14:42",
+      "topic": "Conference announcement",
+      "question": "Regarding the upcoming AI+ forum in June, has the announcement about it not been made yet?",
+      "raw_question": "No, they haven't announced yet?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:03",
+      "topic": "Document sharing method",
+      "question": "Aryang, should I upload the document from my drive, or are you able to share it directly here?",
+      "raw_question": "Maybe I can upload from my drive. Ah okay. You share it here?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:10",
+      "topic": "Document location",
+      "question": "Mega, when you say 'in our drive,' are you referring to the location where the assignments are stored?",
+      "raw_question": "Yeah, in our drive. Is it?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Just emails.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:19",
+      "topic": "Assignment version",
+      "question": "Mega, regarding your assignment, did you upload it as 'version four'?",
+      "raw_question": "So it's not. Or Mega, you put it in version four, right?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:24",
+      "topic": "File name confirmation",
+      "question": "Mega, I'm looking for your assignment in version four. What is the exact file name of your document?",
+      "raw_question": "It should be here. Mega, what's the name?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Hey, ICV.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:28",
+      "topic": "File name confirmation",
+      "question": "So, the file name contains 'ICV version'?",
+      "raw_question": "ICV version.",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Version 4.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:38",
+      "topic": "Document final version",
+      "question": "Is the document we are currently viewing the final version of your assignment?",
+      "raw_question": "Is that the final?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "No, no, no.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:47",
+      "topic": "Document sending confirmation",
+      "question": "Aryang, did I send the document to your account?",
+      "raw_question": "So, and I sent to your account, right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "20:53",
+      "topic": "Clarification request",
+      "question": "Aryang, could you clarify what you mean by 'Just save' in this context?",
+      "raw_question": "So what do you mean by that?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "28:14",
+      "topic": "Electricity shortage in Korea",
+      "question": "Really? Did you experience an electricity shortage in Korea?",
+      "raw_question": "Really? In Korea?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "28:16",
+      "topic": "Electricity outage context",
+      "question": "Did this electricity shortage you experienced occur while you were at work?",
+      "raw_question": "In the job?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "It happened; the light came back on immediately.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "33:43",
+      "topic": "Underlying causes of energy access",
+      "question": "Regarding the underlying causes for the lack of electricity in the NTT region, are you suggesting it is simply because the inhabitants are poor?",
+      "raw_question": "Because they are poor, they don't have electricity?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Oh yeah, maybe they don't have any budget for making the [electricity infrastructure].",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "33:49",
+      "topic": "Problem Solution Scope",
+      "question": "If the underlying cause for the lack of electricity in this region is a lack of budget due to poverty, is the proposed solution simply to donate money to them within the scope of our technology commercialization initiatives?",
+      "raw_question": "Then there is no then what then are you going to donate money to them?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "The solution (donating money) would depend on the central government.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "34:36",
+      "topic": "Electricity Access Disparity",
+      "question": "Is it correct that in a major city like Jakarta there is good access to electricity, implying that the problem in regions like NTT is more nuanced than a simple lack of access?",
+      "raw_question": "Right? Because in Jakarta there is access of electricity, right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, there is access to electricity in Jakarta, and this highlights a gap between rural and urban areas.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "36:00",
+      "topic": "GTC Problem Scope",
+      "question": "Considering the issues, such as the government not giving attention to the poor people in NTT, is this a problem that can be solved through a technology commercialization initiative (GTC)?",
+      "raw_question": "There are issues like in this case, then is there a technology commercialization initiative that can solve that the government is not giving attention to the poor NVT people?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Sorry, Professor, but my understanding of GTC means like we...",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "45:33",
+      "topic": "Project Feasibility Study",
+      "question": "So, to confirm, for your project, your team finally conducted a feasibility study?",
+      "raw_question": "Ah, so in your case, finally you guys did the the feasibility study.",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Yes, they actually completed the feasibility study in Nigeria. They applied for funding for the feasibility study, and when they applied for funding for the main project, they faced challenges because the last power pole was extremely far. They then proposed to the government to build a solar mini-grid within the community instead of extending power from the existing grid, as the country already lacks sufficient power.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "110:02",
+      "topic": "Notebook Exercise Check",
+      "question": "How many of you have drawn the discussed concept or diagram in your notebooks?",
+      "raw_question": "How many of you, eh I can see some of your notebooks here, but how many of you have drawn it on your notebook?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, I have it here.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "110:08",
+      "topic": "Showing Notebook",
+      "question": "May I ask you to show your notebook?",
+      "raw_question": "Can I ask you to show it?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "110:19",
+      "topic": "Notebook Exercise Check",
+      "question": "Has anyone else drawn the concept in their notebook? Mega?",
+      "raw_question": "Anyone else? Mega?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "110:21",
+      "topic": "Showing Notebook",
+      "question": "Can you show us your notebook?",
+      "raw_question": "Can you show us your notebook?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "110:28",
+      "topic": "Notebook Exercise Check",
+      "question": "Chilaka, have you drawn the concept in your notebook?",
+      "raw_question": "Chilaka?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yes, ma'am.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "110:30",
+      "topic": "Showing Notebook",
+      "question": "Can you show us your notebook?",
+      "raw_question": "Can you show us your notebook?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Sure.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "110:35",
+      "topic": "Notebook Exercise Check",
+      "question": "Grace, have you drawn the concept in your notebook?",
+      "raw_question": "Grace?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "Yes, ma'am.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "110:37",
+      "topic": "Showing Notebook",
+      "question": "Can you show us your notebook?",
+      "raw_question": "Can you show us your notebook?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "110:41",
+      "topic": "Notebook Exercise Check",
+      "question": "Sthepen, please, have you drawn the concept in your notebook?",
+      "raw_question": "And Stefen, please.",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "110:43",
+      "topic": "Showing Notebook",
+      "question": "Can you show us your notebook?",
+      "raw_question": "Can you show us your notebook?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "74:00",
+      "topic": "Contextual Intelligence Examples",
+      "question": "Referring to last week's exercise on contextual intelligence, what specific activities did your respective research teams perform in your cases?",
+      "raw_question": "In your cases.",
+      "answered_by": "Chilaka",
+      "score": 6,
+      "response_text": "They kept on asking questions about the AI software. They asked 'What if the software is here, would they be able to organize the problem?' and 'If the fluctuation is solved, would the nurses be able to...?' At the end, they realized it's not just about the software.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "74:42",
+      "topic": "NID Project Context",
+      "question": "Stephen, regarding your NID project, what contextual intelligence activities are you currently undertaking, especially concerning the regulatory issue you identified that needs solving in addition to real-time fishing and scamming?",
+      "raw_question": "Stephen, these days, what are you doing related to your NID, right? Your NID, your you found out that maybe there is a regulatory issue that we need to solve besides the fishing and scamming kind of real time, right?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Okay.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "74:56",
+      "topic": "Project Contextual Intelligence",
+      "question": "Grace, what about you? What contextual intelligence activities are you doing for your project?",
+      "raw_question": "How about you Grace?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "75:08",
+      "topic": "Contextual Intelligence Examples",
+      "question": "What contextual intelligence activities have you performed in your ICP projects, or, for case number three, the waste management case, what contextual intelligence did the research team perform to identify the underlying cause of the problem?",
+      "raw_question": "All right. So, what are the kind of contextual intelligence activities you guys did or please give me an example of what you have done in your ICP or what your team for case number three, the case of a, uh, what is it? Waste, waste management, waste. Yeah. The waste management, what contextual intelligence they performed?",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "They surveyed the population to know the real problem.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "75:43",
+      "topic": "Contextual Intelligence Details",
+      "question": "What other contextual intelligence activities did you do? Mega?",
+      "raw_question": "What else did you do? Any other? Mega?",
+      "answered_by": "Chilaka",
+      "score": null,
+      "response_text": "They found out whether the collectors were motivated or not. The actual problem is the conflict of interests between the collectors and the government, meaning that working in their current way benefits them more.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "77:53",
+      "topic": "Demand Side Sensing Definition",
+      "question": "Can you explain, in your own words, what 'demand side sensing' is?",
+      "raw_question": "Somebody can try. There's no, I'm I'm building this from it's authored by me, so what could you what could you say is demand side sensing?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "It is the recipient organization trying to understand if a problem has been solved, or more accurately, trying to really understand what the core problem is.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "82:38",
+      "topic": "Task Instructions Clarity",
+      "question": "Are the instructions clear regarding what you should be working on in the next 10 minutes?",
+      "raw_question": "What do you think of?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, clear.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "82:54",
+      "topic": "Demand Side Sensing Activities",
+      "question": "What activities have you conducted for demand side sensing, specifically relating to contextual intelligence, such as gathering country-level socioeconomic data, identifying policy gaps, or infrastructure and regulatory gaps?",
+      "raw_question": "What have you done from the demand side sense, related to contextual intelligence?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No direct answer is provided by the student in this turn.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "180:14",
+      "topic": "Greeting/Start Presentation",
+      "question": "Hello?",
+      "raw_question": "Hello?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Hi. So I'll be talking about Chunam Hospital.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "180:24",
+      "topic": "Topic Confirmation",
+      "question": "Are you confirming that you will be talking about Chunam Hospital?",
+      "raw_question": "Chunam, Chunam Hospital?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "181:07",
+      "topic": "Clarification Request",
+      "question": "What are you referring to or what is the confusion?",
+      "raw_question": "What?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "No direct answer is provided by the student in this turn.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "105:02",
+      "topic": "Data Collection Specificity",
+      "question": "When you say you gathered data 'for the problem', can you be more specific about which particular problem or aspect of the problem you focused on?",
+      "raw_question": "Gather the data for which problem?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "For the...",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "106:08",
+      "topic": "Research Approach Agreement",
+      "question": "Do you understand and agree with the suggestion that instead of investigating 'why Korea is first,' it would be more appropriate for contextual intelligence to research 'best practices' to solve or tackle this problem?",
+      "raw_question": "Okay?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Okay.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "106:09",
+      "topic": "Confirmation",
+      "question": "Is that correct?",
+      "raw_question": "Right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "112:44",
+      "topic": "Data Source Clarification",
+      "question": "Did you search for information using a database ('DB')?",
+      "raw_question": "You searched for DB?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "No, I sought for challenges.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "112:49",
+      "topic": "Challenge Identification Details",
+      "question": "So you specifically sought out information regarding challenges, such as those facing the R&D ecosystem in Nigeria?",
+      "raw_question": "Ah you seeked for challenges like",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "Yes, I sought challenges facing the R&D ecosystem in Nigeria.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "112:53",
+      "topic": "R&D challenges sources",
+      "question": "Regarding your research on the challenges facing the R&D ecosystem in Nigeria, where did you find or seek out those specific challenges?",
+      "raw_question": "But where did you seek those?",
+      "answered_by": "Chilaka",
+      "score": 4,
+      "response_text": "I found the information from available data within various organizations, observing that the information is often scattered across different entities. Through my own organization, I already know about Nassen's R&D ecosystem as we work with them, and they have their own database. Similarly, Na also maintains its separate database, meaning everyone has their own different database.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "113:07",
+      "topic": "Research source types",
+      "question": "When you mentioned finding information from organizations, what specific types of sources did you research? Were they issue papers, reports, or another kind of document?",
+      "raw_question": "So you research for issue papers, reports, or organization or what what kind of",
+      "answered_by": "Chilaka",
+      "score": 5,
+      "response_text": "Primarily, I already have internal knowledge because it's my organization, and I work with entities like Nassen and Na. I know they each have their own R&D ecosystems and databases, and information is scattered. So, my research essentially started from observation of this fragmented infrastructure.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "113:20",
+      "topic": "Empirical knowledge",
+      "question": "Based on your explanation that you already know about Nassen's R&D ecosystem through your organization, are you saying that you have empirical knowledge of the process?",
+      "raw_question": "So you empirically know the process.",
+      "answered_by": "Chilaka",
+      "score": 5,
+      "response_text": "Yes, because we work with them, we empirically know the process. We know they already have their own database, and similarly, other organizations like Na also have their own databases. Everyone has their own different database for their separate activities.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "113:53",
+      "topic": "Additional research methods",
+      "question": "After describing your initial source of information through observation and empirical knowledge, what other sources or methods did you use for your research?",
+      "raw_question": "What else?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "I also consulted with my...",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "115:00",
+      "topic": "Research on corruption",
+      "question": "Chilaka, did your realization about the widespread corruption and duplicated projects, which cause Nigeria to lose significant funds, lead you to consult the ICPC auditing report?",
+      "raw_question": "So that landed you to that auditing report.",
+      "answered_by": "Sthepen",
+      "score": 5,
+      "response_text": "Yes, and on the issue of third-fund allocation, there are complaints that substantial funds are spent repetitively in various places each year. I also examined my organization's current initiatives to ensure they address some of these problems.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "140:26",
+      "topic": "Technology scouting sources",
+      "question": "When discussing technology scouting, how did you come to identify or reference KISTI and TIS? Was it because you saw a placard here in the hall, or were you aware of my previous collaborations involving these entities?",
+      "raw_question": "How did you come out to KISTI and TIS? Because you saw the placard here in the hall or of the collaboration I did before?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "No, I mentioned them because you made a presentation in class. That was the first day I realized the connection between what we discussed in the office and these entities, which is why I then mentioned KAI GDI.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "150:15",
+      "topic": "R&D management strategies",
+      "question": "Considering other countries that invest heavily in R&D, what specific strategies or initiatives is Israel implementing to address or improve its R&D management?",
+      "raw_question": "What is Israel doing to solve their R&D management?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "The OECD frequently mentions NTAIS (National Technology Information Service) in many articles I've read. Their consistent referencing of NTAIS is what significantly influenced my perspective.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "152:37",
+      "topic": "Comparative analysis, R&D",
+      "question": "You mentioned comparing your solution to Singapore's, noting a 'slight difference.' Could you please elaborate on that difference?",
+      "raw_question": "Please tell me more about that.",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "I mean, you mentioned it in your presentation. Additionally, I identified KISA (Korea Internet Security Agency), which I learned about from Professor Song in our 'Special Topics in AI' course. My homework presentation also covered this in relation to my case.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "154:03",
+      "topic": "Conference affiliation",
+      "question": "You asked if the upcoming conference is related to the 'digitology event.' Is it also potentially related to SNU ITTP, or is that what you were thinking?",
+      "raw_question": "Yeah, I think. Or with SNU ITTP?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yes, that's what I was thinking.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "154:10",
+      "topic": "Conference location",
+      "question": "Could you clarify what you mean by 'here in' regarding the location of the conference?",
+      "raw_question": "In?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "I mean, will it be here in Korea?",
+      "is_substantive": false
+    }
+  ]
+}

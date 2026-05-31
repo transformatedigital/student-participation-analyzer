@@ -1,0 +1,162 @@
+{
+  "block": 7,
+  "time_range": "30:00-35:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "normal structure of the issues. So, normally these are kind of visible, immediate, multiple instances and they need to stop kind of very common.",
+      "timestamp_abs": "30:00"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, and then the root causes are normally really structural. For me the key point where I use where I used to think to my mind to display really this one and the other is this structure.",
+      "timestamp_abs": "30:11"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And normally it's not something that it's easily kind of spotted. Uh, it's something that needs a little bit more work.",
+      "timestamp_abs": "30:24"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So, and probably this is when you really can catch this one like in the example of the mosquitoes in the Washington Memorial, right? You understood the example. Do you understand it?",
+      "timestamp_abs": "30:32"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, really they at the beginning they just thought, oh if you put just the nets and the bird will stop pooping and then we don't need to clean it.",
+      "timestamp_abs": "30:42"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But no, because the bird kept somehow pooping, right? So, I think this is kind of the thing. Five, I think the, the, the thinking I want you to really exercise and to really differentiate. When I think, when I'm talking about the problem, from now on the problem, I will try to use the word problem for this, the problem, the real problem, underlying issue that inspirates, that motivates your global technical cooperation project.",
+      "timestamp_abs": "30:50"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then when I'm talking about what issues do you have to pursue that project, I'm going to be talking about challenges or barriers.",
+      "timestamp_abs": "31:19"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that we define them because I think many times when I ask you a problem, you know, I have a project. My boss is not replying my email. Like, no, no, that's not the problem, right? So I keep I keep saying like, maybe among the answers, maybe you guys also confused.",
+      "timestamp_abs": "31:27"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's okay. At least this quiz will not have a high evaluation. I just really wanted you to really make the exercise of mentally without looking at your ICP, without looking at your phone, with your own words write down what you have understood until now from my course, I want to know. And also what you understand yourself from what you're doing.",
+      "timestamp_abs": "31:40"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I know in your case now I gave you the hint. It's something related to sovereignty, something related to customers. Mhm.",
+      "timestamp_abs": "32:01"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh, discuss, discuss.",
+      "timestamp_abs": "32:08"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, okay.",
+      "timestamp_abs": "32:10"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Because, uh, you talk about symptoms and root cause, sure.",
+      "timestamp_abs": "32:11"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "If we if if if my if me myself uh ask why the sovereignty doesn't uh doesn't solve? And I think I think the answer will be because there's no model that Indonesia that that...",
+      "timestamp_abs": "32:14"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's kind of, yeah, it's kind of self, self uh, self uh, self-killed.",
+      "timestamp_abs": "32:32"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh, that's why in the ICP I I also comment uh whether should I change the, the, the, the title because the title I",
+      "timestamp_abs": "32:38"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "I remember even your question, you gave me the question there in the Google Docs. Should I add the T-P-S because I wanted to look more attractive. You asked?",
+      "timestamp_abs": "32:48"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, I mean if if we put the more technical is not fancy I mean. So if we",
+      "timestamp_abs": "32:55"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, but I think that question has a more strategic answer, right? If you ask me, I will tell you, for example, this is a my response is not gonna be only for the ICP. My response is to give you knowledge about criteria about how to choose in the next projects where you are doing a proposal. How do you have the set of eyes to say, ah, this time my title should have the PPS, this time my title shouldn't have the PPS. That's what I want to tell you. I don't want to give you the answer of this case, I want to give you the knowledge of how to, what criteria you should have. And my my response to that is the following.",
+      "timestamp_abs": "33:01"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When I am preparing a proposal that is gonna go to the World Bank, to the IADIB, to we call this a project readiness or project evaluation. Sometimes depending on which which bureau we're leading to, this project initial plan project initial plan kind of paper will include different parts. And also we will set up the title of the project, right? So sometimes the project is like digital or more transformation of the digital finance ecosystem of Costa Rica, blah blah blah, right?",
+      "timestamp_abs": "33:35"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it depends a lot on who is your target audience for that proposal. It's my my.",
+      "timestamp_abs": "34:04"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In this case, ICP, the ICP itself, it's our internal document, an internal document for the High State line, but we use it, as I told you, I haven't shared your ICP to anybody yet, but I will eventually when it's mature enough, we will share it to some close friends, close colleagues, close companies who are part of our community. To say, hey guys, would you be interested in collaborating with like totorolas, totorolas, totorulabs. Totorulabs. So, I'm gonna be doing that or or with maybe eventually I'm going to say hey, I have this friend from who actually they said they really want to meet you because they are they have a that is specialized and they developed the mobile ID Korean mobile ID app. They were the ones who developed. And the Korean mobile ID very",
+      "timestamp_abs": "34:12"
+    }
+  ]
+}

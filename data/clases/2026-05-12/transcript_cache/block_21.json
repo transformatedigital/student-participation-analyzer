@@ -1,0 +1,14 @@
+{
+  "block": 21,
+  "time_range": "100:00-105:00",
+  "utterances": [
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "But sometimes, it's can also happen, but now, do we really need to fire this professor for what has been?",
+      "timestamp_abs": "101:00"
+    }
+  ]
+}

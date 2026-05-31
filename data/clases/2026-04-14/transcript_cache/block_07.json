@@ -1,0 +1,314 @@
+{
+  "block": 7,
+  "time_range": "30:00-35:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "text": "procedure and you know what is the best units in the and to coordinated with the to for the project.",
+      "timestamp_abs": "30:00"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "correct",
+      "timestamp_abs": "30:10"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "That's why it's very important, sir.",
+      "timestamp_abs": "30:11"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Thank you very much.",
+      "timestamp_abs": "30:12"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thank you, Mega, thank you very much.",
+      "timestamp_abs": "30:16"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want to really congratulate you. Your presentation is very clear.",
+      "timestamp_abs": "30:18"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I can understand very well your current progress and I even can understand very well how you",
+      "timestamp_abs": "30:22"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "one of the things that I wanted to confirm in this meeting today and in our um review is that you guys are really already starting to digest what this project is about, starting to have a more concrete shape of how things will go.",
+      "timestamp_abs": "30:27"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and start trying to understand even by this exercise, the sudden exercise of imagining what are the current barriers, what are the current challenges.",
+      "timestamp_abs": "30:43"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, I love that you guys um all that in case of Mega, Mega, you you are really uh thinking about it. I can see how many of the things that you already discussed with us during the class are starting to take shape.",
+      "timestamp_abs": "30:51"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, so I want to really congratulate you.",
+      "timestamp_abs": "31:04"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm gonna go back and I I'm writing some notes that uh of course the today's because because thank God finally we had to do it by Zoom, I'm taking a transcript of the whole meeting and I'm gonna share through a lot of the notes of what we're uh I'm giving the feedback I'm giving right now.",
+      "timestamp_abs": "31:07"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, so that will help you.",
+      "timestamp_abs": "31:23"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in general, I want to say state several points.",
+      "timestamp_abs": "31:25"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, one of the things and I'm gonna try to help maybe Mega, you can go back quickly to the first slide and this is very important for everybody.",
+      "timestamp_abs": "31:28"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "First.",
+      "timestamp_abs": "31:49"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "31:50"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "First one.",
+      "timestamp_abs": "31:51"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If if it's not easy to scroll, if it's not easy to scroll, I will share. Is okay?",
+      "timestamp_abs": "31:52"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, okay, okay.",
+      "timestamp_abs": "31:55"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Uh, okay.",
+      "timestamp_abs": "32:02"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Go to slide number two, please.",
+      "timestamp_abs": "32:03"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "32:07"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "Hm?",
+      "timestamp_abs": "32:08"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "32:10"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I love. Really, I love and I want everybody to take note this this Mega starting slide is very good because it's very specific and like really like just general giving a very, very high background like NZ commitment like that, very high level background.",
+      "timestamp_abs": "32:12"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But then it goes directly to the pinpointing.",
+      "timestamp_abs": "32:27"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, the president directly mandated this solar renewably deploy energy deployment in very recent.",
+      "timestamp_abs": "32:30"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I like that is a very recent, very important fact.",
+      "timestamp_abs": "32:35"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It could, if it was like it would if you ask me for a cherry on top, it would be awesome if you could make a quote there of a source. It could be a newspaper article, it could be just the directive like the presidential decree number. If you could add that, it would be really nice.",
+      "timestamp_abs": "32:38"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But for any of many of the different project proposals that I've seen even at a word bank level or like this is a very nice like strong start. I like it and I congratulate you and I wish everybody would like trying to try to copy that from you.",
+      "timestamp_abs": "32:54"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The next one, next slide.",
+      "timestamp_abs": "33:09"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe next or maybe second or third slide.",
+      "timestamp_abs": "33:14"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, this one.",
+      "timestamp_abs": "33:17"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I really like she she listened to me.",
+      "timestamp_abs": "33:19"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If I will see today how many of you have added into your presentation things that I have mentioned, like I already gave you some tips and the previous one.",
+      "timestamp_abs": "33:21"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I remember I told Mega, Mega, please take a look at this project, take a look at this other project.",
+      "timestamp_abs": "33:29"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I can see Mega's sincere follow-up because she went and checked the Jeju's case and she found some very interesting relevant even maybe not so not so recent, but anyways, she found a relevant document or idea of what this project was about or what what the reference case existed. I'm not saying it's gonna be the perfect reference case, but it's a start so that she can imagine what kind of things she can do.",
+      "timestamp_abs": "33:34"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I really congratulate that. I think the the Korea's proven model and showing it there right away, it connects to why Korea, why this collaboration idea should be done with these partners. So I like that.",
+      "timestamp_abs": "33:58"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh and then next to that,",
+      "timestamp_abs": "34:10"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think if we would double click on that example, Mega, and this is further for you as a homework if you can.",
+      "timestamp_abs": "34:12"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If not, we we can through together with our network with KIER, which I'm sorry because of me, I had to push the meeting today because I was in this emergency, so we're gonna meet next week. Uh but um with KIER, we can definitely find out if they have some data on this kind of Jeju projects on the investment requirements they had.",
+      "timestamp_abs": "34:17"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Definitely Jeju or any other Korean uh BESS small small or similar size projects might exist.",
+      "timestamp_abs": "34:39"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And if we have if we can get the data on those references and know how much money they had to invest, how the process went, how did they build it, that will be really relevant for you because you can use that as an idea of, okay, what are the milestones to really build such",
+      "timestamp_abs": "34:47"
+    }
+  ]
+}

@@ -1,0 +1,657 @@
+{
+  "block": 12,
+  "time_range": "55:00-60:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "start by Arya.",
+      "timestamp_abs": "55:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, symptoms.",
+      "timestamp_abs": "55:02"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a symptom.",
+      "timestamp_abs": "55:05"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "55:06"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "And what could be a root cause of that one?",
+      "timestamp_abs": "55:08"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just brainstorming quickly.",
+      "timestamp_abs": "55:13"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "The root cause for the, uh, system's not good.",
+      "timestamp_abs": "55:15"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "I beg your pardon?",
+      "timestamp_abs": "55:18"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "The system is not good, not running well.",
+      "timestamp_abs": "55:19"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That could not be a root cause.",
+      "timestamp_abs": "55:23"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "the absence of the of the of the of the platform to book.",
+      "timestamp_abs": "55:25"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Could be, could be the access to, not the.",
+      "timestamp_abs": "55:30"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Access to.",
+      "timestamp_abs": "55:32"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The system itself, system itself, no, but I mean.",
+      "timestamp_abs": "55:33"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "People wait too long for public services, it could be the process has too many steps.",
+      "timestamp_abs": "55:36"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Bureaucracy.",
+      "timestamp_abs": "55:41"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, bureaucracy.",
+      "timestamp_abs": "55:42"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The process has excessive steps that are not needed.",
+      "timestamp_abs": "55:43"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You need three stamps.",
+      "timestamp_abs": "55:48"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just because I said so, you go to three different offices.",
+      "timestamp_abs": "55:50"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "dictating the whole.",
+      "timestamp_abs": "55:53"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "55:54"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For example.",
+      "timestamp_abs": "55:56"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Mobile application for service booking.",
+      "timestamp_abs": "56:00"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Solution.",
+      "timestamp_abs": "56:03"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Solution.",
+      "timestamp_abs": "56:04"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Cloud computing.",
+      "timestamp_abs": "56:06"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Everybody agree, solution?",
+      "timestamp_abs": "56:07"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "56:09"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Agree.",
+      "timestamp_abs": "56:10"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "56:10"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Cloud computing.",
+      "timestamp_abs": "56:11"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Why is it a solution?",
+      "timestamp_abs": "56:12"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "Cloud computing?",
+      "timestamp_abs": "56:14"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, cloud computing.",
+      "timestamp_abs": "56:16"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Mobile application.",
+      "timestamp_abs": "56:17"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, mobile application for service booking.",
+      "timestamp_abs": "56:18"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Why is it a solution?",
+      "timestamp_abs": "56:20"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "I think the solution is the above, uh, problem.",
+      "timestamp_abs": "56:21"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay, cloud computing system.",
+      "timestamp_abs": "56:25"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Technology.",
+      "timestamp_abs": "56:27"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Technology.",
+      "timestamp_abs": "56:28"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "User interface module.",
+      "timestamp_abs": "56:30"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Component.",
+      "timestamp_abs": "56:31"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Component.",
+      "timestamp_abs": "56:32"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Government digital service platform.",
+      "timestamp_abs": "56:34"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Platform.",
+      "timestamp_abs": "56:36"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Platform.",
+      "timestamp_abs": "56:37"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Platform.",
+      "timestamp_abs": "56:37"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Server maintenance budget.",
+      "timestamp_abs": "56:38"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Server maintenance budget.",
+      "timestamp_abs": "56:42"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Problem.",
+      "timestamp_abs": "56:43"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a problem.",
+      "timestamp_abs": "56:44"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "The budget.",
+      "timestamp_abs": "56:47"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The budget is a problem, server maintenance budget.",
+      "timestamp_abs": "56:48"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Yeah, it could be a problem.",
+      "timestamp_abs": "56:53"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "56:59"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So now, the one sentence rule challenge.",
+      "timestamp_abs": "57:00"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "57:05"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "You wanna start, Mega?",
+      "timestamp_abs": "57:07"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh, I started with, uh, a stimulating problem.",
+      "timestamp_abs": "57:09"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You already switched.",
+      "timestamp_abs": "57:13"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_instruction",
+      "text": "Okay, then write down a stimulating problem.",
+      "timestamp_abs": "57:14"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes, uh, stimulating problem in the mobile banking.",
+      "timestamp_abs": "57:16"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_instruction",
+      "text": "Just read it.",
+      "timestamp_abs": "57:22"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes, uh, it is the cause for the, uh, for the problem. Mobile banking is because it the citizen, yeah, yeah, yeah, yeah, yeah. The citizen is losing money through, uh, scamming via SMS or call in Rwanda.",
+      "timestamp_abs": "57:23"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh. And then, uh, citizens face a problem of scamming and SMS.",
+      "timestamp_abs": "57:38"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yeah, yes.",
+      "timestamp_abs": "57:44"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "They are losing money in that.",
+      "timestamp_abs": "57:45"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "And so, uh, so the solution is they want to.",
+      "timestamp_abs": "57:47"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, but because of, so now if our problem statement is in certain context.",
+      "timestamp_abs": "57:51"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_instruction",
+      "text": "So for example, you could say in Rwanda.",
+      "timestamp_abs": "57:56"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The citizens.",
+      "timestamp_abs": "57:59"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Faces, no, in this cases are losing money.",
+      "timestamp_abs": "58:01"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Their means, they mean, they're being.",
+      "timestamp_abs": "58:05"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "mobile money users in Rwanda.",
+      "timestamp_abs": "58:07"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, okay, mobile money users in Rwanda, okay, great, are losing money, they're being scammed by SMS or voice.",
+      "timestamp_abs": "58:11"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Because.",
+      "timestamp_abs": "58:20"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Because.",
+      "timestamp_abs": "58:22"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "The absence of the, the absence of, no, no, not the absence of.",
+      "timestamp_abs": "58:24"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Because.",
+      "timestamp_abs": "58:28"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "There is no Because of unsecured, unsecured, uh, identity.",
+      "timestamp_abs": "58:30"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "My notes I wrote something about latency.",
+      "timestamp_abs": "58:39"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I was finding the keyword.",
+      "timestamp_abs": "58:41"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is actually, it's really about the poetry.",
+      "timestamp_abs": "58:42"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "To find the right keyword that really describes, it's a little bit about that.",
+      "timestamp_abs": "58:45"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know, you have to really.",
+      "timestamp_abs": "58:47"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Latency.",
+      "timestamp_abs": "58:48"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I wrote about because I thought I tried to do a reverse engineering.",
+      "timestamp_abs": "58:50"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If the solution is related to real time, this is what the the keywords I wrote first thing.",
+      "timestamp_abs": "58:54"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Latency of intervention.",
+      "timestamp_abs": "59:01"
+    }
+  ]
+}

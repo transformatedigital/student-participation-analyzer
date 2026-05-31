@@ -1,0 +1,592 @@
+{
+  "block": 15,
+  "time_range": "70:00-75:00",
+  "utterances": [
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. I would I wrote fragmentation and visibility, kind of thing.",
+      "timestamp_abs": "70:02"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You have a like a basis fragmentation problem.",
+      "timestamp_abs": "70:06"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In another like a system basis fragmentation. You see the keyword is related to problem.",
+      "timestamp_abs": "70:10"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "70:15"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Fragmentation because, or maybe it's maybe it's because all faces duplication of efforts because of fragmentation, kind of thing.",
+      "timestamp_abs": "70:16"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Hmm, this side of the problem.",
+      "timestamp_abs": "70:24"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The problem is not lack of scientific output, but absolute complete absence of centralized information.",
+      "timestamp_abs": "70:27"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like single source of truth.",
+      "timestamp_abs": "70:33"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Of truth, yes.",
+      "timestamp_abs": "70:35"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Kind of thing.",
+      "timestamp_abs": "70:36"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You wrote something like that. So I kept highlighting this kind of things.",
+      "timestamp_abs": "70:37"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, Arya.",
+      "timestamp_abs": "70:41"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay. Uh...",
+      "timestamp_abs": "70:42"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "In BRI.",
+      "timestamp_abs": "70:44"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This exercise does not finish here. With this knowledge, you have to go back to review and find all of the missing points in your writing now.",
+      "timestamp_abs": "70:45"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Where you are hinting the technology there as a problem. No, okay?",
+      "timestamp_abs": "70:52"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Arya.",
+      "timestamp_abs": "70:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now you are really, the exercise now I think you can get it better.",
+      "timestamp_abs": "70:59"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not lack of AI.",
+      "timestamp_abs": "71:02"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's fragmentation, it's hesitation, it's uh uh non accountability.",
+      "timestamp_abs": "71:05"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sorry.",
+      "timestamp_abs": "71:15"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh, in in BRI bank, EDM group versus the localization Voice AI problem. Because the regulation...",
+      "timestamp_abs": "71:16"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Localization voice AI.",
+      "timestamp_abs": "71:24"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tank, voice AI is not the problem.",
+      "timestamp_abs": "71:27"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh because the regulation of AI in Indonesia states that AI should be in Indonesian data center.",
+      "timestamp_abs": "71:30"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "From this.",
+      "timestamp_abs": "71:37"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Hmm.",
+      "timestamp_abs": "71:39"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I know, I know what's your dilemma. Your dilemma is that you are being tainted. You are being tainted by the way your colleagues frame the problem.",
+      "timestamp_abs": "71:40"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Your colleagues frame the problem to you.",
+      "timestamp_abs": "71:51"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Wait, my prob, yeah. Uh...",
+      "timestamp_abs": "71:53"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Your problem, of course, it's a problem of E-D- what's the department? E D M.",
+      "timestamp_abs": "71:55"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "EDM.",
+      "timestamp_abs": "71:59"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "EDM's problem is the regulation is forcing them to do some voice AI solution.",
+      "timestamp_abs": "72:00"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Right.",
+      "timestamp_abs": "72:06"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "72:07"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But that's kind of the context if you ask me.",
+      "timestamp_abs": "72:09"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "The real problem is why again, why they need the voice AI solution?",
+      "timestamp_abs": "72:11"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "From the city, from the city...",
+      "timestamp_abs": "72:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "From the city.",
+      "timestamp_abs": "72:17"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "From the city.",
+      "timestamp_abs": "72:18"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Go ahead, go ahead. Yeah.",
+      "timestamp_abs": "72:18"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "One one step.",
+      "timestamp_abs": "72:20"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You're being tainted because their problem is the boss said I need to do an AI. So Arya, please help me introduce me a good solution.",
+      "timestamp_abs": "72:22"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's the real story, right? The real story we know it.",
+      "timestamp_abs": "72:28"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But how you will really write the narrative of the logical evidence, that's the key point.",
+      "timestamp_abs": "72:32"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's the key point we're trying to exercise. So I I agree. That's your real problem. I agree.",
+      "timestamp_abs": "72:38"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I'm teaching you how to write it in a way that's uh correct, logically correct, and that it's really related to not, right? The problem is the lack of a blockchain-based smart platform.",
+      "timestamp_abs": "72:42"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No.",
+      "timestamp_abs": "72:54"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The problem, their problem is, yes, the boss ordered them, please make a Voice AI that is installed in in Indonesia.",
+      "timestamp_abs": "72:55"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's the background situation, right? The background.",
+      "timestamp_abs": "73:01"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the reality is no.",
+      "timestamp_abs": "73:03"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Probably, this is my notes to you.",
+      "timestamp_abs": "73:05"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Probably, there must be, this is not something that came out from your friend in the EDM, like probably there is some issue related to compliance.",
+      "timestamp_abs": "73:08"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I thought it's related to compliance.",
+      "timestamp_abs": "73:23"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, actually, that's true.",
+      "timestamp_abs": "73:24"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But, you know, the the compliance thing is more like the the what is this confidential...",
+      "timestamp_abs": "73:26"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Confidentiality or I thought the other thing I wrote here is um...",
+      "timestamp_abs": "73:33"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, sovereignty. I told you before.",
+      "timestamp_abs": "73:40"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sovereign AI. I think.",
+      "timestamp_abs": "73:42"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like you the the thing is like you need to balance.",
+      "timestamp_abs": "73:44"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You need to balance the strict data location regulation area. Like the situation of the data localization issue.",
+      "timestamp_abs": "73:47"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Your your problem is data localization.",
+      "timestamp_abs": "73:57"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, you can put it.",
+      "timestamp_abs": "74:01"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? Sovereignty or data localization related, right?",
+      "timestamp_abs": "74:02"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or or the problem would be data localization and the root cause could be sovereignty.",
+      "timestamp_abs": "74:07"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because other than that, if there is no regulation telling you guys...",
+      "timestamp_abs": "74:12"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, I can just use the You can just use whatever system there is wherever, right?",
+      "timestamp_abs": "74:16"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Wherever, right?",
+      "timestamp_abs": "74:19"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, exactly.",
+      "timestamp_abs": "74:20"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "directed_to": "ARYANG",
+      "text": "That system builds in Indonesia or outside.",
+      "timestamp_abs": "74:21"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They need to have the data located within Indonesia.",
+      "timestamp_abs": "74:25"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, we have to make it our own.",
+      "timestamp_abs": "74:28"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "directed_to": "ARYANG",
+      "text": "Okay, so still know the data you are using it's uh like the location. Maybe the centralization, data centralization is outside Indonesia.",
+      "timestamp_abs": "74:31"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "If uh outside BRI, yes.",
+      "timestamp_abs": "74:39"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "From now. The current situation.",
+      "timestamp_abs": "74:42"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "The current situation we don't have.",
+      "timestamp_abs": "74:44"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "directed_to": "ARYANG",
+      "text": "But data is centralized where?",
+      "timestamp_abs": "74:45"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "In Indonesia.",
+      "timestamp_abs": "74:47"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "In Indonesia.",
+      "timestamp_abs": "74:48"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But if you want to uh connect it...",
+      "timestamp_abs": "74:49"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "directed_to": "ARYANG",
+      "text": "But if data is centralized in Indonesia, you don't talk about sovereignty there.",
+      "timestamp_abs": "74:51"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, no, no, no, it's about the voice AI.",
+      "timestamp_abs": "74:55"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay. Because now we want to move forward to...",
+      "timestamp_abs": "74:57"
+    }
+  ]
+}

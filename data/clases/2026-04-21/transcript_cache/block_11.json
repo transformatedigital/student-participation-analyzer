@@ -1,0 +1,483 @@
+{
+  "block": 11,
+  "time_range": "50:00-55:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "with uh the secretary. Asked me to just submit a letter list. So that it will be as I sent to them.",
+      "timestamp_abs": "50:00"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then I contacted.",
+      "timestamp_abs": "50:08"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I'm out, first, sorry.",
+      "timestamp_abs": "50:09"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When you are sending this letter you can ask me uh Miss Nam or Miss Die, please give me some official maybe you can get like a CC for Professor Han.",
+      "timestamp_abs": "50:11"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because sometimes it's not, it's you as a former, like a former lecturer or a current lecturer, it's an internal communication from you as a lecturer, right?",
+      "timestamp_abs": "50:18"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "Class",
+      "text": "This is for all of you, when you are sending some letters, sometimes you need some big logo or big kind of showing up. It's not me alone, you can do this kind of thing. I need something kind of backing me up.",
+      "timestamp_abs": "50:22"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you can ask Miss Die or me or Miss Nam. Miss Nam, I'm trying to write this letter for my boss, for my president.",
+      "timestamp_abs": "50:30"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "And I could I CC Professor Han? Or could I use Kaist DDAI logo? Could I do you think I can I will sign the letter, but do you think Professor Han can sign it with me?",
+      "timestamp_abs": "50:36"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Totally possible.",
+      "timestamp_abs": "50:48"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or maybe Miss Miss Die as the general head, like the general manager. Miss Die will sign it. Most likely you will use it.",
+      "timestamp_abs": "50:50"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, there.",
+      "timestamp_abs": "50:57"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Use that.",
+      "timestamp_abs": "50:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I mean, I could also say, \"I'm sorry. No.\"",
+      "timestamp_abs": "50:59"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "51:00"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh.",
+      "timestamp_abs": "51:01"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No.",
+      "timestamp_abs": "51:01"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm telling you.",
+      "timestamp_abs": "51:01"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "My apologies.",
+      "timestamp_abs": "51:02"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh.",
+      "timestamp_abs": "51:02"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I'm sorry, no.",
+      "timestamp_abs": "51:03"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, no. I was not talking Indonesian, but you can CC me whatever you want.",
+      "timestamp_abs": "51:03"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Actually, when you will compose, you can give me WhatsApp message.",
+      "timestamp_abs": "51:09"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Hmm.",
+      "timestamp_abs": "51:10"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I will reply as soon as I received my after the letter was sent.",
+      "timestamp_abs": "51:11"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "timestamp_abs": "51:12"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I also said the director will not be happy.",
+      "timestamp_abs": "51:14"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh.",
+      "timestamp_abs": "51:15"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Also directly told me in WhatsApp.",
+      "timestamp_abs": "51:16"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Wow, thank you.",
+      "timestamp_abs": "51:17"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "He's telling me that uh uh he's a priority. Now he's uh academic management system.",
+      "timestamp_abs": "51:18"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Okay. Like I like but academic management in terms of like uh L, like uh LMS, LMS kind of.",
+      "timestamp_abs": "51:22"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Like that. So I think it's slightly like where we are here at Kaist, so.",
+      "timestamp_abs": "51:29"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But because if you think about Kaist, the ecosystem is so complex.",
+      "timestamp_abs": "51:33"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. Professor, I have so many tools I have to use.",
+      "timestamp_abs": "51:37"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "51:38"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So.",
+      "timestamp_abs": "51:39"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I'm thinking if you're thinking about just uh LMS, the Kaist LMS where we do grading and everything.",
+      "timestamp_abs": "51:40"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Something like LMS.",
+      "timestamp_abs": "51:43"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. The LMS.",
+      "timestamp_abs": "51:43"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, the LMS.",
+      "timestamp_abs": "51:44"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because I we have the Kaist ERP.",
+      "timestamp_abs": "51:45"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yes.",
+      "timestamp_abs": "51:46"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Where for example, they handle all my contracts. I when I when I go for business trip, it's that ERP, right? You know what a ERP, Enterprise Resource Planning.",
+      "timestamp_abs": "51:47"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So.",
+      "timestamp_abs": "51:55"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it depends on the scope of if it's only for the interaction and management of the students or if it's for the university management or if it's for digital capability like training within the lectures and the teachers, that's another type of all.",
+      "timestamp_abs": "51:55"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "52:07"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So if you suggest me, uh academic management system.",
+      "timestamp_abs": "52:07"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So I usually that my university based on that academic management system.",
+      "timestamp_abs": "52:09"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So not digital ID anymore.",
+      "timestamp_abs": "52:12"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Not because not just a digital ID. Because I gave some uh I I was trying to be very clear. I suggested some of the digital ID, I mean, student ID authentication, all these things.",
+      "timestamp_abs": "52:13"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "And they said that priority, it's academic system management because it's it will help to manage like kind of all the faculty.",
+      "timestamp_abs": "52:22"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "And you spoke in English or French?",
+      "timestamp_abs": "52:26"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Actually, uh he speaks English, but directly if I'm talking to him, since our administration speaks French.",
+      "timestamp_abs": "52:27"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You speak French.",
+      "timestamp_abs": "52:30"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So. He speaks French.",
+      "timestamp_abs": "52:30"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I that's why I asked because of this.",
+      "timestamp_abs": "52:31"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sometimes we are talking about round pegs.",
+      "timestamp_abs": "52:33"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I thinking orange and you're thinking apple.",
+      "timestamp_abs": "52:35"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And it's round.",
+      "timestamp_abs": "52:38"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So.",
+      "timestamp_abs": "52:38"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Be careful about that.",
+      "timestamp_abs": "52:39"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "So that's why I want to be very specific to you. You need to like not now because you don't want to be bothering the president of your university along.",
+      "timestamp_abs": "52:41"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But we need let's try I will try to get some more information from Round and then let's go if your ICP now is this pivoting again to the LMS and not digital ID, it's okay.",
+      "timestamp_abs": "52:48"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "But I want you to then be very specific. I will check, I haven't checked what you submitted last night.",
+      "timestamp_abs": "52:52"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um.",
+      "timestamp_abs": "52:57"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But.",
+      "timestamp_abs": "52:58"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "I will check and based on that I will give you comments so that we can be very specific.",
+      "timestamp_abs": "52:58"
+    }
+  ]
+}

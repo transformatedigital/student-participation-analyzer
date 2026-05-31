@@ -1,0 +1,85 @@
+{
+  "block": 19,
+  "time_range": "90:00-95:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "He used this calls. I want to understand this, uhm, Arya. Uh, EDM is a separate company or is within the ETRI like a unit? Within ETRI it's a unit.",
+      "timestamp_abs": "90:00"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah. It's within the ETRI.",
+      "timestamp_abs": "90:07"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Okay, great. Uh, and then the to your last question, I think I don't have a lot of comments. I'm just really happy. Have you been able to update already your ICP with this new idea or not yet?",
+      "timestamp_abs": "90:11"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, only make the presentation.",
+      "timestamp_abs": "90:23"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so please start updating so that everybody has to update the written ICP based on the comments that I'm giving today. So please start updating it. I wanna see it and I think uh it's gonna go to a good place. In terms of your two, their special question right now about whether the please go to your last slide, the Naver, the what is it, Neutra DC possibility.",
+      "timestamp_abs": "90:26"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think anyway ETRI Genie Talk sounds like pretty cool because anyway Koreans have a very similar situation to you. And I I recently attended uh uh AI conference a very special uh famous AI academic conference in Korea with a lot of AI players. And one of the recent issues is how can we as Koreans speaking Korean and with a lot of Korean knowledge in Korean start um using AI tools more powerfully? And they have the same issue actually. They have a very unique language who is a very complex and and all of the very powerful AI engines are are coming from abroad, trained in different languages. So I like that there's like a shared problem there and a although it's a different language and all. I like that even if it's the Naver Clova voice engine where you are just adding the Indonesian language there.",
+      "timestamp_abs": "90:45"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I thought it would be possible.",
+      "timestamp_abs": "91:38"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that kind of it clicks in my case, in my logic right now, it kind of clicks with the fact that you're gonna jointly develop something like it's got it's the basic platform is developed, but you're adding something additional and with this additional adaptation, you're gonna deploy that value into something else. So, conceptually speaking, I wouldn't see a problem in using this as your technology transfer and your technology commercialization project, conceptually speaking. But stakeholder wise, they might not be so hap so happy to have an an extra stakeholder who comes from KAIST who is a student who is just gonna, you know, put a in Korean you say, I'm just gonna, you know, take a spoon from your dish and then just gain my credit. I'm not sure they're gonna be happy about it, but maybe they're interested in having the Indonesia situation solved and because of that interest, maybe they're willing to collaborate. So, this is a question we need to discuss together with Miss Nam. I will discuss it also with Professor Kim to see what we could do in terms of who is easier, because for in terms of also low-hanging fruit, to contact ETRI could be an easier way to go because ETRI is just a brother to us, to KAIST and to DGIST. So, maybe the team at ETRI and the team of the Technology Transfer Office in ETRI is easy to contact and maybe the Genie Talk team, although last time I heard, the Genie Talk language was already like ETRI's stake on the Genie Talk was transferred to a company already, a startup. And that startup already like the the the the know-how is already within another company. I is if I don't remember. So, I remember Genie Talk was bought from ETRI to to a small company in Korea. Um, or it was Naver, maybe it was Naver. Like just so I'm not sure exactly, but I I will confirm, I will confirm whether the Genie Talk know-how is still transferable in the sense of whether somebody else already bought those rights and we don't have we cannot talk to ETRI anymore or we can. I'm not sure.",
+      "timestamp_abs": "91:39"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to discuss about that and if that's the case, the ETRI one could be, could be, I'm not saying it is, could be a low-hanging fruit in terms of it's a closer stakeholder to us and maybe easier to manage. Whereas Naver and all these project maybe it's already progressed, maybe they have a different priority in terms of languages, maybe Indonesian language is not their priority. So it could raise other risks for you for executing the project. But I'm just telling you what I out of my out of just I'm thinking out loud possible risks I can see. I'm not saying it could or not could. I I'm saying let's go, let's try for both ways. Whoever uh picks the picks the ball could be totally a possible way to go. So for now, keep with those two ideas, try to write write the ICP until the areas that you can with these two possible things. Um, another homework I will give you is please trace the Genie Talk issue. I'm I'm also gonna check but um almost I think Genie Talk was sold or transferred, like ETRI had the development of the pre the initial technology but then somebody else bought it. I think.",
+      "timestamp_abs": "93:44"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "94:56"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I'm also gonna talk to the ETRI team and same as I've approached",
+      "timestamp_abs": "94:57"
+    }
+  ]
+}

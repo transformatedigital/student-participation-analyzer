@@ -1,0 +1,263 @@
+{
+  "block": 18,
+  "time_range": "00:00-04:01",
+  "utterances": [
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mm, maybe on, maybe I'm not. I'm thinking here a bit.",
+      "timestamp_abs": "85:03"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "challenge is I'd",
+      "timestamp_abs": "85:07"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay, let me simplify.",
+      "timestamp_abs": "85:08"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "challenge.",
+      "timestamp_abs": "85:11"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "challenge to the to the",
+      "timestamp_abs": "85:12"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, my memory's going crazy. Okay.",
+      "timestamp_abs": "85:13"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sometimes I doubt myself these days also.",
+      "timestamp_abs": "85:16"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Do I dream it?",
+      "timestamp_abs": "85:18"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Professor, the challenge I defined this the the mean of challenge is challenge for the for the ICP or the",
+      "timestamp_abs": "85:19"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's exactly the problem. I think it's for the project.",
+      "timestamp_abs": "85:27"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "A challenge for the project.",
+      "timestamp_abs": "85:31"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's right. That's why I'm because you guys, when I saw your presentation, some of you said for the ICP. Some of you said for the project.",
+      "timestamp_abs": "85:33"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I believe the ICP is trying to evaluate your project's risk level.",
+      "timestamp_abs": "85:40"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay?",
+      "timestamp_abs": "85:47"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why I'm giving you a pool of ideas, what kind of possible challenges you could relate. Some of them might not be applicable in your case, some of them might. So, I am trying to give you these as a possible idea.",
+      "timestamp_abs": "85:48"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I gave you two ideas, two lists. One is the generic, the previous one. And this is like very big ones actually. You have to double click, double click each one of these ones. But it's like really, for example,",
+      "timestamp_abs": "86:03"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm going to give one example.",
+      "timestamp_abs": "86:16"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, case of Chilaca.",
+      "timestamp_abs": "86:18"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or maybe you were the one who mentioned it, I can't remember.",
+      "timestamp_abs": "86:22"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "I'm not sure if we have enough staff at Nida for our telecom agency to get an AI real-time AI tool. We don't have a lot of AI experts. You told me something like that, right?",
+      "timestamp_abs": "86:25"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So your case is like this. Maybe we have a week, a sorted capacity and I ask, do you know what this keyword means? And only Chilaca can answer, right?",
+      "timestamp_abs": "86:38"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this kind of this very key point. Or let this one for example, in the in in the case of mm, maybe Chilaca could be a challenge, because you guys still don't have regulation in place that will enforce that all the agencies need to use the Nigerian MS. Maybe maybe there is, maybe it's happening, but there there could be some kind of regulatory uncertainty. Because you have to build a new regulation to make everybody come into one or or maybe maybe force everybody to share the information like because they're going to be big problems like you know, for senior and so on and so forth.",
+      "timestamp_abs": "86:45"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or in the case of Grace, Grace could be we have a situation of physical infrastructure in terms of government.",
+      "timestamp_abs": "87:22"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "I'm not sure. Right?",
+      "timestamp_abs": "87:30"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think this would be and I gave you two how tasks. These are common challenges in our developing country emerging country ecosystems. These are common challenges in developed world. Challenges faced. So technological construction is not easy anywhere.",
+      "timestamp_abs": "87:33"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So imagine, if it's not easy not even in Germany or in Korea, in our countries is very tough. It's a very tough thing to do. But these countries also have a lot of text challenges to overcome there.",
+      "timestamp_abs": "87:49"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I wanted to you to look at it. I am not going to go into detail, but if you have a question specifically on one of these and you said, Professor, I understood this one, but I'm not sure how to double click it or I would like to discuss this one in specific, I will make the time to discuss it, okay?",
+      "timestamp_abs": "88:02"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because as I told you before, our class is not about textbook. Our class is about building this project together. So I'm I don't wanna throw myself into theory, but I want to give you some ideas of what the real knowledge of technological commercialization is about.",
+      "timestamp_abs": "88:18"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then I gave you, this one I already gave it to you, but I don't know if you saw them and I want to really remind you like sometimes when you review, and I will use this a lot when I review your midterm, when I review the ICP version of your midterm in three weeks.",
+      "timestamp_abs": "88:36"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So please get a look at these slides in terms of is my problem written? Because it might be that your problem is already in this way, but maybe it's written too vaguely.",
+      "timestamp_abs": "88:50"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think it's almost not the case. You guys have probably progressed a lot from the earlier versions. But just in case, I want you to really review these ideas, because I it has a purpose, the reason why I added this to avoid you to give you hints of how to make good ICP.",
+      "timestamp_abs": "89:01"
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So what's the wrong and what's the right? There's no right. How would be a best approach? What would give you more points if I evaluate you?",
+      "timestamp_abs": "89:18"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So in this case almost like I always I wrote like this, if no one owns the problem, your ICP cannot become a real world problem.",
+      "timestamp_abs": "89:28"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you must be very specific. For example, I think this risk",
+      "timestamp_abs": "89:36"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "could be a risk in your case. I still still feel like, okay, Nida has some problem and then the telecom is, who would be the owner of this problem? I think from Nida perspective, the Nida's owner is the ownership of the problem would be only the regulation.",
+      "timestamp_abs": "89:41"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe.",
+      "timestamp_abs": "89:58"
+    }
+  ]
+}

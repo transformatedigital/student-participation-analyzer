@@ -1,0 +1,427 @@
+{
+  "session": "2026-03-31",
+  "generated_at": "2026-05-29T13:45:48",
+  "count": 42,
+  "questions": [
+    {
+      "timestamp": "00:44",
+      "topic": "Problem Definition Approach",
+      "question": "Regarding your case study, which involves a national problem, how are you going to approach defining the problem for your project? Is it going to be problem-driven or technology-push, as we discussed previously?",
+      "raw_question": "But how we're gonna how we're gonna build the problem, because we need to find the problem. You previously said it's gonna be problem-driven or technology-push?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "It is going to be problem-driven.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "03:27",
+      "topic": "Humor/Social",
+      "question": "Can you pray for me?",
+      "raw_question": "Can you pray for me?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "I'm coming with you. No, I'm just kidding.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "04:17",
+      "topic": "Approach Understanding",
+      "question": "After our discussions, especially regarding the 'problem-driven' versus 'technology-push' approaches, are you understanding the difference between these two better?",
+      "raw_question": "Are you understanding better the difference between one approach and the other?",
+      "answered_by": "Aryang",
+      "score": 5,
+      "response_text": "Yes.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "06:46",
+      "topic": "Project Optimization Goal",
+      "question": "Regarding your current group project involving a battery energy storage system with a solar panel, you are here to apply the course concepts to optimize that specific system, right?",
+      "raw_question": "Okay. And that's why you're here. You want to optimize that system. That battery energy storage system. In your project. right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, that's correct.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "07:04",
+      "topic": "Project Topic",
+      "question": "Mega, can you please tell us about your project for this course?",
+      "raw_question": "Mega, what about you? What about your project?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "My project is optimizing hydrogen production. The title for my project is 'Techno-Economic Optimization of Green Hydrogen Production with Hybrid Renewable Energy System'.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "07:29",
+      "topic": "Project Origin",
+      "question": "Is the project you just described an existing one you're already working on, or is it a new project specifically for this course?",
+      "raw_question": "So that's an existing project that you have, or it's a project for this course for the future?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "No, this is a new project for this course.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "07:43",
+      "topic": "Project Background",
+      "question": "You previously mentioned something about changing the title of your project. Could you clarify what you meant by that, especially since this is a new project for the course?",
+      "raw_question": "But you mentioned something about like, uh, I changed the title and everything. What was that?",
+      "answered_by": "Mega",
+      "score": 4,
+      "response_text": "My previous research was on the techno-economic optimization of green hydrogen production, so I'm familiar with the topic.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "08:04",
+      "topic": "Project Scope Alignment",
+      "question": "Considering your previous research on techno-economic optimization of green hydrogen production, is the scope of this current project for the course identical to your previous work, or are you utilizing your expertise on the topic but with a different scope?",
+      "raw_question": "And the scope of this one, uh, is the scope of this project, which is for this course, going to be the same as your previous one, or you're just using the topic because it's your area of expertise?",
+      "answered_by": "Mega",
+      "score": 6,
+      "response_text": "I am just using the topic because it's my area of expertise. My previous research was a case study from Korea, but in this project, I'm using a general system.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "09:11",
+      "topic": "Project Introduction",
+      "question": "Chilaka, please tell us about your project for this course. What is its title, what do you aim to accomplish, and what is your motivation for choosing this topic?",
+      "raw_question": "What about you? Why are you here? What is your project title? You know, the usual questions.",
+      "answered_by": "Chilaka",
+      "score": 6,
+      "response_text": "My project title is 'A Comparative Analysis of the Techno-Economic Viability of Hybrid Renewable Energy Systems in South Korea.' The specific goal is to compare the cost-effectiveness and feasibility of different hybrid systems for power generation, considering both economic and technical factors.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "10:02",
+      "topic": "Project Purpose",
+      "question": "Is this project part of your master's thesis or Ph.D. dissertation, or is it a standalone project specifically for this course?",
+      "raw_question": "Okay. So, this is a thesis for you, or it's just a project for this class? You know, the same question I asked the others.",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "No, it's a project for this class.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "11:08",
+      "topic": "Project Introduction",
+      "question": "Grace, please introduce your project for this course. What is its title, what do you aim to accomplish, and what are your plans for it?",
+      "raw_question": "Grace, why are you here? What is your project title? What do you want to accomplish? Tell us about your plans.",
+      "answered_by": "Grace",
+      "score": 4,
+      "response_text": "My project title is 'Techno-Economic Optimization of a Smart Home Energy Management System.' The objective is to model and optimize energy consumption and generation within a smart home environment, aiming to minimize electricity costs, maximize self-consumption of renewable energy sources, and enhance overall energy efficiency.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "11:55",
+      "topic": "Project Motivation",
+      "question": "Grace, what is your motivation for choosing this project, and how does it relate to your academic background, your thesis, or is it solely a project for this class?",
+      "raw_question": "Okay. So, why are you here, Grace? Is this your background? Is this your thesis? Or it's just a project for this class? Why?",
+      "answered_by": "Grace",
+      "score": 6,
+      "response_text": "This is a project for this class, and I chose this topic because I want to pursue research in smart homes in the future. My background is in electrical engineering, so I have a basic understanding of energy systems.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "12:33",
+      "topic": "Project Area Familiarity",
+      "question": "Regarding the 'smart home' aspect of your project, is this a new area for you, or have you had previous experience or work in this specific domain?",
+      "raw_question": "And the smart home part. Is it new to you, or have you done some work on it before?",
+      "answered_by": "Grace",
+      "score": 5,
+      "response_text": "It's new to me, but I'm currently doing a project on a smart farm for another class, so it's a somewhat similar concept.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "12:56",
+      "topic": "Course Transition",
+      "question": "Not a question. The professor is summarizing Grace's project direction.",
+      "raw_question": "Okay. So, you're going for the smart anything optimization. So, smart home, smart farm. Okay. Thank you. So, you're trying to move in that direction. And this project is an opportunity for you to do that. Great. Thank you. Thank you, Grace. Stepha. Stephen.",
+      "answered_by": "Sthepen",
+      "score": null,
+      "response_text": "Acknowledged. (Student Stephen responds 'Yes, professor. I can hear you' after being called upon.)",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "13:21",
+      "topic": "Project Introduction",
+      "question": "Stephen, please describe your project for this course. What is its topic, what do you aim to achieve, and how does it relate to your thesis, academic background, or current interests?",
+      "raw_question": "Okay. What about your project, Stephen? What do you want to achieve with this project? What's the topic? Is it related to your thesis, your background, or it's a new opportunity for you?",
+      "answered_by": "Sthepen",
+      "score": 6,
+      "response_text": "My project title is 'Techno-Economic Analysis of Hydrogen Production through Water Electrolysis in Korea.' The main goal is to identify the most cost-effective and environmentally friendly methods for producing hydrogen from water electrolysis in Korea. I chose this topic because it aligns with my research interests, as I have completed several projects on hydrogen production in other courses, such as advanced hydrogen production and hydrogen production processes.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "14:13",
+      "topic": "Project Thesis Relation",
+      "question": "Is this project specifically part of your thesis, or is it a separate project chosen because it's a topic you are very knowledgeable about?",
+      "raw_question": "And is it part of your thesis as well? Or it's just a topic that you have good knowledge about?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "It's a topic that I have good knowledge about.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "12:02",
+      "topic": "Course Content Recall",
+      "question": "Stephen, last time I asked you to review some material. What do you remember from it?",
+      "raw_question": "Stephen, what do you remember?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "I said I'm not very good at this.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "12:09",
+      "topic": "Course Content Recall",
+      "question": "Since Stephen is having trouble recalling, does anyone else in the class remember the concept we discussed or that I asked to be reviewed?",
+      "raw_question": "Everybody else remembers? Everybody else remembers?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Minimum viable product.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "12:16",
+      "topic": "Clarification",
+      "question": "Could you please repeat that?",
+      "raw_question": "Huh?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Minimum viable product.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "14:41",
+      "topic": "Question Clarification",
+      "question": "Aryang, I'm trying to recall your second question. Was it concerning 'the beta'?",
+      "raw_question": "Your second question was about the beta, right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Oh, I mean the order, and then the prevalence or percentage of this.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "30:21",
+      "topic": "National Innovation Systems",
+      "question": "Can anyone recall from the first lecture what I stated as the main difference between the national innovation systems and R&D ecosystems of our countries and that of Korea?",
+      "raw_question": "Anybody remember what I said in the first lecture? What is the main difference?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Training.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "30:57",
+      "topic": "R&D Center Focus",
+      "question": "If Korean R&D centers are not primarily focused on writing papers, what is their main objective or what are they doing instead?",
+      "raw_question": "What are they doing?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "They focus on customer satisfaction.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "34:38",
+      "topic": "Company Network Size",
+      "question": "Following up on my question about the number of companies in ITBI's network, can you provide a more specific estimate, even if it's an approximation?",
+      "raw_question": "So maybe more or less, more or less.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Maybe 50.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "41:14",
+      "topic": "System Testing Strategy",
+      "question": "As part of developing a new system, we wouldn't immediately invest in a large quantity of components like 72 batteries, but rather test how a smaller setup works with the system first, correct?",
+      "raw_question": "Right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Right.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "49:24",
+      "topic": "Proposal Content",
+      "question": "Considering this initial draft of the collaboration proposal for your ICP, what specific elements or information do you plan to include in it, such as defining roles for Korea and other stakeholders, team responsibilities, and contributions?",
+      "raw_question": "What kind of things you want to put in your proposal?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Uh-huh.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "55:11",
+      "topic": "Project Requirements",
+      "question": "Aryang, you previously mentioned needing a certain number of factors for your project. To confirm, did you say you need 13 factors?",
+      "raw_question": "And you told me, you need 13 factors?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Yes, 13 factors.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "55:25",
+      "topic": "Clarification",
+      "question": "Could you please elaborate on what he said about the 100 students?",
+      "raw_question": "What?",
+      "answered_by": "Aryang",
+      "score": 1,
+      "response_text": "He said the number of students are just in the [inaudible].",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "55:29",
+      "topic": "Clarification",
+      "question": "Are you referring to the number of students specifically in this class?",
+      "raw_question": "In the class?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, for this class.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "55:55",
+      "topic": "Information Confirmation",
+      "question": "Aryang, to confirm, was 'more than 500 students' the number that was previously mentioned or stated?",
+      "raw_question": "Is that what he said?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, it's correct.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "71:26",
+      "topic": "Mobile Learning Feasibility",
+      "question": "Given the challenges with connectivity and infrastructure, what role does mobile technology play, and how effective would a mobile-based solution be for your proposed learning management system?",
+      "raw_question": "What about mobile?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Every message is on mobile. Most people use mobile, primarily WhatsApp, for communication among students and with professors. This is how they communicate and get information.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "73:14",
+      "topic": "Project Version",
+      "question": "Aryang, is the material you're presenting a new version of your project, incorporating revisions or corrections based on previous feedback?",
+      "raw_question": "This is a new work, Christian? A new version from the college back, it's a new version of the project, from.",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "Actually, it's a little bit after I've tried to correct some of the stuff, so yes, it's a revised version.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "74:41",
+      "topic": "Problem Statement Focus",
+      "question": "In this section of your presentation, are we discussing a conceptual discourse, or are you directly addressing the specific problem you've identified?",
+      "raw_question": "And this one here, we're just talking about conceptual discourse or what's the problem?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "83:00",
+      "topic": "Reading Task",
+      "question": "Aryang, please read the first two paragraphs that are in bold from the document.",
+      "raw_question": "I'm going to ask ARYANG. Can you read these two paragraphs for me? The first two that are in bold.",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "Okay. (Reads) 'This paper illustrates how public and private universities in India have implemented digital infrastructure to deliver educational content and enhance learning experiences. A survey conducted by the National Council of Educational Research and Training NCERT in 2021 revealed that only 25% of students in government schools had access to smartphones for online learning. This digital divide highlights the urgent need for equitable access to digital resources to ensure inclusive education. While digital infrastructure has proven to be an effective tool for teaching and learning, the successful implementation of digital education initiatives also depends on factors such as teacher training, content development, and policy frameworks.'",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "83:49",
+      "topic": "Reading Task",
+      "question": "Mega, please read the next two paragraphs from the document, starting with 'This paper'.",
+      "raw_question": "Thank you, ARYANG. Okay, so that's the first problem statement. I'm not going to tell you anything. MEGA, can you read the next two paragraphs? That start with this paper.",
+      "answered_by": "Mega",
+      "score": 5,
+      "response_text": "(Reads) 'This paper aims to provide insights into the challenges and opportunities associated with the implementation of digital infrastructure in universities across India. The findings of this study will contribute to the ongoing discourse on digital education and inform policy decisions aimed at promoting equitable and inclusive access to quality higher education. One of the key challenges faced by universities in India is the lack of adequate digital infrastructure, particularly in rural and remote areas. This includes limited access to reliable internet connectivity, insufficient availability of digital devices, and a shortage of trained faculty members. Additionally, there are concerns about the quality of digital content, the effectiveness of online teaching methodologies, and the need for robust cybersecurity measures to protect student data.'",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "90:48",
+      "topic": "Existing Solutions Analysis",
+      "question": "Based on your research and given the rarity of truly novel problems without existing efforts, are you implying that nobody has been able to describe or address this specific problem you're tackling in your project?",
+      "raw_question": "So you're nobody's been able to describe this thing.",
+      "answered_by": "Aryang",
+      "score": 6,
+      "response_text": "Yeah, in some universities it's hard to compare. It would be easier to do something like this with maybe one student, or 10-20 students per room.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "92:41",
+      "topic": "Language Clarification",
+      "question": "You're showing a website in French. Is French also considered an official language for your context?",
+      "raw_question": "You say correct in French also, English is French. Yes.",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Yes, it's an official language.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "92:53",
+      "topic": "Language Proficiency",
+      "question": "Are you able to read and understand French?",
+      "raw_question": "You can see French?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Yes, it's my official language.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "93:38",
+      "topic": "Website Usability",
+      "question": "I'm having difficulty finding specific information on this website; for example, yesterday it was hard to find details about the university director. How can one easily access this kind of information?",
+      "raw_question": "How?",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "This is the presentation of the university, all the things. All the faculties and the director of the university. So I can show the president of the university.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "94:22",
+      "topic": "Website Functionality",
+      "question": "Based on what you've shown, is the university's website primarily functioning as a repository for news and general information, rather than a dynamic interactive platform?",
+      "raw_question": "So, it's just like a repository of some news and that's it.",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Yeah, you see that even their website is not sophisticated. This is normally information about faculties.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "95:31",
+      "topic": "Discussion Turn",
+      "question": "Following my comments about the potential unsuitability of heavy IT solutions for your described environment, would you like to ask a question or provide a comment on what I've said?",
+      "raw_question": "So, your question, my comment?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No, uh, I mean, if the problem is about the connectivity, I think it's the issue for the IT department to make it accessible even using low bandwidth, or perhaps just go full offline in terms of digital.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "100:40",
+      "topic": "Solution Alignment",
+      "question": "I'm describing a hypothetical learning management system that functions offline as an app, allowing users to download content, complete assignments, and then upload when an internet connection is available. Is this type of solution aligned with what you are looking for in your project, or am I misunderstanding your vision?",
+      "raw_question": "Would something like that be what you're looking for, is my question. Is it something that I imagining the right thing or am I not imagining the right thing?",
+      "answered_by": "Sthepen",
+      "score": 5,
+      "response_text": "I believe for my main thesis, I wanted to start something that can really push a digital transformation. So, it means that we need to have something from the beginning to truly push a country towards implementing such sophistication.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "151:43",
+      "topic": "Acronym Clarification",
+      "question": "Could you confirm the acronym for the agency? Is it NPTI?",
+      "raw_question": "NPTI?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "It's the National Board of Technology Incubation.",
+      "is_substantive": false
+    }
+  ]
+}

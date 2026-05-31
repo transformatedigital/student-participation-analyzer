@@ -1,0 +1,739 @@
+{
+  "analysis_type": "Voice Fingerprinting with Euclidean Distance",
+  "timestamp": "2026-04-28",
+  "total_clips_analyzed": 12,
+  "clips_used_for_ileana_profile": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "clips_used_for_student_profile": [
+    7
+  ],
+  "speaker_profiles": {
+    "ileana": {
+      "name": "Dr. Ileana",
+      "role": "Teacher",
+      "reference_clips": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "num_samples": 11,
+      "characteristics": {
+        "avg_distance_within_group": 1.0989561900621243,
+        "std_distance_within_group": 0.5448688640548692,
+        "confidence": "Very High (11 reference clips)"
+      }
+    },
+    "aryang": {
+      "name": "Aryang",
+      "role": "Student",
+      "nationality": "Indonesia",
+      "reference_clips": [
+        7
+      ],
+      "num_samples": 1,
+      "characteristics": {
+        "avg_distance_to_ileana": 0.7915579396457585,
+        "confidence": "Medium (1 reference clip)"
+      }
+    }
+  },
+  "similarity_metrics": {
+    "within_ileana_avg_distance": 1.0989561900621243,
+    "ileana_vs_aryang_avg_distance": 0.7915579396457585,
+    "decision_threshold": 0.9452570648539413,
+    "speaker_separation": 0.7202816152307323
+  },
+  "recommendations": [
+    "\u2705 Ileana fingerprint: STRONG - 11 reference clips with high consistency",
+    "\u2705 Aryang identified: CONFIRMED - Clear voice in clip 7",
+    "\ud83d\udd0d Need to identify other students:",
+    "   \u2022 Student 2: 261 segments (38% of session) - Most talkative after Ileana",
+    "   \u2022 Student 1: 27 segments (4%)",
+    "   \u2022 Student 3: 1 segment (<1%)",
+    "   \u2022 Student 4: No segments recorded yet",
+    "",
+    "\ud83d\udca1 NEXT STEP: Extract 5-10 longer clips from Student 2's segments",
+    "   to build their voice profile for automatic verification"
+  ],
+  "detailed_comparisons": [
+    {
+      "clip_1": 1,
+      "clip_2": 2,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.406135186775139,
+      "similarity": 0.4156042459693488,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 1,
+      "clip_2": 3,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.2489807312929182,
+      "similarity": 0.44464587272168815,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 1,
+      "clip_2": 4,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.5376371624831882,
+      "similarity": 0.6503484855848972,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 1,
+      "clip_2": 5,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.5627925008772442,
+      "similarity": 0.6398802140646752,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 1,
+      "clip_2": 6,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.2568248986363466,
+      "similarity": 0.4431003932135964,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 1,
+      "clip_2": 7,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Aryang (Student)",
+      "distance": 0.6649089024965344,
+      "similarity": 0.6006334631885852,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 1,
+      "clip_2": 8,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.5551825329732694,
+      "similarity": 0.3913614730437191,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 1,
+      "clip_2": 9,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.6370399654905439,
+      "similarity": 0.6108586357574642,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 1,
+      "clip_2": 10,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.4436112316241927,
+      "similarity": 0.4092303992789111,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 1,
+      "clip_2": 11,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.36916012731542,
+      "similarity": 0.42209050729430253,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 1,
+      "clip_2": 12,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.8253145714300594,
+      "similarity": 0.547850773588325,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 2,
+      "clip_2": 3,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 2.4625732896190082,
+      "similarity": 0.288802551269617,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 2,
+      "clip_2": 4,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.2922415070873803,
+      "similarity": 0.43625420659564035,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 2,
+      "clip_2": 5,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.1103939644215925,
+      "similarity": 0.47384517623659694,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 2,
+      "clip_2": 6,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.9381914211807773,
+      "similarity": 0.5159449108441436,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 2,
+      "clip_2": 7,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Aryang (Student)",
+      "distance": 1.1655552596885044,
+      "similarity": 0.46177533245854047,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 2,
+      "clip_2": 8,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.487242236874565,
+      "similarity": 0.6723854226339732,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 2,
+      "clip_2": 9,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.9174074743569948,
+      "similarity": 0.5215375518108645,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 2,
+      "clip_2": 10,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.1465906814899538,
+      "similarity": 0.465854999102995,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 2,
+      "clip_2": 11,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.49445650724627255,
+      "similarity": 0.6691395802763294,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 2,
+      "clip_2": 12,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.9740307800915269,
+      "similarity": 0.33624399810994043,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 3,
+      "clip_2": 4,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.2398964740326892,
+      "similarity": 0.4464492049490167,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 3,
+      "clip_2": 5,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.3899398934248262,
+      "similarity": 0.41842056478122647,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 3,
+      "clip_2": 6,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.892278987454966,
+      "similarity": 0.34574811224554125,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 3,
+      "clip_2": 7,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Aryang (Student)",
+      "distance": 1.347565344898075,
+      "similarity": 0.4259732331512235,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 3,
+      "clip_2": 8,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 2.4531127510492,
+      "similarity": 0.28959378743024194,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 3,
+      "clip_2": 9,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.5864376289848017,
+      "similarity": 0.3866321726816619,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 3,
+      "clip_2": 10,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 2.024057856841608,
+      "similarity": 0.330681503906285,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 3,
+      "clip_2": 11,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 2.262967116441715,
+      "similarity": 0.3064695304347737,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 3,
+      "clip_2": 12,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.5068917875679664,
+      "similarity": 0.6636176587131983,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 4,
+      "clip_2": 5,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.20586723632622553,
+      "similarity": 0.8292786882962199,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 4,
+      "clip_2": 6,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.8238220916509041,
+      "similarity": 0.5482990937426417,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 4,
+      "clip_2": 7,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Aryang (Student)",
+      "distance": 0.2835890735431587,
+      "similarity": 0.779065528533713,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 4,
+      "clip_2": 8,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.2818642086797887,
+      "similarity": 0.4382381721910468,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 4,
+      "clip_2": 9,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.4318074908685742,
+      "similarity": 0.6984179132862143,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 4,
+      "clip_2": 10,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.023640842744092,
+      "similarity": 0.4941588343532259,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 4,
+      "clip_2": 11,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.1035800230467856,
+      "similarity": 0.4753800611548016,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 4,
+      "clip_2": 12,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.7631185160384704,
+      "similarity": 0.5671768465383076,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 5,
+      "clip_2": 6,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.71319292583525,
+      "similarity": 0.5837054221505497,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 5,
+      "clip_2": 7,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Aryang (Student)",
+      "distance": 0.21735736751123239,
+      "similarity": 0.8214514707742738,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 5,
+      "clip_2": 8,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.121671547893045,
+      "similarity": 0.4713264883026139,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 5,
+      "clip_2": 9,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.26678008580155343,
+      "similarity": 0.7894029999431601,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 5,
+      "clip_2": 10,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.9556042582808069,
+      "similarity": 0.5113509012703372,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 5,
+      "clip_2": 11,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.9455399812509658,
+      "similarity": 0.5139961191427217,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 5,
+      "clip_2": 12,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.8972791969233737,
+      "similarity": 0.5270705553624364,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 6,
+      "clip_2": 7,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Aryang (Student)",
+      "distance": 0.6915638117886386,
+      "similarity": 0.5911689485379877,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 6,
+      "clip_2": 8,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.6686801077491553,
+      "similarity": 0.5992760358058545,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 6,
+      "clip_2": 9,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.7134744474297045,
+      "similarity": 0.583609520118639,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 6,
+      "clip_2": 10,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.48183836417313314,
+      "similarity": 0.6748374344849687,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 6,
+      "clip_2": 11,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.5439465700558869,
+      "similarity": 0.6476908070489787,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 6,
+      "clip_2": 12,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.432721009041551,
+      "similarity": 0.4110623438870955,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 7,
+      "clip_2": 8,
+      "speaker_1": "Aryang (Student)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.1633895022352905,
+      "similarity": 0.4622376132299638,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 7,
+      "clip_2": 9,
+      "speaker_1": "Aryang (Student)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.31190818499815687,
+      "similarity": 0.7622484648202762,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 7,
+      "clip_2": 10,
+      "speaker_1": "Aryang (Student)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.006463745113707,
+      "similarity": 0.49838926939760364,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 7,
+      "clip_2": 11,
+      "speaker_1": "Aryang (Student)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.9878653707366446,
+      "similarity": 0.5030521758268918,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 7,
+      "clip_2": 12,
+      "speaker_1": "Aryang (Student)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.8669707730934026,
+      "similarity": 0.5356270244890282,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 8,
+      "clip_2": 9,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.999393331497043,
+      "similarity": 0.5001517131455326,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 8,
+      "clip_2": 10,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.7880535134189649,
+      "similarity": 0.5592673779029602,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 8,
+      "clip_2": 11,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.25429653261171836,
+      "similarity": 0.7972596383709858,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 8,
+      "clip_2": 12,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.9712934861479559,
+      "similarity": 0.3365537617411264,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 9,
+      "clip_2": 10,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.0284148995273363,
+      "similarity": 0.49299578712078146,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 9,
+      "clip_2": 11,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.8374676890953371,
+      "similarity": 0.544227256857149,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 9,
+      "clip_2": 12,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.1002925588546946,
+      "similarity": 0.4761241455548972,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 10,
+      "clip_2": 11,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 0.6902110378790457,
+      "similarity": 0.5916420953296139,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": true
+    },
+    {
+      "clip_1": 10,
+      "clip_2": 12,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.59339357126478,
+      "similarity": 0.38559515650850745,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    },
+    {
+      "clip_1": 11,
+      "clip_2": 12,
+      "speaker_1": "Ileana (Teacher)",
+      "speaker_2": "Ileana (Teacher)",
+      "distance": 1.7839556622665336,
+      "similarity": 0.3592011229036092,
+      "threshold": 0.9452570648539413,
+      "predicted_same_speaker": false
+    }
+  ]
+}

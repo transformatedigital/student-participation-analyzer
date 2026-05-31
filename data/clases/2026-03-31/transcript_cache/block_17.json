@@ -1,0 +1,165 @@
+{
+  "block": 17,
+  "time_range": "80:00-85:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "social and digital [inaudible] questions. Because there is no way that people who are not using digital infrastructure and called boost to have skill. So it is that infrastructure problems. Uh, all those things. So, overall, it will bring especially important in terms of digital skills. And you already mentioned how it's becoming a problem because of that.",
+      "timestamp_abs": "80:00"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You don't have digital skills because you don't expose them to digital tools. But then you don't have the digital tools because you don't have the infrastructure. And you don't have the infrastructure because you don't have the demand. Because you don't have the demand because you don't have the skill. It's a chicken and egg problem, a validation problem.",
+      "timestamp_abs": "80:07"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I would point the nine problem with a parallel, English speaking problem, which is that there you wanna raise skill because it's a a a nice novel patient. But from a certain point on, from the problem just to write and hold and they tell the problem. Don't get anywhere, any more context about it. So it's go to the problem because the thing is, I was very similar to you when I was a student. And the fact that I was not able to write in detail and explode one idea more and more, would give me going around and around and around the same introductory again and again. And that's not gonna help you, even for your PhD and how you're going to train that student.",
+      "timestamp_abs": "80:22"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you need like to be able to do to do teaching, you don't like lecture base.",
+      "timestamp_abs": "80:58"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Double click. So, what's the problem of lecture base and offline?",
+      "timestamp_abs": "81:07"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Double click. Lack of access infrastructure, digital course material.",
+      "timestamp_abs": "81:12"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Double click. What's digital course material problems?",
+      "timestamp_abs": "81:17"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But you mentioned, you know it. Digital course material problems, people are have a right to be in the assignments. Um, the lectures are the only thing that are not specific. In some cases and in some cases not.",
+      "timestamp_abs": "81:20"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Sorry, this problem there is digital skill professor is just speaking.",
+      "timestamp_abs": "81:35"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Speaking of electronics, right? Because",
+      "timestamp_abs": "81:39"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yes, you talking to me is an end user, speaker. And then writing on the board and sometimes, for example, sometimes when it comes about taking notes he can be reading next to them and I just like dictation and then...",
+      "timestamp_abs": "81:41"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So some cases happened.",
+      "timestamp_abs": "81:54"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, so, so this kind of you're giving examples of problems like some NGOs or some some because in our context it's difficult to find formal evidence factual like sources. For example, in the country itself, there's no civil society organization that evaluates this data on education. So maybe there are some colleagues that evaluate the status of education and they have pinpointed very deep deep causes. For example, one top problem could be capacity of professors, even the professors are digitally illiterate. Probably. They're not used to using all these online tools because they haven't been exposed to.",
+      "timestamp_abs": "81:56"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in your case, those are parallel problems because your problem, what you find, the problem is going to be the mobile first elements. Then the problem that you wanna deal here is the organization of the learning experience. That's all we need.",
+      "timestamp_abs": "82:42"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm going to take this. I'm going to ask you to read two paragraphs.",
+      "timestamp_abs": "82:57"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "I'm going to ask ARYANG. Can you read these two paragraphs for me? The first two that are in bold.",
+      "timestamp_abs": "83:00"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay. This paper illustrates how public and private universities in India have implemented digital infrastructure to deliver educational content and enhance learning experiences.",
+      "timestamp_abs": "83:04"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "A survey conducted by the National Council of Educational Research and Training NCERT in 2021 revealed that only 25% of students in government schools had access to smartphones for online learning. This digital divide highlights the urgent need for equitable access to digital resources to ensure inclusive education. While digital infrastructure has proven to be an effective tool for teaching and learning, the successful implementation of digital education initiatives also depends on factors such as teacher training, content development, and policy frameworks.",
+      "timestamp_abs": "83:13"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Thank you, ARYANG. Okay, so that's the first problem statement. I'm not going to tell you anything. MEGA, can you read the next two paragraphs? That start with this paper.",
+      "timestamp_abs": "83:49"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "This paper aims to provide insights into the challenges and opportunities associated with the implementation of digital infrastructure in universities across India. The findings of this study will contribute to the ongoing discourse on digital education and inform policy decisions aimed at promoting equitable and inclusive access to quality higher education.",
+      "timestamp_abs": "83:59"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "One of the key challenges faced by universities in India is the lack of adequate digital infrastructure, particularly in rural and remote areas. This includes limited access to reliable internet connectivity, insufficient availability of digital devices, and a shortage of trained faculty members. Additionally, there are concerns about the quality of digital content, the effectiveness of online teaching methodologies, and the need for robust cybersecurity measures to protect student data.",
+      "timestamp_abs": "84:20"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thank you, MEGA.",
+      "timestamp_abs": "84:53"
+    }
+  ]
+}

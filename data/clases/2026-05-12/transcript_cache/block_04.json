@@ -1,0 +1,293 @@
+{
+  "block": 4,
+  "time_range": "15:00-20:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Can I do that?",
+      "timestamp_abs": "15:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "15:01"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, you're right.",
+      "timestamp_abs": "15:02"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Depend on the market.",
+      "timestamp_abs": "15:03"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Why? Why does it depend on the market?",
+      "timestamp_abs": "15:04"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Because...",
+      "timestamp_abs": "15:07"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Anybody can help Mega? What's the critical valorization point for any innovation idea?",
+      "timestamp_abs": "15:10"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Failure?",
+      "timestamp_abs": "15:16"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All right. Yeah.",
+      "timestamp_abs": "15:16"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Value.",
+      "timestamp_abs": "15:18"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Value.",
+      "timestamp_abs": "15:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "It needs to create a value.",
+      "timestamp_abs": "15:20"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It needs to be... Uh-huh. So, sorry, now go on. It needs to be an innovation idea, so an idea that creates value.",
+      "timestamp_abs": "15:22"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "And also solving the problem, people who have problem.",
+      "timestamp_abs": "15:29"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay. But value for whom?",
+      "timestamp_abs": "15:32"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Value for Aryang's wallet?",
+      "timestamp_abs": "15:36"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "For the citizen.",
+      "timestamp_abs": "15:39"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Of course.",
+      "timestamp_abs": "15:40"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Value for, for, value for the citizens, or value for the people. Because it might be not necessarily, it could be, it could be a special stakeholder group. It cannot, it could be the normal citizen, very, very good. But it could be a special stakeholder group like students in the university, or, uh, R&D managers.",
+      "timestamp_abs": "15:42"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It could be a specific group. Right? It doesn't need to be for the national, at the national level. But it, it could be for a segment. But it needs to generate value and it needs to be for development.",
+      "timestamp_abs": "16:02"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Finally, we are global digital innovation and it's going to be for development.",
+      "timestamp_abs": "16:15"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So as I told you last time, the vision of this program is to generate leaders, digital leaders, global digital leaders, that can work on innovation problems for the development of the world, where we understand the way that Korea did it was not alone.",
+      "timestamp_abs": "16:19"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we cannot do it alone. So we need to practice how to collaborate.",
+      "timestamp_abs": "16:33"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So in the process of making you leaders, we created this track of global globalization, collaboration exercises, to help you practice how to build a real collaboration initiative.",
+      "timestamp_abs": "16:36"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And in this process of building a collaboration initiative, we thought, 'Why do we just make it, why don't we let's not make it a general empty paper output?'",
+      "timestamp_abs": "16:49"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let's make it a real project, a real project that involves a stakeholder. But for me to handle a collaboration project between Congo and Germany from Korea is very difficult.",
+      "timestamp_abs": "16:59"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And our program gets funding from the Korean government. So one of the ways we connected is, ah, we're gonna support the Korean innovation ecosystem by being able to connect to global partners for solving relevant, worldwide relevant development blocks or development issues or challenges, right? And that might eventually create market opportunities for value generation.",
+      "timestamp_abs": "17:13"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is that more clearer now?",
+      "timestamp_abs": "17:37"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Anything you want to add?",
+      "timestamp_abs": "17:39"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "No, uh, just, I will like, in partnership, we can have like, there are two options. That's how I take it from my, my understanding.",
+      "timestamp_abs": "17:41"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "We can partner that we are going to have like a, like a solution maybe. The company from here can make a solution from here and we will offer it to my country maybe, for example.",
+      "timestamp_abs": "17:50"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "And they try to customize according to the maybe the problem. That's one way we can partner for that.",
+      "timestamp_abs": "18:03"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Another one, the way I think, we can say that we as Rwanda, or as a government, we we we cannot outsource the solution, but we can have an experts from the country X to come to Rwanda and supervise the project in terms of how we are going to build it according to the nature of our country or something like that.",
+      "timestamp_abs": "18:08"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So there are, that's how I was thinking in terms of solution.",
+      "timestamp_abs": "18:35"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So this is, this is important, this is important because this is kind of what you are trying to imagine here. So I, as I developed my own technology commercialization projects, I didn't do it step A, step B, step C, step D. I didn't do it like that.",
+      "timestamp_abs": "18:37"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "While I was doing step A, like a parallel, I was already trying to imagine step B because many stakeholders in my country are asking, 'But how are you going to do this? But do you have budget?' And many are asking about these questions. So I need to start figuring out how I think this could happen in order to progress just this stage. Because people will ask from the both sides. Even the Korean stakeholder will say, 'Do you have the budget? Or how, what are you planning? How, what is it you need?'",
+      "timestamp_abs": "18:51"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I needed to start imagining by myself how I can cook this project, maybe it could be that way. So because of my personal experience of doing these projects, I decided that in my course, I needed to give you that view early on.",
+      "timestamp_abs": "19:16"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And that's why we designed the ICP with all these questions. But I, I realized that, ah, maybe I moved too fast. They, they need to understand this step by step also for, for them to be able to connect the pieces.",
+      "timestamp_abs": "19:28"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The other thing that I wanted to tell you is, in your case, I kept studying during that this last week that we had a free, how did Korea solve the issue of the phishing and the smishing and all of these issues.",
+      "timestamp_abs": "19:42"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I wanted to tell you, Stephen, that this learning, there is a very recent big case in...",
+      "timestamp_abs": "19:54"
+    }
+  ]
+}

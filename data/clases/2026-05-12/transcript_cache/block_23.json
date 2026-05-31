@@ -1,0 +1,13 @@
+{
+  "block": 23,
+  "time_range": "01:10-01:15",
+  "utterances": [
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, but um, but I will, I will just try to understand how you can mix, make, make that happen.",
+      "timestamp_abs": "111:10"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "class_info": {
+    "date": "2026-04-07",
+    "duration": "69 minutos",
+    "teacher": "Ileana",
+    "students": [
+      "Aryang",
+      "Grace",
+      "Chilaka",
+      "Sthepen",
+      "Mega"
+    ],
+    "analysis_method": "Manual verification by user + speaker identification"
+  },
+  "teacher_questions": {
+    "confirmed_timestamps": [
+      "00:02:02-00:02:30",
+      "00:06:48-00:07:40",
+      "04:55-05:05",
+      "06:55-07:05",
+      "~12:45-13:05",
+      "~15:40-16:00",
+      "~18:25-18:45",
+      "~29:55-30:15",
+      "~34:55-35:15",
+      "~39:55-40:15"
+    ],
+    "total_question_segments": 10,
+    "note": "Ileana aparece en prácticamente todo el audio como maestra"
+  },
+  "student_verified_participation": {
+    "Aryang": {
+      "verified": true,
+      "confirmed_timestamps": [
+        {
+          "time": "00:23-00:55",
+          "duration_seconds": 32
+        },
+        {
+          "time": "00:01:14-00:01:40",
+          "duration_seconds": 26
+        },
+        {
+          "time": "00:02:33-00:02:39",
+          "duration_seconds": 6
+        },
+        {
+          "time": "00:03:30-00:03:38",
+          "duration_seconds": 8
+        },
+        {
+          "time": "08:44-09:15",
+          "duration_seconds": 31
+        }
+      ],
+      "total_samples": 5,
+      "total_duration_seconds": 103,
+      "confidence": "VERY HIGH"
+    },
+    "Grace": {
+      "verified": true,
+      "origin": "Congo",
+      "confirmed_timestamps": [
+        {
+          "time": "21:10-21:20",
+          "duration_seconds": 10
+        },
+        {
+          "time": "~22:26",
+          "note": "Approx"
+        },
+        {
+          "time": "28:26-29:10",
+          "duration_seconds": 44
+        },
+        {
+          "time": "29:00-29:10",
+          "duration_seconds": 10
+        }
+      ],
+      "total_samples": 4,
+      "total_duration_seconds": 74,
+      "confidence": "VERY HIGH"
+    },
+    "Chilaka": {
+      "verified": false,
+      "status": "PENDING REVIEW",
+      "note": "No segments confirmed yet"
+    },
+    "Sthepen": {
+      "verified": false,
+      "status": "PENDING REVIEW",
+      "note": "No segments confirmed yet"
+    },
+    "Mega": {
+      "verified": false,
+      "status": "PENDING REVIEW",
+      "note": "No segments confirmed yet"
+    }
+  },
+  "teacher_voice_profile": {
+    "name": "Ileana",
+    "role": "Teacher/Profesora",
+    "training_samples": 9,
+    "total_training_duration": "220 segundos",
+    "identification_confidence": "VERY HIGH - FULLY IDENTIFIED",
+    "characteristics": [
+      "Clear Spanish accent",
+      "Educational instruction style",
+      "Asks questions to students",
+      "Provides explanations",
+      "Manages classroom discussion"
+    ]
+  },
+  "summary": {
+    "total_speakers": 6,
+    "fully_identified": 3,
+    "pending_identification": 2,
+    "missing": 1,
+    "total_analysis_time_invested": "~2 hours manual + automated attempts"
+  }
+}

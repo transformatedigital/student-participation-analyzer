@@ -1,0 +1,327 @@
+{
+  "block": 29,
+  "time_range": "140:00-145:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that you will okay. After you review your documents, they will tell you, ah, this is how we can do it.",
+      "timestamp_abs": "140:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I have a department who can do the consulting, but we need the budget. Or no, actually, here has somebody doing an actual project, we can do it this way.",
+      "timestamp_abs": "140:06"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We don't know yet.",
+      "timestamp_abs": "140:14"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We need to give them your ICP in detail and send them an email so that they can review it and let us know.",
+      "timestamp_abs": "140:16"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We are at that stage of space. And after that we're going to do the same with J.",
+      "timestamp_abs": "140:23"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So the first I have to uh, uh, advise my ICP and give a lot of data to Kia so that they can analyze your definitely and let us know if there is some feasible model and even in that sense, maybe you can tell them that maybe talk to your director, director has part of it or not. Mhm.",
+      "timestamp_abs": "140:28"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because after your director say, hey director, I'm going to make a proposal to them, not from your word.",
+      "timestamp_abs": "140:46"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And if we have some budget or something that we can put in the table, let's say, we don't have R&D directly, we don't have a fund to do an actual project, right?",
+      "timestamp_abs": "140:51"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "How you know? But we could put in the table two engineers and the know how of Java.",
+      "timestamp_abs": "141:02"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Even that will was show ah, this project, they really have you have a really interest in this project, right? Even if you don't have cash.",
+      "timestamp_abs": "141:08"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "141:17"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mm.",
+      "timestamp_abs": "141:19"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then they will say, okay, I'm going to put this one as a seating investment, non cash seating investment. And then we need to travel or this a trip, this one also carry out for you.",
+      "timestamp_abs": "141:20"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Totally means we are both investing some opportunity.",
+      "timestamp_abs": "141:32"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thinking that eventually this that they will create value for both, Indonesian will solve the problem and Korean will get the ability to to enter this market.",
+      "timestamp_abs": "141:36"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So, do you think we should get that the BBM should join for the research? Or",
+      "timestamp_abs": "141:46"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "uh, usually we, we as a researchers work but we asked to the we ask the data for the BBM. So, the the the human resource they to do the research only from the Korean and also the Kia.",
+      "timestamp_abs": "141:52"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And we still need the.",
+      "timestamp_abs": "142:11"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Uh, you're asking people? Okay.",
+      "timestamp_abs": "142:12"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That kind of information, you guys on.",
+      "timestamp_abs": "142:15"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "The belief that they very understand what the research is about. Yeah.",
+      "timestamp_abs": "142:17"
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, so maybe you'll say is not support they need researchers they take their data. Yes.",
+      "timestamp_abs": "142:21"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "We can show our plan to them.",
+      "timestamp_abs": "142:27"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So that you can.",
+      "timestamp_abs": "142:30"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is what I want to hear from you guys. This is very important. When I say stakeholder mapping and role and responsibility, decision on role and responsibility, this is what we're talking about.",
+      "timestamp_abs": "142:33"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "142:45"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "142:48"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Thank you for your very important question.",
+      "timestamp_abs": "142:50"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Sorry my detail.",
+      "timestamp_abs": "142:53"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, it's very important. And of course, this is again, as I told you, we are dealing with a lot of uncertainty.",
+      "timestamp_abs": "142:55"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. Right? But but we are knocking the doors to see. And my experience, if what we didn't we get shy because it's very. Is very that you have to go that you got that you know, what do you mean? I will pay for whatever you want. No, it's not like that, yeah. No institution will say hey, you know what? Whatever you want for. No.",
+      "timestamp_abs": "143:03"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "We can be.",
+      "timestamp_abs": "143:28"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "What what do we have to pay to the.",
+      "timestamp_abs": "143:29"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "still wondering what.",
+      "timestamp_abs": "143:32"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "What?",
+      "timestamp_abs": "143:33"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "What do you mean by funding?",
+      "timestamp_abs": "143:34"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the data you need to pay for the data sometimes licensing for data.",
+      "timestamp_abs": "143:37"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For.",
+      "timestamp_abs": "143:44"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, something like operational costs in general. But in this case, for example, I don't know if we need to travel to Chirata and see someone, right? Or you want a cooperation. For example, if the researchers need to travel to the Chirata site and they need to see and they will have a lot of.",
+      "timestamp_abs": "143:45"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "They're like a basic.",
+      "timestamp_abs": "144:03"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They're kind of basic. Should not be very expensive but they need to run on something. They need fuel.",
+      "timestamp_abs": "144:04"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Can you give me the data from the PM and you just.",
+      "timestamp_abs": "144:10"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "it is written.",
+      "timestamp_abs": "144:15"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I can show.",
+      "timestamp_abs": "144:16"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not only data because the research the researchers need to go to the place. So school will tell, right? And also for example, in the case of here probably you will be some interested they will want to travel to Chirata to see because you do a workshop. He see something we need a joint workshop with So what are you doing here? like that. So today they told me, I asked is a good role model for this they told me, no, because the interesting thing about is has other additionally complementary sources of the power. But maybe only. So for",
+      "timestamp_abs": "144:17"
+    }
+  ]
+}

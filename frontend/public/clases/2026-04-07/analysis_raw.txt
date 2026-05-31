@@ -1,0 +1,2697 @@
+{
+  "session": {
+    "date": "April 7, 2026",
+    "duration_minutes": 69,
+    "audio_file": "7 abrilLENA CLASE 3:00PM.m4a"
+  },
+  "participation_timeline": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "topics that you, like questions you have"
+    },
+    {
+      "timestamp": "00:00:10",
+      "speaker": "Sthepen",
+      "duration_seconds": 2,
+      "text_preview": "Okay, so because, uhm"
+    },
+    {
+      "timestamp": "00:00:12",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "if I rather have you share your problems"
+    },
+    {
+      "timestamp": "00:00:19",
+      "speaker": "Sthepen",
+      "duration_seconds": 13,
+      "text_preview": "Okay, so because, uh, for the for the"
+    },
+    {
+      "timestamp": "00:00:33",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "With Microsoft?"
+    },
+    {
+      "timestamp": "00:00:34",
+      "speaker": "Sthepen",
+      "duration_seconds": 9,
+      "text_preview": "Microsoft Copilot for using the AI for"
+    },
+    {
+      "timestamp": "00:00:43",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "No, yeah"
+    },
+    {
+      "timestamp": "00:00:44",
+      "speaker": "Sthepen",
+      "duration_seconds": 7,
+      "text_preview": "Yeah, yeah. So, and I ask him, uh"
+    },
+    {
+      "timestamp": "00:00:51",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Okay."
+    },
+    {
+      "timestamp": "00:00:52",
+      "speaker": "Sthepen",
+      "duration_seconds": 10,
+      "text_preview": "the the the project. And he said it's, yeah"
+    },
+    {
+      "timestamp": "00:01:03",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "That's exactly what I tell you. On the"
+    },
+    {
+      "timestamp": "00:01:10",
+      "speaker": "Sthepen",
+      "duration_seconds": 2,
+      "text_preview": "Uh, wait, wait, wait, wait, wait, wait a"
+    },
+    {
+      "timestamp": "00:01:12",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Yeah, yeah, yeah."
+    },
+    {
+      "timestamp": "00:01:14",
+      "speaker": "Sthepen",
+      "duration_seconds": 7,
+      "text_preview": "They already journey, they already doing the"
+    },
+    {
+      "timestamp": "00:01:21",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Uh-huh."
+    },
+    {
+      "timestamp": "00:01:22",
+      "speaker": "Sthepen",
+      "duration_seconds": 10,
+      "text_preview": "Uh, so the one that, uh, after available"
+    },
+    {
+      "timestamp": "00:01:33",
+      "speaker": "Sthepen",
+      "duration_seconds": 10,
+      "text_preview": "And I don't know, is it, is it possible to"
+    },
+    {
+      "timestamp": "00:01:41",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "No, I think this is just around another"
+    },
+    {
+      "timestamp": "00:01:46",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "That's why I wanted to tell you before"
+    },
+    {
+      "timestamp": "00:01:50",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 13,
+      "text_preview": "If you see here, if you see it from the"
+    },
+    {
+      "timestamp": "00:02:03",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 8,
+      "text_preview": "This is the mother M I C T. And then"
+    },
+    {
+      "timestamp": "00:02:11",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 13,
+      "text_preview": "plus KISTI. And then KISTI makes some money"
+    },
+    {
+      "timestamp": "00:02:24",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "SoftTech also makes some money probably. They"
+    },
+    {
+      "timestamp": "00:02:31",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "for the IP."
+    },
+    {
+      "timestamp": "00:02:32",
+      "speaker": "Sthepen",
+      "duration_seconds": 3,
+      "text_preview": "Sorry, sorry, sorry."
+    },
+    {
+      "timestamp": "00:02:35",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "Not not SoftTech, but SoftTech paid to"
+    },
+    {
+      "timestamp": "00:02:41",
+      "speaker": "Sthepen",
+      "duration_seconds": 3,
+      "text_preview": "Yes. KISTI paid money,"
+    },
+    {
+      "timestamp": "00:02:44",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "Uh-huh. As a developer IT support service"
+    },
+    {
+      "timestamp": "00:02:48",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Okay. So money"
+    },
+    {
+      "timestamp": "00:02:50",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "But if SoftTech wants to sell"
+    },
+    {
+      "timestamp": "00:02:53",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "the service to KISTI, they have to pay"
+    },
+    {
+      "timestamp": "00:02:56",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "Because the intellectual property of NTI is"
+    },
+    {
+      "timestamp": "00:03:03",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "So he didn't explain detail, the business"
+    },
+    {
+      "timestamp": "00:03:06",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "KISTI gets money from the royalty, so they"
+    },
+    {
+      "timestamp": "00:03:12",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Mhm."
+    },
+    {
+      "timestamp": "00:03:13",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 24,
+      "text_preview": "So if SoftTech will use this IP to translate"
+    },
+    {
+      "timestamp": "00:03:38",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Why should it English?"
+    },
+    {
+      "timestamp": "00:03:39",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "Because, because KISTI has the know-how"
+    },
+    {
+      "timestamp": "00:03:43",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "and ownership of the old process. SoftTech"
+    },
+    {
+      "timestamp": "00:03:46",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "is a private company to just provide IT"
+    },
+    {
+      "timestamp": "00:03:49",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "Of course they have some know-how of IT cooperation"
+    },
+    {
+      "timestamp": "00:03:56",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "It's from the public sector."
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Sthepen",
+      "duration_seconds": 2,
+      "text_preview": "Sorry, I externally."
+    },
+    {
+      "timestamp": "00:04:02",
+      "speaker": "Sthepen",
+      "duration_seconds": 15,
+      "text_preview": "I mean, I mean, why why didn't the SoftTech"
+    },
+    {
+      "timestamp": "00:04:18",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "Because the process is not copy-paste. It's"
+    },
+    {
+      "timestamp": "00:04:23",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 9,
+      "text_preview": "There is many iterations here. Remember he said"
+    },
+    {
+      "timestamp": "00:04:32",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "The user interface needs to change. Some process"
+    },
+    {
+      "timestamp": "00:04:38",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "Tropicalized, so to say. It's made for Costa"
+    },
+    {
+      "timestamp": "00:04:42",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "It's like inspired in NTIs, made for Costa"
+    },
+    {
+      "timestamp": "00:04:47",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 13,
+      "text_preview": "So this concept is a concept of adaptation, adoption"
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "Because the process is not exactly the same"
+    },
+    {
+      "timestamp": "00:05:06",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "Then he mentioned the Bottoms, some commerce"
+    },
+    {
+      "timestamp": "00:05:11",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "It's not only about"
+    },
+    {
+      "timestamp": "00:05:12",
+      "speaker": "Sthepen",
+      "duration_seconds": 4,
+      "text_preview": "Ah, so, sorry. Uh, who make"
+    },
+    {
+      "timestamp": "00:05:16",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "The adaptation, the ICE or the SoftTech?"
+    },
+    {
+      "timestamp": "00:05:21",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 15,
+      "text_preview": "Together. Because anyway you do the technology"
+    },
+    {
+      "timestamp": "00:05:36",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "And KISTI also collaborate here because KISTI knows"
+    },
+    {
+      "timestamp": "00:05:46",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "You get it? So, in your case"
+    },
+    {
+      "timestamp": "00:05:49",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "back to your question. It's not something"
+    },
+    {
+      "timestamp": "00:05:52",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "just giving the LLM service Copilot license"
+    },
+    {
+      "timestamp": "00:05:56",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "So, I don't see an opportunity for a Korean"
+    },
+    {
+      "timestamp": "00:06:02",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "another new"
+    },
+    {
+      "timestamp": "00:06:03",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "You are back to square one. That's"
+    },
+    {
+      "timestamp": "00:06:06",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "That's a straightforward answer to you"
+    },
+    {
+      "timestamp": "00:06:09",
+      "speaker": "Sthepen",
+      "duration_seconds": 5,
+      "text_preview": "Okay. Just out of curiosity. Why didn't"
+    },
+    {
+      "timestamp": "00:06:14",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "I told you."
+    },
+    {
+      "timestamp": "00:06:17",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "No, no money,"
+    },
+    {
+      "timestamp": "00:06:18",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 20,
+      "text_preview": "No, no know-how. Do you think MICT is willing"
+    },
+    {
+      "timestamp": "00:06:38",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "So, why MICT is doing this business? Because"
+    },
+    {
+      "timestamp": "00:06:43",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 9,
+      "text_preview": "The value of this, okay? I need a local"
+    },
+    {
+      "timestamp": "00:06:53",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 15,
+      "text_preview": "I always say don't want to have this kind"
+    },
+    {
+      "timestamp": "00:07:09",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "So they say I need a local person, a local"
+    },
+    {
+      "timestamp": "00:07:16",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 9,
+      "text_preview": "Right? But I don't need anybody. I need somebody"
+    },
+    {
+      "timestamp": "00:07:25",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 13,
+      "text_preview": "From a proven expert, somebody who has proven"
+    },
+    {
+      "timestamp": "00:07:38",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 20,
+      "text_preview": "It's a lot, right? So NPI, all the standardization"
+    },
+    {
+      "timestamp": "00:07:58",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 11,
+      "text_preview": "So that's the key character. It's not just"
+    },
+    {
+      "timestamp": "00:08:10",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Okay."
+    },
+    {
+      "timestamp": "00:08:12",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "But if you"
+    },
+    {
+      "timestamp": "00:08:14",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 12,
+      "text_preview": "Let's think about it. I I told you I already"
+    },
+    {
+      "timestamp": "00:08:26",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 14,
+      "text_preview": "So, he's on a business trip, but I'm trying"
+    },
+    {
+      "timestamp": "00:08:41",
+      "speaker": "Sthepen",
+      "duration_seconds": 23,
+      "text_preview": "Actually, tomorrow I will have, you know, because"
+    },
+    {
+      "timestamp": "00:09:04",
+      "speaker": "Sthepen",
+      "duration_seconds": 5,
+      "text_preview": "to use that service. But right now they"
+    },
+    {
+      "timestamp": "00:09:09",
+      "speaker": "Sthepen",
+      "duration_seconds": 9,
+      "text_preview": "the the the percentage of success is very"
+    },
+    {
+      "timestamp": "00:09:18",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "The accuracy level."
+    },
+    {
+      "timestamp": "00:09:19",
+      "speaker": "Sthepen",
+      "duration_seconds": 2,
+      "text_preview": "Yeah, the accuracy. There's how"
+    },
+    {
+      "timestamp": "00:09:21",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "I know you were there."
+    },
+    {
+      "timestamp": "00:09:23",
+      "speaker": "Sthepen",
+      "duration_seconds": 6,
+      "text_preview": "And so tomorrow, maybe I will I have some"
+    },
+    {
+      "timestamp": "00:09:29",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Yeah."
+    },
+    {
+      "timestamp": "00:09:30",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "But I'm sorry, you learn, you have to"
+    },
+    {
+      "timestamp": "00:09:33",
+      "speaker": "Sthepen",
+      "duration_seconds": 2,
+      "text_preview": "It happens."
+    },
+    {
+      "timestamp": "00:09:35",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "Okay. Okay. You need any help in the process"
+    },
+    {
+      "timestamp": "00:09:40",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Okay."
+    },
+    {
+      "timestamp": "00:09:41",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "Don't don't worry, this course is exactly"
+    },
+    {
+      "timestamp": "00:09:45",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "That's why you"
+    },
+    {
+      "timestamp": "00:09:46",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Well deserved."
+    },
+    {
+      "timestamp": "00:09:47",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "That good thing"
+    },
+    {
+      "timestamp": "00:09:48",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 14,
+      "text_preview": "It's not I'm not going to evaluate you. I"
+    },
+    {
+      "timestamp": "00:10:02",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 15,
+      "text_preview": "It's really case-by-case business name for"
+    },
+    {
+      "timestamp": "00:10:17",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "I'm evaluating what you are learning about"
+    },
+    {
+      "timestamp": "00:10:27",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "And we have to do all"
+    },
+    {
+      "timestamp": "00:10:29",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 23,
+      "text_preview": "It might happen to Chilaka that he thought"
+    },
+    {
+      "timestamp": "00:10:52",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 17,
+      "text_preview": "My country or for my entity, this is what"
+    },
+    {
+      "timestamp": "00:11:00",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Uh, and one"
+    },
+    {
+      "timestamp": "00:11:01",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "More, maybe the Grace already asked this"
+    },
+    {
+      "timestamp": "00:11:05",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Because there's no"
+    },
+    {
+      "timestamp": "00:11:06",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "I want to"
+    },
+    {
+      "timestamp": "00:11:07",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "I want to ask"
+    },
+    {
+      "timestamp": "00:11:07",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "I am Korean."
+    },
+    {
+      "timestamp": "00:11:08",
+      "speaker": "Sthepen",
+      "duration_seconds": 2,
+      "text_preview": "Oh, my God. I'm sorry."
+    },
+    {
+      "timestamp": "00:11:11",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "I'm sorry."
+    },
+    {
+      "timestamp": "00:11:12",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "나는 왜 이렇게"
+    },
+    {
+      "timestamp": "00:11:13",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Mianheyo."
+    },
+    {
+      "timestamp": "00:11:14",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Mianheyo."
+    },
+    {
+      "timestamp": "00:11:15",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Sorry."
+    },
+    {
+      "timestamp": "00:11:16",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Sorry, you heard"
+    },
+    {
+      "timestamp": "00:11:17",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "I am Korean."
+    },
+    {
+      "timestamp": "00:11:19",
+      "speaker": "Sthepen",
+      "duration_seconds": 13,
+      "text_preview": "Uhm, besides the the the opportunity to"
+    },
+    {
+      "timestamp": "00:11:32",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "KISTI, okay?"
+    },
+    {
+      "timestamp": "00:11:34",
+      "speaker": "Sthepen",
+      "duration_seconds": 3,
+      "text_preview": "No, no, not not for KISTI."
+    },
+    {
+      "timestamp": "00:11:37",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 21,
+      "text_preview": "Ah, we, when we, we our program, KAIST"
+    },
+    {
+      "timestamp": "00:11:59",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Your scholarship is your"
+    },
+    {
+      "timestamp": "00:12:01",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 28,
+      "text_preview": "No, it's not a lie. It's real. The way"
+    },
+    {
+      "timestamp": "00:12:29",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 12,
+      "text_preview": "Okay? So we are investing in in possible"
+    },
+    {
+      "timestamp": "00:12:41",
+      "speaker": "Sthepen",
+      "duration_seconds": 5,
+      "text_preview": "So, right right now it's like burning money"
+    },
+    {
+      "timestamp": "00:12:47",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 19,
+      "text_preview": "You guys are Korean investment. Me, I am"
+    },
+    {
+      "timestamp": "00:13:06",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 25,
+      "text_preview": "But you must know that the vision of this"
+    },
+    {
+      "timestamp": "00:13:31",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 12,
+      "text_preview": "There. It's there, right? See? No, it's"
+    },
+    {
+      "timestamp": "00:13:43",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "It's not at all explicit. Just at the"
+    },
+    {
+      "timestamp": "00:13:48",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Oh, it's very"
+    },
+    {
+      "timestamp": "00:13:49",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "It's very explicit. No."
+    },
+    {
+      "timestamp": "00:13:51",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 11,
+      "text_preview": "I also, I also thought like you, why why"
+    },
+    {
+      "timestamp": "00:14:02",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 57,
+      "text_preview": "Why these guys are pushing me to do technology"
+    },
+    {
+      "timestamp": "00:14:59",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "My theoretical academic work and research"
+    },
+    {
+      "timestamp": "00:15:02",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Yeah, and dissertation."
+    },
+    {
+      "timestamp": "00:15:03",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "So, also think about that when you pick"
+    },
+    {
+      "timestamp": "00:15:08",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "Maybe your PhD must be related to innovation"
+    },
+    {
+      "timestamp": "00:15:18",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Okay."
+    },
+    {
+      "timestamp": "00:15:20",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "So, um, this kind of thing. Find the synergy."
+    },
+    {
+      "timestamp": "00:15:25",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Find it."
+    },
+    {
+      "timestamp": "00:15:26",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 11,
+      "text_preview": "But but the thing is, you know, I I I am"
+    },
+    {
+      "timestamp": "00:15:37",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "Business management field, and pouring international"
+    },
+    {
+      "timestamp": "00:15:44",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "So I never thought I would go to a IT technology"
+    },
+    {
+      "timestamp": "00:15:54",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "The copper and the graphene graphene project"
+    },
+    {
+      "timestamp": "00:15:59",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "I never knew, right?"
+    },
+    {
+      "timestamp": "00:16:01",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 8,
+      "text_preview": "But thanks to those very random opportunities"
+    },
+    {
+      "timestamp": "00:16:09",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "Now, World Bank calls me, Ileana, can you do"
+    },
+    {
+      "timestamp": "00:16:15",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "Or the KAIST, NIPA calls me, can you deliver"
+    },
+    {
+      "timestamp": "00:16:20",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "Every time they call me, it's money. Every"
+    },
+    {
+      "timestamp": "00:16:30",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "So, at this point, Brace, some projects might"
+    },
+    {
+      "timestamp": "00:16:40",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "As kind of your investment in yourself"
+    },
+    {
+      "timestamp": "00:16:44",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 9,
+      "text_preview": "Now, I can call the NTIs president and say"
+    },
+    {
+      "timestamp": "00:16:53",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "You told me back then, you asked me about"
+    },
+    {
+      "timestamp": "00:17:03",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 12,
+      "text_preview": "The POSCO CEO gave me an opportunity to do"
+    },
+    {
+      "timestamp": "00:17:15",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 16,
+      "text_preview": "They didn't give me a payment, but they gave"
+    },
+    {
+      "timestamp": "00:17:31",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 18,
+      "text_preview": "One of the biggest in electric vehicle charging"
+    },
+    {
+      "timestamp": "00:17:49",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 23,
+      "text_preview": "I never knew it's just really the guy I was"
+    },
+    {
+      "timestamp": "00:18:12",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Yeah."
+    },
+    {
+      "timestamp": "00:18:13",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "And that's a result of that project, right"
+    },
+    {
+      "timestamp": "00:18:23",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "Maybe it will help him later to write his"
+    },
+    {
+      "timestamp": "00:18:29",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 9,
+      "text_preview": "It didn't mean it didn't happen. It happened"
+    },
+    {
+      "timestamp": "00:18:38",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "So, it's okay."
+    },
+    {
+      "timestamp": "00:18:40",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Don't need to be shy about"
+    },
+    {
+      "timestamp": "00:18:42",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "But who knows"
+    },
+    {
+      "timestamp": "00:18:43",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 14,
+      "text_preview": "If I ask Sincity, if I ask SoftTech, have"
+    },
+    {
+      "timestamp": "00:18:57",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "I don't know. So, from a perspective of Korea"
+    },
+    {
+      "timestamp": "00:19:02",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "It might have a very good return on investment."
+    },
+    {
+      "timestamp": "00:19:04",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "Also from the perspective of KISTI, because"
+    },
+    {
+      "timestamp": "00:19:09",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "One Korean company had the opportunity to enter"
+    },
+    {
+      "timestamp": "00:19:15",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "Becomes KISTI's performance. So don't think"
+    },
+    {
+      "timestamp": "00:19:18",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "That they don't have, they also have a stake"
+    },
+    {
+      "timestamp": "00:19:24",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Non-capital benefit, right?"
+    },
+    {
+      "timestamp": "00:19:26",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Okay."
+    },
+    {
+      "timestamp": "00:19:27",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "Um, anything, is that Grace, anything"
+    },
+    {
+      "timestamp": "00:19:31",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "No, actually I"
+    },
+    {
+      "timestamp": "00:19:32",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "Just wanted this kind of one, so I will just"
+    },
+    {
+      "timestamp": "00:19:36",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "Restructure with that, but before you restructure"
+    },
+    {
+      "timestamp": "00:19:43",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "I want to show you."
+    },
+    {
+      "timestamp": "00:19:49",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "Next week, when is going to be"
+    },
+    {
+      "timestamp": "00:19:52",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "The midterm, right?"
+    },
+    {
+      "timestamp": "00:19:53",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "22nd. 22nd."
+    },
+    {
+      "timestamp": "00:19:56",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "Our now, our our calendar doesn't need to"
+    },
+    {
+      "timestamp": "00:20:01",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 15,
+      "text_preview": "My idea is we can delay it a bit if we"
+    },
+    {
+      "timestamp": "00:20:16",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 20,
+      "text_preview": "At some point, many of you will have a real"
+    },
+    {
+      "timestamp": "00:20:36",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 8,
+      "text_preview": "So I want to give you that from now, so that"
+    },
+    {
+      "timestamp": "00:20:44",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "So, one of the things"
+    },
+    {
+      "timestamp": "00:20:46",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 13,
+      "text_preview": "What Grace is saying or for example, what"
+    },
+    {
+      "timestamp": "00:20:59",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 13,
+      "text_preview": "You were saying I'm trying to find the AI"
+    },
+    {
+      "timestamp": "00:21:12",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "And he confirmed."
+    },
+    {
+      "timestamp": "00:21:13",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Ah, no, you know what?"
+    },
+    {
+      "timestamp": "00:21:15",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "You already hired the Copilot."
+    },
+    {
+      "timestamp": "00:21:17",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "It means your demand evaluation, due diligence"
+    },
+    {
+      "timestamp": "00:21:22",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "So,"
+    },
+    {
+      "timestamp": "00:21:24",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "You turn up. So, we need to"
+    },
+    {
+      "timestamp": "00:21:27",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 11,
+      "text_preview": "So, what is Chilaka doing now? Chilaka already"
+    },
+    {
+      "timestamp": "00:21:38",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "He's continued to doing this demand validation"
+    },
+    {
+      "timestamp": "00:21:44",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 15,
+      "text_preview": "The difference between an A+ and an A-. You're"
+    },
+    {
+      "timestamp": "00:21:59",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "I'm going to look"
+    },
+    {
+      "timestamp": "00:22:01",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "I will provide these slides to you"
+    },
+    {
+      "timestamp": "00:22:05",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "I will explain one"
+    },
+    {
+      "timestamp": "00:22:06",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "We are evaluating things in terms of three"
+    },
+    {
+      "timestamp": "00:22:10",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Suitability, how suitable the project"
+    },
+    {
+      "timestamp": "00:22:12",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Feasibility, how feasible the project"
+    },
+    {
+      "timestamp": "00:22:14",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "And acceptability, and look at this. For"
+    },
+    {
+      "timestamp": "00:22:20",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "This one is very important."
+    },
+    {
+      "timestamp": "00:22:22",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 23,
+      "text_preview": "Why? Because our vision, KAIST GDI vision"
+    },
+    {
+      "timestamp": "00:22:45",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "Okay. So, this is very important, right"
+    },
+    {
+      "timestamp": "00:22:49",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 14,
+      "text_preview": "The linkage to your own role. So, like, for"
+    },
+    {
+      "timestamp": "00:23:03",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "This will create some track for your career."
+    },
+    {
+      "timestamp": "00:23:07",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 12,
+      "text_preview": "I built this project together with Korea"
+    },
+    {
+      "timestamp": "00:23:19",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 15,
+      "text_preview": "So, this kind of thing, I think we need to"
+    },
+    {
+      "timestamp": "00:23:34",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 15,
+      "text_preview": "This kind of question, key to Grace. Grace"
+    },
+    {
+      "timestamp": "00:23:49",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 8,
+      "text_preview": "My institution is the Kinshasa University."
+    },
+    {
+      "timestamp": "00:23:57",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 14,
+      "text_preview": "So, you want to decide what's going to be"
+    },
+    {
+      "timestamp": "00:24:11",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 18,
+      "text_preview": "I I really try to write it in kind of question"
+    },
+    {
+      "timestamp": "00:24:29",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 14,
+      "text_preview": "Of course, there's going to be many gaps because"
+    },
+    {
+      "timestamp": "00:24:43",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "So, I will explain about this next time."
+    },
+    {
+      "timestamp": "00:24:49",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "And and you want to think about this when"
+    },
+    {
+      "timestamp": "00:24:53",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "These slides I'm I'm going to"
+    },
+    {
+      "timestamp": "00:24:56",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "Another thing I very quickly I want to show"
+    },
+    {
+      "timestamp": "00:25:03",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 12,
+      "text_preview": "Is you guys had, if you read my syllabus"
+    },
+    {
+      "timestamp": "00:25:15",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "Sectoral labs idea was to make one class"
+    },
+    {
+      "timestamp": "00:25:22",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 12,
+      "text_preview": "A Fintech of that topic. So my idea was"
+    },
+    {
+      "timestamp": "00:25:34",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 9,
+      "text_preview": "All of us can have a chance to really understand"
+    },
+    {
+      "timestamp": "00:25:43",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "What is learning management, what is the marketplace"
+    },
+    {
+      "timestamp": "00:25:53",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 23,
+      "text_preview": "What policies are needed to do this? So we"
+    },
+    {
+      "timestamp": "00:26:16",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "Sometimes there are topics on about IT, related"
+    },
+    {
+      "timestamp": "00:26:26",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 14,
+      "text_preview": "Maybe doing a sectoral labs is going to be"
+    },
+    {
+      "timestamp": "00:26:40",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "It's too difficult"
+    },
+    {
+      "timestamp": "00:26:41",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "The connection between one"
+    },
+    {
+      "timestamp": "00:26:43",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Okay."
+    },
+    {
+      "timestamp": "00:26:44",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "So, I thought"
+    },
+    {
+      "timestamp": "00:26:45",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 9,
+      "text_preview": "Maybe we can do, we can change this into"
+    },
+    {
+      "timestamp": "00:26:54",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Strategic issues, like make"
+    },
+    {
+      "timestamp": "00:26:56",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "Frameworks that we have read. So, already"
+    },
+    {
+      "timestamp": "00:27:00",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "You guys read about this, right? You already"
+    },
+    {
+      "timestamp": "00:27:05",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "You should know what this is. And I that's"
+    },
+    {
+      "timestamp": "00:27:12",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 16,
+      "text_preview": "Many of the things I say here quickly might"
+    },
+    {
+      "timestamp": "00:27:28",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "So, I thought maybe one of the ways to help"
+    },
+    {
+      "timestamp": "00:27:38",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "Put it in practice, right? Make the debate"
+    },
+    {
+      "timestamp": "00:27:48",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "Let's use your project, like your project"
+    },
+    {
+      "timestamp": "00:27:58",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "So for instance"
+    },
+    {
+      "timestamp": "00:28:00",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "I could do this kind of"
+    },
+    {
+      "timestamp": "00:28:01",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "I'm going to start calling you next class"
+    },
+    {
+      "timestamp": "00:28:08",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "Why do you think, what are the early risks"
+    },
+    {
+      "timestamp": "00:28:14",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "I want you to think more deeply"
+    },
+    {
+      "timestamp": "00:28:17",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "What I want you to is to"
+    },
+    {
+      "timestamp": "00:28:20",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 12,
+      "text_preview": "One of the things I think that is very difficult"
+    },
+    {
+      "timestamp": "00:28:32",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 16,
+      "text_preview": "Go deep in your thinking. Like connect certain"
+    },
+    {
+      "timestamp": "00:28:48",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 19,
+      "text_preview": "So I want you to start exercising what does"
+    },
+    {
+      "timestamp": "00:29:07",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 11,
+      "text_preview": "I will try to ask you, how do you think"
+    },
+    {
+      "timestamp": "00:29:18",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "Higher education system and then like that"
+    },
+    {
+      "timestamp": "00:29:25",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 13,
+      "text_preview": "This is not right or wrong answers, but I"
+    },
+    {
+      "timestamp": "00:29:38",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "I expect you that. I think you are very adult"
+    },
+    {
+      "timestamp": "00:29:42",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 5,
+      "text_preview": "So I like better this kind of thing. Strategic"
+    },
+    {
+      "timestamp": "00:29:47",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 11,
+      "text_preview": "So we're going to try to use the frameworks"
+    },
+    {
+      "timestamp": "00:29:58",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "So we're going to give, like for example, I"
+    },
+    {
+      "timestamp": "00:30:08",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 15,
+      "text_preview": "I'm going to say, okay, there is a startup"
+    },
+    {
+      "timestamp": "00:30:23",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 28,
+      "text_preview": "However, the market is not clear and the customer"
+    },
+    {
+      "timestamp": "00:30:51",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 16,
+      "text_preview": "Eventually, you're not going to be part of"
+    },
+    {
+      "timestamp": "00:31:07",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "And I want you to use the frameworks that"
+    },
+    {
+      "timestamp": "00:31:14",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 14,
+      "text_preview": "We don't need to write anything. It's going"
+    },
+    {
+      "timestamp": "00:31:28",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 23,
+      "text_preview": "So, so did did there will be five five"
+    },
+    {
+      "timestamp": "00:31:51",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "One session for each."
+    },
+    {
+      "timestamp": "00:31:52",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Mhm."
+    },
+    {
+      "timestamp": "00:31:53",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "And you'll have a team"
+    },
+    {
+      "timestamp": "00:31:55",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 8,
+      "text_preview": "So, for example, I'll say, okay, Arya's"
+    },
+    {
+      "timestamp": "00:32:03",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "Yeah. So, for example, you"
+    },
+    {
+      "timestamp": "00:32:06",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 12,
+      "text_preview": "You are the CEO, the CTO, and the CFO"
+    },
+    {
+      "timestamp": "00:32:18",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 12,
+      "text_preview": "Whatever, you know? So we have to set it"
+    },
+    {
+      "timestamp": "00:32:30",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 19,
+      "text_preview": "So I just this was my idea to just present"
+    },
+    {
+      "timestamp": "00:32:49",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 14,
+      "text_preview": "And I want you to really use the chance to"
+    },
+    {
+      "timestamp": "00:33:03",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "It looks very simple, right? It's like, ah"
+    },
+    {
+      "timestamp": "00:33:10",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "But really do"
+    },
+    {
+      "timestamp": "00:33:11",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 20,
+      "text_preview": "We understand what's behind in terms of what"
+    },
+    {
+      "timestamp": "00:33:31",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 14,
+      "text_preview": "So, I want you to try to understand whatever"
+    },
+    {
+      "timestamp": "00:33:45",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "To your own case."
+    },
+    {
+      "timestamp": "00:33:46",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "So"
+    },
+    {
+      "timestamp": "00:33:47",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Maybe we can choose"
+    },
+    {
+      "timestamp": "00:33:48",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "Chilaka will say, you know what, I'm going to"
+    },
+    {
+      "timestamp": "00:33:54",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Up to certain"
+    },
+    {
+      "timestamp": "00:33:55",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Extent it's real."
+    },
+    {
+      "timestamp": "00:33:56",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Up to another one it's hypothetical"
+    },
+    {
+      "timestamp": "00:33:58",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 16,
+      "text_preview": "But if he really tries to hypothetize, like"
+    },
+    {
+      "timestamp": "00:34:14",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 29,
+      "text_preview": "And when I say build your project, I'm talking"
+    },
+    {
+      "timestamp": "00:34:43",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 21,
+      "text_preview": "No, it's going to be a joint discussion, right"
+    },
+    {
+      "timestamp": "00:35:04",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 13,
+      "text_preview": "My role in this course is to give you this"
+    },
+    {
+      "timestamp": "00:35:17",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 13,
+      "text_preview": "But I think if I just give them to you like"
+    },
+    {
+      "timestamp": "00:35:30",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "So I want to use the practical"
+    },
+    {
+      "timestamp": "00:35:33",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "Class to apply it."
+    },
+    {
+      "timestamp": "00:35:36",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "So maybe we can use one class to apply"
+    },
+    {
+      "timestamp": "00:35:43",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 6,
+      "text_preview": "And each one of you will contribute and discuss"
+    },
+    {
+      "timestamp": "00:35:49",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 11,
+      "text_preview": "How you think the story will go. Just imagine"
+    },
+    {
+      "timestamp": "00:36:00",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 16,
+      "text_preview": "So, what our theory of technology commercialization"
+    },
+    {
+      "timestamp": "00:36:16",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 12,
+      "text_preview": "Okay? So, I want to try to do that. Maybe"
+    },
+    {
+      "timestamp": "00:36:28",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 9,
+      "text_preview": "So I just wanted to give you the heads up"
+    },
+    {
+      "timestamp": "00:36:37",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 12,
+      "text_preview": "In between, at some point, in between the"
+    },
+    {
+      "timestamp": "00:36:49",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 13,
+      "text_preview": "So that's the to because you're going to keep"
+    },
+    {
+      "timestamp": "00:37:02",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 13,
+      "text_preview": "So, I think, um, at some point, the sectoral"
+    },
+    {
+      "timestamp": "00:37:15",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Yeah, I just wanted"
+    },
+    {
+      "timestamp": "00:37:17",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "So, it's not, don't"
+    },
+    {
+      "timestamp": "00:37:19",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 7,
+      "text_preview": "Afraid, it's not a big deal. It's just"
+    },
+    {
+      "timestamp": "00:37:26",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Okay."
+    },
+    {
+      "timestamp": "00:37:27",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "I'm going to"
+    },
+    {
+      "timestamp": "00:37:28",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Mhm."
+    },
+    {
+      "timestamp": "00:37:29",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "Yeah, yeah, yeah. So, I'm going to try"
+    },
+    {
+      "timestamp": "00:37:33",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Delivering more explanations"
+    },
+    {
+      "timestamp": "00:37:35",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 3,
+      "text_preview": "Next week, please prepare your pitch"
+    },
+    {
+      "timestamp": "00:37:38",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "In your case, it's a whole new pitch."
+    },
+    {
+      "timestamp": "00:37:40",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 13,
+      "text_preview": "Grace's case, I want to see almost a whole"
+    },
+    {
+      "timestamp": "00:37:53",
+      "speaker": "Grace",
+      "duration_seconds": 3,
+      "text_preview": "I just went to KISTI. Um, I mean"
+    },
+    {
+      "timestamp": "00:37:56",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "Uh, I think, uh, what is it? Beyond. Beyond"
+    },
+    {
+      "timestamp": "00:38:06",
+      "speaker": "Chilaka",
+      "duration_seconds": 5,
+      "text_preview": "Yes, yeah, yeah. So, the research"
+    },
+    {
+      "timestamp": "00:38:11",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Okay."
+    },
+    {
+      "timestamp": "00:38:12",
+      "speaker": "Grace",
+      "duration_seconds": 2,
+      "text_preview": "I just went to"
+    },
+    {
+      "timestamp": "00:38:14",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "I just went to"
+    },
+    {
+      "timestamp": "00:38:15",
+      "speaker": "Chilaka",
+      "duration_seconds": 3,
+      "text_preview": "I went to KISTI."
+    },
+    {
+      "timestamp": "00:38:18",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "I will tell you my updates from"
+    },
+    {
+      "timestamp": "00:38:20",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Okay."
+    },
+    {
+      "timestamp": "00:38:21",
+      "speaker": "Chilaka",
+      "duration_seconds": 1,
+      "text_preview": "KISTI"
+    },
+    {
+      "timestamp": "00:38:22",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 12,
+      "text_preview": "Uh, I mean, uh, I think, uh, what is it"
+    },
+    {
+      "timestamp": "00:38:34",
+      "speaker": "Grace",
+      "duration_seconds": 1,
+      "text_preview": "Yeah."
+    },
+    {
+      "timestamp": "00:38:35",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Chilaka. Yeah, yeah."
+    },
+    {
+      "timestamp": "00:38:36",
+      "speaker": "Chilaka",
+      "duration_seconds": 1,
+      "text_preview": "Yeah, yeah."
+    },
+    {
+      "timestamp": "00:38:37",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "So, the results"
+    },
+    {
+      "timestamp": "00:38:38",
+      "speaker": "Chilaka",
+      "duration_seconds": 1,
+      "text_preview": "Yeah."
+    },
+    {
+      "timestamp": "00:38:39",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Okay."
+    },
+    {
+      "timestamp": "00:38:40",
+      "speaker": "Grace",
+      "duration_seconds": 1,
+      "text_preview": "Um."
+    },
+    {
+      "timestamp": "00:38:41",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 10,
+      "text_preview": "So, I want to understand, here, from your"
+    },
+    {
+      "timestamp": "00:38:51",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Or here, do you have a good contact point"
+    },
+    {
+      "timestamp": "00:38:53",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Can I contact"
+    },
+    {
+      "timestamp": "00:38:54",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 14,
+      "text_preview": "What do you think? They are more closer to"
+    },
+    {
+      "timestamp": "00:39:08",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "So, I'm waiting for that."
+    },
+    {
+      "timestamp": "00:39:10",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "I'm also waiting"
+    },
+    {
+      "timestamp": "00:39:11",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "My friend who is the from the Indonesia"
+    },
+    {
+      "timestamp": "00:39:13",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "I think she's Korean."
+    },
+    {
+      "timestamp": "00:39:14",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "But she's been worked"
+    },
+    {
+      "timestamp": "00:39:15",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "He's been working"
+    },
+    {
+      "timestamp": "00:39:16",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Many incubators in Indonesia."
+    },
+    {
+      "timestamp": "00:39:18",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "So, I think he might"
+    },
+    {
+      "timestamp": "00:39:19",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "I think he knows."
+    },
+    {
+      "timestamp": "00:39:20",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 4,
+      "text_preview": "The Fintech market in Indonesia needs this"
+    },
+    {
+      "timestamp": "00:39:24",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "So maybe he can"
+    },
+    {
+      "timestamp": "00:39:25",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Yeah."
+    },
+    {
+      "timestamp": "00:39:26",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Yeah, but maybe"
+    },
+    {
+      "timestamp": "00:39:27",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Yeah, maybe we will have."
+    },
+    {
+      "timestamp": "00:39:28",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "We'll discuss."
+    },
+    {
+      "timestamp": "00:39:30",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Okay. Thank you very much"
+    },
+    {
+      "timestamp": "00:39:32",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Thank you very much."
+    },
+    {
+      "timestamp": "00:39:33",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Thank you very much."
+    },
+    {
+      "timestamp": "00:39:34",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Professor."
+    },
+    {
+      "timestamp": "00:39:35",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Thank you very much for"
+    },
+    {
+      "timestamp": "00:39:36",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Very messy class, but anyway."
+    },
+    {
+      "timestamp": "00:39:37",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Bye."
+    },
+    {
+      "timestamp": "00:39:38",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Messy class, okay."
+    },
+    {
+      "timestamp": "00:39:39",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Next time, next week"
+    },
+    {
+      "timestamp": "00:39:40",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Next time to next week is pitching."
+    },
+    {
+      "timestamp": "00:39:42",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "Week after that is sectoral labs."
+    },
+    {
+      "timestamp": "00:39:44",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "We're going to try the sectoral labs."
+    },
+    {
+      "timestamp": "00:39:46",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Okay."
+    },
+    {
+      "timestamp": "00:39:47",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Okay."
+    },
+    {
+      "timestamp": "00:39:48",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Professor."
+    },
+    {
+      "timestamp": "00:39:49",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "We're going to try the sectoral labs."
+    },
+    {
+      "timestamp": "00:39:50",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Is it going to still be EPT?"
+    },
+    {
+      "timestamp": "00:39:51",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Is it going to still be EPT?"
+    },
+    {
+      "timestamp": "00:39:52",
+      "speaker": "Sthepen",
+      "duration_seconds": 1,
+      "text_preview": "Or the one?"
+    },
+    {
+      "timestamp": "00:39:53",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Or the one?"
+    },
+    {
+      "timestamp": "00:39:54",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 2,
+      "text_preview": "I want you to practice"
+    },
+    {
+      "timestamp": "00:39:56",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Let's make it 10 minutes."
+    },
+    {
+      "timestamp": "00:39:57",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Short."
+    },
+    {
+      "timestamp": "00:39:58",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Because then if you"
+    },
+    {
+      "timestamp": "00:39:59",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Did 10 minutes, it's 50 minutes."
+    },
+    {
+      "timestamp": "00:40:00",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Maybe one hour."
+    },
+    {
+      "timestamp": "00:40:01",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "And then we have two more"
+    },
+    {
+      "timestamp": "00:40:02",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Hours to discuss deeply"
+    },
+    {
+      "timestamp": "00:40:03",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "The problems of each one"
+    },
+    {
+      "timestamp": "00:40:04",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "So let's make the pitch shorter"
+    },
+    {
+      "timestamp": "00:40:05",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "So that we have more time"
+    },
+    {
+      "timestamp": "00:40:06",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "For discussion."
+    },
+    {
+      "timestamp": "00:40:07",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Especially for you."
+    },
+    {
+      "timestamp": "00:40:08",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "You and Steven."
+    },
+    {
+      "timestamp": "00:40:09",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "You and you, maybe the"
+    },
+    {
+      "timestamp": "00:40:10",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Feedback is much shorter."
+    },
+    {
+      "timestamp": "00:40:11",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "More specific."
+    },
+    {
+      "timestamp": "00:40:12",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "But there, they need more"
+    },
+    {
+      "timestamp": "00:40:13",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Time."
+    },
+    {
+      "timestamp": "00:40:14",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "It's okay. It's part of the"
+    },
+    {
+      "timestamp": "00:40:15",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Process. It's okay."
+    },
+    {
+      "timestamp": "00:40:16",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Who knows?"
+    },
+    {
+      "timestamp": "00:40:17",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "You know, in my business"
+    },
+    {
+      "timestamp": "00:40:18",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "He might stay like this."
+    },
+    {
+      "timestamp": "00:40:19",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "And then like this."
+    },
+    {
+      "timestamp": "00:40:20",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "You might go like this."
+    },
+    {
+      "timestamp": "00:40:21",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "And then eventually go."
+    },
+    {
+      "timestamp": "00:40:22",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "So it's not like the"
+    },
+    {
+      "timestamp": "00:40:23",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Process is very long."
+    },
+    {
+      "timestamp": "00:40:24",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Yeah, man."
+    },
+    {
+      "timestamp": "00:40:25",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Don't be afraid of"
+    },
+    {
+      "timestamp": "00:40:26",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "It."
+    },
+    {
+      "timestamp": "00:40:27",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Okay. Thank you so much"
+    },
+    {
+      "timestamp": "00:40:28",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "For your participation."
+    },
+    {
+      "timestamp": "00:40:29",
+      "speaker": "Dr. Ileana",
+      "duration_seconds": 1,
+      "text_preview": "Very messy class, but"
+    }
+  ],
+  "full_transcription": [
+    {
+      "timestamp": "00:00:00",
+      "speaker": "Dr. Ileana",
+      "text": "topics that you, like questions you have about your ICP progress that you need me to address now. And I thought, you told me we need to discuss, right? Can I know?"
+    },
+    {
+      "timestamp": "00:00:10",
+      "speaker": "Sthepen",
+      "text": "Okay, so because, uhm."
+    },
+    {
+      "timestamp": "00:00:12",
+      "speaker": "Dr. Ileana",
+      "text": "if I rather have you share your problems because your problem might be related to many of their questions too. Or they can learn from your questions."
+    },
+    {
+      "timestamp": "00:00:19",
+      "speaker": "Sthepen",
+      "text": "Okay, so because, uh, for the for the collaboration, I already talked to my, uhm, department. And actually they already moved, so they go straight partnership with the Microsoft."
+    },
+    {
+      "timestamp": "00:00:33",
+      "speaker": "Dr. Ileana",
+      "text": "With Microsoft?"
+    },
+    {
+      "timestamp": "00:00:34",
+      "speaker": "Sthepen",
+      "text": "Microsoft Copilot for using the AI for, uhm, you know, for knowledge management."
+    },
+    {
+      "timestamp": "00:00:43",
+      "speaker": "Dr. Ileana",
+      "text": "No, yeah."
+    },
+    {
+      "timestamp": "00:00:44",
+      "speaker": "Sthepen",
+      "text": "Yeah, yeah. So, and I ask him, uh, is there any any other opportunity for for me to to join with the the the the project?"
+    },
+    {
+      "timestamp": "00:00:51",
+      "speaker": "Dr. Ileana",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "00:00:52",
+      "speaker": "Sthepen",
+      "text": "And he said it's, yeah, that's still but for for the, wait wait wait wait, let me tell you. For the, that's exactly what I tell you."
+    },
+    {
+      "timestamp": "00:01:03",
+      "speaker": "Dr. Ileana",
+      "text": "That's exactly what I tell you. On the course of this, we are preparing and they're already moving, so they're already, yeah, yeah."
+    },
+    {
+      "timestamp": "00:01:10",
+      "speaker": "Sthepen",
+      "text": "Uh, wait, wait, wait, wait, wait, wait a minute."
+    },
+    {
+      "timestamp": "00:01:12",
+      "speaker": "Dr. Ileana",
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "timestamp": "00:01:14",
+      "speaker": "Sthepen",
+      "text": "They already journey, they already doing the kick-off, I think tomorrow they will do the kick-off with the Microsoft."
+    },
+    {
+      "timestamp": "00:01:21",
+      "speaker": "Dr. Ileana",
+      "text": "Uh-huh."
+    },
+    {
+      "timestamp": "00:01:22",
+      "speaker": "Sthepen",
+      "text": "Uh, so the one that, uh, after available for me is evaluate the system of the R&D team from the Microsoft Copilot."
+    },
+    {
+      "timestamp": "00:01:33",
+      "speaker": "Sthepen",
+      "text": "And I don't know, is it, is it possible to make it some technology commercialization is if it's only about evaluation, evaluating the system?"
+    },
+    {
+      "timestamp": "00:01:41",
+      "speaker": "Dr. Ileana",
+      "text": "No, I think this is just around another category. I mean, it's a business. Yeah, but"
+    },
+    {
+      "timestamp": "00:01:46",
+      "speaker": "Dr. Ileana",
+      "text": "That's why I wanted to tell you before. I think you see here."
+    },
+    {
+      "timestamp": "00:01:50",
+      "speaker": "Dr. Ileana",
+      "text": "If you see it from the broad concept of business, NTI as Costa Rica was a business. Mine, right? If you think about it that way, I see, like I always tell you."
+    },
+    {
+      "timestamp": "00:02:03",
+      "speaker": "Dr. Ileana",
+      "text": "This is the mother M I C T. And then MSIT Korea."
+    },
+    {
+      "timestamp": "00:02:11",
+      "speaker": "Dr. Ileana",
+      "text": "plus KISTI. And then KISTI makes some money because KISTI charges some money to the MICT. Okay. And then SoftTech also makes some money probably. They pay to KISTI money for the patent, for the IP."
+    },
+    {
+      "timestamp": "00:02:32",
+      "speaker": "Sthepen",
+      "text": "Sorry, sorry, sorry."
+    },
+    {
+      "timestamp": "00:02:35",
+      "speaker": "Dr. Ileana",
+      "text": "Not not SoftTech, but SoftTech paid to KISTI because KISTI asked SoftTech to convert the language?"
+    },
+    {
+      "timestamp": "00:02:41",
+      "speaker": "Sthepen",
+      "text": "Yes. KISTI paid money, already KISTI paid money to SoftTech."
+    },
+    {
+      "timestamp": "00:02:44",
+      "speaker": "Dr. Ileana",
+      "text": "Uh-huh. As a developer IT support service, like IT outsourcing, okay? So money comes here also. But if SoftTech wants to sell the service to KISTI, they have to pay a royalty to KISTI. Because the intellectual property of NTI is not solely of SoftTech, it's of KISTI. So he didn't explain detail, the business model is here. KISTI gets money from the royalty, they own the IP of NTI. Mhm. So if SoftTech will use this IP to translate it into English, probably also the strategy of using the English and Spanish version is because if SoftTech use the Korean version, maybe this royalty is very expensive."
+    },
+    {
+      "timestamp": "00:03:29",
+      "speaker": "Sthepen",
+      "text": "No, but why didn't the SoftTech strike to the to the Costa Rican language? Why should it English and the ICE...?"
+    },
+    {
+      "timestamp": "00:03:39",
+      "speaker": "Dr. Ileana",
+      "text": "Because, because KISTI has the know-how and ownership of the old process. SoftTech is a private company to just provide IT support and of course they have some know-how of IT cooperation, but the design of the process, the R&D process, the know-how behind it, it's from the public sector."
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": "Sthepen",
+      "text": "Sorry, I externally. I mean, I mean, why why didn't the SoftTech, the KISTI request the SoftTech to provide the NIST version of Costa Rican language, yes? Why not like that? Why not, why must translate to English first and ICE?"
+    },
+    {
+      "timestamp": "00:04:18",
+      "speaker": "Dr. Ileana",
+      "text": "Because the process is not copy-paste. It's not like that. There is many alterations here. Remember he said, the system as it is, is not perfectly workable for Costa Rica. The user interface has to change. The whole process needs to be adapted. It's it needs to be tropicalized, so to say. It's made for Costa Rica, adapted. So it's like inspired in NTIS, made for Costa Rica."
+    },
+    {
+      "timestamp": "00:04:47",
+      "speaker": "Dr. Ileana",
+      "text": "So this concept is a concept of adaptation, adoption. It's not it's not like I just say, okay, this NTI, copy-paste, using Costa Rica, copy-translate, using Costa Rica. It's not like that straight forward. Because the process is not exactly the same, so the workflows need to be adapted. Then he mentioned the Bottoms, some commerce."
+    },
+    {
+      "timestamp": "00:05:11",
+      "speaker": "Dr. Ileana",
+      "text": "It's not only about the language."
+    },
+    {
+      "timestamp": "00:05:12",
+      "speaker": "Sthepen",
+      "text": "Ah, so, sorry. Uh, who make the adaptation? The ICE or the SoftTech?"
+    },
+    {
+      "timestamp": "00:05:21",
+      "speaker": "Dr. Ileana",
+      "text": "Together. Because anyway you do the technology transfer, these guys, the engineers of ICE need to learn how the whole IT architecture, the source code, everything, right? So they need to get it. And KISTI also collaborate here because KISTI knows very well the logic of the system. KISTI designed the logic. You get it? So, in your case, back back to your question. It's not something like that. It's just giving the LLM service Copilot license and that's it."
+    },
+    {
+      "timestamp": "00:05:56",
+      "speaker": "Dr. Ileana",
+      "text": "So, I don't see an opportunity for a Korean adaptation, or something to make."
+    },
+    {
+      "timestamp": "00:06:02",
+      "speaker": "Sthepen",
+      "text": "another new"
+    },
+    {
+      "timestamp": "00:06:03",
+      "speaker": "Dr. Ileana",
+      "text": "You are back to square one. That's what happens."
+    },
+    {
+      "timestamp": "00:06:06",
+      "speaker": "Dr. Ileana",
+      "text": "That's a straightforward answer to you."
+    },
+    {
+      "timestamp": "00:06:09",
+      "speaker": "Sthepen",
+      "text": "Okay. Just out of curiosity. Why didn't the ICE create the system itself?"
+    },
+    {
+      "timestamp": "00:06:14",
+      "speaker": "Dr. Ileana",
+      "text": "I told you."
+    },
+    {
+      "timestamp": "00:06:17",
+      "speaker": "Sthepen",
+      "text": "No, no money, no people?"
+    },
+    {
+      "timestamp": "00:06:18",
+      "speaker": "Dr. Ileana",
+      "text": "No, no know-how. Do you think MICT is willing to pay to a guy, to a company, who has no know-how? Just IT support and service. These guys are these guys is a telecom company. They don't know about R&D management. They have never operated R&D management platform. So, why MICT is doing this business? Because it's a joint business. The value of this, okay? I need a local. Remember last time Steven mentioned, ah, there are problems because otherwise you want a vendor lock-in. It means problems with the Korean company, blah blah blah. I was told that we don't want to have this kind of dependency of the Korea. They want to have autonomy and also they want to have their own source code and the Ministry of Science and Technology is very big. So, to communicate with Korea, they need somebody support and all in Spanish. So they say I need a local person, a local entity who can help me operate the system in my context, right? But I don't need anybody. I need somebody who can get the know-how transfer from an expert, from a proven expert. Somebody who has proven expertise, 20 years plus of operating a system that is with many, you saw how many transactions, how many researchers, how many it's a lot, right? So, NIPA, all the standardization, all the experience and know-how collected by the whole trial and error, trial and error. If you think about NTI, it's the fourth generation currently. So they have redone NTI platform four times already because they already operated it for many years. So they realized there is improvement needed, like that. So that's the key character. It's not just like, I'm able to just give me your LLM service. Because I told them like, ah, in your case, if you just do it like that, it doesn't look like a technology commercialization project, right?"
+    },
+    {
+      "timestamp": "00:08:10",
+      "speaker": "Sthepen",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "00:08:12",
+      "speaker": "Dr. Ileana",
+      "text": "But if you, let's think about it. I I told you I already contacted a friend of mine who is very expert in Indonesia startup ecosystem. And he's Korean, but he's worked a lot with cybersecurity and Fintech and a lot of areas related. So, he's on a business trip, but I'm trying to set up a meeting. I already talked to Cesar on a Tuesday like today, KISTI. And I think he could have help us have a brainstorming session of what opportunities for technology commercialization we would have with your..."
+    },
+    {
+      "timestamp": "00:08:41",
+      "speaker": "Sthepen",
+      "text": "Actually, tomorrow I will have, you know, because I I feeling that it will not work so I try to contact another another friends. And some of my friends told me that they have some also some issue regardless the TTS, text to speech and text to text, any AI, because they want to use the mobile banking in my bank to use that service. But right now they have difficulties because the the the percentage of success is very low and they want to improve."
+    },
+    {
+      "timestamp": "00:09:18",
+      "speaker": "Dr. Ileana",
+      "text": "The accuracy level."
+    },
+    {
+      "timestamp": "00:09:19",
+      "speaker": "Sthepen",
+      "text": "Yeah, the accuracy. There's how to improve that."
+    },
+    {
+      "timestamp": "00:09:21",
+      "speaker": "Dr. Ileana",
+      "text": "I know you were there."
+    },
+    {
+      "timestamp": "00:09:23",
+      "speaker": "Sthepen",
+      "text": "And so tomorrow, maybe I will I have some meeting with them and"
+    },
+    {
+      "timestamp": "00:09:28",
+      "speaker": "Dr. Ileana",
+      "text": "Maybe something comes up."
+    },
+    {
+      "timestamp": "00:09:29",
+      "speaker": "Sthepen",
+      "text": "Yeah."
+    },
+    {
+      "timestamp": "00:09:30",
+      "speaker": "Dr. Ileana",
+      "text": "But I'm sorry, you learn, you have to rewrite your ICP."
+    },
+    {
+      "timestamp": "00:09:33",
+      "speaker": "Sthepen",
+      "text": "It happens."
+    },
+    {
+      "timestamp": "00:09:35",
+      "speaker": "Dr. Ileana",
+      "text": "Okay, okay. You need any help in the process, let me know. And I will let you in contact with Cesan now, okay?"
+    },
+    {
+      "timestamp": "00:09:40",
+      "speaker": "Sthepen",
+      "text": "Okay."
+    },
+    {
+      "timestamp": "00:09:41",
+      "speaker": "Dr. Ileana",
+      "text": "Don't don't worry, this course is exactly for that. That's why you have all this."
+    },
+    {
+      "timestamp": "00:0

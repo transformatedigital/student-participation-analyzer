@@ -1,0 +1,170 @@
+{
+  "block": 4,
+  "time_range": "15:00-20:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "for you ask me this is not really we call it",
+      "timestamp_abs": "15:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Sure.",
+      "timestamp_abs": "15:04"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For us the real not about",
+      "timestamp_abs": "15:06"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "You know in my in my I I have two",
+      "timestamp_abs": "15:09"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "stakeholders.",
+      "timestamp_abs": "15:15"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh-huh.",
+      "timestamp_abs": "15:16"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, I know SK.",
+      "timestamp_abs": "15:17"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "SK.",
+      "timestamp_abs": "15:18"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Hold on. Let's go over there. So, we could do a separate case like same as we are again King Thebo. So, we can do ah, okay. We can do. I'm not sure SK but when I saw round, I thought on Thursday I'm going to meet round. Please check the five that says are just chair, if you will. That round company. I'm going to show you.",
+      "timestamp_abs": "15:19"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I will have to need with the vice president here on Thursday. This is a relatively quite big company actually. And they have been specializing security issues. But when I saw their portfolio, I think probably they have experience in this agency. And one thing that I like is these are the type of companies like a smooth bigger SME in Korea. They're not a big they're not a huge company that's found there or whatever. But they're not a small company either. And they are specialized the way they have grown is they did a lot of ODA. ODA projects. So we like these kind of companies I think because we want a company who will come with a solution and also have some network in Korea to get the funding. To help us out. Right? So for you guys, especially because Indonesia case a little bit different maybe because you guys Indonesia is a emerging country. So sometimes you are applicable of of ODA project, sometimes you're not. Thanks for that. But Rwanda and Congo, you are naturally and maybe Nigeria, Nigeria also kind of you know, sometimes you are not in the priority. You are growing on your own, right? Okay. But Rwanda and uh and Congo are natural we donors, uh recipients of the this kind of ODA. So it might be. Indonesia might be depending on the priority of each year. Korea each year will set up a priority to countries, they will be more intensively in in collaboration.",
+      "timestamp_abs": "15:58"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, this company will be around or round or X. I'm not sure who but we could do same as you establish SK. I'm also thinking SK but for now I think as I told you SK is very big and my experience tells me SK is just a face. Behind SK there are all other small companies doing the solution. So if we just approach SK, we'll be just unnecessarily very big.",
+      "timestamp_abs": "17:35"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it might be very interesting to go to the reading and call me know how source and maybe be able to call me. Unless you tell me that these call for needs certain scale of companies because they will only work with certain scale of branded companies. But that's not your situation. But the way we reach SK anyway is going to be bottom up. I think going from top to down it's going to be a longer work. It's better we find the companies who are connected to SK, you have the momentum who will might if we need a bigger stake, but they might directly call the big ones and say hey guys, let's join this project.",
+      "timestamp_abs": "18:00"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "What is that?",
+      "timestamp_abs": "18:37"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Sorry, I just want to ask, uh, you mentioned that uh",
+      "timestamp_abs": "18:38"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You want to say so what and we have to say it for your question.",
+      "timestamp_abs": "18:40"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Uh this uh company behind the SK but will they open their secret? I mean, will they tell us when will they?",
+      "timestamp_abs": "18:44"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not for free.",
+      "timestamp_abs": "18:51"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not for free but there is a win-win situation. Hey you guys you collaborate with O and D and you have a you have opportunity to build this pilot project you have opportunity to success with the Rwanda Telco. Not for free. We're also talking about a market.",
+      "timestamp_abs": "18:53"
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "19:08"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "19:09"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But as you know, even me, uh, it's not easy because this is a big national project and it will involve the telecom to contract.",
+      "timestamp_abs": "19:11"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, it has to be a company so this has to be high.",
+      "timestamp_abs": "19:22"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "First, right? Yeah. That's why if that's the case when then we have we have an argument to say, hey guys, we are interested in this project, but it's going to be a national level project. We need a big team. So can you make a big team and let them fight for the big team? And bring it to us. It's better to do like that, I think. Or maybe through round, I will get some calm some know some network and they're going to introduce me some like somebody at SK. Right now I don't know anybody directly at SK that I can trust that I can say, hey, would you be interested in this kind of project? Right now I don't have anybody directly.",
+      "timestamp_abs": "19:26"
+    }
+  ]
+}

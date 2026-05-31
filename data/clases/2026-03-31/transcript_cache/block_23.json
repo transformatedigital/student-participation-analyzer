@@ -1,0 +1,174 @@
+{
+  "block": 23,
+  "time_range": "110:00-115:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the interview, the online call in his house.",
+      "timestamp_abs": "110:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He could not take the call",
+      "timestamp_abs": "110:04"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and that's why he almost missed the chance to get his scholarship.",
+      "timestamp_abs": "110:05"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The only way he could take the call securely was going to the Goika office at the Embassy",
+      "timestamp_abs": "110:09"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and taking the call from the Goika.",
+      "timestamp_abs": "110:17"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That gives you a real",
+      "timestamp_abs": "110:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yes.",
+      "timestamp_abs": "110:21"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "timestamp_abs": "110:21"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So.",
+      "timestamp_abs": "110:22"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's a real",
+      "timestamp_abs": "110:22"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So.",
+      "timestamp_abs": "110:24"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Of course.",
+      "timestamp_abs": "110:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's relevant.",
+      "timestamp_abs": "110:26"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Probably some centers",
+      "timestamp_abs": "110:27"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "in Kikasi will pay a lot of money to the telecom company",
+      "timestamp_abs": "110:29"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and they have to pay absolutely big dues.",
+      "timestamp_abs": "110:33"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But not everybody.",
+      "timestamp_abs": "110:36"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Probably telecom infrastructure is very expensive.",
+      "timestamp_abs": "110:37"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I cannot really imagine.",
+      "timestamp_abs": "110:40"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You.",
+      "timestamp_abs": "110:41"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you want that kind of very high-level high-speed internet,",
+      "timestamp_abs": "110:42"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you have to pay a lot of money.",
+      "timestamp_abs": "110:46"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah, you have to pay a lot of money.",
+      "timestamp_abs": "110:47"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So that becomes a huge problem.",
+      "timestamp_abs": "110:48"
+    }
+  ]
+}

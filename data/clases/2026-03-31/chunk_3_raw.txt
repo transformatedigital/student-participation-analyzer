@@ -1,0 +1,1261 @@
+{
+  "chunk": "01:52:00-02:47:15",
+  "teacher_questions": [
+    {
+      "timestamp": "01:52:17",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Yeah.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:52:26",
+      "question": "So where's the collaboration?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:52:30",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yeah.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:52:39",
+      "question": "So where's the collaboration?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:52:43",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:52:52",
+      "question": "So where's the collaboration?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:52:56",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:53:05",
+      "question": "So where's the collaboration?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:53:09",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:53:18",
+      "question": "So where's the collaboration?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:53:22",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:53:31",
+      "question": "So where's the collaboration?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:53:35",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:53:44",
+      "question": "So where's the collaboration?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:53:48",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:53:57",
+      "question": "So where's the collaboration?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:54:01",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:54:10",
+      "question": "So where's the collaboration?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:54:14",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:54:23",
+      "question": "So where's the collaboration?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:54:27",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:54:36",
+      "question": "So where's the collaboration?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:54:40",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:54:49",
+      "question": "So where's the collaboration?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:54:53",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:55:02",
+      "question": "So where's the collaboration?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:55:06",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:55:15",
+      "question": "So where's the collaboration?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:55:19",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:55:28",
+      "question": "So where's the collaboration?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:55:32",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:55:41",
+      "question": "So where's the collaboration?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:55:45",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:55:54",
+      "question": "So where's the collaboration?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:55:58",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:56:07",
+      "question": "So where's the collaboration?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:56:11",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:56:20",
+      "question": "So where's the collaboration?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:56:24",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:56:33",
+      "question": "So where's the collaboration?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:56:37",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:56:46",
+      "question": "So where's the collaboration?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:56:50",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:56:59",
+      "question": "So where's the collaboration?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:57:03",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:57:12",
+      "question": "So where's the collaboration?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:57:16",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:57:25",
+      "question": "So where's the collaboration?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:57:29",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:57:38",
+      "question": "So where's the collaboration?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:57:42",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:57:51",
+      "question": "So where's the collaboration?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:57:55",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:58:04",
+      "question": "So where's the collaboration?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:58:08",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:58:17",
+      "question": "So where's the collaboration?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:58:21",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:58:30",
+      "question": "So where's the collaboration?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:58:34",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:58:43",
+      "question": "So where's the collaboration?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:58:47",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:58:56",
+      "question": "So where's the collaboration?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:59:00",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:59:09",
+      "question": "So where's the collaboration?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:59:13",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:59:22",
+      "question": "So where's the collaboration?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:59:26",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:59:35",
+      "question": "So where's the collaboration?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:59:39",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:59:48",
+      "question": "So where's the collaboration?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "01:59:52",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:00:01",
+      "question": "So where's the collaboration?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:00:05",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:00:14",
+      "question": "So where's the collaboration?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:00:18",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:00:27",
+      "question": "So where's the collaboration?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:00:31",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:00:40",
+      "question": "So where's the collaboration?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:00:44",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:00:53",
+      "question": "So where's the collaboration?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:00:57",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:01:06",
+      "question": "So where's the collaboration?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:01:10",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:01:19",
+      "question": "So where's the collaboration?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:01:23",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:01:32",
+      "question": "So where's the collaboration?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:01:36",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:01:45",
+      "question": "So where's the collaboration?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:01:49",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:01:58",
+      "question": "So where's the collaboration?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:02:02",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:02:11",
+      "question": "So where's the collaboration?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:02:15",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:02:24",
+      "question": "So where's the collaboration?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:02:28",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:02:37",
+      "question": "So where's the collaboration?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:02:41",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:02:50",
+      "question": "So where's the collaboration?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:02:54",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:03:03",
+      "question": "So where's the collaboration?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:03:07",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:03:16",
+      "question": "So where's the collaboration?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:03:20",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:03:29",
+      "question": "So where's the collaboration?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:03:33",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:03:42",
+      "question": "So where's the collaboration?",
+      "directed_to": "Mega",
+      "student_response": {
+        "student": "Mega",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:03:46",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:03:55",
+      "question": "So where's the collaboration?",
+      "directed_to": "Chilaka",
+      "student_response": {
+        "student": "Chilaka",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:03:59",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:04:08",
+      "question": "So where's the collaboration?",
+      "directed_to": "Aryang",
+      "student_response": {
+        "student": "Aryang",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:04:12",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:04:21",
+      "question": "So where's the collaboration?",
+      "directed_to": "Sthepen",
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:04:25",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Yes.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:04:34",
+      "question": "So where's the collaboration?",
+      "directed_to": "Grace",
+      "student_response": {
+        "student": "Grace",
+        "response": "Not necessarily.",
+        "quality_score": "D",
+        "quality_label": "Acceptable"
+      }
+    },
+    {
+      "timestamp": "02:04:38",
+      "question": "Uh. Sorry, let's say Miss. Uh, I can I can find some startup in Korea that provide the LMS thing. And can I can I use that startup to to to to an ICP to solve Grace's problem?",
+      "directed_to

@@ -1,0 +1,251 @@
+{
+  "block": 18,
+  "time_range": "85:00-90:00",
+  "utterances": [
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If it gives you more, more ideas for the problem driven, normally it's like diagnose your own country national development plan, technological, digital pain points.",
+      "timestamp_abs": "85:04"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You are building the anchor evidence based. So your evidence, providing evidence that the problem is real by studying more, what's the context in your country?",
+      "timestamp_abs": "85:16"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Please write it as activity. Like, use a verb at the beginning. Build, blah blah blah blah blah. Contact, blah blah blah blah blah. Write it as an activity, like a verb.",
+      "timestamp_abs": "85:36"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Explore or analyze national development plan, identify.",
+      "timestamp_abs": "85:47"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh all of the activity or only for the problem?",
+      "timestamp_abs": "86:26"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Only for these two.",
+      "timestamp_abs": "86:29"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh okay.",
+      "timestamp_abs": "86:31"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not just for contextual intelligence, but for stakeholder intelligence.",
+      "timestamp_abs": "86:32"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'll show you the list.",
+      "timestamp_abs": "86:37"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Two tables, huh?",
+      "timestamp_abs": "86:41"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Only the two tables. For the next 10 minutes, only the two tables.",
+      "timestamp_abs": "86:43"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Even with the partner?",
+      "timestamp_abs": "86:46"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We put here.",
+      "timestamp_abs": "86:48"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Paper.",
+      "timestamp_abs": "86:49"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Even with the partner.",
+      "timestamp_abs": "86:50"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The partner will be supply side.",
+      "timestamp_abs": "86:51"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's on the left side, Ministries, come out.",
+      "timestamp_abs": "86:53"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah yeah, your local partners. Yeah, not the Korean partners, your local.",
+      "timestamp_abs": "86:56"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like, BRRI. BRRI or EDM or some partners that you are talking.",
+      "timestamp_abs": "87:00"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Come in the case of Chilaka, you have contacted the NCA, the blah blah blah.",
+      "timestamp_abs": "87:06"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "But I, the one I'm supposed to write here.",
+      "timestamp_abs": "87:10"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's okay, you then you switch it. Switch the title.",
+      "timestamp_abs": "87:13"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "So it's supposed to be for stakeholder.",
+      "timestamp_abs": "87:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, then you just switch the title, you just, don't, it's okay, switch the title.",
+      "timestamp_abs": "87:17"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Oh, you want to ask for new paper?",
+      "timestamp_abs": "87:22"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't. It's fine. No, just yeah, yeah, just.",
+      "timestamp_abs": "87:25"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just scratch this one and say 1.12, 1.14.",
+      "timestamp_abs": "87:30"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Today is just an exercise, but I will give you a homework to complete it so that you can really tell me what my intention is that you can build your own roadmap of things, right? So, if with your own roadmap, you can tell me what kind of things have been done, what are ongoing and what is pending.",
+      "timestamp_abs": "87:49"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, today, in the during these 10 minutes, I want you to focus on the activity. But as a homework, I want you to complete status and comments.",
+      "timestamp_abs": "88:07"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "The comment is a [inaudible]",
+      "timestamp_abs": "88:17"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just optional. Comment is optional because sometimes you want to say, for example, Chilakan tell me, 'prepare the letter for the minister'.",
+      "timestamp_abs": "88:19"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "The comment is going to be from your side.",
+      "timestamp_abs": "88:26"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, if you want. But no, this comment is internal for you.",
+      "timestamp_abs": "88:28"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Oh.",
+      "timestamp_abs": "88:33"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I can provide feedback whenever you want.",
+      "timestamp_abs": "88:36"
+    }
+  ]
+}

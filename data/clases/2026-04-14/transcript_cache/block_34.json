@@ -1,0 +1,97 @@
+{
+  "block": 34,
+  "time_range": "165:00-165:54",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay, thank you.",
+      "timestamp_abs": "165:00"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay guys, thank you so much for bearing with me. It's a great job you had. If any of you have questions or under the week you are struggling, Grace sent me an email quickly like he was having so please feel free to email me or discuss with Cesar, Cesar will automatically let me know. So don't struggle alone. I'm here to support you all the way, okay?",
+      "timestamp_abs": "165:03"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Thank you very much, professor.",
+      "timestamp_abs": "165:23"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want to see I will let you know by Cesar with Cesar, but please update all your ICPs now, the documents, documents, update the ICPs with all the feedback we will receive from this session. I will I will uh upload the recording, the transcript and the comments I I did, okay?",
+      "timestamp_abs": "165:24"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Thank you very much, professor.",
+      "timestamp_abs": "165:42"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Have a good afternoon and have a good week. See you next week.",
+      "timestamp_abs": "165:44"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Bye.",
+      "timestamp_abs": "165:48"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Bye.",
+      "timestamp_abs": "165:48"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Bye.",
+      "timestamp_abs": "165:49"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Bye.",
+      "timestamp_abs": "165:50"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Bye.",
+      "timestamp_abs": "165:51"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Bye.",
+      "timestamp_abs": "165:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Bye.",
+      "timestamp_abs": "165:53"
+    }
+  ]
+}

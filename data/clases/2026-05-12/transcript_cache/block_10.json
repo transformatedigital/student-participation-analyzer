@@ -1,0 +1,77 @@
+{
+  "block": 10,
+  "time_range": "45:00-50:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "get to make it scale.",
+      "timestamp_abs": "45:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is the the real world pathway of making it a real national level system.",
+      "timestamp_abs": "45:04"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "failed. It didn't work.",
+      "timestamp_abs": "45:10"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So the project has a credible pathway for adoption, diffusion, financing. You know what diffusion is?",
+      "timestamp_abs": "45:13"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is to scale it up.",
+      "timestamp_abs": "45:18"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Financing, ownership and long-term cooperation.",
+      "timestamp_abs": "45:20"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The Kisti ESE and Softtech relation finished there at one year of the pilot project.",
+      "timestamp_abs": "45:23"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "because the funding from the Costa Rican side was not secured and was not secured in scale, was just secured for the prototype for the first project pilot project but not for the scale up, okay?",
+      "timestamp_abs": "45:30"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then I ask one more thing here that is very important, I will explain next class.",
+      "timestamp_abs": "45:42"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that is that many times these projects it goes beyond your masters.",
+      "timestamp_abs": "45:47"
+    }
+  ]
+}

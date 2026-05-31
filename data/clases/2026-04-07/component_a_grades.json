@@ -1,0 +1,143 @@
+{
+  "rubric": {
+    "component": "A",
+    "name": "Student's Preparation, Participation & Attendance",
+    "weight_in_total_grade": "20%",
+    "subcomponents": {
+      "preparation": {
+        "weight": "7.5%",
+        "scale": "1–6 holistic"
+      },
+      "participation": {
+        "weight": "7.5%",
+        "scale": "1–6 holistic"
+      },
+      "attendance": {
+        "weight": "5.0%",
+        "scale": "manual"
+      }
+    },
+    "rubric_levels": {
+      "6": "Comes prepared. Contributes readily without dominating. Thoughtful, advances conversation. Respects others. Active in small groups.",
+      "5": "Comes prepared, thoughtful when called. Contributes occasionally without prompting. Respectful, active in small groups.",
+      "4": "Generally prepared. Participates but may dominate, ramble, interrupt with digressive questions, bluff when unprepared.",
+      "3": "Comes prepared. Does NOT voluntarily contribute. Minimal answers when called. Listens attentively, takes notes.",
+      "2": "Comes to class but NOT prepared. Does not contribute. Unable to contribute usefully when called.",
+      "1": "Comes but NOT prepared. May be disruptive. Negative impact on group."
+    }
+  },
+  "students": {
+    "ARYANG": {
+      "preparation": {
+        "score_1_6": 4,
+        "rationale": "Generalmente preparado, calidad media-alta (avg 3.20/5, n=20)",
+        "n_responses_when_called": 20,
+        "avg_quality_when_called": 3.2,
+        "points_obtained": 5.0,
+        "points_max": 7.5
+      },
+      "participation": {
+        "score_1_6": 4,
+        "rationale": "Domina la conversación pero sin sustancia (83 part., 76% iniciativa, avg 2.98)",
+        "total_participations": 83,
+        "voluntary_count": 63,
+        "pct_voluntary": 75.9,
+        "avg_quality_all": 2.98,
+        "points_obtained": 5.0,
+        "points_max": 7.5
+      },
+      "attendance": {
+        "points_obtained": 5.0,
+        "points_max": 5.0,
+        "source": "default"
+      },
+      "component_a_total": 15.0,
+      "component_a_max": 20.0,
+      "percent_of_a_obtained": 75.0
+    },
+    "GRACE": {
+      "preparation": {
+        "score_1_6": 4,
+        "rationale": "Generalmente preparado, calidad media-alta (avg 3.22/5, n=9)",
+        "n_responses_when_called": 9,
+        "avg_quality_when_called": 3.22,
+        "points_obtained": 5.0,
+        "points_max": 7.5
+      },
+      "participation": {
+        "score_1_6": 4,
+        "rationale": "Participa activo, calidad media (21 part., 57% iniciativa, avg 2.90)",
+        "total_participations": 21,
+        "voluntary_count": 12,
+        "pct_voluntary": 57.1,
+        "avg_quality_all": 2.9,
+        "points_obtained": 5.0,
+        "points_max": 7.5
+      },
+      "attendance": {
+        "points_obtained": 5.0,
+        "points_max": 5.0,
+        "source": "default"
+      },
+      "component_a_total": 15.0,
+      "component_a_max": 20.0,
+      "percent_of_a_obtained": 75.0
+    },
+    "STHEPEN": {
+      "preparation": {
+        "score_1_6": 4,
+        "rationale": "Generalmente preparado, calidad media-alta (avg 3.00/5, n=1)",
+        "n_responses_when_called": 1,
+        "avg_quality_when_called": 3.0,
+        "points_obtained": 5.0,
+        "points_max": 7.5
+      },
+      "participation": {
+        "score_1_6": 4,
+        "rationale": "Participa activo, calidad media (12 part., 92% iniciativa, avg 3.00)",
+        "total_participations": 12,
+        "voluntary_count": 11,
+        "pct_voluntary": 91.7,
+        "avg_quality_all": 3.0,
+        "points_obtained": 5.0,
+        "points_max": 7.5
+      },
+      "attendance": {
+        "points_obtained": 5.0,
+        "points_max": 5.0,
+        "source": "default"
+      },
+      "component_a_total": 15.0,
+      "component_a_max": 20.0,
+      "percent_of_a_obtained": 75.0
+    },
+    "CHILAKA": {
+      "preparation": {
+        "score_1_6": 2,
+        "rationale": "Presente pero nunca demostró preparación al ser llamado",
+        "n_responses_when_called": 0,
+        "avg_quality_when_called": null,
+        "points_obtained": 2.5,
+        "points_max": 7.5
+      },
+      "participation": {
+        "score_1_6": 2,
+        "rationale": "Participación muy baja (1 contribuciones, no aporta usefully)",
+        "total_participations": 1,
+        "voluntary_count": 1,
+        "pct_voluntary": 100.0,
+        "avg_quality_all": 3.0,
+        "points_obtained": 2.5,
+        "points_max": 7.5
+      },
+      "attendance": {
+        "points_obtained": 5.0,
+        "points_max": 5.0,
+        "source": "default"
+      },
+      "component_a_total": 10.0,
+      "component_a_max": 20.0,
+      "percent_of_a_obtained": 50.0
+    }
+  }
+}

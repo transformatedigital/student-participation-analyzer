@@ -1,0 +1,202 @@
+{
+  "block": 22,
+  "time_range": "105:00-110:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Good afternoon, professor. Good afternoon my wonderful colleagues.",
+      "timestamp_abs": "105:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So this is my presentation, update of my presentation about adapting the Korea STIAS to",
+      "timestamp_abs": "105:04"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "order for Nigeria.",
+      "timestamp_abs": "105:08"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So I wouldn't really waste much time since this is the we've already gone through this part before",
+      "timestamp_abs": "105:12"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "the background and necessity. So, we're having commercialization gap and it's really affecting our economy.",
+      "timestamp_abs": "105:15"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So many, so many of our research uh findings end up in the shelves,",
+      "timestamp_abs": "105:19"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "and we're not really making any good use of them. We are there's no way to really track the progress.",
+      "timestamp_abs": "105:23"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Just yesterday, the the president also hammered to the mini honorable minister that we need to focus on commercialization and to help our economy.",
+      "timestamp_abs": "105:26"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So they actually created a like a fund to encourage innovators. Yesterday they they sent out a Google form for them to feel",
+      "timestamp_abs": "105:31"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "so that let they actually know if he's something that can, so I think it's coming at the right time because it will be like a unifying factor",
+      "timestamp_abs": "105:36"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "for different innovators, both in the universities and and all that.",
+      "timestamp_abs": "105:41"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So this is my problem statement, not centralized digital system",
+      "timestamp_abs": "105:48"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "around the research always remain in the academic books. Then limited industry collaboration and poor monitoring mechanism.",
+      "timestamp_abs": "105:51"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So this the the from",
+      "timestamp_abs": "105:59"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "for for this um recently our patent registration is actually very low.",
+      "timestamp_abs": "106:04"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "And the is only 0.2% of our GDP that we spend on",
+      "timestamp_abs": "106:08"
+    },
+    {
+      "      timestamp": "01:13",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "compared to Korea's 4.8% from UNESCO",
+      "timestamp_abs": "105:00"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "information.",
+      "timestamp_abs": "106:18"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So we have so many startups but there are in no way connected to the university research output.",
+      "timestamp_abs": "106:20"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So this is the the last time you said I should limit my budget to for three years.",
+      "timestamp_abs": "106:28"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So this is for 2024, 2025 and 2026.",
+      "timestamp_abs": "106:31"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "around the budget for for this for this period.",
+      "timestamp_abs": "106:37"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So this these are the strategic areas of focus for for each year.",
+      "timestamp_abs": "106:43"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So this the root cause of the of the gap.",
+      "timestamp_abs": "106:50"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "There's in schools they prefer publication over patents.",
+      "timestamp_abs": "106:52"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "We technology transfer offices and fragmented research data and minimal university industry links.",
+      "timestamp_abs": "106:56"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So this the the last time I said I should include the Nigeria ecosystem right from the presidency. These are then the ministries",
+      "timestamp_abs": "107:03"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "coming down to universities and then the our international and development partners and partners also.",
+      "timestamp_abs": "107:14"
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "block": 1,
+  "time_range": "00:00-05:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Hi, I want today my goal is for you to be able to try to have more much broader and much deeper understanding of the difference between those two pathways of study.",
+      "timestamp_abs": "00:00"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And we're gonna discuss your outcome, your assignment.",
+      "timestamp_abs": "00:10"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And yeah, and then we have some of the keywords for you today.",
+      "timestamp_abs": "00:13"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So what time do you guys stop it?",
+      "timestamp_abs": "00:19"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So my goal is from 2:03 to 3:45. So you have any more lectures today?",
+      "timestamp_abs": "00:21"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is this your last lecture?",
+      "timestamp_abs": "00:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah, last lecture.",
+      "timestamp_abs": "00:26"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Last lecture, yeah.",
+      "timestamp_abs": "00:27"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "You have a class, you have one more class?",
+      "timestamp_abs": "00:28"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Course.",
+      "timestamp_abs": "00:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "No, no, at night.",
+      "timestamp_abs": "00:31"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, at night.",
+      "timestamp_abs": "00:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so I I will try to make it around 3:45.",
+      "timestamp_abs": "00:34"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What do you guys think?",
+      "timestamp_abs": "00:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I can uh stop the lecture at 3:45, and then we have we can do one more like small break, or we can do two breaks in between and finish it for.",
+      "timestamp_abs": "00:39"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think one break should be enough, because normally our discussion is quite intense and we have a lot. But let's test it, because today is the first time. Normally we would have sessions like last time when you guys present your projects. So that those days are, in Korea you say, very very tight.",
+      "timestamp_abs": "00:51"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in normally, when it's just me delivering the class and we're discussing and we're like trying to review such things.",
+      "timestamp_abs": "01:06"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe we have enough chance that we have one or two breaks, ten minutes, so we can go to bathroom, we got some coffee, come back.",
+      "timestamp_abs": "01:13"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So let's test how it goes, and you let me know your feedback, how how you think it's a better way to manage the time or something.",
+      "timestamp_abs": "01:21"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, with no further ado, let's start.",
+      "timestamp_abs": "01:30"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I told you last time, this was my slide of last time, but I I want to remind you, it's still my goals for these couple of lectures.",
+      "timestamp_abs": "01:34"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "At least from later is going to be us to get more acquainted with the knowledge organization of the topic, the terms.",
+      "timestamp_abs": "01:39"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You started already, we looked at the glossary.",
+      "timestamp_abs": "01:46"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Did you already review it at home?",
+      "timestamp_abs": "01:50"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "How many of you already think that you understand some of these terms, or you have any questions about it?",
+      "timestamp_abs": "01:51"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The first thing I want to do is to review the keywords.",
+      "timestamp_abs": "01:58"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You have more time to release on the deadline, but I want to know how much you've been working to that.",
+      "timestamp_abs": "02:01"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I'm going to go through each one of the keywords pretty quickly, to just like confirm that you understand what I did.",
+      "timestamp_abs": "02:06"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Anybody already read through them, or already saw them, or they can see them at home?",
+      "timestamp_abs": "02:13"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What's your sense about the keywords, the glossary, part one?",
+      "timestamp_abs": "02:19"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Questions?",
+      "timestamp_abs": "02:24"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "This assignment.",
+      "timestamp_abs": "02:28"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Assignment four?",
+      "timestamp_abs": "02:29"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I haven't seen it at all.",
+      "timestamp_abs": "02:32"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "By your faces, you haven't seen them at all.",
+      "timestamp_abs": "02:33"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I gave you this assignment last week.",
+      "timestamp_abs": "02:36"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Assignment four, the glossary.",
+      "timestamp_abs": "02:41"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "No?",
+      "timestamp_abs": "02:43"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Nobody remembers? It's okay.",
+      "timestamp_abs": "02:44"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "What did you say?",
+      "timestamp_abs": "02:46"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, in the slide.",
+      "timestamp_abs": "02:47"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, it was a slide.",
+      "timestamp_abs": "02:48"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "For the first week.",
+      "timestamp_abs": "02:49"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Second week, last week, assignment four.",
+      "timestamp_abs": "02:53"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The deadline is not today, don't worry. The deadline is March 31st.",
+      "timestamp_abs": "02:56"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Uh-huh, very much so.",
+      "timestamp_abs": "03:00"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Assignment four.",
+      "timestamp_abs": "03:02"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay?",
+      "timestamp_abs": "03:03"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "31st.",
+      "timestamp_abs": "03:06"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You have two weeks to go.",
+      "timestamp_abs": "03:07"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But today, I'm going to review them with you quickly.",
+      "timestamp_abs": "03:09"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "My idea is that by that date, if I ask about this keyword, everybody should know what I'm talking about.",
+      "timestamp_abs": "03:13"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "That makes sense.",
+      "timestamp_abs": "03:19"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "That makes sense.",
+      "timestamp_abs": "03:20"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then I confirm, because otherwise by 31st, nobody might know what I'm talking about.",
+      "timestamp_abs": "03:22"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mentioned about this last time quickly, I mentioned the, so and it's gonna be a mobile maybe in the camera and this assignment this is gonna do this, so.",
+      "timestamp_abs": "03:26"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that you know there are a set of glossaries, I call it a glossary because it's like a dictionary, it's not dictionary, but we use some two terms, called the diagram of the knowledge association keyword.",
+      "timestamp_abs": "03:36"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So these are keywords that I commonly use and some of them I know maybe maybe maybe even Grace who are already into like, are way more into, they have some more, but like, for example, you are from engineering department in a banking area. So maybe far away from your original field.",
+      "timestamp_abs": "03:46"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So some of these terms might be very straightforward to you, might not be. Like, for example, for me, I came from business area, but I did not know about technology commercialization. So people were talking about TRL and this level and this and I'm like, I can think I can guess what that is, but I'm not sure what it is.",
+      "timestamp_abs": "04:03"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It happened to me like that. There was a gap between my people would use when they were doing the project and those terms, and what I really understood about those terms.",
+      "timestamp_abs": "04:19"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So because I lived through that as a student, one of the things I wanted to deliver is the first thing is clarity in what terms what this means when we're talking about technology readiness, what is the real application of that.",
+      "timestamp_abs": "04:28"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In terms of practical application to our project, but also academically, what did that what does that mean?",
+      "timestamp_abs": "04:39"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So because our course is not so academic, I wanted to just quickly brush through these glossaries, I built them for you, to have in mind and to know that I'm going to use those words and while you're doing your project, these words, these terms may come up and I want you to be ready to deal with them.",
+      "timestamp_abs": "04:45"
+    }
+  ]
+}

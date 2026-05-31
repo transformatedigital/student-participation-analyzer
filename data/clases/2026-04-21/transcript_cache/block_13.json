@@ -1,0 +1,566 @@
+{
+  "block": 13,
+  "time_range": "60:00-65:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "has done with",
+      "timestamp_abs": "60:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "60:01"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So he found two different partners.",
+      "timestamp_abs": "60:02"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "60:04"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Also, you can leave the comments here. Like, I I gave me promise, you can leave comments if you are in a doubt.",
+      "timestamp_abs": "60:04"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "while while upgrading, you can leave comments.",
+      "timestamp_abs": "60:08"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So",
+      "timestamp_abs": "60:12"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Comments.",
+      "timestamp_abs": "60:13"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "60:14"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Just mentioned that.",
+      "timestamp_abs": "60:14"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, for example, here you just make an app.",
+      "timestamp_abs": "60:15"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He's the one who gave me the technology for this one.",
+      "timestamp_abs": "60:18"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "60:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You can ask him how to develop this.",
+      "timestamp_abs": "60:21"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, finally, he asked him about that. But literally see he was the Indus telecom company and they had a partnership with with me.",
+      "timestamp_abs": "60:24"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But eventually he found out that the Virgin was active.",
+      "timestamp_abs": "60:34"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I found out that G. like I didn't believe it, but I asked him to give me some horizons.",
+      "timestamp_abs": "60:39"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, actually, ETRI, and that's the whole thing, has invested into has sold this technology to Hancom Interfree.",
+      "timestamp_abs": "60:45"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, ETRI licensed the technology development with Hancom, and Hancom is Interfree was the company in Hancom, Hancom.",
+      "timestamp_abs": "60:55"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And eventually they became a joint venture and subsidiary, they were in charge of the foreign market, Germany, and during our Olympic Games in Korea,",
+      "timestamp_abs": "61:05"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "specifically, at that time, G-Talk was the official translation app. So it was a big deal.",
+      "timestamp_abs": "61:13"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But eventually after the Pyeongchang Olympics, the opportunity kind of died and it went down, right? And they closed the Interfree company was closed.",
+      "timestamp_abs": "61:18"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "From the Hancom?",
+      "timestamp_abs": "61:26"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. No.",
+      "timestamp_abs": "61:27"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Hancom, the mother company exists.",
+      "timestamp_abs": "61:28"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Ah.",
+      "timestamp_abs": "61:30"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They are in charge of the Korean word processing, Hancom, and many other solutions, Cloud Solutions, etcetera.",
+      "timestamp_abs": "61:31"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the the daughter company, the subsidiary, they came to an end.",
+      "timestamp_abs": "61:37"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, with that company, who developed the technology? G-Talk, right?",
+      "timestamp_abs": "61:42"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So,",
+      "timestamp_abs": "61:46"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "but the good thing is, when I called ETRI to find out about this,",
+      "timestamp_abs": "61:47"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "my friend, I'm going to take you to this. My friend is,",
+      "timestamp_abs": "61:51"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Mhm.",
+      "timestamp_abs": "61:58"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "sent me a message this morning. I'm going to meet her. Yes.",
+      "timestamp_abs": "62:00"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "She told me, this is this is the news I got. So I'm just telling you what I have in my chat.",
+      "timestamp_abs": "62:12"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There is a new company. Yeah, meaning this is",
+      "timestamp_abs": "62:19"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I can relate.",
+      "timestamp_abs": "62:22"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "62:23"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tutorus Labs.",
+      "timestamp_abs": "62:25"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tutorus Labs.",
+      "timestamp_abs": "62:29"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There is, as I told you before, ETRI, many of the of the researchers in ETRI, they spin off.",
+      "timestamp_abs": "62:31"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "because again, in an innovation ecosystem that is mature,",
+      "timestamp_abs": "62:37"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "what's the purpose of R&D centers?",
+      "timestamp_abs": "62:42"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Mega?",
+      "timestamp_abs": "62:44"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Purpose.",
+      "timestamp_abs": "62:45"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Mhm.",
+      "timestamp_abs": "62:46"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Publications.",
+      "timestamp_abs": "62:48"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Hm?",
+      "timestamp_abs": "62:49"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "The purpose of the R&D centers is to make publications.",
+      "timestamp_abs": "62:50"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Only that?",
+      "timestamp_abs": "62:52"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Publications only?",
+      "timestamp_abs": "62:54"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Prototype.",
+      "timestamp_abs": "62:55"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Prototype for what?",
+      "timestamp_abs": "62:56"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "A lot.",
+      "timestamp_abs": "62:59"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Yeah, for what?",
+      "timestamp_abs": "63:00"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Prototype for",
+      "timestamp_abs": "63:02"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Value.",
+      "timestamp_abs": "63:03"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Value.",
+      "timestamp_abs": "63:05"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In a mature innovation ecosystem, R&D centers will create technology and knowledge to provide this technology to companies who will product, market, brand these technologies, sell it and create product.",
+      "timestamp_abs": "63:06"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So R&D centers are not patent and publication producers.",
+      "timestamp_abs": "63:24"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They have to be enablers of value.",
+      "timestamp_abs": "63:29"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Very, very important distinction.",
+      "timestamp_abs": "63:32"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, in that ecosystem, of course, before ETRI researchers, their KPI was how many publications you did or how many patents you published.",
+      "timestamp_abs": "63:35"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But nowadays, ETRI researchers have to be entrepreneurs as as well.",
+      "timestamp_abs": "63:44"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, these young three ETRI researchers, three people, went out of ETRI and created a startup company, they came, they came, they joined forces with [inaudible].",
+      "timestamp_abs": "63:50"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "text": "After announce the exit?",
+      "timestamp_abs": "64:04"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "64:05"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That company is called Tutus Labs.",
+      "timestamp_abs": "64:06"
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the interesting thing, the interesting thing is that ETRI himself says, it's like your your company has to say, hey, hey, like you have a good entrepreneurship idea, just come to be an entrepreneur, we will, we will help you, we will invest in you, right?",
+      "timestamp_abs": "64:08"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So they either part-time, they work for the company, for the R&D center and they also have part-time their own entrepreneurship.",
+      "timestamp_abs": "64:21"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's a very cool thing to do.",
+      "timestamp_abs": "64:27"
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Also professors these days, even if we have entrepreneur projects with our students, we can make a small spin-off companies in KAIST, and KAIST will promote this kind of thing.",
+      "timestamp_abs": "64:29"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So not only focus on just all good.",
+      "timestamp_abs": "64:39"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No.",
+      "timestamp_abs": "64:41"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Business.",
+      "timestamp_abs": "64:42"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "64:45"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The very distinction, that's why they understand very well how to create value, okay?",
+      "timestamp_abs": "64:45"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So he told me.",
+      "timestamp_abs": "64:51"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Anyway, I I I contacted her and I, she is, she was one of the good members of the technology transform. So",
+      "timestamp_abs": "64:52"
+    }
+  ]
+}

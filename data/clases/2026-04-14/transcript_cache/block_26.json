@@ -1,0 +1,48 @@
+{
+  "block": 26,
+  "time_range": "00:00-00:30",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "together. I'm not sure if it's like the",
+      "timestamp_abs": "125:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the elements that he wants to include or just the faces.",
+      "timestamp_abs": "125:02"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I was a little bit confused about this.",
+      "timestamp_abs": "125:08"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There are important keywords there, but I'm not sure how they connect to your story itself, so be careful with that.",
+      "timestamp_abs": "125:10"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, and it's a very big collaboration framework idea, yeah, but",
+      "timestamp_abs": "125:17"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I don't know, this slide I would be careful with that in the sense that it's great to know what you're including, you're thinking that there should be an MOU, yes, there probably there're going to be eventually a PPP, but there's like",
+      "timestamp_abs": "125:21"
+    }
+  ]
+}

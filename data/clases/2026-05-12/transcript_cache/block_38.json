@@ -1,0 +1,244 @@
+{
+  "block": 38,
+  "time_range": "185:00-190:00",
+  "utterances": [
+    {
+      "timestamp": "00:06",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "text": "Teacher.",
+      "timestamp_abs": "185:06"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Vale.",
+      "timestamp_abs": "185:30"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Vale, vale.",
+      "timestamp_abs": "185:36"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Vale.",
+      "timestamp_abs": "185:40"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Pues si ha tenido...",
+      "timestamp_abs": "185:49"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Vale.",
+      "timestamp_abs": "185:51"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Vale.",
+      "timestamp_abs": "185:52"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Venga, seguimos.",
+      "timestamp_abs": "186:00"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Venga, Chillaka.",
+      "timestamp_abs": "186:03"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Ah, vale.",
+      "timestamp_abs": "186:08"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Eh...",
+      "timestamp_abs": "186:21"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Vale.",
+      "timestamp_abs": "187:00"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Perfecto.",
+      "timestamp_abs": "187:01"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "A ti.",
+      "timestamp_abs": "187:03"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Venga, Shtephan.",
+      "timestamp_abs": "187:04"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Te han ayudado.",
+      "timestamp_abs": "187:13"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "A ti.",
+      "timestamp_abs": "187:36"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Venga, Grace.",
+      "timestamp_abs": "187:37"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No te ayuda, perfecto.",
+      "timestamp_abs": "188:06"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "A ti.",
+      "timestamp_abs": "188:09"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Venga, Aryang.",
+      "timestamp_abs": "188:10"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Te han ayudado.",
+      "timestamp_abs": "188:22"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Eh...",
+      "timestamp_abs": "188:25"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No te ayuda.",
+      "timestamp_abs": "188:38"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Perfecto.",
+      "timestamp_abs": "188:39"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Venga.",
+      "timestamp_abs": "188:43"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Vale.",
+      "timestamp_abs": "189:01"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Vale.",
+      "timestamp_abs": "189:19"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Vale.",
+      "timestamp_abs": "189:37"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Venga.",
+      "timestamp_abs": "189:40"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Vale.",
+      "timestamp_abs": "189:50"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Verbal, no verbal.",
+      "timestamp_abs": "189:54"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Diferencia, ejemplos.",
+      "timestamp_abs": "189:55"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Venga.",
+      "timestamp_abs": "189:59"
+    }
+  ]
+}

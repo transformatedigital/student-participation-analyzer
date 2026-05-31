@@ -1,0 +1,99 @@
+================================================================================
+APRIL 7 CLASS (2026-04-07) - SPEAKER VERIFICATION CHECKLIST
+================================================================================
+
+📍 LOCATION: /Users/santi/clase-analytics/data/clases/2026-04-07/student_audio_verification/
+
+================================================================================
+CRITICAL ISSUE: ARYANG vs STHEPEN CONFUSION
+================================================================================
+
+⚠️  The analysis has a major discrepancy:
+
+TIMELINE (diarization) says:
+  - Sthepen: 50 segments, 197 seconds (8.2%)
+    └─ First segment at [00:00:10]: "Okay, so because, uhm"
+
+Q&A ANALYSIS (Gemini) says:
+  - Aryang: 9 responses + 3 voluntary contributions (timestamps 00:03:29 - 00:13:31)
+  - Sthepen: 0 responses ❌
+
+🤔 POSSIBILITY: The voice at 00:00:10 - 00:13:31 might be ARYANG (not Sthepen)
+   and the diarization system labeled him incorrectly as Sthepen.
+
+================================================================================
+VERIFICATION TASK 1: WHO IS SPEAKING FROM 00:00:10 TO 00:13:31?
+================================================================================
+
+FILE: Sthepen_combined.m4a (18.5 MB)
+
+Listen to this file and answer:
+  1. Is this voice Sthepen or Aryang?
+  2. Do the timestamps match the Q&A responses? (Aryang speaks from 00:03:29 onwards)
+
+KEY ARYANG STATEMENTS YOU SHOULD HEAR (if it's Aryang):
+  - "Okay, so because, uh, for the for the..." [00:00:19]
+  - "Microsoft Copilot for using the AI for..." [00:00:34]
+  - "Yeah, yeah. So, and I ask him, uh..." [00:00:44]
+  - ... (continues through 00:13:31)
+
+================================================================================
+VERIFICATION TASK 2: GRACE
+================================================================================
+
+FILE: Grace_combined.m4a (393 KB)
+
+Timeline shows Grace: 4 segments, 7 seconds (0.3%)
+Q&A shows Grace: 7 responses (all marked Quality B-D)
+
+Timestamps: 00:37:53 to 00:38:40
+Expected phrases: "I just went to KISTI"
+
+Status: ✅ MATCHES - Grace is correctly identified
+
+================================================================================
+VERIFICATION TASK 3: CHILAKA
+================================================================================
+
+FILE: Chilaka_combined.m4a (291 KB)
+
+Timeline shows Chilaka: 5 segments, 11 seconds (0.5%)
+Q&A shows Chilaka: NOT FOUND ❌
+
+Timestamps: 00:38:06 to 00:38:38
+Expected phrases: "Yes, yeah, yeah. So, the research..." / "I went to KISTI"
+
+Questions to verify:
+  1. Is this Chilaka?
+  2. Are these responses to teacher questions? If yes, they should be in Q&A too.
+  3. Could this be mislabeled (maybe it's Grace or another student)?
+
+================================================================================
+SUMMARY TABLE
+================================================================================
+
+Student    | Timeline        | Q&A Analysis   | Status  | Action
+-----------|-----------------|----------------|---------|--------------------
+Aryang     | ❌ NOT FOUND    | ✅ 9+3 items   | ❌ FAIL | Verify Sthepen_combined.m4a
+Sthepen    | ✅ 50 segs/197s | ❌ NOT FOUND   | ❌ FAIL | Listen & confirm identity
+Grace      | ✅ 4 segs/7s    | ✅ 7 responses | ✅ OK  | Verified
+Chilaka    | ✅ 5 segs/11s   | ❌ NOT FOUND   | ⚠️  CHK | Listen & classify
+Mega       | ❌ NO AUDIO     | ❌ NOT FOUND   | ❌ FAIL | Not present?
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+1. Listen to Sthepen_combined.m4a (18.5 MB file)
+   - Determine if it's actually Aryang
+   - If yes: We had Aryang/Sthepen confused in speaker identification
+
+2. Listen to Chilaka_combined.m4a (291 KB)
+   - Verify if it's actually Chilaka
+   - Check if those short statements are responses or just agreements
+
+3. Confirm if Mega and any other student should be present
+
+Once you verify, send me the corrections and I'll update the speaker identification.
+
+================================================================================

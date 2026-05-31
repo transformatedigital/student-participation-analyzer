@@ -1,0 +1,424 @@
+{
+  "block": 7,
+  "time_range": "30:00-35:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "very, very, very, very thin, it's just an invention.",
+      "timestamp_abs": "30:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And we really, from the invention create a business model, create an innovation and then commercialize it.",
+      "timestamp_abs": "30:06"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So understanding how ideas move from research laboratories to market applications.",
+      "timestamp_abs": "30:10"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Creating economic value through technology transfer and adoption is what this class is about.",
+      "timestamp_abs": "30:15"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? I adopted the definition so that you guys know, when you tell me, when you hear me saying your technology commercialization journey",
+      "timestamp_abs": "30:27"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is not a general term. I'm talking about this journey.",
+      "timestamp_abs": "30:34"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "system.",
+      "timestamp_abs": "30:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "30:39"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is important, very, very important for all of you, because",
+      "timestamp_abs": "30:40"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I can see many of the proposals. One of the things that are very important is to understand who will be the owners of our data.",
+      "timestamp_abs": "30:42"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "We are like godmothers. You know what a godmother is?",
+      "timestamp_abs": "30:50"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "30:54"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "30:55"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We are like godmothers, because we are not going to be the parents of this baby. Mega, you are a PhD student.",
+      "timestamp_abs": "30:55"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Chilaka, you are a PhD student.",
+      "timestamp_abs": "31:02"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You are a master student.",
+      "timestamp_abs": "31:04"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You, I have to do your masters and your homework, but you will have a small child, a godchild, how do you call it?",
+      "timestamp_abs": "31:06"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You will have a small baby, but this baby has to have a father and a mother, and you're just helping to raise the baby, kind of.",
+      "timestamp_abs": "31:14"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Intermediaries, right?",
+      "timestamp_abs": "31:21"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Intermediary.",
+      "timestamp_abs": "31:23"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, intermediary.",
+      "timestamp_abs": "31:24"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "31:25"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now you need to write your paper, right? So,",
+      "timestamp_abs": "31:26"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "one of the very important things that Korea understood, the US, and these countries understood, and I think Chilaka, you did it in your homework, you presented it very well, is the what we call the triple helix.",
+      "timestamp_abs": "31:31"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The theory of the triple helix. It's a helix, like a helicopter.",
+      "timestamp_abs": "31:54"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this is called industry, government, and academy, university.",
+      "timestamp_abs": "31:58"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We can later also a lot about this.",
+      "timestamp_abs": "32:14"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Everybody else heard about the triple helix theory before?",
+      "timestamp_abs": "32:17"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Triple helix theory, did you, Chilaka, did you know about this theory?",
+      "timestamp_abs": "32:24"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This theory originally was called triple helix. Nowadays, they call it the quadruple helix.",
+      "timestamp_abs": "32:29"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "A quintuple helix.",
+      "timestamp_abs": "32:35"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because now they have the environment, and they have the civil society, first, the people.",
+      "timestamp_abs": "32:36"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The main, main helix are these three access.",
+      "timestamp_abs": "32:43"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When they said, if you want the country to develop their national capacity, to develop their country, you need these three access to really work very well, like an engine, access, right?",
+      "timestamp_abs": "32:46"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "These guys need to collaborate very well to make it grow.",
+      "timestamp_abs": "32:57"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this was a very important economic and uh, innovation management and economic theories, and there was its school talking about these theories.",
+      "timestamp_abs": "33:02"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And there's many works on what now we call innovation systems.",
+      "timestamp_abs": "33:13"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is an innovation system.",
+      "timestamp_abs": "33:18"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Innovation system. This is for the technology commercialization class theoretical class.",
+      "timestamp_abs": "33:22"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Our class is not theoretical, so we're not going to discuss a lot.",
+      "timestamp_abs": "33:26"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But because we're learning about this program, these keywords that I want you to understand the background, I'm giving you this explanation.",
+      "timestamp_abs": "33:29"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In our cases, or our projects, for our global technology commercialization project, we need to understand how our national innovation system works.",
+      "timestamp_abs": "33:35"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I, a student, have to really understand how the Costa Rican national innovation system works.",
+      "timestamp_abs": "33:45"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "My project has how the Indonesian system works.",
+      "timestamp_abs": "33:51"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "How the, um, [inaudible] system works.",
+      "timestamp_abs": "33:53"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "How Rwanda system works, how your Nigerian system works, how your Congo system works.",
+      "timestamp_abs": "33:57"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And you will realize probably, like I have to realize, my national innovation system, Costa Rica.",
+      "timestamp_abs": "34:01"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is very important? Is very important?",
+      "timestamp_abs": "34:06"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This happens. Doesn't happen.",
+      "timestamp_abs": "34:09"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The academia, we are just teachers, they have no idea about this system.",
+      "timestamp_abs": "34:11"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The industry, they are trying to work with their nails and blood and tears, trying to grow with private money, doing whatever they can.",
+      "timestamp_abs": "34:16"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The government has no idea that this exists and they barely put some seed money sometimes, and that's it.",
+      "timestamp_abs": "34:25"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "How is Korea now?",
+      "timestamp_abs": "34:32"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Very good.",
+      "timestamp_abs": "34:34"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They're almost half a century.",
+      "timestamp_abs": "34:35"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's very tough because we didn't get, we didn't catch the importance of this.",
+      "timestamp_abs": "34:36"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "These other countries they have it very clear.",
+      "timestamp_abs": "34:40"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why they invest in our recent.",
+      "timestamp_abs": "34:42"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why they now. So many these guys especially, especially our countries like, I would say maybe Rwanda, Congo not the case, but Indonesia definitely, Mexico definitely. We are countries that are in the middle income trap.",
+      "timestamp_abs": "34:45"
+    }
+  ]
+}

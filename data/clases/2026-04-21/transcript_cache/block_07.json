@@ -1,0 +1,688 @@
+{
+  "block": 7,
+  "time_range": "30:00-35:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe, maybe it's possible if they use guys on my money.",
+      "timestamp_abs": "30:00"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we have to think about it.",
+      "timestamp_abs": "30:05"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's funny, guys, it's interesting.",
+      "timestamp_abs": "30:07"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "30:10"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, this is Chilaka's situation.",
+      "timestamp_abs": "30:11"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Chilaka, tonight I will get more information about what's the process, based on that, then we can start the formal",
+      "timestamp_abs": "30:13"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "formal processes. You want to I will I will let you know.",
+      "timestamp_abs": "30:19"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Actually, I can prepare a letter like this to please or let me know like that.",
+      "timestamp_abs": "30:23"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "If there is anything of this scenario that you think, professor, this scenario is not good for me.",
+      "timestamp_abs": "30:27"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Actually, for me in Nigeria is better to move through this side.",
+      "timestamp_abs": "30:33"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "For me, the best way for me is moving from",
+      "timestamp_abs": "30:36"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "from the FMST to KISTI.",
+      "timestamp_abs": "30:41"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, to KISTI.",
+      "timestamp_abs": "30:44"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "30:47"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Just the way you you did from uh",
+      "timestamp_abs": "30:48"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh so, just write down.",
+      "timestamp_abs": "30:51"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The thing is it's not the same level.",
+      "timestamp_abs": "30:53"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then I think best case would be like this, hey.",
+      "timestamp_abs": "30:56"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You Ministry to Ministry, and then you CC KISTI.",
+      "timestamp_abs": "30:59"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, yes.",
+      "timestamp_abs": "31:04"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because from the Ministry to KISTI, but maybe KISTI wants it this way.",
+      "timestamp_abs": "31:06"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "How do I know?",
+      "timestamp_abs": "31:11"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But these connections might be important.",
+      "timestamp_abs": "31:13"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not both, either this one or this one. It's or.",
+      "timestamp_abs": "31:17"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because the money.",
+      "timestamp_abs": "31:21"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sometimes NAIPA has two tracks.",
+      "timestamp_abs": "31:29"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So NAIPA will receive from this from the emphasis.",
+      "timestamp_abs": "31:32"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe what we could do, worst case scenario is, you ask the agency to send them better directly.",
+      "timestamp_abs": "31:38"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But also CC this is my idea, but I will confirm today.",
+      "timestamp_abs": "31:45"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Send the letter like that.",
+      "timestamp_abs": "31:52"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "31:55"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The the ambassador, no the the Ambassador for here.",
+      "timestamp_abs": "31:58"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I mean, they just posted a new ambassador and they.",
+      "timestamp_abs": "32:02"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, no.",
+      "timestamp_abs": "32:06"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, I I can always get access to him, but",
+      "timestamp_abs": "32:07"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "they've not really fully resumed because there's you know, Ambassador over two years back.",
+      "timestamp_abs": "32:11"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, good.",
+      "timestamp_abs": "32:18"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It means this one is cancelled.",
+      "timestamp_abs": "32:19"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "32:20"
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Good. What else?",
+      "timestamp_abs": "32:21"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But then we could do something like, you send it directly here, you CC KISTI and you CC the embassy.",
+      "timestamp_abs": "32:23"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "You think that will really work?",
+      "timestamp_abs": "32:31"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "32:36"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But then we have to align it before.",
+      "timestamp_abs": "32:37"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like we have to inform the International Cooperation Department here that some letter will come like that.",
+      "timestamp_abs": "32:39"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because otherwise, maybe nobody receives it or the person doesn't know about this project receive it and they don't know where to.",
+      "timestamp_abs": "32:46"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Especially because our letter will be coming in English.",
+      "timestamp_abs": "32:53"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So Korea sometimes there's not every staff speaks English.",
+      "timestamp_abs": "32:56"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to make that due diligence important.",
+      "timestamp_abs": "33:00"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Lay the ground, prepare the ground to make it make the seat come and it could work.",
+      "timestamp_abs": "33:04"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so maybe like this Chilaka, I will tell something about this time.",
+      "timestamp_abs": "33:10"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "33:14"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "33:15"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All right, so we'll look at the video going to 2:00 p.m.",
+      "timestamp_abs": "33:16"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "33:19"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh, yeah, it.",
+      "timestamp_abs": "33:20"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thank you.",
+      "timestamp_abs": "33:21"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh uh.",
+      "timestamp_abs": "33:23"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thank you.",
+      "timestamp_abs": "33:24"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay guys.",
+      "timestamp_abs": "33:25"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Let's rest from now until 2:20, 2:25, is that okay?",
+      "timestamp_abs": "33:26"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Get some coffee break.",
+      "timestamp_abs": "33:32"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'll be back.",
+      "timestamp_abs": "33:33"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thank you.",
+      "timestamp_abs": "33:34"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "NAIPA.",
+      "timestamp_abs": "33:41"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "You good?",
+      "timestamp_abs": "33:44"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "What's wrong with?",
+      "timestamp_abs": "33:46"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They are people.",
+      "timestamp_abs": "33:48"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Is it the same boss you're doing?",
+      "timestamp_abs": "33:50"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "NAIPA.",
+      "timestamp_abs": "33:52"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "NAIPA, KISTI, and also the other one.",
+      "timestamp_abs": "33:54"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, no, no, no.",
+      "timestamp_abs": "33:57"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Same boss.",
+      "timestamp_abs": "33:58"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh.",
+      "timestamp_abs": "33:59"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Same boss, but two different",
+      "timestamp_abs": "34:01"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "from the same ministry.",
+      "timestamp_abs": "34:02"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, no, no, no, no.",
+      "timestamp_abs": "34:05"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The vice president of NAIPA schooled in KIST.",
+      "timestamp_abs": "34:05"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah.",
+      "timestamp_abs": "34:09"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah.",
+      "timestamp_abs": "34:10"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "NAIPA.",
+      "timestamp_abs": "34:11"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "But but there's another thing they're the same ICP, no?",
+      "timestamp_abs": "34:13"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Say it again.",
+      "timestamp_abs": "34:16"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "NAIPA, NAIPA is actually Ministry of Science and ICT.",
+      "timestamp_abs": "34:17"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah.",
+      "timestamp_abs": "34:22"
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Same as KIST, then.",
+      "timestamp_abs": "34:23"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, no, no, KIST is under this.",
+      "timestamp_abs": "34:24"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "34:26"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "KIST is under Ministry of Science.",
+      "timestamp_abs": "34:27"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "This is a",
+      "timestamp_abs": "34:31"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ministry, oh, MSTE, and then the ICT.",
+      "timestamp_abs": "34:32"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh-huh.",
+      "timestamp_abs": "34:37"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "I think they are receiving their money from KIST.",
+      "timestamp_abs": "34:47"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like, you have a data from here, but this one is",
+      "timestamp_abs": "34:50"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You can move it from here to a consul that goes to the embassy.",
+      "timestamp_abs": "34:52"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But we can use like this, or we can use the same",
+      "timestamp_abs": "34:57"
+    }
+  ]
+}

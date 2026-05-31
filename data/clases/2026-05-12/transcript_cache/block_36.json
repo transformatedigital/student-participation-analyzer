@@ -1,0 +1,55 @@
+{
+  "block": 36,
+  "time_range": "175:00-180:00",
+  "utterances": [
+    {
+      "timestamp": "00:07",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, todo bien.",
+      "timestamp_abs": "175:07"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "No, todo bien.",
+      "timestamp_abs": "175:09"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Morales.",
+      "timestamp_abs": "178:38"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Son unilaterales.",
+      "timestamp_abs": "179:15"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Son internas.",
+      "timestamp_abs": "179:35"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Incoercibles.",
+      "timestamp_abs": "179:44"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Religiosas.",
+      "timestamp_abs": "179:52"
+    }
+  ]
+}

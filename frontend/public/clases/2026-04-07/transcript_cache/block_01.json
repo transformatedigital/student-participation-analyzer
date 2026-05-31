@@ -1,0 +1,188 @@
+{
+  "block": 1,
+  "time_range": "00:00-05:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "topics that you, like, questions you have about your ICP progress that you need me to address now. And I thought we told you we're gonna discuss, right?",
+      "timestamp_abs": "00:00"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Can I know? Can I know?",
+      "timestamp_abs": "00:08"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, I'd rather have you share your problems because your problem might be related to many of their questions too. Or they can learn from your questions.",
+      "timestamp_abs": "00:10"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Alright, thank you, ma'am. Oh, so, um, for the for the collaboration, I already talked to my, uh, department. And actually they already moved, so they go strike partnership with the Microsoft.",
+      "timestamp_abs": "00:18"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "With Microsoft?",
+      "timestamp_abs": "00:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Microsoft Copilot for using the AI for, uh, you know, for knowledge. For knowledge management.",
+      "timestamp_abs": "00:34"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, but Copilot is little bit limited, but okay.",
+      "timestamp_abs": "00:41"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Nah, yeah, yeah. So, and I asked him, uh, is there any any other opportunity for for me to to join with the the the the project? And he said it's, yeah, that's still but or for for the they they they will need to.",
+      "timestamp_abs": "00:43"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "For the, hmm.",
+      "timestamp_abs": "01:02"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's exactly what I tell you. On the course of this, we are preparing and they're already moving, so they are, yeah.",
+      "timestamp_abs": "01:04"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Uh, wait, wait, wait, wait, wait a minute. They already j- they already doing the kick off. I think tomorrow they will do the kick off with the Microsoft. Uh, so the one that, uh, available for me is evaluate the system of the R&D from the Microsoft Copilot. And I don't know is it, is it possible to make it some technolo commercialization if it's only about evaluation, evaluating the system.",
+      "timestamp_abs": "01:11"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, I think Yeah, it's just it runs under another category. I mean, it's a business. Yeah, but that's what I'm trying to explain you late before. Like if you see here, if you see it from the broad concept of business, NTIAS from Costa Rica was a business, mind you, right? If you think about it. And then I see, like I will tell you this is the mother, M I C T.",
+      "timestamp_abs": "01:41"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then MSIT for you now, plus KISTI.",
+      "timestamp_abs": "02:08"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then E-SE makes some money, because E-SE charges some money to the, means I see.",
+      "timestamp_abs": "02:14"
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "02:21"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then SoftITech also makes some money, probably. They pay to KISTI money for the patent for the IP.",
+      "timestamp_abs": "02:22"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Sorry, sorry, sorry.",
+      "timestamp_abs": "02:32"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Not not not KISTI paid to SoftITech because KISTI asked SoftITech to convert the language?",
+      "timestamp_abs": "02:33"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. KISTI paid money, already KISTI paid money to SoftITech as a developer IT support service, like IT outsourcing, okay? So money comes here also. But if SoftITech wants to sell the service to E-SE, they have to pay a royalty to KISTI. Because the intellectual property of NTIAS is not solely of SoftITech, it's of KISTI.",
+      "timestamp_abs": "02:40"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So he didn't explain in detail, but the basic model is here. KISTI gets money from the royalty because they own the IP of NTIAS. So if SoftITech will use this IP to translate it into English, probably also the strategy of using the English and Spanish version is because if SoftITech used the Korean version, maybe this royalty is very expensive.",
+      "timestamp_abs": "03:03"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "No, but but that that, why didn't the SoftITech convert straight to the to the Costa Rican language? Why should it English and the ICC?",
+      "timestamp_abs": "03:29"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because because KISTI has the know-how and ownership of the old process. SoftITech is a private company to just provide IT support and of course they have some know-how of IT operation. But the design of the process, the R&D process, the know-how behind it, it's from the public sector.",
+      "timestamp_abs": "03:40"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "So I I mean I mean uh why why didn't the the KISTI request the SoftITech to provide the NIST version of Costa Rican language? Yes. Why not like that? Why not why must translate to English first and ICE?",
+      "timestamp_abs": "04:00"
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because the process is not copy-paste. It's not like that. There is many alterations here. Remember he he said the system as it is, it's not perfectly workable for Costa Rica. The user interface has to change, modules need to be adapted, it's it needs to be tropicalized, so to say. It's made for Costa Rica, adapted.",
+      "timestamp_abs": "04:18"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's like inspired in NTIAS, made for Costa Rica.",
+      "timestamp_abs": "04:42"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this concept is the concept of adaptation, adapt, adoption, it's not it's not like I just say okay, this NTIAS copy-paste, using Costa Rica, copy, translate, using Costa Rica. It's not like that straight forward.",
+      "timestamp_abs": "04:47"
+    }
+  ]
+}

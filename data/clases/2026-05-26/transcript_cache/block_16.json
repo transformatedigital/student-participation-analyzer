@@ -1,0 +1,273 @@
+{
+  "block": 16,
+  "time_range": "75:00-80:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You're trying with your future.",
+      "timestamp_abs": "75:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What?",
+      "timestamp_abs": "75:02"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not excuse.",
+      "timestamp_abs": "75:03"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "No, no, no, no, no.",
+      "timestamp_abs": "75:05"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not excuse. It's not that.",
+      "timestamp_abs": "75:06"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "All right. So, what are the kind of contextual intelligence activities you guys did or please give me an example of what you have done in your ICP or what your team for case number three, the case of a, uh, what is it? Waste, waste management, waste. Yeah. The waste management, what contextual intelligence they performed?",
+      "timestamp_abs": "75:08"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The research team performed to reach it to the underlying cause of the problem.",
+      "timestamp_abs": "75:31"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So they they uh, they survey, they survey the population to know the real problem.",
+      "timestamp_abs": "75:37"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "What else did you do? Any other? Mega?",
+      "timestamp_abs": "75:43"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yeah. The they are so there are like they found even to to the the the citizen. The the collectors are very motivated or not.",
+      "timestamp_abs": "75:48"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Actually, the problem is the conflict of interests. The conflict of interest within the collectors and the government.",
+      "timestamp_abs": "76:00"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So, it means that for them uh, working in that way could benefits them more.",
+      "timestamp_abs": "76:09"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In the in the",
+      "timestamp_abs": "76:17"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, yeah, like what?",
+      "timestamp_abs": "76:18"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah, yeah, illegal way. And then to solve the problem, the government needed to set a law to regulate so that they can see themselves.",
+      "timestamp_abs": "76:19"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the regulate is just a mechanism. Yeah, the mechanism.",
+      "timestamp_abs": "76:29"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, the mechanism.",
+      "timestamp_abs": "76:31"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The purpose was to insert some incentive.",
+      "timestamp_abs": "76:32"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Incentives.",
+      "timestamp_abs": "76:34"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah. So, they put in place some financial uh, fund system and then that yeah, yeah, subsidy. So they they could understood that actually these people need this one.",
+      "timestamp_abs": "76:35"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That came from this initial, initial like understanding of what's going on, right?",
+      "timestamp_abs": "76:47"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And number two is stakeholder engagement and need narrow down. It's just a label of what we've been doing already until now. Engage advisors, ministries, partner institutions, clarify users, beneficiaries, decision-makers, urgency and constraints, also. Okay?",
+      "timestamp_abs": "76:54"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's what you've been doing until now. Collecting from your friends, collecting from your peers, but I'm trying to put it into different. So, many of the activities I want to stop here, so what I'm going to do today, instead of me talking alone about all these issues, I'm going to just double-click on this box and let you work for the next 15 minutes, 10 or 15 minutes.",
+      "timestamp_abs": "77:10"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "On these two activities in your workshop, okay?",
+      "timestamp_abs": "77:31"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want you to go, right?",
+      "timestamp_abs": "77:34"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "From demand side sensing, so we already know, what is demand side sensing?",
+      "timestamp_abs": "77:39"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Can you explain in your own words what is demand side sensing?",
+      "timestamp_abs": "77:44"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Somebody can try. There's no, I'm I'm building this from it's authored by me, so what could you what could you say is demand side sensing?",
+      "timestamp_abs": "77:53"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "The recipient organization trying to understand if this problem has been solved.",
+      "timestamp_abs": "78:00"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh. No, I think it's not if this problem has been solved.",
+      "timestamp_abs": "78:10"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "It's about trying to and to really understand what is the core problem.",
+      "timestamp_abs": "78:15"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Exactly. This is about the critical thinking process of understanding what's the problem. If there is a problem. If there is a problem. Mega, it's fine to understand. Is there a real problem? I again, is there a real problem that I can solve through a technology commercialization initiative? Right? There's many real problems that we cannot solve.",
+      "timestamp_abs": "78:20"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, sure.",
+      "timestamp_abs": "78:44"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, um, so is this a real problem again? Then we have to think about this one. Right? Always think about this one, that's why I wrote this one myself always to keep my clear. Is the problem evidence-based, stakeholder-grounded and worth developing into a collaboration opportunity? The problem might be very real, the poverty entity, very real, but maybe it's not really worth developing into the collaboration opportunity because it's not something we can solve through this kind of collaboration opportunity. Maybe it is. I'm just saying like that kind of just think about it.",
+      "timestamp_abs": "78:45"
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "And then, so, what do I want you to do is anyway, for each one of them, fill out your activities, what have you done for contextual intelligence and for stakeholder engagement and need narrow down?",
+      "timestamp_abs": "79:18"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And what are all things you can think of that you want to do, that you haven't done yet, that you want to do, you think you should do, but you haven't done it because of X or Y reason? Or, for example, uh, in the stakeholder engagement, these days, Chilaka came up with the idea that he needed to because he knows his organization is not going to move so fast as Koreans. So he realized, ah, I need to send a letter internally to the ministry to fix, to start having this problem.",
+      "timestamp_abs": "79:30"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "So Chilaka, can you share a little bit?",
+      "timestamp_abs": "79:58"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "block": 12,
+  "time_range": "55:00-60:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "your case. Maybe it's not applicable directly in your case right now. But for future, future, uh potential commercialization, this is also a very good interesting, interesting resource you have.",
+      "timestamp_abs": "55:00"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I've actually kinda uh [inaudible].",
+      "timestamp_abs": "55:11"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You we are gonna provide mentors for your collaboration through the summer and winter. So we're gonna assign some mentors. There's gonna be an event. I am a mentor, like I'm right now a professor in this course, but eventually after you are not my students, I become a mentor when you're doing your collaboration early later on.",
+      "timestamp_abs": "55:14"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or Professor team, or like that, okay?",
+      "timestamp_abs": "55:30"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm a very busy mentor.",
+      "timestamp_abs": "55:32"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah, yeah, yeah.",
+      "timestamp_abs": "55:34"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then analyze the problem space through advisor in the same. All the whole ministries and agencies, but it's already what you are doing. But I'm just putting it in black and white so that you guys understand and I I think it's a much better way to explain.",
+      "timestamp_abs": "55:37"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now, opportunity generation, I think this is kind of what what I told you before in the early on, I told you, hey, Aryang, let's look at the competitive landscape. What are the possible knowledge management, operation management, good solutions, right, that you can see that it can help you kind of start understanding what potential uh tac what potential, uh, matchmaking, matchmaking solution partner you're faith could fit to your problem demand, right? The problem is in that in that part, when I added this one, when I made you do this, I think when when you're when when you are still very premature in this in this thinking, if you look at this too much, it might be you might lock in into the solution instead of the problem. And I think that was kind of our mistake also, like you guys kind of very quickly shift to this part instead of doing this other part together, right? My idea was like when you're a little bit lost looking at these possible things, it helps kind of re-engineer the problem thinking. But when you don't have very clear in your mind the definition and the scope of problem, the scope of symptoms, the scope of platform, the scope of technology, the scope of solution and product, you don't have those definitions very clear, this becomes very blurry.",
+      "timestamp_abs": "55:49"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think that's what happened in many of our versions. So that's why I keep I keep saying, I need to let them know that this is not wrong. This is also not wrong. We need to be because finally, it's also if if we find if our if our problem becomes something like",
+      "timestamp_abs": "57:08"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "get into Mars, you know? We need to know that it cannot be a pie in the sky. It needs to be something that we can somehow tangibly connect to a commercialization initiative, right? So looking at this landscape is not bad as long as",
+      "timestamp_abs": "57:24"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Sthepen.",
+      "timestamp_abs": "57:42"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Uh, opportunity generation, brainstorming AI,",
+      "timestamp_abs": "57:45"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "AI conceptual.",
+      "timestamp_abs": "57:49"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "digital and the positive technology responds to local with regard to prematurely blocking into a solution.",
+      "timestamp_abs": "57:50"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so you don't need to lock into the solution, which is like many of us already kind of yeah, so that's why I I'm kind of rescuing the course of our course because I needed to, uh we need to really be careful with the way I was trying to teach you, hey, just look at this one. Even to you, I said, look at these solutions, look at these because I was trying to give you kind of ideas of how other people solved other problems, okay?",
+      "timestamp_abs": "57:58"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh without making you lock into something, right?",
+      "timestamp_abs": "58:22"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, um, okay.",
+      "timestamp_abs": "58:29"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So next one. Great.",
+      "timestamp_abs": "58:32"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Number four?",
+      "timestamp_abs": "58:33"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Number four.",
+      "timestamp_abs": "58:36"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Critical consulting for new neural now. Clarify uses, beneficiaries, decision makers, agency constraints and solvable boundaries with local stakeholders.",
+      "timestamp_abs": "58:38"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is kind of what you did. You said, okay, I need to call, I call the Ministry of. Chilaka, you had a meeting with the federal minister, with the with the different uh president of the agencies. So you were trying to clarify, hey, is our need about this? Is it what you are still on the process, okay?",
+      "timestamp_abs": "58:51"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So all of this again, it's not linear, it's not one, two, three, four, no. It's probably very uh iterative. We go to three four, we go back because we realize oh here we realize something that probably in fact the scanning that we did or probably",
+      "timestamp_abs": "59:06"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Uh number five.",
+      "timestamp_abs": "59:24"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Identity value enhancing opportunity.",
+      "timestamp_abs": "59:28"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Identify?",
+      "timestamp_abs": "59:31"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Okay, identify",
+      "timestamp_abs": "59:32"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "identify value enhancing opportunity. Map technology potential to socio-economical economic impact, institutional value and mutual growth logic.",
+      "timestamp_abs": "59:35"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I don't know if that is straightforward enough, like, that at some point, once we have this again, without prematurely locking into a solution, we try to identify this value of enhancing opportunity, it's like what I'm saying, I kept consulting to myself, is an a.",
+      "timestamp_abs": "59:45"
+    }
+  ]
+}

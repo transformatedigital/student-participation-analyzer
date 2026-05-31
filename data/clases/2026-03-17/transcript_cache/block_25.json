@@ -1,0 +1,366 @@
+{
+  "block": 25,
+  "time_range": "120:00-125:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "proposed the project. So we already, so we are like in this iteration.",
+      "timestamp_abs": "120:00"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You are changing your idea right now from your initial proposal concept.",
+      "timestamp_abs": "120:05"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And we are validating whether this is a real need that can have a future later on.",
+      "timestamp_abs": "120:09"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Eventually, this course ends here and later on the next course, you will reach your project, okay? So I'm just trying for you to have some vision of what will happen",
+      "timestamp_abs": "120:14"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "with this slide.",
+      "timestamp_abs": "120:22"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the other quick advice I left here, please see that problem that it is common.",
+      "timestamp_abs": "120:24"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is common problem you have to avoid it, okay?",
+      "timestamp_abs": "120:29"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So many of these problems I can already see in your assignments.",
+      "timestamp_abs": "120:33"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Many.",
+      "timestamp_abs": "120:37"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Four principles. This is important. You will need evidence of that. You know, you are still preparing, you don't need it now.",
+      "timestamp_abs": "120:39"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You will need that made by the end of this course, I need this. So that's why I told Grace, you want to grade? Then be so focused.",
+      "timestamp_abs": "120:44"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Why did I want it right away? It's better to write a bad email than a good email. So we need to discuss much deeper. We need to be the one-on-one. We haven't finished that strategy.",
+      "timestamp_abs": "120:51"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, but it should not be the question, it should not be you should not be, she lack of idea what we do. She lack of to discuss. You need to talk with your director, with your colleagues.",
+      "timestamp_abs": "121:00"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Also, I, you know, I will discuss with the teachers because, uh, you know, I am thinking as you know, my account goes away.",
+      "timestamp_abs": "121:10"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will tell when the ambassador, I told him, I discussed the decision. And I have a student here, but my university has this strategy or has a scholarship recipient. I have to do this project from social projects. So if you know that we need any project that is interesting for my country, please let me know. I will be able to connect with that dimension.",
+      "timestamp_abs": "121:18"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's how the ambassador thought about me. He said, you know, the minister is going there. Why don't you make him, maybe you mentioned before that your university is doing that, maybe it's a good chance to for you to hear what other needs the country has. That's how he gave me the chance to meet the minister, right? Because I had mentioned to him. So that's another good strategy. Talk to your ambassadors if you have a chance.",
+      "timestamp_abs": "121:37"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For the people in your embassy, maybe it's a good intention.",
+      "timestamp_abs": "121:56"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think all of you are very well connected in your embassy, so maybe the embassy is not needed. In my case, remember, you have to come back. I have to quit my job to come here. So I don't have any more direct contact to my embassy.",
+      "timestamp_abs": "122:00"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think that is important.",
+      "timestamp_abs": "122:11"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "And here, I know. What is the difference between strong evidence versus weak evidence?",
+      "timestamp_abs": "122:13"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "They have to tell us. What is the difference between generic problems versus non-generic problems?",
+      "timestamp_abs": "122:19"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "122:25"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "for for. So one entity, two entities, three entities, so on.",
+      "timestamp_abs": "122:26"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one, very important.",
+      "timestamp_abs": "122:32"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Who's gonna be the father and the mother of the baby?",
+      "timestamp_abs": "122:33"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because you are students, you can be the middleman, right?",
+      "timestamp_abs": "122:37"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, you have to have an owner.",
+      "timestamp_abs": "122:41"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that will really make sure to really go into this project, you need people in the organization with authority and budgets. Strong, I said, identify who will execute, not just what will be done.",
+      "timestamp_abs": "122:44"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So in my case, I will the minister of NTIS, the minister of Science and Technology, appointed the director of the R&D department. director. And he was the one who worked together with the KCTP on building this team. KCTP himself came to Korea for two weeks to build the initial brainstorming of the scope of the system.",
+      "timestamp_abs": "122:55"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah.",
+      "timestamp_abs": "123:17"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So,",
+      "timestamp_abs": "123:18"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "questions that you should be thinking about to improve your ICB.",
+      "timestamp_abs": "123:21"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What exactly is the problem? Which institution owns this problem?",
+      "timestamp_abs": "123:24"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "You need a telecom company or who?",
+      "timestamp_abs": "123:29"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Who is the why is Korea the right finance? What collaboration project would happen here?",
+      "timestamp_abs": "123:32"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "123:38"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And next to this is just a preview of next week. I'm not going to go through this, but your evaluation, all your midterm and your ICB will be evaluated with these three aspects.",
+      "timestamp_abs": "123:40"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not going to find them in detail, but I'm going to leave you for the previous.",
+      "timestamp_abs": "123:50"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Suitability.",
+      "timestamp_abs": "123:54"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is it clarity? Is it does it have clarity and a specificity?",
+      "timestamp_abs": "123:55"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is it of national importance and have a policy intervention?",
+      "timestamp_abs": "123:59"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Does it have a potential with Korea? And here normally you guys don't need to worry because you don't know Korea yet, so we will help.",
+      "timestamp_abs": "124:02"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Feasibility.",
+      "timestamp_abs": "124:11"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is very, very important.",
+      "timestamp_abs": "124:12"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Are you really believing in it in your future career, your role there? Is it important for you?",
+      "timestamp_abs": "124:13"
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because we want you to become global leaders, so I want you to become ambassadors, you become the representative of your university. This is important because we want the project to be something that will help you in your careers, in your professional development.",
+      "timestamp_abs": "124:18"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But also we want it to be a real thing, not something in a desk, in a desktop or in a library. It has to be a real thing.",
+      "timestamp_abs": "124:32"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, suitability, feasibility, and acceptability are the three big dimensions where we are going to start.",
+      "timestamp_abs": "124:38"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "My, the draft that I made, I run it through our evaluation process, and it really gets almost four, almost 40 points, so it's a strong project.",
+      "timestamp_abs": "124:44"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you can see a good example there. It's not perfect, but I try to try to write it, okay? So now",
+      "timestamp_abs": "124:53"
+    }
+  ]
+}

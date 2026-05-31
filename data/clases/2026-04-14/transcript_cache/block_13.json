@@ -1,0 +1,203 @@
+{
+  "block": 13,
+  "time_range": "60:00-65:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, um this is very important. This is one of the key takeaways for me and it also works in your, in your favor as a student. Um, so what happens, this means that now that you know that uh your grade, your overall grade is going to be built from three pieces, the presentation, the report and the individual contribution. This means that um you have an opportunity to showcase uh something that is relevant for your individual contribution. Um, and it will it will give you a little bit of flexibility if you're not able to score very well in the presentation or in the report.",
+      "timestamp_abs": "60:00"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But for me it's very important that you that you are very conscious that that you're an individual and you're working in a team. So, I will be expecting that.",
+      "timestamp_abs": "60:46"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, so so this is these are for the grades of the team, okay? This is this is for the team project grade, um, and now let me stop share.",
+      "timestamp_abs": "60:58"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, and what I wanna do is I wanna show you the, uh I wanted to show you also the, uh the template for the report. You already have it in the Google Drive, but I just want to show you one more time because it also has some some little details that are important, um and I will also use that opportunity to also mention something else.",
+      "timestamp_abs": "61:10"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, let me show you the report, uh the report template. Okay?",
+      "timestamp_abs": "61:34"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, let me stop sharing for a second, so I can share my whole screen, so I don't need to be doing this all the time.",
+      "timestamp_abs": "61:37"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay. Um, all right. So, can you see my whole screen now? That is just a regular Google screen, right?",
+      "timestamp_abs": "61:45"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yes, we can see.",
+      "timestamp_abs": "61:54"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, perfect. So let me go to my drive.",
+      "timestamp_abs": "61:55"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. And I'm gonna go to the course and I'm gonna go to this presentation, this is the folder with the presentation and this is what you should be sharing with me, that you should share with me.",
+      "timestamp_abs": "62:00"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, and then let me go to this.",
+      "timestamp_abs": "62:11"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is what I will be receiving.",
+      "timestamp_abs": "62:16"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, I will be receiving all your slides here.",
+      "timestamp_abs": "62:22"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, and here's the report for the project.",
+      "timestamp_abs": "62:25"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, let me open it.",
+      "timestamp_abs": "62:29"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this is also something important, uh, to show you um, the report is very, very specific, um, because I wanna go back and, and this is why I was mentioning to you that this is going to be important that you define very well your project idea. And you define very well what is it that you're gonna do, because this report needs to be an answer for that first document that we shared together, remember, that it was the project idea, which was the first document that we shared.",
+      "timestamp_abs": "62:35"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, so this is supposed to be the answer, right? So, this report is the answer for your project idea.",
+      "timestamp_abs": "63:10"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, let me go here.",
+      "timestamp_abs": "63:18"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, you have this, you have it in Google Drive. So, here's the team name, here's your project title. So this should be like a formal thing now.",
+      "timestamp_abs": "63:22"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, and here's a short abstract, okay? Um, it doesn't need to be too long, but it needs to include very well what is it that you're gonna discuss in your report and also in your presentation. So, this is how you're you're gonna start, um, this report.",
+      "timestamp_abs": "63:31"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then we have the introduction, okay?",
+      "timestamp_abs": "63:47"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, and I will be looking for this, remember, this is also a graded thing, right? So I will be very careful with this.",
+      "timestamp_abs": "63:50"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, here's a problem statement, okay? So this needs to be a little bit expanded.",
+      "timestamp_abs": "63:57"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then we have objectives, these are the objectives that you will define on the project idea, but you might want to modify them a little bit, okay? So it's not a big deal if you modify the objectives because as you develop your project, you're gonna learn more and you might want to change them. So you might you might have found something new, or you might have found something that you could do or something that you couldn't do. So you can modify the objectives.",
+      "timestamp_abs": "64:02"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then we have the scope, okay?",
+      "timestamp_abs": "64:26"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Here's what you're gonna, uh, so the scope, remember, for the scope we were doing like, this is what is included, this is what is not included, right? So you have to be very clear about that.",
+      "timestamp_abs": "64:28"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then we have the methodology. This is very important. Okay? So, um, here's where I will be asking for your contribution as well, individually.",
+      "timestamp_abs": "64:39"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because some of you are very good at data analysis. Some of you are very good at the technology part. Some of you are very good at the project management part. Some of you are very good at the research part. Right? So this is where you're gonna tell me what you did.",
+      "timestamp_abs": "64:50"
+    }
+  ]
+}

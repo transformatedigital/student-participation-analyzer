@@ -1,0 +1,111 @@
+{
+  "block": 30,
+  "time_range": "145:00-147:51",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And then we we were discussing all about many papers. And then...",
+      "timestamp_abs": "145:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So it's really difficult.",
+      "timestamp_abs": "145:06"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Even if you have the most sophisticated technology you reach that level because the emission are in three scopes. We have the scope one, scope two, and scope three.",
+      "timestamp_abs": "145:09"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So all these scopes.",
+      "timestamp_abs": "145:18"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "145:20"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, it's really difficult. The country that will reach that zero. I don't believe.",
+      "timestamp_abs": "145:20"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But it's just a politically...",
+      "timestamp_abs": "145:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "145:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They started, you know, politically stuff, you know. And from there, you know, many uh, organization are funding projects, you know, and things such.",
+      "timestamp_abs": "145:31"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "145:44"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let's get, let's get. We don't have to prepare an initial project based on the project.",
+      "timestamp_abs": "145:45"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's very difficult.",
+      "timestamp_abs": "145:49"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If if we talk about the wind energy.",
+      "timestamp_abs": "145:50"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You can sell it.",
+      "timestamp_abs": "145:53"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You know, AI, AI, AI.",
+      "timestamp_abs": "145:54"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "block": 1,
+  "time_range": "00:00-05:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and trying to confirm that all of the past counts, as you know.",
+      "timestamp_abs": "00:00"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So it does it's not like, ah.",
+      "timestamp_abs": "00:05"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But of course, like, if you want to have a placard like the ones I have here, like eventually you, of course you have to work a lot. I I slept very little.",
+      "timestamp_abs": "00:08"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That I must tell you.",
+      "timestamp_abs": "00:18"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I slept very little during my master's and PhD, because I had to get a lot of calls. Latin America and Korea are 15 hours apart or more, so many times at 11:00 a.m., 11:00 p.m. or 5:00 a.m., I have to take a call to confirm with the director or that.",
+      "timestamp_abs": "00:19"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it is it takes a lot of effort to do these kind of conversations.",
+      "timestamp_abs": "00:34"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I tried my best to simplify it into stages that you can know that will probably help you make a more solid process, okay?",
+      "timestamp_abs": "00:37"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, if you right now are writing your ICP, you wrote your ICP version five and there are still doubts and there are still things where you're thinking, I'm not sure if this is my project or not, or I'm not sure this scope is the correct or not. Or I'm not sure my boss eventually or the Korean authority will endorse this project or not.",
+      "timestamp_abs": "00:46"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's very natural.",
+      "timestamp_abs": "01:03"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "01:04"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, the process we more or less I think so that you know, we have right now five weeks more left from this course.",
+      "timestamp_abs": "01:05"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And we're probably going to work together half of the next course together.",
+      "timestamp_abs": "01:14"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, we probably have about maybe 10 weeks or 15 weeks tops, more to narrow down this problem.",
+      "timestamp_abs": "01:18"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and to really reach this problem demand fit.",
+      "timestamp_abs": "01:28"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Again, this is my initial effort.",
+      "timestamp_abs": "01:34"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm actually I want to just keep discussing this with our office also because probably Professor Han, Professor Kim will have other insights about it.",
+      "timestamp_abs": "01:36"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I just created it because I think,",
+      "timestamp_abs": "01:43"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "having you, giving you more than the ICP, which is like it was supposed to be more like a guided uh thing for you, more than a very structured uh, or complementary to the structured form that is the ICP.",
+      "timestamp_abs": "01:45"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You guys need like an overview of the process and more detailed, I think.",
+      "timestamp_abs": "01:59"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That will probably give you less stress about the uncertainty of the process, and it will probably also give you more insight about how to explain back at home what you're trying to do.",
+      "timestamp_abs": "02:04"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because probably what, for example, I spoke to Mega or she like, I probably back at home also when you have these conversations, it might not be so easy to explain why you're doing this if you're supposed to be studying a master's or studying a PhD, right?",
+      "timestamp_abs": "02:14"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I thought from myself also some of my bosses is like, but is this like a university project or like they it was hard, right?",
+      "timestamp_abs": "02:26"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, you guys are creating a team like last time.",
+      "timestamp_abs": "02:34"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So, last time you were three in the same team, right?",
+      "timestamp_abs": "02:36"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Stephen, you were part of their team last time, I believe.",
+      "timestamp_abs": "02:39"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "I was Aia and Cesar.",
+      "timestamp_abs": "02:41"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So please sit in the same way as last time.",
+      "timestamp_abs": "02:45"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You guys are going to do the same.",
+      "timestamp_abs": "02:47"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you guys were Team Mega.",
+      "timestamp_abs": "02:53"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So it was two teams last time?",
+      "timestamp_abs": "02:54"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "02:55"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Ah, two teams only?",
+      "timestamp_abs": "02:56"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "No, we had six.",
+      "timestamp_abs": "02:57"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay.",
+      "timestamp_abs": "02:58"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Three.",
+      "timestamp_abs": "02:59"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All right.",
+      "timestamp_abs": "03:00"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay, so, these guys, you are three.",
+      "timestamp_abs": "03:00"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All right, so three and three.",
+      "timestamp_abs": "03:03"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, great.",
+      "timestamp_abs": "03:04"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is the same what you can be looking at in the in the in the screen because I I think that the the fonts are a little bit thin.",
+      "timestamp_abs": "03:06"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if you think about it, the first process, let's say this, this beginning here is the application form that you've filled out.",
+      "timestamp_abs": "03:15"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Remember?",
+      "timestamp_abs": "03:23"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So when you arrive here, you already arrived with an ICP, which was your initial process, okay?",
+      "timestamp_abs": "03:24"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then, we have a first gate.",
+      "timestamp_abs": "03:29"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What I call, do you know the stage gate model?",
+      "timestamp_abs": "03:31"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Have you anybody studied that model?",
+      "timestamp_abs": "03:33"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, this is just when you study industrial process or business process reengineering or business process. There are certain models that are very well known. And this is like a decision-making tree kind of model.",
+      "timestamp_abs": "03:36"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So every time you reach a gate, you have to make a decision.",
+      "timestamp_abs": "03:47"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe if any of you have before probably studied BPMN or business process, you know that a diamond means a decision.",
+      "timestamp_abs": "03:51"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Anybody doesn't know about this?",
+      "timestamp_abs": "03:58"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Anybody doesn't know what I'm talking about?",
+      "timestamp_abs": "04:01"
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay, yeah.",
+      "timestamp_abs": "04:08"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, um, so every diamond has like a yes or no, or I said go, stop, yes, go is yes, stop is no, okay?",
+      "timestamp_abs": "04:09"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I tried to really simplify it into four stages we are going to have, okay?",
+      "timestamp_abs": "04:19"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And probably this course is going to go until maybe further than here or maybe before here, a little bit before here. This course, if you ask me, probably.",
+      "timestamp_abs": "04:24"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "here.",
+      "timestamp_abs": "04:58"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "[inaudible]",
+      "timestamp_abs": "04:59"
+    }
+  ]
+}

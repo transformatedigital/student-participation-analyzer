@@ -1,0 +1,265 @@
+{
+  "block": 21,
+  "time_range": "100:00-105:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you're gonna have through it this project, through this journey.",
+      "timestamp_abs": "100:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think also at some point when I discuss internally myself how far I need to go in terms of technology commercialization theoretical knowledge,",
+      "timestamp_abs": "100:04"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "a lot of it might be applicable to you, a lot of it not.",
+      "timestamp_abs": "100:14"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? So, I think some part I can cover through the handouts, through giving you reading material, and that's it. The rest is better to apply it. I I this I came to that conclusion.",
+      "timestamp_abs": "100:18"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Uh, no, sir.",
+      "timestamp_abs": "100:30"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "And also, Professor, um an an another um input I want to make. Like we are doing this project now, it's expected to work. It's expected to be a real project.",
+      "timestamp_abs": "100:30"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "From my experience and maybe from my own country perspective, um if we if we try to talk to them about the project we are we are trying to start earlier, earlier on, if we take so much time to give them feedback about it, at a point, that project is already dead for them.",
+      "timestamp_abs": "100:44"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "101:04"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I agree.",
+      "timestamp_abs": "101:05"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's an issue.",
+      "timestamp_abs": "101:05"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So,",
+      "timestamp_abs": "101:06"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "yeah, so most of time, that's why I'm looking at it like if we try, if we really keep on waiting for that",
+      "timestamp_abs": "101:06"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is very good, this is very good feedback because I'm also while I'm thank you so much, you like, when I'm drawing this one, I'm",
+      "timestamp_abs": "101:12"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "text": "What are we doing?",
+      "timestamp_abs": "101:19"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "text": "What are we doing?",
+      "timestamp_abs": "101:21"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When I'm drawing these one, I'm thinking this until second year, this until third year.",
+      "timestamp_abs": "101:22"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm also discussing with myself, how do I",
+      "timestamp_abs": "101:27"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But",
+      "timestamp_abs": "101:30"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "there might be some of you that actually need that.",
+      "timestamp_abs": "101:31"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Some, like you, like me also, I think, there's no way in Costa Rica if I wanna just a project and I'm gonna tell the minister, hey, in three years. She's gonna say, no, I needed I need to report to the president.",
+      "timestamp_abs": "101:33"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "You can be doing both of them in parallel, they can just be moving together.",
+      "timestamp_abs": "101:43"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The answer I have gotten to at this point is, this is just a reference. If you can push to Gate four in the first year, I have no problem.",
+      "timestamp_abs": "101:48"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But there may be people that because of the ODA issue and the funding issue and it might be that you have all all the way to Gate three preliminarily done, but the funding will come until the second year and then because of that it might be slow.",
+      "timestamp_abs": "101:57"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So anyway, the key thing is this is just a reference. We're not gonna this is just a reference.",
+      "timestamp_abs": "102:11"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if you can go move ahead, move faster, like for example, if I think Arya, Arya is already, not fully, not perfectly, but Arya is already at this point.",
+      "timestamp_abs": "102:17"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He's gonna probably come back, but he's already at this point because he's already talking about potential partnership solutions and like he's already already been able to draw many of these things",
+      "timestamp_abs": "102:37"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "if he if he happens to pick the partner that he's talking about, through us love, for example, or maybe he will need two more. But if he tries to, if he's able to at some point,",
+      "timestamp_abs": "102:48"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "preselect one or two partners out of all of the ones the candidates he's talking to, probably he Stage three is supposed to start in one year, but he will be at the Gate two already maybe by next semester.",
+      "timestamp_abs": "103:03"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "With that initial.",
+      "timestamp_abs": "103:17"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the time progress,",
+      "timestamp_abs": "103:18"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think it's more like gate by gate.",
+      "timestamp_abs": "103:22"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But at least the gate expectancy deadline, hard deadline for somebody who is just",
+      "timestamp_abs": "103:26"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "not proactively moving,",
+      "timestamp_abs": "103:31"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "it needs to be there, right?",
+      "timestamp_abs": "103:34"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why I think it's just a reference.",
+      "timestamp_abs": "103:35"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The speed definitely, I agree.",
+      "timestamp_abs": "103:39"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not like you should wait until eight week of or six, six of next semester to give me that. If you're ready, come on.",
+      "timestamp_abs": "103:41"
+    }
+  ]
+}

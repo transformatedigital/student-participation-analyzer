@@ -1,0 +1,287 @@
+{
+  "block": 28,
+  "time_range": "135:00-140:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "today I put here, but if there is a company of BS in Korea, and there is an Indonesian company, and Indonesia started, that want to run this this technology with the Korean company.",
+      "timestamp_abs": "135:00"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There is Korean funding that will provide almost 100, $100, $100,000 for this kind of joint venture business.",
+      "timestamp_abs": "135:16"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, if we if we have a real project, receiving the funding for the next stage is not so bad.",
+      "timestamp_abs": "135:27"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Even though KDN, like Chilaka Vision, KDN has ODA projects.",
+      "timestamp_abs": "135:38"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So also we could you tell me your director. If you tell me your director, director, actually right now there's no clear funding source because we need to find the right stakeholder who can answer all this.",
+      "timestamp_abs": "135:46"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And you can tell me, but we know that there are Korean public companies who run ODA funds to do physical this kind of project.",
+      "timestamp_abs": "135:59"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The downside of this is that it will take time.",
+      "timestamp_abs": "136:08"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, maybe one year.",
+      "timestamp_abs": "136:12"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No.",
+      "timestamp_abs": "136:14"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "136:17"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Even more, though.",
+      "timestamp_abs": "136:18"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Even more. Yes.",
+      "timestamp_abs": "136:19"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "How about here? Here has a. No.",
+      "timestamp_abs": "136:21"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, but here might be like, they they have their own research funding, and they might say, okay, we are willing to, but normally here will not do 100% funding. They will say, okay, we can do 60, 40, 20, 80, 50, 50.",
+      "timestamp_abs": "136:26"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Normally R&D agencies will not especially in global projects is very rare, but my situation with Kisti was really very, very rare.",
+      "timestamp_abs": "136:43"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But ODA, it's possible.",
+      "timestamp_abs": "136:52"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Now my question is, is Malaysia applicable to this benefit?",
+      "timestamp_abs": "136:54"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "136:59"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So but you can tell me director, I know the Ministry of Korea, the Ministry of Energy, or this kind of agencies sometimes have funds.",
+      "timestamp_abs": "137:02"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in order to apply for these funds, it's not green, green or PLN to apply for these funds directly.",
+      "timestamp_abs": "137:12"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Korean companies apply for these funds.",
+      "timestamp_abs": "137:20"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to find a Korean partner from here, who can apply to these funds to do this project.",
+      "timestamp_abs": "137:23"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like a Korean company saying, hey, I have a business opportunity, I have a technology commercialization opportunity in Indonesia, but I need money to to work with them on the planning stage. Please invest in this business opportunity. And the Korean government will provide ODA for that company to",
+      "timestamp_abs": "137:31"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "what for physical study or they can, uh, give a funding?",
+      "timestamp_abs": "137:49"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Can. Can.",
+      "timestamp_abs": "137:55"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The downside is it takes time.",
+      "timestamp_abs": "137:57"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "138:00"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that way it's not it's not impossible, but it depends on the urgency of the problem.",
+      "timestamp_abs": "138:03"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "138:11"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And it's of course if you then you need to confirm with the director because even director, there are some funding opportunities. For example, if we created a joint venture with a Korean, with an Indonesia firm,",
+      "timestamp_abs": "138:14"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not sure how how your R&D center will feel about this because if it's very conservative, they will think, why we have the partner, the Indonesian company with the Korean company?",
+      "timestamp_abs": "138:25"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in the Korean perspective, because Korean Koreans understand that R&D activities should be connected to value creation, Koreans well understand that the company was fired up so technology-based venture should be involved so that the value is created, so that they can pay a solution.",
+      "timestamp_abs": "138:39"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The R&D centers will not operate this technology finally, right? They can just provide ideas and a good conceptual model, but finally somebody has to run the show.",
+      "timestamp_abs": "139:00"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why Korean will provide something that we need to stay at least early stage only like this kind of international cooperation funds.",
+      "timestamp_abs": "139:11"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "So we can make a plan for you after we have a plans or we can make a",
+      "timestamp_abs": "139:20"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We can discuss about that once we have this to here.",
+      "timestamp_abs": "139:26"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because same as you like, once, for example, with Chilaka, we already have the here, and for Kisti, then we were like, we already have this clear with Chilaka, right?",
+      "timestamp_abs": "139:30"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So now we're discussing how we will approach it, from my part, but with you, I'm not sure if here will say, do it with me, I have a company who is interested, so you can go project like this. I don't know yet.",
+      "timestamp_abs": "139:39"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Here just said, I'm going to I think I'm optimistic. There might be an opportunity, but we need to understand better what they want to do.",
+      "timestamp_abs": "139:51"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I just have that.",
+      "timestamp_abs": "139:58"
+    }
+  ]
+}

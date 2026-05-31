@@ -1,0 +1,93 @@
+# Dependencies
+node_modules/
+.npm
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Next.js
+.next/
+out/
+.env.local
+.env.*.local
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.turbo
+.cache
+.env
+
+# Audios pesados y privados (NO subir)
+data/clases/*/audio_blocks_5min_cleaned/
+data/clases/*/audio_blocks_5min/
+data/clases/*/audio_blocks_10min/
+data/clases/*/*.m4a
+data/clases/*/*.mp4
+data/clases/*/*.wav
+data/clases/*/*.mp3
+data/voice\ examples/
+data/voice_fingerprints/
+**/audio_unificado*.m4a
+**/audio_unificado*.mp4
+
+# Outputs viejos pesados
+data/clases/*/dashboard.html
+data/clases/*/dashboard_v2.html
+data/clases/*/transcripcion_completa.html
+data/clases/*/class_transcript.html
+data/clases/*/Case_*.html
+data/clases/*/TEST_REPORT.html
+data/clases/*/gemini_analysis/
+data/clases/*/voice_training_clips/
+data/clases/*/audio_clips/
+data/clases/*/audio_clips_student2/
+data/clases/*/student_audio_verification/
+
+# Archivos temporales
+/tmp/
+*.srt
+*.vtt
+*.tsv
+
+
+# Respaldos de limpieza de español — contienen el contenido eliminado, NUNCA subir
+transcript_cache_backup_es/

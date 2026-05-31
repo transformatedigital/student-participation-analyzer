@@ -1,0 +1,426 @@
+{
+  "block": 29,
+  "time_range": "140:00-145:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "has already discussed with the minister.",
+      "timestamp_abs": "140:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that means but uh",
+      "timestamp_abs": "140:04"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "they are putting us for the",
+      "timestamp_abs": "140:06"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "We are very highly interested in transferring all these things.",
+      "timestamp_abs": "140:09"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So then let's try to harmonize things and not",
+      "timestamp_abs": "140:15"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, no, we're not waiting.",
+      "timestamp_abs": "140:18"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you need any material, maybe if you want,",
+      "timestamp_abs": "140:20"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "since we unfortunately we have to move the date today from the presentation of KISD,",
+      "timestamp_abs": "140:22"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "if you want, you can, because I know there are high-level people.",
+      "timestamp_abs": "140:28"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You could move strategically, move forward the meeting, not this Thursday.",
+      "timestamp_abs": "140:32"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that you have it after you meet KISD.",
+      "timestamp_abs": "140:36"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because if I mean, if you meet [inaudible], I will request to him to give me the presentation",
+      "timestamp_abs": "140:41"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and then you can use that on your on your next presentation, this is what I want you to show to them.",
+      "timestamp_abs": "140:46"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So either you have a brief meeting this Thursday and then reschedule a second follow-up meeting",
+      "timestamp_abs": "140:52"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I'll I'll send some",
+      "timestamp_abs": "140:57"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "140:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then you get some brochures or go to the website of KISD.",
+      "timestamp_abs": "140:59"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm almost sure they have NTI's brochure because NTI is many years ago, maybe, twenty years ago",
+      "timestamp_abs": "141:02"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "more.",
+      "timestamp_abs": "141:07"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "was already awarded the UN National UN Public Service Awards. So NTI is already awarded by the United Nations as best practice.",
+      "timestamp_abs": "141:08"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "in the UNSPCS, I don't know why, National public service awards.",
+      "timestamp_abs": "141:17"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I can send that information in the back, but then",
+      "timestamp_abs": "141:22"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "don't ask me why he got one in the other.",
+      "timestamp_abs": "141:25"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I know that NTI was, um,",
+      "timestamp_abs": "141:28"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "already working there.",
+      "timestamp_abs": "141:31"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, already got this uh, approval, this uh, recognition worldwide.",
+      "timestamp_abs": "141:33"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, probably, whether it is in KISD website",
+      "timestamp_abs": "141:38"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "or in Soft Tech Deck website, there could be up-to-date brochures,",
+      "timestamp_abs": "141:41"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "a PDF brochure of the scope, current scope of NTI.",
+      "timestamp_abs": "141:45"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because my presentation is too outdated.",
+      "timestamp_abs": "141:48"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "too old. So don't use my presentation.",
+      "timestamp_abs": "141:50"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I recommend to get the new one and get the more updated one.",
+      "timestamp_abs": "141:52"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will ask Mr. Ling, when he comes, he will explain.",
+      "timestamp_abs": "141:54"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe you can get that on the news that for your discussions with the minister and the directors.",
+      "timestamp_abs": "141:58"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And also if they have specific questions, gather them.",
+      "timestamp_abs": "142:02"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and just let me know and he's not now",
+      "timestamp_abs": "142:05"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and I will try to collect more information you need.",
+      "timestamp_abs": "142:07"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Here, you see, I like the proposed spice pieces, but that's why I also asked you to",
+      "timestamp_abs": "142:25"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "review Mega's because in your case it's very clear what will happen.",
+      "timestamp_abs": "142:28"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And you already have experience of doing collaboration with NITDA for NITDEF.",
+      "timestamp_abs": "142:33"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And so on and so forth. Mega was going to just imagine what to do,",
+      "timestamp_abs": "142:40"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "but now in your case, you are more than imagination, you have experience.",
+      "timestamp_abs": "142:43"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you can provide more detail there that will create your proposal will be making it more",
+      "timestamp_abs": "142:47"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "robust.",
+      "timestamp_abs": "142:51"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "because you're recommended for now",
+      "timestamp_abs": "142:53"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, I agree with you.",
+      "timestamp_abs": "142:57"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "because the last part that you said I should be",
+      "timestamp_abs": "142:58"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "look at the last slide.",
+      "timestamp_abs": "143:00"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I agree with you.",
+      "timestamp_abs": "143:01"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah, I think you communicated with me to send that to us.",
+      "timestamp_abs": "143:02"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "I was invited, the, the",
+      "timestamp_abs": "143:05"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, yeah.",
+      "timestamp_abs": "143:08"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "sort of the",
+      "timestamp_abs": "143:10"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the people that will",
+      "timestamp_abs": "143:11"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "be among the",
+      "timestamp_abs": "143:12"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "stakeholders.",
+      "timestamp_abs": "143:14"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah, already I gave you comments because I",
+      "timestamp_abs": "143:17"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I saw that you were already working on those things.",
+      "timestamp_abs": "143:19"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want to give you a comment that",
+      "timestamp_abs": "143:21"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "we're not getting that stage.",
+      "timestamp_abs": "143:23"
+    }
+  ]
+}

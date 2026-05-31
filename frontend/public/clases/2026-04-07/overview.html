@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overview - Class Analytics</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #ffffff; color: #1f2937; }
+        header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px 20px; }
+        header h1 { margin-bottom: 5px; }
+        header .breadcrumb { font-size: 12px; opacity: 0.8; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 30px 20px; }
+        .section-title { font-size: 22px; font-weight: 700; color: #1f2937; margin-bottom: 20px; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
+        .nav-buttons { margin-bottom: 30px; }
+        .nav-buttons a { display: inline-block; margin-right: 10px; padding: 10px 20px; background: #667eea; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; margin-bottom: 10px; }
+        .nav-buttons a:hover { background: #764ba2; }
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-bottom: 30px; }
+        .stat-card { background: #f0f9ff; border: 1px solid #bfdbfe; border-radius: 8px; padding: 15px; text-align: center; }
+        .stat-card .value { font-size: 24px; font-weight: 700; color: #667eea; margin-bottom: 5px; }
+        .stat-card .label { font-size: 12px; color: #6b7280; }
+        .student-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
+        .student-card { background: white; border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; }
+        .student-card .name { font-size: 18px; font-weight: 700; color: #1f2937; margin-bottom: 10px; }
+        .student-card .grade { font-size: 28px; font-weight: 700; color: #667eea; margin-bottom: 3px; }
+        .student-card .letter { font-size: 13px; color: #6b7280; margin-bottom: 12px; }
+        .student-card .info { font-size: 12px; color: #6b7280; margin-bottom: 6px; }
+        .breakdown { background: #f9fafb; padding: 10px; border-radius: 6px; margin-top: 12px; border-top: 1px solid #e5e7eb; }
+        .breakdown-item { display: flex; justify-content: space-between; font-size: 12px; margin-bottom: 4px; }
+        footer { text-align: center; padding: 20px; color: #6b7280; font-size: 12px; border-top: 1px solid #e5e7eb; margin-top: 40px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>📊 Overview & Summary</h1>
+        <div class="breadcrumb">← <a href="index.html" style="color: white; text-decoration: underline;">Dashboard</a> / Overview</div>
+    </header>
+
+    <div class="container">
+        <div class="nav-buttons">
+            <a href="index.html">← Back to Dashboard</a>
+            <a href="class_transcript.html">🎤 Class Transcript</a>
+            <a href="transcripcion.html">📝 Statements (Filter)</a>
+            <a href="evaluacion.html">🤖 Evaluations</a>
+            <a href="timeline.html">⏱️ Timeline</a>
+            <a href="rubrics.html">📋 Rubrics</a>
+        </div>
+
+        <div class="section-title">📈 Class Statistics</div>
+        <div class="stats-grid">
+            <div class="stat-card"><div class="value">137</div><div class="label">Total Participations</div></div>
+            <div class="stat-card"><div class="value">4</div><div class="label">Evaluated Students</div></div>
+            <div class="stat-card"><div class="value">83</div><div class="label">Aryang's Turns</div></div>
+            <div class="stat-card"><div class="value">40:11</div><div class="label">Coverage</div></div>
+        </div>
+
+        <div class="section-title">👥 Student Performance Summary</div>
+        <div class="student-grid">
+            <div class="student-card">
+                <div class="name">Aryang</div>
+                <div class="grade">3.12</div>
+                <div class="letter">C · Satisfactory</div>
+                <div class="info">Very active participation</div>
+                <div class="breakdown">
+                    <div class="breakdown-item"><span>Participations:</span><strong>83</strong></div>
+                    <div class="breakdown-item"><span>Responses:</span><strong>20</strong></div>
+                    <div class="breakdown-item"><span>Questions:</span><strong>21</strong></div>
+                    <div class="breakdown-item"><span>Comments:</span><strong>42</strong></div>
+                    <div class="breakdown-item"><span>Avg Quality:</span><strong>2.97</strong></div>
+                    <div class="breakdown-item"><span>Bonus:</span><strong>+0.15</strong></div>
+                </div>
+            </div>
+
+            <div class="student-card">
+                <div class="name">Grace</div>
+                <div class="grade">2.82</div>
+                <div class="letter">C · Satisfactory</div>
+                <div class="info">Moderate participation</div>
+                <div class="breakdown">
+                    <div class="breakdown-item"><span>Participations:</span><strong>21</strong></div>
+                    <div class="breakdown-item"><span>Responses:</span><strong>9</strong></div>
+                    <div class="breakdown-item"><span>Questions:</span><strong>3</strong></div>
+                    <div class="breakdown-item"><span>Comments:</span><strong>9</strong></div>
+                    <div class="breakdown-item"><span>Avg Quality:</span><strong>2.72</strong></div>
+                    <div class="breakdown-item"><span>Bonus:</span><strong>+0.10</strong></div>
+                </div>
+            </div>
+
+            <div class="student-card">
+                <div class="name">Sthepen</div>
+                <div class="grade">2.98</div>
+                <div class="letter">C · Satisfactory</div>
+                <div class="info">Limited responses</div>
+                <div class="breakdown">
+                    <div class="breakdown-item"><span>Participations:</span><strong>12</strong></div>
+                    <div class="breakdown-item"><span>Responses:</span><strong>1</strong></div>
+                    <div class="breakdown-item"><span>Questions:</span><strong>2</strong></div>
+                    <div class="breakdown-item"><span>Comments:</span><strong>9</strong></div>
+                    <div class="breakdown-item"><span>Avg Quality:</span><strong>2.98</strong></div>
+                    <div class="breakdown-item"><span>Bonus:</span><strong>+0.00</strong></div>
+                </div>
+            </div>
+
+            <div class="student-card">
+                <div class="name">Chilaka</div>
+                <div class="grade">1.8</div>
+                <div class="letter">D · Insufficient</div>
+                <div class="info">Minimal participation</div>
+                <div class="breakdown">
+                    <div class="breakdown-item"><span>Participations:</span><strong>1</strong></div>
+                    <div class="breakdown-item"><span>Responses:</span><strong>0</strong></div>
+                    <div class="breakdown-item"><span>Questions:</span><strong>0</strong></div>
+                    <div class="breakdown-item"><span>Comments:</span><strong>1</strong></div>
+                    <div class="breakdown-item"><span>Avg Quality:</span><strong>2.0</strong></div>
+                    <div class="breakdown-item"><span>Bonus:</span><strong>-0.20</strong></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section-title" style="margin-top: 30px;">📝 Methodology</div>
+        <div style="background: #f0f9ff; border-left: 4px solid #667eea; padding: 20px; border-radius: 8px; color: #0c4a6e;">
+            <p><strong>Weighted Grading Formula:</strong></p>
+            <p style="margin-top: 10px;">Final Grade = (Responses × 50% + Questions × 30% + Comments × 20%) + Bonus</p>
+            <p style="margin-top: 10px;"><strong>Bonus System:</strong> +0.15 (≥40 participations) | +0.10 (≥20) | -0.20 (&lt;5)</p>
+            <p style="margin-top: 10px;"><strong>Data Source:</strong> Full transcription analysis (137 statements evaluated)</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>Class Analytics | April 7, 2026</p>
+    </footer>
+</body>
+</html>

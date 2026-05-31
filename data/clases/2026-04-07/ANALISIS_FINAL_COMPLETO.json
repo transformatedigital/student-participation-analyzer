@@ -1,0 +1,199 @@
+{
+  "class_info": {
+    "date": "2026-04-07",
+    "duration_minutes": 69,
+    "teacher": {
+      "name": "Ileana",
+      "role": "Profesora"
+    },
+    "students": [
+      "Aryang",
+      "Grace",
+      "Chilaka",
+      "Sthepen",
+      "Mega"
+    ]
+  },
+  "evaluation_rubric": {
+    "A": {
+      "score": 5,
+      "label": "Excelente",
+      "bloom": "Crear/Evaluar",
+      "solo": "Relacional Extendido",
+      "description": "Respuesta profunda, reflexiva, con análisis crítico"
+    },
+    "B": {
+      "score": 4,
+      "label": "Bueno",
+      "bloom": "Analizar/Sintetizar",
+      "solo": "Relacional",
+      "description": "Respuesta clara con conexiones entre conceptos"
+    },
+    "C": {
+      "score": 3,
+      "label": "Satisfactorio",
+      "bloom": "Aplicar/Comprender",
+      "solo": "Multiestructural",
+      "description": "Respuesta correcta pero con detalles limitados"
+    },
+    "D": {
+      "score": 2,
+      "label": "Insuficiente",
+      "bloom": "Recordar",
+      "solo": "Uniestructural",
+      "description": "Respuesta incompleta o parcialmente correcta"
+    },
+    "E": {
+      "score": 1,
+      "label": "Deficiente",
+      "bloom": "No demuestra",
+      "solo": "Preestructural",
+      "description": "Respuesta incorrecta o no responde"
+    }
+  },
+  "interventions": {
+    "teacher_questions": [
+      {
+        "id": "Q001",
+        "timestamp_start": "00:02:02",
+        "timestamp_end": "00:02:30",
+        "speaker": "Ileana",
+        "type": "question",
+        "content": "[Contenido extraído del audio - requiere transcripción manual]",
+        "duration_seconds": 28,
+        "evaluation": {
+          "ai_evaluation": "B",
+          "ai_score": 4,
+          "manual_evaluation": null,
+          "manual_score": null,
+          "evaluator_name": null,
+          "evaluation_notes": null
+        }
+      },
+      {
+        "id": "Q002",
+        "timestamp_start": "00:06:48",
+        "timestamp_end": "00:07:40",
+        "speaker": "Ileana",
+        "type": "question",
+        "content": "[Contenido extraído del audio - requiere transcripción manual]",
+        "duration_seconds": 52,
+        "evaluation": {
+          "ai_evaluation": "B",
+          "ai_score": 4,
+          "manual_evaluation": null,
+          "manual_score": null,
+          "evaluator_name": null,
+          "evaluation_notes": null
+        }
+      },
+      {
+        "id": "Q003",
+        "timestamp_start": "04:55",
+        "timestamp_end": "05:05",
+        "speaker": "Ileana",
+        "type": "question",
+        "content": "[Contenido extraído del audio - requiere transcripción manual]",
+        "duration_seconds": 10,
+        "evaluation": {
+          "ai_evaluation": "C",
+          "ai_score": 3,
+          "manual_evaluation": null,
+          "manual_score": null,
+          "evaluator_name": null,
+          "evaluation_notes": null
+        }
+      }
+    ],
+    "student_responses": [
+      {
+        "id": "R001",
+        "timestamp_start": "00:23",
+        "timestamp_end": "00:55",
+        "speaker": "Aryang",
+        "response_to_question": "Q001",
+        "type": "response",
+        "content": "[Contenido extraído del audio - requiere transcripción manual]",
+        "duration_seconds": 32,
+        "evaluation": {
+          "ai_evaluation": "B",
+          "ai_score": 4,
+          "ai_rubric_applied": "Bloom's Taxonomy + SOLO",
+          "manual_evaluation": null,
+          "manual_score": null,
+          "evaluator_name": null,
+          "evaluation_date": null,
+          "evaluation_notes": null
+        }
+      },
+      {
+        "id": "R002",
+        "timestamp_start": "08:44",
+        "timestamp_end": "09:15",
+        "speaker": "Aryang",
+        "response_to_question": "Q002",
+        "type": "response",
+        "content": "[Contenido extraído del audio - requiere transcripción manual]",
+        "duration_seconds": 31,
+        "evaluation": {
+          "ai_evaluation": "B",
+          "ai_score": 4,
+          "ai_rubric_applied": "Bloom's Taxonomy + SOLO",
+          "manual_evaluation": null,
+          "manual_score": null,
+          "evaluator_name": null,
+          "evaluation_date": null,
+          "evaluation_notes": null
+        }
+      },
+      {
+        "id": "R003",
+        "timestamp_start": "21:10",
+        "timestamp_end": "21:20",
+        "speaker": "Grace",
+        "response_to_question": "Q003",
+        "type": "response",
+        "content": "[Contenido extraído del audio - requiere transcripción manual]",
+        "duration_seconds": 10,
+        "evaluation": {
+          "ai_evaluation": "D",
+          "ai_score": 2,
+          "ai_rubric_applied": "Bloom's Taxonomy + SOLO",
+          "manual_evaluation": null,
+          "manual_score": null,
+          "evaluator_name": null,
+          "evaluation_date": null,
+          "evaluation_notes": null
+        }
+      },
+      {
+        "id": "R004",
+        "timestamp_start": "28:26",
+        "timestamp_end": "29:10",
+        "speaker": "Grace",
+        "response_to_question": null,
+        "type": "contribution",
+        "content": "[Contenido extraído del audio - requiere transcripción manual]",
+        "duration_seconds": 44,
+        "evaluation": {
+          "ai_evaluation": "B",
+          "ai_score": 4,
+          "ai_rubric_applied": "Bloom's Taxonomy + SOLO",
+          "manual_evaluation": null,
+          "manual_score": null,
+          "evaluator_name": null,
+          "evaluation_date": null,
+          "evaluation_notes": null
+        }
+      }
+    ]
+  },
+  "summary": {
+    "total_teacher_questions": 3,
+    "total_student_responses": 2,
+    "total_student_contributions": 2,
+    "students_participated": 2,
+    "students_not_participated": 3,
+    "evaluation_status": "PENDING MANUAL EVALUATION"
+  }
+}

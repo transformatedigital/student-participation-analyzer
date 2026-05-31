@@ -1,0 +1,368 @@
+{
+  "block": 28,
+  "time_range": "135:00-140:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is a very particular case. Like a news case, right? It's a nice way to start your presentation, but the ICP should be not formal.",
+      "timestamp_abs": "135:00"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "135:08"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Formal on data. Formal on the sense that it should be factual based. This is a very sad case, but it's a very singular case, right? It's not the generic. So I want to see maybe like out of, uh, I don't know, the the amount of cases, blah blah blah, is related to this. I can see you did research for it.",
+      "timestamp_abs": "135:09"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is related to general uptake of the services, the digital services. I want to know your, this one no longer. This one is no longer relevant here because in general. This one is relevant, but in the general. This is the background.",
+      "timestamp_abs": "135:27"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "135:41"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Maybe this one, mobile phone, no?",
+      "timestamp_abs": "135:42"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "that we have around the presentation and you have to know by your.",
+      "timestamp_abs": "135:44"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Maybe the then this one is out of what?",
+      "timestamp_abs": "135:49"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Out of.",
+      "timestamp_abs": "135:53"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "135:54"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, as I said, you know.",
+      "timestamp_abs": "135:56"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It doesn't give me, you know, for for me, I'm not a Rwanda person. Six million is a lot, is zero, I don't know.",
+      "timestamp_abs": "135:57"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "For me.",
+      "timestamp_abs": "136:03"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It has to be also some sense of of of relevance.",
+      "timestamp_abs": "136:04"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay. Out of. Okay.",
+      "timestamp_abs": "136:08"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "You mean like out of population? The whole population?",
+      "timestamp_abs": "136:10"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_response",
+      "text": "Yes, yes, for example. Or or or for example within years, maybe the growth rate is also. Maybe maybe you don't have. Because for me, six million is a lot. It's a lot or is it? I don't know. You know?",
+      "timestamp_abs": "136:12"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Depends.",
+      "timestamp_abs": "136:25"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, out of 14 million, but it's not as much.",
+      "timestamp_abs": "136:25"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For example, you can say, okay, then it means 14 million in the total population already more than up to half, already have. So, active mobile pay subscribers out of",
+      "timestamp_abs": "136:28"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "like a percentage or something.",
+      "timestamp_abs": "136:39"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe, yeah. Or you can just say that in the in the bracket, out of a population of 14 million.",
+      "timestamp_abs": "136:40"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "136:46"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It gives me, it gives me impression. The number itself, if I'm from America, six million, yeah, is a lot of people. If I'm from, uh, Nigeria, six million is very little, you know? So I think this is relative and also in this case, this is digital because of Rwanda. This is a statistical data, what was my example? I didn't give data about statistics. I only gave statistical data about R&D, which is great.",
+      "timestamp_abs": "136:47"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So in your case, statistical data, the digital things could be the context up. This one. All of these, I will move it to the background.",
+      "timestamp_abs": "137:13"
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "137:21"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because all telling me how the context is.",
+      "timestamp_abs": "137:22"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "137:25"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "What is your problem about? Broad, phishing. So your statistical elements should only be about phishing. You get it?",
+      "timestamp_abs": "137:26"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And of course, it's very hard because our countries don't have a lot of data. I know. So if you cannot find it, then at least find some.",
+      "timestamp_abs": "137:33"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, uh,",
+      "timestamp_abs": "137:41"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I like, I want to just to know if because these are critical informations. Like, uh, these are not public, not public information.",
+      "timestamp_abs": "137:43"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Because we have like Rwanda investigation bureau. I asked to them to give me the data and they said",
+      "timestamp_abs": "137:53"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Please.",
+      "timestamp_abs": "137:59"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "It's it's not public. Not public.",
+      "timestamp_abs": "138:00"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Okay, then then when then what you can say, um, how about you look for some online or for example cyber security threat or this kind of indexes? Maybe there is some related to the vulnerabilities of Rwanda. We're saying Rwanda ranked with other African countries is in the in the top tier or is in the bottom tier because of the vulnerabilities of something that is more international ranking. This kind of things could help.",
+      "timestamp_abs": "138:04"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Then I asked them because today I received email from the boss. Uh, I wrote the official letter asking them, they said they can give me some.",
+      "timestamp_abs": "138:30"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They can give me like aggregated data, I don't know, much data.",
+      "timestamp_abs": "138:42"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But that if you want to do a for a very, if you want to do a research about the one, this is the level of this project in your master's project, it will be very useful.",
+      "timestamp_abs": "138:48"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And they want to to be like a solution to solve the issue I currently face.",
+      "timestamp_abs": "138:56"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's not just academic.",
+      "timestamp_abs": "139:01"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It has to be.",
+      "timestamp_abs": "139:03"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah, it has to be. This one it has to be real, not academic.",
+      "timestamp_abs": "139:04"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe if you don't have a lot of statistical data because the problem",
+      "timestamp_abs": "139:09"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I have, I have.",
+      "timestamp_abs": "139:12"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I know they said.",
+      "timestamp_abs": "139:13"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, but if you don't have it publicly available.",
+      "timestamp_abs": "139:14"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "139:16"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you don't have it publicly available then just submit the email of what the emails that you're sending, the emails and you say the problem is real and then now you get the reference of what is a good reference, what evidence is good for a problem, right? So if problem statement is still [inaudible] I don't know, why do you want to add in the post in the because not me? Mission achieve from tax. Rwanda excels in elevation through like new protection.",
+      "timestamp_abs": "139:17"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Rwanda excels in elevation to lack will of prediction without proper preparation.",
+      "timestamp_abs": "139:39"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Here this last part of active AIP shield to intercept threats of the of the exploitation, of the rolling. From here to here I feel there's like a jump. Like",
+      "timestamp_abs": "139:44"
+    }
+  ]
+}

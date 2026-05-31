@@ -1,0 +1,595 @@
+{
+  "block": 5,
+  "time_range": "20:00-25:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I haven't changed my uh email. I already made an HTTP.",
+      "timestamp_abs": "20:00"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Maybe I can upload from my drive. Ah okay. You share it here?",
+      "timestamp_abs": "20:03"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "20:05"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sorry. Says I'm going to invite you.",
+      "timestamp_abs": "20:05"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Sure.",
+      "timestamp_abs": "20:06"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh. Mega, you can show me. Mega, it's very dry in the to drive.",
+      "timestamp_abs": "20:07"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh. In our drive.",
+      "timestamp_abs": "20:09"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Yeah, in our drive. Is it?",
+      "timestamp_abs": "20:10"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Just emails.",
+      "timestamp_abs": "20:11"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, it's the assignments. The assignments.",
+      "timestamp_abs": "20:12"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "No, assignments. Uh.",
+      "timestamp_abs": "20:15"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, assignments. Ah, so you have not assigned.",
+      "timestamp_abs": "20:16"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Just put my assignments.",
+      "timestamp_abs": "20:18"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "So it's not. Or Mega, you put it in version four, right?",
+      "timestamp_abs": "20:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes. Ah.",
+      "timestamp_abs": "20:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, version four.",
+      "timestamp_abs": "20:21"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "I think it's just this.",
+      "timestamp_abs": "20:23"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "It should be here. Mega, what's the name?",
+      "timestamp_abs": "20:24"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Hey, ICV.",
+      "timestamp_abs": "20:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "20:26"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Mega, ICV version 4.",
+      "timestamp_abs": "20:27"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "ICV version.",
+      "timestamp_abs": "20:28"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Version 4.",
+      "timestamp_abs": "20:29"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "ICV version.",
+      "timestamp_abs": "20:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "20:30"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, I sent to my email.",
+      "timestamp_abs": "20:30"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "text": "You sent to my email? Save.",
+      "timestamp_abs": "20:32"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, I already sent it. To my email, save.",
+      "timestamp_abs": "20:32"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "To my email, save.",
+      "timestamp_abs": "20:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no. You just sent it.",
+      "timestamp_abs": "20:34"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, but here, here, here, because here I can see it. No.",
+      "timestamp_abs": "20:35"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Wait, it's not the final.",
+      "timestamp_abs": "20:37"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Is that the final?",
+      "timestamp_abs": "20:38"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "No, no, no.",
+      "timestamp_abs": "20:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh.",
+      "timestamp_abs": "20:39"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "text": "You wanted the email? Go to the email. Go to the drive.",
+      "timestamp_abs": "20:40"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Go to the drive.",
+      "timestamp_abs": "20:41"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "20:42"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "20:43"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Back.",
+      "timestamp_abs": "20:43"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Back.",
+      "timestamp_abs": "20:44"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Back.",
+      "timestamp_abs": "20:44"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Back.",
+      "timestamp_abs": "20:45"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I think I think it's the latest, because it should be stored there.",
+      "timestamp_abs": "20:46"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So, and I sent to your account, right?",
+      "timestamp_abs": "20:47"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "20:48"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. I think it's better.",
+      "timestamp_abs": "20:49"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You sent to my email.",
+      "timestamp_abs": "20:50"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No.",
+      "timestamp_abs": "20:51"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Just save.",
+      "timestamp_abs": "20:51"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You just sent it to me.",
+      "timestamp_abs": "20:52"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No. Just save.",
+      "timestamp_abs": "20:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So what do you mean by that?",
+      "timestamp_abs": "20:53"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No.",
+      "timestamp_abs": "20:54"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, I'm just telling you it's not the correct one.",
+      "timestamp_abs": "20:54"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, it's not. No, I mean.",
+      "timestamp_abs": "20:56"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So I told her. Oh, she's gonna get back to you.",
+      "timestamp_abs": "20:57"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You just did not hear me clearly.",
+      "timestamp_abs": "20:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay. So, uh, I'm saying the new focus now for poverty.",
+      "timestamp_abs": "20:59"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So Mega has a new focus now about poverty and the IP.",
+      "timestamp_abs": "21:00"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "IP.",
+      "timestamp_abs": "21:01"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "IP.",
+      "timestamp_abs": "21:01"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "21:02"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "21:02"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But you just gave me many of. Thank God, thank God I just checked the one you sent via email.",
+      "timestamp_abs": "21:03"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "If I had seen this, I'm like, oh.",
+      "timestamp_abs": "21:06"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, version four.",
+      "timestamp_abs": "21:07"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "21:10"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "21:14"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's it.",
+      "timestamp_abs": "21:14"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "So tell me about it. Ah, okay. Thank you very much for giving me time for conversation. Patient.",
+      "timestamp_abs": "21:15"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Patience.",
+      "timestamp_abs": "21:19"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Patient.",
+      "timestamp_abs": "21:20"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So after the Mega project that you, and the previous previous, so.",
+      "timestamp_abs": "21:21"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "I talk, I talk to you to Chilaka and you gave me this. I talk to Chilaka and I think that's. I just realized that Chilaka had the same project with my, has the same project as mine.",
+      "timestamp_abs": "21:24"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, similar topic.",
+      "timestamp_abs": "21:34"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "21:35"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not the same project as yours, a similar topic.",
+      "timestamp_abs": "21:35"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Ah, similar topic but, uh, because I only use a BSS, but Chilaka is BB and BSS. So, uh, I try to narrow it down, so I asked to the which the which area that uh could be uh implemented for the project. So I, so they suggest me to put in Nusa Tenggara, one of the islands in Indonesia.",
+      "timestamp_abs": "21:37"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is a completely different target region. Now it's not Cilegon, Cirebon.",
+      "timestamp_abs": "22:06"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "No, it's Nusa Tenggara.",
+      "timestamp_abs": "22:08"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Cilegon. Okay. Now it's Nusa Tenggara because Nusa Tenggara has a higher energy problem.",
+      "timestamp_abs": "22:08"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "higher higher energy problems.",
+      "timestamp_abs": "22:13"
+    }
+  ]
+}

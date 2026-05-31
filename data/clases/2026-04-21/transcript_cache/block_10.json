@@ -1,0 +1,394 @@
+{
+  "block": 10,
+  "time_range": "45:00-50:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I realized maybe they don't have a lot of interest or I worry that they might not have experience.",
+      "timestamp_abs": "45:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or maybe it's the opposite, maybe it's for them a very interesting opportunity to tap into this market where they have nothing.",
+      "timestamp_abs": "45:06"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I'm gonna discover that on",
+      "timestamp_abs": "45:13"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[laughter]",
+      "timestamp_abs": "45:14"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "on Thursday, okay? So that's the plan. That's the plan.",
+      "timestamp_abs": "45:15"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Also, uh, it reminded me of something that happened with my graduate students from last semester.",
+      "timestamp_abs": "45:18"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, I don't remember if it was in your class, Aryang, or in, uh, or in, uh, uh, uh, or in my other class, but they had a project for a company",
+      "timestamp_abs": "45:23"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "uh, from Brazil. I don't remember the name.",
+      "timestamp_abs": "45:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It was a very interesting project. It was a big company. They are a big tech company.",
+      "timestamp_abs": "45:31"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, a startup, no, not a startup, like a big company, something like I don't know, like IBM, something like that.",
+      "timestamp_abs": "45:35"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the students made a proposal to this company.",
+      "timestamp_abs": "45:40"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the company says, 'Okay, we like your proposal, uh, uh, but we don't like the budget you have provided us.'",
+      "timestamp_abs": "45:43"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And actually, they, uh, they were, they were right because",
+      "timestamp_abs": "45:50"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "uh, my graduate students, they were trying to, to, to, to calculate how many hours they would need to do the project, right?",
+      "timestamp_abs": "45:54"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And they tried to go to, uh, um, an average salary of a programmer from Latin America.",
+      "timestamp_abs": "46:01"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And you know that the salaries here in Latin America are very low.",
+      "timestamp_abs": "46:08"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this company was from Brazil. So what happened is they say, 'Okay, uh, you are proposing like a five thousand dollars project.'",
+      "timestamp_abs": "46:12"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, and we will reject your proposal if you don't raise it to thirty five thousand dollars.'",
+      "timestamp_abs": "46:22"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's interesting, right? Because they said, 'We think that you have not put enough work on this project.",
+      "timestamp_abs": "46:27"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because if you are proposing this amount, it's either that you are not capable to deliver the project in a high quality or it's just that you don't have enough capacity.",
+      "timestamp_abs": "46:35"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we don't want like cheap stuff, you know, we want good stuff.",
+      "timestamp_abs": "46:45"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think sometimes, especially if you have an international company, that's not always the best solution to give the lowest possible number. It's not, it's not a bad thing.",
+      "timestamp_abs": "46:48"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I was, I was just reminded of that, uh, because of the, uh, you know, the differences you have when you don't know the context.",
+      "timestamp_abs": "46:59"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So what do you think? Um,",
+      "timestamp_abs": "47:06"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "And they didn't have, they didn't have, I'm sorry to cut you, they didn't have a minimum budget of their own.",
+      "timestamp_abs": "47:08"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Well, what they said is they already know the price, so they probably just want to know if you also know the price. You know? Because they're already they're they're not asking for, you know, they they were just asking for a proposal.",
+      "timestamp_abs": "47:11"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, probably to compare and they were just trying to see if we were in the same page. You know? Like, are you trying to take advantage of me or you just don't know what you're doing, you know?",
+      "timestamp_abs": "47:23"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's uh, uh, that's uh, the interesting thing because then my students they say, 'Oh, no. Uh, then we will we will do like, you know, they they raise it to the thirty five thousand dollars.'",
+      "timestamp_abs": "47:30"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then I think they even told me like they were able to deliver a very good quality project.",
+      "timestamp_abs": "47:40"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It was really very well thought. Uh, but it's interesting because they, uh, they were willing to give more money, right?",
+      "timestamp_abs": "47:44"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think in these projects, especially with international companies, uh, it's something that you have to be very careful.",
+      "timestamp_abs": "47:50"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And it's good that these people, they also had like experience, you know, in this type of projects.",
+      "timestamp_abs": "47:56"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So, what are your comments about the project, the, the, the things that you saw.",
+      "timestamp_abs": "48:01"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, also in my mind, just what you just mentioned, Aryang, is also very interesting, you know, to have someone in the region who knows how to deal with these type of things.",
+      "timestamp_abs": "48:06"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I remember when, when, uh, when, when the, when I worked at the public sector and when we were working at a regional, um, project for, uh, for, um, uh, uh, for, uh, an app for a mobile application, we also made it very difficult to accept proposals.",
+      "timestamp_abs": "48:15"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Uh, we also made it very difficult for them if they gave a too small proposal.",
+      "timestamp_abs": "48:30"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because we have like a budget of forty thousand for these three mobile applications and they were proposing like, I don't know, like two hundred fifty dollars for developing three apps.",
+      "timestamp_abs": "48:34"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "And they're just like, we want to, we want to have good quality and we were like, how are you gonna develop a good quality app for two hundred fifty dollars?",
+      "timestamp_abs": "48:43"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "I mean, how many hours is that?",
+      "timestamp_abs": "48:50"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So we, we made it very difficult for them and we like had to reject a lot of proposals because of that reason.",
+      "timestamp_abs": "48:52"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, but, but what you said, they wanted to give good quality, right? You know, and they thought that two hundred fifty was very low.",
+      "timestamp_abs": "48:58"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But they were willing to give forty thousand, right? So they were willing to pay the price. They just didn't want you to, uh, give them a proposal that was like, 'Oh, yeah, just give me anything, whatever.'",
+      "timestamp_abs": "49:05"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know, they wanted someone who actually knew what they were doing and was asking for what it's worth, right?",
+      "timestamp_abs": "49:13"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Right, because we also, as a public sector, we also like to have, uh, good things to show.",
+      "timestamp_abs": "49:19"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "It's like, look, we actually implemented this mobile application, look, it's well done, it's well developed, it's well maintained.",
+      "timestamp_abs": "49:24"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "But if you just offer something that's like two hundred fifty and then you have to come back and say, 'Oh, it's just broken here and there.'",
+      "timestamp_abs": "49:30"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "It's like, no, we're not gonna do that.",
+      "timestamp_abs": "49:36"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. Yeah. So it's, uh, so it's interesting because sometimes you think you're doing, you're doing like a good thing, uh, by offering like the lowest price because you think, 'Oh, they will save money.'",
+      "timestamp_abs": "49:38"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But sometimes it might be just the opposite, right?",
+      "timestamp_abs": "49:47"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, yeah, actually, yeah.",
+      "timestamp_abs": "49:49"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They might think, 'Oh, these people they don't know what they're doing.'",
+      "timestamp_abs": "49:50"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, that's it.",
+      "timestamp_abs": "49:53"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "49:53"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's also like, uh, it's a very good experience that you just mentioned, Stephen.",
+      "timestamp_abs": "49:54"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Aryang, you also wanted to say something earlier, right?",
+      "timestamp_abs": "49:58"
+    }
+  ]
+}

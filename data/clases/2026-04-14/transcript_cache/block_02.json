@@ -1,0 +1,70 @@
+{
+  "block": 2,
+  "time_range": "05:00-10:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So are you able to see my screen?",
+      "timestamp_abs": "05:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "05:02"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, I will move on here, but I will still be able to see you guys' screen so I can help you out. But the idea here is that we are going to start with the presentation of Arya's team, okay? So, Arya, um, just, you know, start working on your space, just start, you know, putting your your ideas out there. What do you think would be the best ways of pitching your project? Okay? So, uh, I'll give you about, let's say, until 1:45. Let's start with, uh, 1:45, you know, we have 10 minutes from 1:35 to 1:45. Is that okay, guys? So, um, so the idea here is just like, start writing whatever you think is the best way of pitching your project. And then once we reach 1:45, uh, you will then come back and say, okay, I prepared for the presentation of 10 minutes, but now I'm here just to share the ideas that I have written here. And what do you think would be the best for the project? So I'll give you that time, just go ahead and and start. Yeah. So just start right there in your space. Okay. What is the best way to do it? And everybody else is going to be observing. And then once she's done with her 10 minutes of ideas, then we will give feedback, okay? And we will change that, okay? And you will get a chance to rewrite if you need to. But you know, we will do it here together. Okay? Is that all right, guys?",
+      "timestamp_abs": "05:02"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "06:44"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, um, I will keep track of the time. I'll give you 10 minutes exactly. So just write there. You can be writing in your computers. You can be writing in your Miro or anywhere, but the idea here is that once we start that, you will have to, um, okay, give me a second. I just want to open my clock right here. Okay. So, um, okay. Oh, I closed it. Give me a second. Here we go. Okay. So, uh, I just wanted to make sure that I will have it here. So, uh, from 1:35, so you will have 10 minutes until 1:45. You can start working on your computers, just writing notes. Everybody else is just going to keep on observing for a second. Okay? And then once Arya is done with the first ideas, we will give feedback and we will move on. Okay? Yeah, I'm just looking at my clock, okay? Yeah, so, um, let's go. Okay. So just start writing in your space, you know, what do you think will be the best way of pitching your ideas or of pitching your project, okay? And then later on, once the 10 minutes are done, you're going to come here and share all your ideas to us, okay? And then we will start giving feedback based on those ideas that you put on your board. Okay? So I'll keep track of the time. So you have exactly from now, 1:37, I'll give you until 1:47. Okay? Just 10 minutes, okay? So, Arya, you can start working on that. And then everybody else is just going to be observing and giving her feedback once the 10 minutes are done. Okay?",
+      "timestamp_abs": "06:44"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So, [inaudible]",
+      "timestamp_abs": "08:29"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'll give you a chance to edit later on the Miro. Okay? Yeah. Don't worry about that. Just write in your computer or in a piece of paper, whatever you have there, you know, whatever you think is the best. So, that way you can be free to write whatever you want, right? But the idea here is that you're going to share your pitch later. Okay? So, um, I'll keep track of the time. So, 1:38. I'll give you until 1:48, okay? So, uh, Arya, you can start working on your project, on your challenges, on your pitch. Whatever you think is best to introduce yourself. Okay? I will not be speaking anymore. Okay? I'll let you do it for 10 minutes. Okay? And then everybody else just please be focused, okay? Try to give your best feedback. Try to give your best input. Okay? This is a collaborative session. This is how we all learn, okay? So, thank you. Thank you, Arya. And good luck. Okay?",
+      "timestamp_abs": "08:31"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Thank you.",
+      "timestamp_abs": "09:44"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, um, I'm just going to keep track of the time now and I'll see you in 10 minutes. Okay? Just I'll try to zoom in in your board. Uh, I'll try to find your board and I'll try to zoom in. You can start writing right there too, Arya, if you want. Okay? So just write the things that you want to share with us, okay?",
+      "timestamp_abs": "09:44"
+    }
+  ]
+}

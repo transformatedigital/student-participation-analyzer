@@ -1,0 +1,27 @@
+{
+  "block": 26,
+  "time_range": "125:00-130:00",
+  "utterances": [
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This two probably belong to the Ministry of eh Health.",
+      "timestamp_abs": "125:02"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, okay.",
+      "timestamp_abs": "125:04"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "then it's your Ministry.",
+      "timestamp_abs": "125:05"
+    }
+  ]
+}

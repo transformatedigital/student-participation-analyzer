@@ -1,0 +1,253 @@
+{
+  "block": 8,
+  "time_range": "35:00-40:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "application system, how do you do the wallet kind of system? They also have some uh thing develop for the government. So they don't think they can listen to you and they can try to help you guide you where or who the stakeholders are or what work. So we're gonna set up a meeting.",
+      "timestamp_abs": "35:00"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, what I'm telling you is, the ICP probably will have, if I were you, I would do several versions of ICP like, a title could have a different title depending on who we are trying to",
+      "timestamp_abs": "35:14"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "uh for for the technical practical purpose of our class, and I want to say something additional, but it's very applicable to Stephen and",
+      "timestamp_abs": "35:25"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Aryan.",
+      "timestamp_abs": "35:34"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Remember you guys asked me also, maybe it was you who asked me, or Stephen, you asked me, if this is also your graduation topic.",
+      "timestamp_abs": "35:36"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because PhDs you have to do a separate research track with your research professor, and you're going to do a separate research academic track.",
+      "timestamp_abs": "35:43"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And you have, so you kind of you have two outputs at some point, right? You have your research collaboration output and you have your research, sorry, you have your technology collaboration output, and you have your research output, so the paper publication, the dissertation book, all of that.",
+      "timestamp_abs": "35:51"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But master's degree, these days I checked about that, and it seems that you have to do a problem-driven approach report, graduation report.",
+      "timestamp_abs": "36:06"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, then I, okay, Stephen, you're okay. I thought, ah, thank God, Stephen married the problem-driven, it's not going to be no problem there.",
+      "timestamp_abs": "36:18"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But you, ah, you're all the [inaudible] Okay, then, then you give, that's what I remember what I did.",
+      "timestamp_abs": "36:24"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Thank you. But then in your case, if you're a draw, that's that's giving me the answer. If you're problem driven, your title should have the technology or should not have the technology name?",
+      "timestamp_abs": "36:32"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No. No technology.",
+      "timestamp_abs": "36:41"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "36:43"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "much more like a broader",
+      "timestamp_abs": "36:44"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Broader or it doesn't need to be broader, but it needs to be problem-driven.",
+      "timestamp_abs": "36:46"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? Problem-driven. So you have to say something about the sovereignty or the customer, blah blah blah.",
+      "timestamp_abs": "36:53"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "how we",
+      "timestamp_abs": "36:58"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "tailor it.",
+      "timestamp_abs": "37:00"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, exactly. So again, it's not about, we are all understanding what we're doing, we're kind of matching one thing with the other, matching one thing with the other.",
+      "timestamp_abs": "37:01"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But how we tell the story matters.",
+      "timestamp_abs": "37:07"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "How we tell the story matters. The narrative of the argument and how we build each evidence of the argument step by step, not hint that we're just, it's just Ileana and Arya, two guys who just said, hey, you know what, we know, let's connect them to a business. It's not like that.",
+      "timestamp_abs": "37:10"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We are really understood that there is a problem that your business, people actually know about these things, they also know, hey, let's do because we have much time and money. No.",
+      "timestamp_abs": "37:26"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There is probably a genesis of this problem. Are they really feeling that the current chatbot has some limitations, and there probably is a lot of customer complaints, or at some kind of survey in process where the customers complain this chatbot is not working, we don't understand what the chatbot is answering, or the answers are very generic.",
+      "timestamp_abs": "37:36"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Something there is hinting or somebody, something actually some roots initiated the fact that at some point, some decision-maker told a team, hey, you guys develop this solution because it's a problem. People are complaining.",
+      "timestamp_abs": "37:55"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right?",
+      "timestamp_abs": "38:10"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, we need to tell that story in a very strategic way, organized.",
+      "timestamp_abs": "38:11"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's kind of it. So that's why we are going back to basics and that's why I'm telling this story now. It was not part of the plan, but it became part of the plan last week when I saw your homeworks.",
+      "timestamp_abs": "38:17"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I've already mentioned this, but I wanted to keep it in the slide so that you guys remember it. Normally is the number one mistake we make, and I'm telling we, I, as a student, made this mistake a lot. And sometimes I even in a project, again, mess it up again. I'm like, ah, yeah, this is about this, and then I'm like, ah, no, no, this story should not be about this.",
+      "timestamp_abs": "38:32"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So, it's identifying solutions instead of underlying problems. We fix with the solutions. And in this AI era, the difference between all of us and whatever, what's the name of this [inaudible] Cloud?",
+      "timestamp_abs": "38:51"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Cloud.",
+      "timestamp_abs": "39:07"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Cloud. Between the difference between us and whatever Cloud will be able to do in a few years, is that we actually know very, very well the underlying problems, human problems.",
+      "timestamp_abs": "39:07"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The rest, the solution and how to solve it systematically, these guys, the robots will be doing it very easily.",
+      "timestamp_abs": "39:19"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the human issue, how we discover, how do the paper, we know it better, and we want to be experts of that. That's going to be the difference between any of us humans and the machines.",
+      "timestamp_abs": "39:26"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, the problem is a lack of. Many of us like, that's why I told you I self-reflected. I'm like, I see a lot of gaps in that. We need to be very careful about that. So, and we need to be very careful about what are the difference between solution, platform, technology, symptom and problem. We have to have in our mind clear distinctions of that.",
+      "timestamp_abs": "39:35"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So,",
+      "timestamp_abs": "39:58"
+    }
+  ]
+}

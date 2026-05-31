@@ -1,0 +1,547 @@
+{
+  "block": 13,
+  "time_range": "60:00-65:00",
+  "utterances": [
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Latency means a delay.",
+      "timestamp_abs": "60:01"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "60:02"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right?",
+      "timestamp_abs": "60:03"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh, latency.",
+      "timestamp_abs": "60:04"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Late intervention.",
+      "timestamp_abs": "60:05"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "But because because of maybe you can say in lack of proactive.",
+      "timestamp_abs": "60:05"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the the problem is not nice if you write it into the lack of.",
+      "timestamp_abs": "60:09"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Latency means the intervention is not timely.",
+      "timestamp_abs": "60:15"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "60:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Uh then intervention.",
+      "timestamp_abs": "60:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is not timely, right?",
+      "timestamp_abs": "60:21"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "This is the key point in your, yeah, you don't get it now?",
+      "timestamp_abs": "60:23"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah, they have telling.",
+      "timestamp_abs": "60:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's it's just a matter of it's kind of poetry, right? How how are we wording these things, right?",
+      "timestamp_abs": "60:26"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, listen. I'm sorry.",
+      "timestamp_abs": "60:32"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[laughter]",
+      "timestamp_abs": "60:34"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's my, that's my intellectual property.",
+      "timestamp_abs": "60:35"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[laughter]",
+      "timestamp_abs": "60:37"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I studied hard, my, I don't even know what these issues are. Okay.",
+      "timestamp_abs": "60:38"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe likely, right? I'll let you know.",
+      "timestamp_abs": "60:42"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Sorry, professor.",
+      "timestamp_abs": "60:45"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Grace.",
+      "timestamp_abs": "60:46"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "And even before reaching maybe, uh, that, uh, uh,",
+      "timestamp_abs": "60:47"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We can actually, reluctantly.",
+      "timestamp_abs": "60:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "60:53"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Let's say,",
+      "timestamp_abs": "60:54"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because there is a specific thing that's creating that, uh, uh,",
+      "timestamp_abs": "60:56"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "That challenge.",
+      "timestamp_abs": "61:02"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So, if I try to get from in expression.",
+      "timestamp_abs": "61:03"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's problem. Remember when he's talking about challenges and that are the blockages for our.",
+      "timestamp_abs": "61:04"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So, everything the problem, the root problem.",
+      "timestamp_abs": "61:09"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Everything is about",
+      "timestamp_abs": "61:11"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "ID.",
+      "timestamp_abs": "61:14"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, his case is not the ID.",
+      "timestamp_abs": "61:15"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "It's about the SIM card. You are talking about SIM card something like that.",
+      "timestamp_abs": "61:17"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, but his issue is more specific. The the general context is about the SIM card and the ID.",
+      "timestamp_abs": "61:21"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the issue is when people get cold or get scammed by SMS like, 'Ah, your daughter needs like,' or 'Ah, we need your data for something something' and 'hello, I am the insurance agent,' blah, blah, blah.",
+      "timestamp_abs": "61:27"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They're trying to deceive them, okay?",
+      "timestamp_abs": "61:40"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The intervention of the government who should prevent this kind of action because he's the owner of the information, should be done either it should alert the user, 'Hey, this might be, please be careful with replying.'",
+      "timestamp_abs": "61:43"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know these days in Costa Rica what scam has appeared?",
+      "timestamp_abs": "61:56"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They are putting a QR code in the windshield of the of the cars physically.",
+      "timestamp_abs": "61:59"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And they're saying you have a ticket. You have a parking ticket, for example.",
+      "timestamp_abs": "62:05"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And just scan this QR code to see your ticket.",
+      "timestamp_abs": "62:09"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the moment they scan,",
+      "timestamp_abs": "62:12"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Everything was gone.",
+      "timestamp_abs": "62:13"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Their data will be, you know?",
+      "timestamp_abs": "62:14"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, you need to be very, so in that case, the the this kind of situation, it's not similar to.",
+      "timestamp_abs": "62:16"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm just giving an example, like the government should be able to prevent, to be able to proactively protect the citizen.",
+      "timestamp_abs": "62:23"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "But",
+      "timestamp_abs": "62:29"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But right now the reaction of the government is being comes after, there's only reactive or even not even reactive, too delayed. So people lost the money.",
+      "timestamp_abs": "62:30"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "62:38"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "But professor,",
+      "timestamp_abs": "62:39"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Before government, so I mean, uh, this is about government to to sensitize, uh, I mean, uh, its population.",
+      "timestamp_abs": "62:41"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "But the government itself has to protect the system to prevent scammers to use population information to call because before they call, it mean that I get Stephen's, uh, information, data.",
+      "timestamp_abs": "62:50"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Then I am able to call him and ask something.",
+      "timestamp_abs": "63:07"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "And the system, who is controlling the system? It's the government.",
+      "timestamp_abs": "63:11"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's the one who.",
+      "timestamp_abs": "63:14"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So, government.",
+      "timestamp_abs": "63:15"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, it's I think it's because the scope of the problem is so big.",
+      "timestamp_abs": "63:16"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's one part of the problem. The the release of the data, the non-protection of the personal data that is going to the wrong hands, that's one type of problem.",
+      "timestamp_abs": "63:20"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the one because of his uh hierarchy and because of the his position, the one problem he's focusing on, he's in the other part of the problem.",
+      "timestamp_abs": "63:30"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So if if the problem is seen as a value chain, there's different stages of the problem, yeah.",
+      "timestamp_abs": "63:38"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "How they get data, it's someone part of the problem.",
+      "timestamp_abs": "63:43"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the part that the government cannot early enough, early enough intervene and prevent, that's the problem he's trying to tackle.",
+      "timestamp_abs": "63:45"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Maybe I need to for correct.",
+      "timestamp_abs": "63:54"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Because even here, scamming is is happening.",
+      "timestamp_abs": "63:57"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "If you say scamming is not about that you have my ID.",
+      "timestamp_abs": "64:01"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I understand.",
+      "timestamp_abs": "64:04"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "And and and one thing that we have solved is about to the because the registered SIM is genuine. The person is well known.",
+      "timestamp_abs": "64:05"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "But we need to know after acquiring the SIM card, what is being done on the SIM card.",
+      "timestamp_abs": "64:13"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "If someone is trying to send like 10 SMS to to try to to scam these people, that's what we need to know.",
+      "timestamp_abs": "64:19"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So there are two things: there is to acquire a genuine citizen SIM card, and then what do you use the SIM card?",
+      "timestamp_abs": "64:26"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "That's the that's where we are.",
+      "timestamp_abs": "64:32"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Those are probably just now the once you have the core problem, they are kind of soft problems.",
+      "timestamp_abs": "64:33"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then we need to kind of figure, yes, exactly.",
+      "timestamp_abs": "64:38"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Also, professor, just um to protest the point, there's an issue in Nigeria.",
+      "timestamp_abs": "64:41"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Um like people can we do it also. you you can go to like MTN, a mobile service provider in Nigeria. You can go and tell them that you need the phone numbers, then you use it through the [inaudible].",
+      "timestamp_abs": "64:47"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "block": 15,
+  "time_range": "70:00-75:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The president of Kisti told me, I actually I've been I have a big problem because the voice is asking pressure to have the indexes but our country has no system in place. We're all doing it manually.",
+      "timestamp_abs": "70:00"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the the president told me, ah, you know what? My institution is the one who manages the whole R&D system in Korea. You want to learn about it? And I was, I actually did the same. Like this. It was very coincidental, but that's the starting point.",
+      "timestamp_abs": "70:11"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, this is very important in the story because my my my initial inception of my project was a very coincidental situation. It was not like Chilaka is already doing technology pushing it. But, if you think about it,",
+      "timestamp_abs": "70:25"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "it's rather than a problem driven approach and you'll see a little bit later the difference. It was more technology pushed because my my minister already said, you know what? I need this exact same system, a little bit similar in my country. It was not that he had a challenge, let's say,",
+      "timestamp_abs": "70:38"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "maybe you have a challenge. Challenge of fraud in National Innovation identification and he was, he didn't have a special national challenge. If you see it deeply broadly he had, the country did not have a management uh governance on the R&D sector.",
+      "timestamp_abs": "70:58"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But he really just had a special technology, I need a system in place to deliver the data to the O.C.D.",
+      "timestamp_abs": "71:16"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, on that December, the picture was taken in October of 2015, right?",
+      "timestamp_abs": "71:23"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "October. And by December, the president of Kisti said, I will visit Costa Rica this December. And I want to know your country, please show me about the situation in the ministry. And I have some cooperation funds and I'm going to try to help you to do this process. So on that December, the president asked me to prepare a presentation in Spanish to my minister in Costa Rica and we visited Costa Rica together to start building this project.",
+      "timestamp_abs": "71:29"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I was blessed, it was clear coincidence.",
+      "timestamp_abs": "71:57"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I did this presentation. And I started studying about what was NTIS. So I thought there are three main characteristics of this system that were very unique to me. And that made the Korean solution a special solution because Koreans are not the only ones who have the knowledge. That's why to many of you Grace, I told you, uh please check on the competitive landscape also to Ardi, I told you, if you don't have an idea of Korean technology because it's hard to to search in Google because everything is in Korean. At least try to find the global players who are doing certain things that you really like for your country and then we can try to find the Korean version of that and maybe see if it's competitive enough. That's a way to go through it.",
+      "timestamp_abs": "72:00"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So at that kind of thing I know, the three things that made the Korean R&D model very specific. One thing is, that they have one single national R&D with all platform, with all the information of R&D in real time. Which is very critical because I told you the experience of Costa Rica where three units of two different labs and two different public universities buy the same very expensive microscope and nobody's using. Maybe maybe it was a very expensive micro micro microscope that not every student will be daily. So maybe the public funds could be used more efficiently.",
+      "timestamp_abs": "72:37"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if you don't have a something in real time where we can say, ah, I will use this very expensive R&D tool or this lab or special some equipment, then it doesn't work. So since in my country everything was being handled manually, this kind of online sharing real time thing would not have. So I found the very specific and the other thing I found is that every institution, there was a governance in place. So this was there was a whole of government approach like the whole, the Congress had made a special steering committee which study the story of how NTS was built and how Kisti was built.",
+      "timestamp_abs": "73:13"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I was because I went to Korea and I was able to read the document that the Congress gave to the, I don't know at that time, they were ten or twelve institutions related to R&D. That said you guys have to sit down, I don't know how, figure a way to share a system and to share all the information and to integrate all of the cycle of R&D into one platform so that we can oversee how the funds are being used and what is the return on investment of R&D in this country.",
+      "timestamp_abs": "73:52"
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And one of the very important things of this holistic vision, I think inside the interoperability, the sharing of all that is the big data analytics. If you think about it, now Costa Rica, Korea has a very important information on data on what things really commercially speaking, or technology commercialization wise, really were fruitful and what things didn't. Because they've been for many years documenting systematically what R&D inputs or what investment in R&D really gave fruit and what didn't.",
+      "timestamp_abs": "74:23"
+    }
+  ]
+}

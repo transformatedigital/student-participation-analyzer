@@ -1,0 +1,92 @@
+{
+  "block": 12,
+  "time_range": "55:00-60:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is, which is the optimum, but maybe what it's feasible is different than what I can afford.",
+      "timestamp_abs": "55:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So especially on the conditions that you have made into laws that can be written for all of you.",
+      "timestamp_abs": "55:06"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And so please, like, when you get to define the new, when you and I the scope of your ICP.",
+      "timestamp_abs": "55:12"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Please be very clear of, okay, I'm talking about a round fruit that is orange that grows in a tree that has you need to be very specific so that there is no misconception.",
+      "timestamp_abs": "55:18"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "About what the real scope is about you want.",
+      "timestamp_abs": "55:28"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then from that, anyway, I will discuss it on Thursday and I already told Mega and I'm going to say that the teacher that you called is not feasible through LMS.",
+      "timestamp_abs": "55:31"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will discuss if they have any good solution.",
+      "timestamp_abs": "55:40"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If not, we're going to go back to Miss Nam to understand who is the developer within Kai's of the Kai's LMS.",
+      "timestamp_abs": "55:43"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Or did you have a chance to see to the other app, the class, classroom?",
+      "timestamp_abs": "55:50"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Sorry.",
+      "timestamp_abs": "55:55"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Do you like it or what do you think about that?",
+      "timestamp_abs": "55:56"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, actually, uh, you know,",
+      "timestamp_abs": "55:58"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rubrics - Class Analytics</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #ffffff; color: #1f2937; }
+        header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px 20px; }
+        header h1 { margin-bottom: 5px; }
+        header .breadcrumb { font-size: 12px; opacity: 0.8; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 30px 20px; }
+        .section-title { font-size: 22px; font-weight: 700; color: #1f2937; margin-bottom: 20px; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
+        .nav-buttons { margin-bottom: 30px; }
+        .nav-buttons a { display: inline-block; margin-right: 10px; padding: 10px 20px; background: #667eea; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; margin-bottom: 10px; }
+        .nav-buttons a:hover { background: #764ba2; }
+        .rubric-card { background: white; border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin-bottom: 20px; }
+        .rubric-title { font-size: 18px; font-weight: 700; color: #1f2937; margin-bottom: 16px; }
+        .rubric-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 16px; }
+        .rubric-level { background: #f0f9ff; border: 1px solid #bfdbfe; border-radius: 6px; padding: 12px; text-align: center; }
+        .rubric-level.a { background: #d1fae5; border-color: #6ee7b7; }
+        .rubric-level.b { background: #e0e7ff; border-color: #a5b4fc; }
+        .rubric-level.c { background: #fef3c7; border-color: #fcd34d; }
+        .rubric-level.d { background: #fed7aa; border-color: #fdba74; }
+        .rubric-level.e { background: #fecaca; border-color: #fca5a5; }
+        .level-letter { font-size: 20px; font-weight: 700; margin-bottom: 4px; }
+        .level-name { font-size: 12px; font-weight: 600; margin-bottom: 4px; }
+        .level-desc { font-size: 11px; color: #4b5563; line-height: 1.4; }
+        .formula-box { background: #f0f9ff; border-left: 4px solid #667eea; padding: 20px; border-radius: 8px; margin-bottom: 20px; }
+        .formula-box h3 { margin-bottom: 12px; color: #1f2937; }
+        .formula-box p { margin-bottom: 8px; font-size: 14px; line-height: 1.6; }
+        .formula-code { background: white; padding: 12px; border-radius: 4px; font-family: 'Courier New', monospace; font-size: 13px; margin: 12px 0; color: #333; }
+        .bonus-box { background: #fef3c7; border-left: 4px solid #f59e0b; padding: 16px; border-radius: 8px; margin-bottom: 20px; }
+        .bonus-box h4 { margin-bottom: 8px; color: #92400e; }
+        table { width: 100%; border-collapse: collapse; margin-bottom: 20px; }
+        th { background: #667eea; color: white; padding: 12px; text-align: left; font-weight: 600; font-size: 13px; }
+        td { padding: 12px; border-bottom: 1px solid #e5e7eb; font-size: 13px; }
+        footer { text-align: center; padding: 20px; color: #6b7280; font-size: 12px; border-top: 1px solid #e5e7eb; margin-top: 40px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>📋 Rubrics & Methodology</h1>
+        <div class="breadcrumb">← <a href="index.html" style="color: white; text-decoration: underline;">Dashboard</a> / Rubrics</div>
+    </header>
+
+    <div class="container">
+        <div class="nav-buttons">
+            <a href="index.html">← Back to Dashboard</a>
+            <a href="overview.html">📊 Overview</a>
+            <a href="class_transcript.html">🎤 Class Transcript</a>
+            <a href="transcripcion.html">📝 Transcription</a>
+            <a href="evaluacion.html">🤖 Evaluations</a>
+            <a href="timeline.html">⏱️ Timeline</a>
+        </div>
+
+        <div class="section-title">⚙️ Grading Methodology</div>
+
+        <div class="formula-box">
+            <h3>📐 Weighted Formula</h3>
+            <div class="formula-code">Final Grade = (Responses × 50%) + (Questions × 30%) + (Comments × 20%) + Bonus</div>
+            <p><strong>Example (Aryang):</strong> (2.80 × 0.50) + (3.10 × 0.30) + (2.88 × 0.20) + 0.15 = 3.12 (C)</p>
+            <p style="margin-top: 12px;"><strong>Why these weights?</strong> Direct responses to instructor questions represent higher-order thinking and accuracy (50%). Student-initiated questions show critical thinking (30%). General comments show engagement but less rigor (20%).</p>
+        </div>
+
+        <div class="bonus-box">
+            <h4>🎁 Participation Bonus System</h4>
+            <table style="margin-top: 10px; margin-bottom: 0;">
+                <tr>
+                    <th style="background: #d97706; width: 50%;">Participation Level</th>
+                    <th style="background: #d97706;">Bonus</th>
+                </tr>
+                <tr>
+                    <td>≥ 40 turns</td>
+                    <td style="text-align: center; font-weight: 600; color: #10b981;">+0.15</td>
+                </tr>
+                <tr>
+                    <td>20-39 turns</td>
+                    <td style="text-align: center; font-weight: 600; color: #0284c7;">+0.10</td>
+                </tr>
+                <tr>
+                    <td>5-19 turns</td>
+                    <td style="text-align: center; font-weight: 600; color: #7c3aed;">+0.00</td>
+                </tr>
+                <tr>
+                    <td>&lt; 5 turns</td>
+                    <td style="text-align: center; font-weight: 600; color: #dc2626;">-0.20</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="section-title">📊 Quality Rubric: Responses (Rubric A)</div>
+
+        <div class="rubric-card">
+            <div class="rubric-title">How are direct responses to instructor questions evaluated?</div>
+            <div class="rubric-grid">
+                <div class="rubric-level a">
+                    <div class="level-letter">A</div>
+                    <div class="level-name">Excellent</div>
+                    <div class="level-desc">Deep analysis, detailed explanation with examples, connects to course concepts</div>
+                </div>
+                <div class="rubric-level b">
+                    <div class="level-letter">B</div>
+                    <div class="level-name">Good</div>
+                    <div class="level-desc">Clear, correct answer with some elaboration or clarification</div>
+                </div>
+                <div class="rubric-level c">
+                    <div class="level-letter">C</div>
+                    <div class="level-name">Satisfactory</div>
+                    <div class="level-desc">Correct but limited detail, minimal elaboration</div>
+                </div>
+                <div class="rubric-level d">
+                    <div class="level-letter">D</div>
+                    <div class="level-name">Insufficient</div>
+                    <div class="level-desc">Incomplete, vague, or partially incorrect answer</div>
+                </div>
+                <div class="rubric-level e">
+                    <div class="level-letter">E</div>
+                    <div class="level-name">Ineffective</div>
+                    <div class="level-desc">Incorrect or irrelevant response, no value to discussion</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section-title">💬 Quality Rubric: Questions & Comments (Rubric B)</div>
+
+        <div class="rubric-card">
+            <div class="rubric-title">How are student-initiated questions and voluntary comments evaluated?</div>
+            <div class="rubric-grid">
+                <div class="rubric-level a">
+                    <div class="level-letter">A</div>
+                    <div class="level-name">Insightful</div>
+                    <div class="level-desc">Deep, thought-provoking question or comment that advances understanding</div>
+                </div>
+                <div class="rubric-level b">
+                    <div class="level-letter">B</div>
+                    <div class="level-name">Meaningful</div>
+                    <div class="level-desc">Clarifying question or relevant contribution with substance</div>
+                </div>
+                <div class="rubric-level c">
+                    <div class="level-letter">C</div>
+                    <div class="level-name">Relevant</div>
+                    <div class="level-desc">On-topic comment or question, but limited depth or novelty</div>
+                </div>
+                <div class="rubric-level d">
+                    <div class="level-letter">D</div>
+                    <div class="level-name">Surface-Level</div>
+                    <div class="level-desc">Loosely related to topic, minimal value, surface-level observation</div>
+                </div>
+                <div class="rubric-level e">
+                    <div class="level-letter">E</div>
+                    <div class="level-name">Off-Topic</div>
+                    <div class="level-desc">Irrelevant or confusing contribution, adds no value</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section-title">📈 Grade Scale</div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Grade Range</th>
+                    <th>Letter Grade</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>4.5 - 5.0</td>
+                    <td style="font-weight: 600; color: #10b981;">A</td>
+                    <td>Excellent - Exceptional engagement and quality</td>
+                </tr>
+                <tr>
+                    <td>3.5 - 4.4</td>
+                    <td style="font-weight: 600; color: #0284c7;">B</td>
+                    <td>Good - Strong participation and quality</td>
+                </tr>
+                <tr>
+                    <td>2.5 - 3.4</td>
+                    <td style="font-weight: 600; color: #f59e0b;">C</td>
+                    <td>Satisfactory - Adequate participation</td>
+                </tr>
+                <tr>
+                    <td>1.5 - 2.4</td>
+                    <td style="font-weight: 600; color: #f97316;">D</td>
+                    <td>Insufficient - Below expectations</td>
+                </tr>
+                <tr>
+                    <td>0 - 1.4</td>
+                    <td style="font-weight: 600; color: #dc2626;">E</td>
+                    <td>Failing - Minimal or no engagement</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="section-title">🔍 Evaluation Process</div>
+
+        <div class="rubric-card">
+            <div style="margin-bottom: 16px;">
+                <h4 style="color: #1f2937; margin-bottom: 8px;">Step 1: Transcription & Extraction</h4>
+                <p style="font-size: 13px; color: #6b7280;">Audio is transcribed and all student statements are extracted with timestamps and categorized as responses, questions, or comments.</p>
+            </div>
+
+            <div style="margin-bottom: 16px; border-top: 1px solid #e5e7eb; padding-top: 16px;">
+                <h4 style="color: #1f2937; margin-bottom: 8px;">Step 2: Quality Assessment</h4>
+                <p style="font-size: 13px; color: #6b7280;">Each statement is evaluated against the appropriate rubric (A for responses, B for questions/comments). Evaluators consider content, relevance, depth, and contribution to class discussion.</p>
+            </div>
+
+            <div style="margin-bottom: 16px; border-top: 1px solid #e5e7eb; padding-top: 16px;">
+                <h4 style="color: #1f2937; margin-bottom: 8px;">Step 3: Weighted Calculation</h4>
+                <p style="font-size: 13px; color: #6b7280;">Grades for each type (responses, questions, comments) are averaged separately, then combined using the weighted formula with bonuses applied based on participation volume.</p>
+            </div>
+
+            <div style="border-top: 1px solid #e5e7eb; padding-top: 16px;">
+                <h4 style="color: #1f2937; margin-bottom: 8px;">Step 4: Final Grade Assignment</h4>
+                <p style="font-size: 13px; color: #6b7280;">Final numeric grade is converted to letter grade and assigned to student. Grades are capped at 5.0 (maximum) and 1.0 (minimum).</p>
+            </div>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>Class Analytics | April 7, 2026 | Comprehensive Evaluation System</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,325 @@
+{
+  "block": 20,
+  "time_range": "95:00-100:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Do that, anymore?",
+      "timestamp_abs": "95:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "95:04"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "is why...",
+      "timestamp_abs": "95:04"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, but",
+      "timestamp_abs": "95:06"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "uh for your business stage it's difficult to reach this one because we haven't brainstormed specifically from the fraud project. For Chilaka is already easier for maybe even you, a little bit easier for, I think for Mega.",
+      "timestamp_abs": "95:07"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For Grace, maybe Aryang, and you three, are in a different stage because you are still wild. I need to think this, like, for example, for Stepen from the AI fraud, and us innocent.",
+      "timestamp_abs": "95:20"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "not being myself, right? not being myself, or",
+      "timestamp_abs": "95:32"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I am um, um or I am borrowing my ID to somebody else. Somebody's stealing my ID is one problem.",
+      "timestamp_abs": "95:35"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "The problem now is, you know, we had like the uh like using the other ID, but what that one is going to be solved by the new project that I said yesterday. Because we are going to use now the online application to adjust some of.",
+      "timestamp_abs": "95:44"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "But after, after the validation and I discovered the problem. I discovered from the frame.",
+      "timestamp_abs": "96:00"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I found although we should have the like, the biometrics for this session,",
+      "timestamp_abs": "96:07"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "we still have like a gap, a small gap for people to benefit, the vulnerable people in the just the SIM card or they are on their on their behalf. Because they give them money, and the other criminals use this SIM card",
+      "timestamp_abs": "96:13"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "to scam others. My my main main problem is the SMS scam.",
+      "timestamp_abs": "96:30"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So then it means then maybe you, that's why I say in your case we need to decide whether your problem is not fraud or ID too big.",
+      "timestamp_abs": "96:35"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe your problem is just scamming, phishing, phishing, voice phishing like that.",
+      "timestamp_abs": "96:42"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe maybe you can reduce it to phishing, so maybe it's not ID related, maybe it's something else, right? Something I don't know.",
+      "timestamp_abs": "96:47"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "So in your case I think you are still, we need to discuss more.",
+      "timestamp_abs": "96:54"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "I'll give you a chance to do your one-on-one because we're gonna have a one-on-one session.",
+      "timestamp_abs": "96:59"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "Class",
+      "text": "So you guys, we're gonna discuss more. I'm gonna show one one I'm gonna show your homework here.",
+      "timestamp_abs": "97:02"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "Don't worry. You know what, you know, in your case we need to speak more about.",
+      "timestamp_abs": "97:07"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "But before showing yours, it's easier if I show you like one example of what could be. It's not not saying this is perfect. This is also an attempt of how it could be. It's not saying the only solution.",
+      "timestamp_abs": "97:11"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because anyway this project has a nature, it's not projects that are different in nature, so it will look slightly different.",
+      "timestamp_abs": "97:23"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's easier I think to see. It's not it's not like okay, it's different from what I have.",
+      "timestamp_abs": "97:28"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In case you want to need to find. It's not the perfect one, it's not the final one, it's just an idea, an example.",
+      "timestamp_abs": "97:32"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So after that, that's the typical data I gave two evidences.",
+      "timestamp_abs": "97:42"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "STHEPEN",
+      "text": "And in this case it's just documentary. In your case it should be real evidence, real conversation like that, because in my case, my evidence is that, right? My real evidence. Or the my evidence of what the business can be, for example.",
+      "timestamp_abs": "97:47"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "CHILAKA",
+      "text": "In your case it would be like a like a chat with your boss, or a chat with the minister.",
+      "timestamp_abs": "98:02"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "Where is this?",
+      "timestamp_abs": "98:06"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, you need to...",
+      "timestamp_abs": "98:07"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "I have told.",
+      "timestamp_abs": "98:09"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, in this case it was the reports of OECD that already were, OECD was already evaluating the systems in our country. And they were saying this, 'Dr., we will tell the government, they're talking.'",
+      "timestamp_abs": "98:10"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "How to know it?",
+      "timestamp_abs": "98:23"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "OECD said in this document that that expenditure in my country was just 0.3%. This is important for Chilaka. How much they evaluate is what we need to check.",
+      "timestamp_abs": "98:24"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And it makes you realize, oh, this amount is very small. For real they have 5 to 6%.",
+      "timestamp_abs": "98:33"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Developed countries progressed a lot.",
+      "timestamp_abs": "98:41"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We, emerging countries, we don't even reach 1%.",
+      "timestamp_abs": "98:43"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if you see, if you at that time measured the region in Central America and Latin America, we were one of the highest.",
+      "timestamp_abs": "98:47"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Other countries in Latin America, except for Chile, the rest were 0.1, 0.2, 0.3. We were in the higher end, right?",
+      "timestamp_abs": "98:55"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "CHILAKA",
+      "text": "So this for for case of Chilaka, maybe your case is not important, but Chilaka is this field, right?",
+      "timestamp_abs": "99:05"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "CHILAKA",
+      "text": "So for Chilaka, it's very important because again, you need to convince your minister with numbers. So if the investment and the money that is being that has to manage to be managed in those platforms, is still not big enough.",
+      "timestamp_abs": "99:09"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Again, you might be having to invest in a very fancy car to manage something that is not so relevant yet in your country. Doesn't mean that your country should do the technological catching up, and they should do so, it's something that is very needed if we want to really grow based on a knowledge, knowledge society, right? An AI AI era society.",
+      "timestamp_abs": "99:22"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But um, but it might be difficult to argument for an investment if the money that is being used for currently and the effort for currently in the country are still not there.",
+      "timestamp_abs": "99:41"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "CHILAKA",
+      "text": "So I think that's a very important argument in your story.",
+      "timestamp_abs": "99:53"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And also another thing is that the",
+      "timestamp_abs": "99:58"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "block": 32,
+  "time_range": "155:00-155:24",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "UNKNOWN",
+      "type": "UNKNOWN",
+      "text": "[Sigh]",
+      "timestamp_abs": "155:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we're going to travel like the presenter.",
+      "timestamp_abs": "155:01"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "155:03"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. Remember, I need to upload it.",
+      "timestamp_abs": "155:04"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And even the other comment about the",
+      "timestamp_abs": "155:05"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "155:08"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Which is good, which is bad.",
+      "timestamp_abs": "155:09"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So when we",
+      "timestamp_abs": "155:10"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like that is what you are showing us.",
+      "timestamp_abs": "155:11"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All these lectures today.",
+      "timestamp_abs": "155:13"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This lecture, I will upload it.",
+      "timestamp_abs": "155:14"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "155:15"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We didn't need to revisit yet.",
+      "timestamp_abs": "155:16"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "We need to visit again?",
+      "timestamp_abs": "155:18"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This day, they are coming out to tell us stories.",
+      "timestamp_abs": "155:20"
+    }
+  ]
+}

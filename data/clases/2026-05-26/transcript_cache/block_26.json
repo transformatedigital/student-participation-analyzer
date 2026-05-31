@@ -1,0 +1,288 @@
+{
+  "block": 26,
+  "time_range": "125:00-130:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "already developed or maybe it's not fully developed like, 'Aryang, one of the things he discovered is strategically for him was good that they didn't have Indonesian language.'",
+      "timestamp_abs": "125:00"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe their TRL was not fully there in terms of Indonesian language. So it was strategic because then she he can argument, 'hey, let's do this together because through me you can catch the IP in Indonesian language.'",
+      "timestamp_abs": "125:07"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is part of this, okay?",
+      "timestamp_abs": "125:18"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the technology exploration is soft engagement.",
+      "timestamp_abs": "125:20"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this one is still like again, kind of the desk desk level, right?",
+      "timestamp_abs": "125:22"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Desk level research.",
+      "timestamp_abs": "125:26"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this one is already networking level, right?",
+      "timestamp_abs": "125:27"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Soft engagement candidates.",
+      "timestamp_abs": "125:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What's what's what are they really like?",
+      "timestamp_abs": "125:31"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So for example, maybe Aryang, our meeting with Dr. came up very well, but it could have been an impression where Dr. was like, 'No, no, our only business model is to sell you the license and we're not interested in any co-development.'",
+      "timestamp_abs": "125:33"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It could have been a very very awkward meeting where out of out of meeting them, then he just said, 'Oh my God, these guys are not interested in do any cooperation, they're just interested in selling me a product.'",
+      "timestamp_abs": "125:44"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe it could have been like that.",
+      "timestamp_abs": "125:53"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, explore technical maturity, contextual adaptability and distinguish and differentiate.",
+      "timestamp_abs": "125:54"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is also very important.",
+      "timestamp_abs": "125:59"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Through the meetings, one of the things we can understand very well is how is this technology structured?",
+      "timestamp_abs": "126:00"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sometimes it's a platform,",
+      "timestamp_abs": "126:07"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "sometimes I think this differentiation I sometimes the clarity",
+      "timestamp_abs": "126:08"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "it comes from here.",
+      "timestamp_abs": "126:13"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sometimes the clarity in my experience came from here,",
+      "timestamp_abs": "126:14"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "after I saw how what is the infrastructure, what are the components of these different technologies or solutions or whatever.",
+      "timestamp_abs": "126:17"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I was able to kind of feed back into my problem thinking, ah, what I want is actually a component. What I want is a oh oh how my problem scope is this one, my solution scope is this one, the technology that will connect to this problem and solution is this one, and the platform that it is.",
+      "timestamp_abs": "126:27"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this clarity, some at some point because this is so messy thinking, it's not so clear, when I see this, it was more clearer to my eyes.",
+      "timestamp_abs": "126:59"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "After benchmarking what other people are doing to solve the problem, what other companies are selling to solve the problem.",
+      "timestamp_abs": "127:08"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why I added this one too.",
+      "timestamp_abs": "127:18"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It might not be perfect, but that's my initial thinking.",
+      "timestamp_abs": "127:20"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, let's go back to our worksheet.",
+      "timestamp_abs": "127:23"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I'd like to do these two from the supply side. Many of you haven't started.",
+      "timestamp_abs": "127:29"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think you can already say, 'uh for example, you came up with KISA, and you came out with...' Initially, at this point, you have done some of this.",
+      "timestamp_abs": "127:35"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe this one, Aryang can say something for he's done.",
+      "timestamp_abs": "127:50"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Chilaka, you can say because you already have met with these people, met with TIE or lolalá.",
+      "timestamp_abs": "127:56"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Grace, you have probably some things to do, something to say?",
+      "timestamp_abs": "128:07"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And Mega of course, maybe in this case, 1.2.3, you don't know, 'oh, we met here, but no, no.'",
+      "timestamp_abs": "128:15"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You don't have a lot to say because it's a new stage, right?",
+      "timestamp_abs": "128:25"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But you can think of what are the pending things you would like to do.",
+      "timestamp_abs": "128:28"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Even if you don't have anything that you have done, what are the activities that you would like to do with regards to this one that you haven't done?",
+      "timestamp_abs": "128:36"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So in your case, for example, I think the meeting of the KISA vice president to understand this would be the activity that you want to put here.",
+      "timestamp_abs": "128:51"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "128:59"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. I'll give you some minutes.",
+      "timestamp_abs": "129:00"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Until 3 point 3.3.6 minutes.",
+      "timestamp_abs": "129:03"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just things quickly, because you're gonna complete it five or six activities is a homework, but I want you to...",
+      "timestamp_abs": "129:07"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "block": 9,
+  "time_range": "40:00-45:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't know, for example, our healthcare related problems. The patients cannot access timely diagnosis due to surgery.",
+      "timestamp_abs": "40:00"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you ask me right now, because I actually on the presentation day, I was very strong to you, like, you are not putting a lot of emphasis in the real-time issue.",
+      "timestamp_abs": "40:05"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In your, in your version now, it upgraded very well. I think from all of you, maybe you were the one who really caught it well because you, I gave you a lot of emails, so you understood when I gave you the comments last time.",
+      "timestamp_abs": "40:16"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Your issues related to the real time.",
+      "timestamp_abs": "40:27"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh.",
+      "timestamp_abs": "40:31"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh, uh, uh, I think as I, I don't know if you remember on my first presentation.",
+      "timestamp_abs": "40:33"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "40:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I was trying to explain the problem because I, I, I remember you were telling me about the the market lady, yeah.",
+      "timestamp_abs": "40:39"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I remember you were telling me about the the market lady, yeah.",
+      "timestamp_abs": "40:42"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah yeah. Because as I from experience in projects, you need to describe the the story about the the benefit of the progress.",
+      "timestamp_abs": "40:45"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "40:54"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So but when I saw the the template of the ICT, it's about like, you know, technology. But ICP is also technology. That's why I most of us will review to from the problem, then go through to the solution.",
+      "timestamp_abs": "40:55"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because of the sections, the sections need to, okay, this is another important difference. Because this template is just an early template. So also, if you have feedback that when you are writing the template, you feel like, Professor, this section, it feels like, I don't know why we need it like that. Please give it to me. Let me know. I will make a space. I will discuss about this with the office, because the template can always be improved. It's just an initial template, right? The template is, we can improve it. If there is anything that you feel like, you know, all of us have feels like this section is very long, it's very rigid or the section itself just doesn't, I don't know. So formally it's just an initial way because we just need something to help you guys start building this from scratch and it needs to be somehow standardized, but it's very different. That project by project and the conditions of each country and where you're coming from is different. So we're trying to kind of standardize it is that, but it could definitely be improved.",
+      "timestamp_abs": "41:10"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And another thing about the technology is that many times the problem, any, many other people in your different entities or in the in the country have tried to solve it. You guys are not being here the the Einsteins, right? Many people are trying to solve it or have tried to solve it or there is some prior initiative, some prior experience. So, that is one thing that we want with the form. We want to make you study what happened around this problem. Are you sure you're the only one thinking about this problem? No, maybe probably also other people.",
+      "timestamp_abs": "42:00"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's about the initiative.",
+      "timestamp_abs": "42:29"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So what are the condition? And another thing is LMS or or um, smart battery systems.",
+      "timestamp_abs": "42:31"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We want you to really go back and study what is the market. And I gave you a lot of of that hint. Please study. I gave Grace, Grace, please study the market landscape. What is the best, normally in Korea? Or I told you before for your pre prior project. Please show me what is the better knowledge operations and and knowledge management service platforms, right?",
+      "timestamp_abs": "42:38"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So another part from this journey is that you guys need to understand what others, again, as a masters and PhD students, what others are doing to solve this problem. What are the best practices being done to solve a similar problem or similar or the same problem? What others are applying? What other, so that's why those sections were added with that vision. We need that digital leaders to really know the market landscape. To really know how others are solving the similar problem. It's not, those problems are not unique to Indonesia, to Rwanda, or to Congo or Nigeria. It's very common problems. What are other countries, nations, groups, multinational organizations doing to solve the similar issues? Because as digital leaders, we need to know where are the good role models, things that we can copy, because we are not going to grow alone and we don't need to reinvent the wheel.",
+      "timestamp_abs": "42:58"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think this is very important, like, um, I gave you this an analogy to distinguish well, the difference between problem, solution, components, technology, platform, and maybe the business model.",
+      "timestamp_abs": "43:47"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because sometimes also when I was reading Mega, your case also, I felt like, I'm not sure if what Mega needs is a technology. Again, a little bit about after our discussion last time, I keep not being sure if what you need is a technology or a feasibility study for a technology or a feasibility study for a model, for an operation model. What should be the right model for grid operation to make it stable?",
+      "timestamp_abs": "44:00"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And maybe give me a different setup of technology combination or or whatever. Maybe a different regulation model where the solar PV has an extra, I don't know, differentiated rate, a differentiated price, and then it's maybe much more, much more smarter to use it in the in the this techno-economic setup, uh, where it's maybe good enough if we use the solar PV only 12 hours because we have this differentiated rate for this solar PV and we don't need it 24 hours. I don't know, it's totally thinking out of the box, right? So maybe in your case, it might be this.",
+      "timestamp_abs": "44:25"
+    }
+  ]
+}

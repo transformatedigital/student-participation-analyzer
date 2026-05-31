@@ -1,0 +1,585 @@
+{
+  "block": 16,
+  "time_range": "75:00-80:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "just an inhaler, you know, even if it's an innovation that you can attach.",
+      "timestamp_abs": "75:00"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "to give them more context",
+      "timestamp_abs": "75:03"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "about, for example,",
+      "timestamp_abs": "75:07"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "if you have some technical aspects of the project, or anything that or, you know, you can get a publication.",
+      "timestamp_abs": "75:08"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They are publications, or something that is public, it will not, nothing, nothing confidential, something that you can get, that can be an attachment that you can complement.",
+      "timestamp_abs": "75:16"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then they will analyze it and then because they are energy experts, so they will say, ah, this is a very good. Or maybe this is like you know what in your case, actually you come up with a very Just connect it to the Just Maybe that's maybe that's you know, I know very good but I think this is very complex, you really need a very strong theme.",
+      "timestamp_abs": "75:24"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We don't know.",
+      "timestamp_abs": "75:44"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to feed them a lot of information so that they can help us out and guide us. Uh actually this issue is better, for example, they might say, as I told you, they might say, no, yeah, I'm care, you don't find the express to do this kind of energy planning.",
+      "timestamp_abs": "75:46"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You might want to contact this.",
+      "timestamp_abs": "75:59"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They will be guiding you.",
+      "timestamp_abs": "76:02"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or they will say, in we have a department specialized in this, so we're going to contact these guys and we're going to make you connect.",
+      "timestamp_abs": "76:05"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't know.",
+      "timestamp_abs": "76:11"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But the first thing, I still have okay, some questions.",
+      "timestamp_abs": "76:12"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Right.",
+      "timestamp_abs": "76:16"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "76:18"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It.",
+      "timestamp_abs": "76:18"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If I don't know,",
+      "timestamp_abs": "76:19"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "76:21"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you have to know.",
+      "timestamp_abs": "76:22"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "76:23"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You have to define.",
+      "timestamp_abs": "76:23"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is it better for us internally not to talk to your people?",
+      "timestamp_abs": "76:24"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is it better for us to just really assume that BESS is the one we want to go?",
+      "timestamp_abs": "76:28"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Or we want to open it up to just grid stability?",
+      "timestamp_abs": "76:34"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "If we open it, it's like a still macro.",
+      "timestamp_abs": "76:38"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, no, because it might be not necessarily, because it might be depending. For example, it could be if you figure it out as green stability.",
+      "timestamp_abs": "76:43"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If the problem is green stability,",
+      "timestamp_abs": "76:53"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "we could say, okay.",
+      "timestamp_abs": "76:56"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's going to be a techno techno techno economical optimization for green stability. So we already know that for green stability green stability plus renewable sources.",
+      "timestamp_abs": "76:58"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think you have two things.",
+      "timestamp_abs": "77:12"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It has to be renewable.",
+      "timestamp_abs": "77:14"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We can have green stability with coal, but we cannot.",
+      "timestamp_abs": "77:16"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "77:20"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, with this, we can have BESS is one.",
+      "timestamp_abs": "77:20"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or we can have another alpha and beta. We don't know, there could be another option for green stability that we're not considering.",
+      "timestamp_abs": "77:25"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So.",
+      "timestamp_abs": "77:34"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, we could leave the title green and within the scope, say, BESS is one of the alternatives to be analyzed and you could take other. Within the scope of the visibility study, please suggest any other possible solutions, technical solutions to this problem.",
+      "timestamp_abs": "77:35"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "77:56"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or you can close that option and say no, we only want to focus deeply into BESS and how to solve it through BESS because that's the only one we want.",
+      "timestamp_abs": "77:56"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't know what you guys prefer, but make sure you clearly state it and it's clearly guided towards where you want, whether it's going to be an open approach with an extra option or directly limited only to this.",
+      "timestamp_abs": "78:08"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Is it more clear?",
+      "timestamp_abs": "78:25"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so now,",
+      "timestamp_abs": "78:27"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think right now while I was discussing we can we have discussed a little bit more of the challenges, but",
+      "timestamp_abs": "78:29"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "today because of time, I now only have 30 more minutes left. I don't want to get you to out of place.",
+      "timestamp_abs": "78:36"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But",
+      "timestamp_abs": "78:43"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I provided some slides today on three things, three more things.",
+      "timestamp_abs": "78:44"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But this one,",
+      "timestamp_abs": "78:49"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this one I like today.",
+      "timestamp_abs": "78:52"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want to do this one the day you submit your ICP as a mid-term.",
+      "timestamp_abs": "78:53"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "78:58"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So my planning is, I want to have the first day meeting for all of you so that your ICP already includes that. Even if it's that's not going to be the first part, it's going to be the last part. While having the first meeting experience, you guys can have more insight that ah, this is how the business could look like. In your case, this is how our layout could look like.",
+      "timestamp_abs": "78:59"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "timestamp_abs": "79:21"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "So can I change my partner to the borders in my ICP?",
+      "timestamp_abs": "79:22"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sure.",
+      "timestamp_abs": "79:26"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I need you to change it because it's weird if it says.",
+      "timestamp_abs": "79:26"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Can I add more?",
+      "timestamp_abs": "79:30"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You can add more.",
+      "timestamp_abs": "79:30"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "More?",
+      "timestamp_abs": "79:33"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "79:34"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "You want more?",
+      "timestamp_abs": "79:35"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You have too many people over here.",
+      "timestamp_abs": "79:35"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You have to choose only one.",
+      "timestamp_abs": "79:36"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You only need just one.",
+      "timestamp_abs": "79:37"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You only need just one.",
+      "timestamp_abs": "79:38"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "No, I need just partner.",
+      "timestamp_abs": "79:39"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sure.",
+      "timestamp_abs": "79:40"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I can even remove him.",
+      "timestamp_abs": "79:41"
+    },
+    {
+      "timestamp": "04:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "another.",
+      "timestamp_abs": "79:43"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh.",
+      "timestamp_abs": "79:44"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I did it.",
+      "timestamp_abs": "79:45"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, okay.",
+      "timestamp_abs": "79:46"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Who do you want to add?",
+      "timestamp_abs": "79:46"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Who want to who else do you want to invite to the party?",
+      "timestamp_abs": "79:48"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Is there.",
+      "timestamp_abs": "79:52"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Adri.",
+      "timestamp_abs": "79:53"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Adri?",
+      "timestamp_abs": "79:54"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Adri.",
+      "timestamp_abs": "79:54"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Adri.",
+      "timestamp_abs": "79:55"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I saw they are doing like.",
+      "timestamp_abs": "79:57"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yes.",
+      "timestamp_abs": "79:58"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like, okay.",
+      "timestamp_abs": "79:59"
+    }
+  ]
+}

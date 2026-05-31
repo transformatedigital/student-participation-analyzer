@@ -1,0 +1,22 @@
+{
+  "block": 27,
+  "time_range": "130:00-135:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "Class",
+      "text": "give one or two examples",
+      "timestamp_abs": "130:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "Class",
+      "text": "of what activities you would put in this box and in this box.",
+      "timestamp_abs": "130:02"
+    }
+  ]
+}

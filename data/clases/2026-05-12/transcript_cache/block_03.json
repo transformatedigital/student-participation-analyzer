@@ -1,0 +1,194 @@
+{
+  "block": 3,
+  "time_range": "10:00-15:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is a little bit credible. Maybe maybe here, maybe here the the right keyword should be problem solution partner fit or problem partner fit. This is just an early draft that I tried to bring up and design because I was keep thinking how to better explain to you what we're trying to do here. How to set up a process that will be more clear to you. And then of course here, stop means if this is there is no logic of this of whether this problem and this marriage work, then this collaboration cannot solve this problem. So probably because it cannot solve, we need to stop it. And realistic implementation logic. So again, why are we doing the ICP early on? Because the ICP really force us. It forces us to think this question, how every section is like, ah, okay, how do I? It makes it forces you to think how to make a realistic implementation logic. So don't worry, it's not a linear, if you think about it, in our ICP we already went here. Many we already went until here in the ICP, right? But we're still drafting. So when some of you told me, Professor, can I share this with my boss? I think was you Mega. I said, oh wait, wait, you don't want to share all of it because first we are just imagining how it will be, okay? So you said, yes.",
+      "timestamp_abs": "10:00"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yes, professor. I'm a little bit concerned. From the gate two, uh, we need we that's about solution partner fit. So we should either stop or keep on.",
+      "timestamp_abs": "11:13"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not necessarily.",
+      "timestamp_abs": "11:29"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, but I'm-",
+      "timestamp_abs": "11:30"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, in every gate you either stop or go.",
+      "timestamp_abs": "11:31"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Yeah, yeah, anywhere. But my goal is just about to stop or maybe when maybe from the first view uh, the solution or partner doesn't fit, do you need to revise so that you can make it fit or you just stop if you find that maybe from the first view it's doesn't",
+      "timestamp_abs": "11:33"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, no. This is probably a an iterative process. There is some at some point it will be like, ah, no, no more. For example, he was trying when he I'm going to use you as an example, Arya. At the beginning, Arya thought that the the what was it? Was it for was it knowledge operation management was a problem and then there was a demand. So he kept trying to find out and confirm and he was trying he already developed the ICP almost up to section four, I don't I don't think. And then at some point he's, okay, so I'm going to try to bring a solution. And at some point he said, you know what? We already have a partner. We decided we don't want a partner, we decided we're going to buy a license from Copilot and we're going to use it with Copilot. So at that point, whether he brings a solution, the the solution right now is no longer applicable. And the partner that they want is not a Korean partner. Stop.",
+      "timestamp_abs": "11:55"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Then you can change.",
+      "timestamp_abs": "12:47"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, then he went start back and went started to a new logic, to a new find trying to find a new problem.",
+      "timestamp_abs": "12:48"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Okay, okay. So from there, you stop, then you have to come back from gate one to change first.",
+      "timestamp_abs": "12:54"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's what I'm telling you that I forgot to close the loops here.",
+      "timestamp_abs": "13:01"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yeah, okay. Yeah, now it's clear.",
+      "timestamp_abs": "13:03"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one has needs to close the loop, this one needs to close. I'll fix it for next time.",
+      "timestamp_abs": "13:05"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "Yeah, yeah, it's like uh so, uh, excuse me. So that means there we need to have a partner in Korea. It is like a",
+      "timestamp_abs": "13:08"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The idea is that you become a bridge between your country and Korea. But it doesn't mean that it could be the only partner. You could have a a partner. You could have a partner in like you you could have two partners, a partner from your country and a partner from Korea. Or you could you could make your institution a partner. So it's not only a it's not only a Korean partner, right? It's an international marriage. Okay? But if you're thinking if you found out, for example, like the case of Arya, they found out that the solution the quickest solution was to just buy the license of Microsoft and then that's not that's just a purchase of a license like just a purchase like a vendor kind of relation, right? Which is not what we're trying to do. So, if that's the case, it's better you drop it. You say, okay, that's something if it is something that they can just buy a license, buy like like buying a coffee, right? They just buy that's not the type of project, that's not the type of problem that is worthy enough to develop into a collaboration opportunity.",
+      "timestamp_abs": "13:18"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What type of problem we want to focus on?",
+      "timestamp_abs": "14:20"
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What do you think? What type of I think-",
+      "timestamp_abs": "14:23"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Collaboration. Uh, to me it's like uh it has to be like uh innovation has a part of innovation idea. And then we try to look",
+      "timestamp_abs": "14:26"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "And what is an innovation idea, Mega? What is an innovation idea?",
+      "timestamp_abs": "14:36"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "for uh,",
+      "timestamp_abs": "14:40"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "No, for you, he's saying it has to be a part of an innovation idea. What is an innovation idea?",
+      "timestamp_abs": "14:41"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh,",
+      "timestamp_abs": "14:48"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Any anything could be an innovation idea?",
+      "timestamp_abs": "14:49"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh, no.",
+      "timestamp_abs": "14:52"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "If it is proven.",
+      "timestamp_abs": "14:54"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Uh-huh, but also, what's the key criteria of becoming an innova-",
+      "timestamp_abs": "14:56"
+    }
+  ]
+}

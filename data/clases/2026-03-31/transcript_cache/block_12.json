@@ -1,0 +1,298 @@
+{
+  "block": 12,
+  "time_range": "55:00-60:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "How much is it?",
+      "timestamp_abs": "55:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "Fifty thousand?",
+      "timestamp_abs": "55:01"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "text": "50,000?",
+      "timestamp_abs": "55:02"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "10,000.",
+      "timestamp_abs": "55:03"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, I'm just telling you, 80,000",
+      "timestamp_abs": "55:04"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Plus [inaudible] I will say, 8,000, 8,000 plus students.",
+      "timestamp_abs": "55:06"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "8,000 students.",
+      "timestamp_abs": "55:10"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "And you told me, you need 13 factors?",
+      "timestamp_abs": "55:11"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "13 factors. Yes. Oh, sorry.",
+      "timestamp_abs": "55:13"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I will be asking for",
+      "timestamp_abs": "55:15"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "text": "What is talking about now?",
+      "timestamp_abs": "55:16"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, and you told me",
+      "timestamp_abs": "55:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "He talked about, uh, 100 students.",
+      "timestamp_abs": "55:20"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "100.",
+      "timestamp_abs": "55:23"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, he talked about",
+      "timestamp_abs": "55:24"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "What?",
+      "timestamp_abs": "55:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "He said the number of students are just in the [inaudible]",
+      "timestamp_abs": "55:26"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "In the class?",
+      "timestamp_abs": "55:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, for this class.",
+      "timestamp_abs": "55:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But then he mentioned like over 20 students.",
+      "timestamp_abs": "55:31"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "20 students.",
+      "timestamp_abs": "55:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "55:34"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Then 20 students, so the number of students.",
+      "timestamp_abs": "55:35"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, no, no, no.",
+      "timestamp_abs": "55:37"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I'm sure if he's doing the same thing.",
+      "timestamp_abs": "55:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, no. He was talking about",
+      "timestamp_abs": "55:39"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Let's say 20 in his class.",
+      "timestamp_abs": "55:41"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no. He was talking about the whole university.",
+      "timestamp_abs": "55:43"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yes. Whole university.",
+      "timestamp_abs": "55:45"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But I'm sure I heard him say maybe five hundred students for this room.",
+      "timestamp_abs": "55:46"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This room can have",
+      "timestamp_abs": "55:49"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "This room.",
+      "timestamp_abs": "55:50"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "500.",
+      "timestamp_abs": "55:51"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "More than five hundred.",
+      "timestamp_abs": "55:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "More than five hundred students.",
+      "timestamp_abs": "55:53"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yes.",
+      "timestamp_abs": "55:54"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Is that what he said?",
+      "timestamp_abs": "55:55"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, it's correct.",
+      "timestamp_abs": "55:56"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Okay.",
+      "timestamp_abs": "55:57"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay. You see that, uh",
+      "timestamp_abs": "55:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it's not a question of",
+      "timestamp_abs": "55:59"
+    }
+  ]
+}

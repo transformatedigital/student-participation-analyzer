@@ -1,0 +1,65 @@
+[
+  {
+    "block": 1,
+    "start": 0,
+    "end": 600,
+    "start_time": "00:00",
+    "end_time": "10:00",
+    "duration_seconds": 600,
+    "file": "block_01_00000_00600.m4a"
+  },
+  {
+    "block": 2,
+    "start": 600,
+    "end": 1200,
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "duration_seconds": 600,
+    "file": "block_02_00600_01200.m4a"
+  },
+  {
+    "block": 3,
+    "start": 1200,
+    "end": 1800,
+    "start_time": "20:00",
+    "end_time": "30:00",
+    "duration_seconds": 600,
+    "file": "block_03_01200_01800.m4a"
+  },
+  {
+    "block": 4,
+    "start": 1800,
+    "end": 2400,
+    "start_time": "30:00",
+    "end_time": "40:00",
+    "duration_seconds": 600,
+    "file": "block_04_01800_02400.m4a"
+  },
+  {
+    "block": 5,
+    "start": 2400,
+    "end": 3000,
+    "start_time": "40:00",
+    "end_time": "50:00",
+    "duration_seconds": 600,
+    "file": "block_05_02400_03000.m4a"
+  },
+  {
+    "block": 6,
+    "start": 3000,
+    "end": 3600,
+    "start_time": "50:00",
+    "end_time": "60:00",
+    "duration_seconds": 600,
+    "file": "block_06_03000_03600.m4a"
+  },
+  {
+    "block": 7,
+    "start": 3600,
+    "end": 4164,
+    "start_time": "60:00",
+    "end_time": "69:24",
+    "duration_seconds": 564,
+    "file": "block_07_03600_04164.m4a"
+  }
+]

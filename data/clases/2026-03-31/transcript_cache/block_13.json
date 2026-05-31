@@ -1,0 +1,365 @@
+{
+  "block": 13,
+  "time_range": "60:00-65:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "functionality because when I pay for the service like, for example, let's say online.",
+      "timestamp_abs": "60:00"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to find the right frame in that sense.",
+      "timestamp_abs": "60:08"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, but told us like rather than people down at the fact that I'm talking about problem in the writing itself. No, I'm just trying to give you a hint of what the reality could be so that your has no audience to pay.",
+      "timestamp_abs": "60:11"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Actually, uh, this came from the the comments I wrote up.",
+      "timestamp_abs": "60:25"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. From your",
+      "timestamp_abs": "60:30"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I previously talked about the limited connectivity",
+      "timestamp_abs": "60:32"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And then I also talked about uh infrastructure unit. So,",
+      "timestamp_abs": "60:40"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "uh, based on that, I remember, uh the solution I previously provided was too huge to solve the problem because if basically to cover up connectivity, you cannot come up with the technological, I mean advanced technology tools.",
+      "timestamp_abs": "60:46"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Because the country still has no connectivity, uh, and that's not going to change at all.",
+      "timestamp_abs": "61:05"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, I was thinking that we come up with, uh, uh something that will be, uh, I mean easy, like, uh, can be affordable with the local connectivity.",
+      "timestamp_abs": "61:12"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. I told you, my head always thinking how to make this project happening.",
+      "timestamp_abs": "61:28"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The example I gave to stand up was like this. Have you used Google Docs when when it was not work. Google Docs. Google Docs online?",
+      "timestamp_abs": "61:34"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Have you used Google Docs offline?",
+      "timestamp_abs": "61:43"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Oh my God.",
+      "timestamp_abs": "61:46"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "61:47"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "61:48"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Have you used Google Docs offline?",
+      "timestamp_abs": "61:49"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "Offline?",
+      "timestamp_abs": "61:51"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "61:52"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "From the website or the application?",
+      "timestamp_abs": "61:53"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The app.",
+      "timestamp_abs": "61:57"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Google Docs has all functionality.",
+      "timestamp_abs": "61:59"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, you don't need to think about your solution, nor as I'm trying to say, this.",
+      "timestamp_abs": "62:02"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is important. I want you to learn about this concept future.",
+      "timestamp_abs": "62:07"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Literally.",
+      "timestamp_abs": "62:12"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I told you last time, in order for you don't have roads, we need to stick with a bicycle.",
+      "timestamp_abs": "62:13"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We need to push it saying, maybe we need to bring the first car, so that our country starts really happens.",
+      "timestamp_abs": "62:18"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, sometimes, as I said, you know, there is a technical problem that you cannot solve.",
+      "timestamp_abs": "62:25"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But as a digital leaders, we have to know to push the thing, okay?",
+      "timestamp_abs": "62:30"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, be careful of just settling down. It's not what I want you to do.",
+      "timestamp_abs": "62:34"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want you to fix that, you use the right words for a find appropriate solution for the problem or for the conditions.",
+      "timestamp_abs": "62:39"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But do not limit the functionality because you want the digital future, digital leaders, students of the University of Kinshasa need to be exposed to digital tools.",
+      "timestamp_abs": "62:47"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yes.",
+      "timestamp_abs": "62:56"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the problem is real time solution because not in every place they will have access to the to the infrastructure.",
+      "timestamp_abs": "62:57"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I thought of Google Docs. I thought.",
+      "timestamp_abs": "63:05"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not saying Google Docs is your solution. I'm saying Google Docs is something that you're online you can use all sort of functions for free.",
+      "timestamp_abs": "63:09"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And if you download the app, the Google Drive app into your phone, your tablet, your computer.",
+      "timestamp_abs": "63:19"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And you there's a function you saying available offline or section certain documents you can just like take a content and play online, you need your offline.",
+      "timestamp_abs": "63:24"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Those documents will be ready to adapt, ready to to edit or whatever, and as soon as you're online, the automatically the app will synchronize everything.",
+      "timestamp_abs": "63:35"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, the solution we are looking for in terms of you is something like that, something that has a full sort of functionalities once I'm online.",
+      "timestamp_abs": "63:47"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But probably gives me a limited, but a limited interface.",
+      "timestamp_abs": "63:56"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When I am moving in the calls, or I mean the campus far away from somewhere that has Wi-Fi or when my changing is training, okay?",
+      "timestamp_abs": "64:03"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Hello, professor. Uh,",
+      "timestamp_abs": "64:12"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "text": "the the the technical, isn't it should be put in the problem statement or in the and in the requirement solution, I think.",
+      "timestamp_abs": "64:14"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, yeah, yeah, but in this stage.",
+      "timestamp_abs": "64:22"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I speak as he started talking about that time.",
+      "timestamp_abs": "64:24"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Ah, okay.",
+      "timestamp_abs": "64:27"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And point to train me. He said, uh, I he was trying to introduce, and I'm saying that in the case of Grace when I'm talking about mobile first learning management system.",
+      "timestamp_abs": "64:28"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, definitely I agree with you with the major because probably people use much more their mobile than probably what everybody has nowadays.",
+      "timestamp_abs": "64:40"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's another issue. So that",
+      "timestamp_abs": "64:49"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the initial device that we're looking at students are probably managing their homework from their phones or tablets rather than a laptop or a PC.",
+      "timestamp_abs": "64:51"
+    }
+  ]
+}

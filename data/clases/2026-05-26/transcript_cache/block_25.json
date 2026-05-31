@@ -1,0 +1,27 @@
+{
+  "block": 25,
+  "time_range": "120:00-125:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "nological solutions. So it's kind of a,",
+      "timestamp_abs": "120:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "um,",
+      "timestamp_abs": "120:02"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "top-down, bottom-up. Top-down, bottom-up approach.",
+      "timestamp_abs": "120:03"
+    }
+  ]
+}

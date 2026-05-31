@@ -1,0 +1,132 @@
+{
+  "block": 30,
+  "time_range": "145:00-150:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "platforms. Uh-huh. And you only that was only a desk level because I remember you added it in the ICP, uh-huh.",
+      "timestamp_abs": "145:00"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yeah, I mentioned them.",
+      "timestamp_abs": "145:05"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "145:06"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "And then I also found one uh this is the project of Samsung, we call Samsung SDS.",
+      "timestamp_abs": "145:07"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "145:16"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "I work for the company.",
+      "timestamp_abs": "145:17"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yeah, so also they they have really technical skill in implementing like",
+      "timestamp_abs": "145:18"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "different apps.",
+      "timestamp_abs": "145:23"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, yeah, they have yeah, they have they used to have now no anymore.",
+      "timestamp_abs": "145:24"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They used to have the the education campus, yes, the online education campus, mostly campus they call it. Yeah.",
+      "timestamp_abs": "145:27"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yeah, actually",
+      "timestamp_abs": "145:32"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "they also involved in that.",
+      "timestamp_abs": "145:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "So I believe that they can also uh uh part of like as a technical partner like uh in uh implementing uh",
+      "timestamp_abs": "145:34"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you meet Samsung SDS right now, they'll say, no, thank you very much.",
+      "timestamp_abs": "145:43"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They are not doing that business anymore.",
+      "timestamp_abs": "145:46"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "text": "Ah, no?",
+      "timestamp_abs": "145:47"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They're not into that particular.",
+      "timestamp_abs": "145:48"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "145:49"
+    }
+  ]
+}

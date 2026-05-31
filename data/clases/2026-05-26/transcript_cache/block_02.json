@@ -1,0 +1,949 @@
+{
+  "block": 2,
+  "time_range": "05:00-10:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "over different",
+      "timestamp_abs": "05:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, that's true. I can",
+      "timestamp_abs": "05:02"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "that's why I came to that conclusion.",
+      "timestamp_abs": "05:05"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "05:07"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "So how did you, how did you get to that?",
+      "timestamp_abs": "05:08"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Based on my research, when I realized that most of the research done in different areas of the country",
+      "timestamp_abs": "05:10"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "is not getting to the public or private sectors for proper implementation and commercialization, so I felt that uh for we to achieve",
+      "timestamp_abs": "05:15"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "that we have to streamline our and the processes so that every research we conduct can be of benefit to the society.",
+      "timestamp_abs": "05:22"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "05:27"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, you know, it's uh, this is what I was trying to tell you.",
+      "timestamp_abs": "05:28"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I need to confirm if you guys read my feedback again or not.",
+      "timestamp_abs": "05:31"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because there's an issue with the technology in the problem description, okay?",
+      "timestamp_abs": "05:34"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I, I have explained that.",
+      "timestamp_abs": "05:38"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "So, what did you learn?",
+      "timestamp_abs": "05:41"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because that's what, that's what I said to you in my feedback.",
+      "timestamp_abs": "05:43"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Chilaka, did you read that comment?",
+      "timestamp_abs": "05:46"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "05:48"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "So, why did you change the problem definition?",
+      "timestamp_abs": "05:49"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "And now the problem is not technology anymore. What did you learn?",
+      "timestamp_abs": "05:51"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because I want you to read it out loud here so the whole class can learn.",
+      "timestamp_abs": "05:54"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "When I saw the problem, I noticed that the problem was not related to the technology itself.",
+      "timestamp_abs": "05:57"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "It was more about the fragmentation of the research and development.",
+      "timestamp_abs": "06:01"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Because as I stated that the research",
+      "timestamp_abs": "06:04"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "in that area is not getting to the users for proper commercialization.",
+      "timestamp_abs": "06:06"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, so it's a lack of governance issue.",
+      "timestamp_abs": "06:10"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "06:12"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a lack of an institutional issue.",
+      "timestamp_abs": "06:13"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "06:15"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a lack of uh funding issues.",
+      "timestamp_abs": "06:16"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "06:19"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And that's also something that I want to tell to the whole class.",
+      "timestamp_abs": "06:20"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When you're trying to solve a problem, you know, we always think that we can solve the problem by creating more technology.",
+      "timestamp_abs": "06:23"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And that's the most common problem and the most common assumption that we engineers have.",
+      "timestamp_abs": "06:28"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The other thing is that we believe that there's always a solution for everything.",
+      "timestamp_abs": "06:33"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And there might not be a solution from the problem that you are posing.",
+      "timestamp_abs": "06:37"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or there might be already a solution, but it's not being implemented.",
+      "timestamp_abs": "06:40"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because of a lack of governance, a lack of funding.",
+      "timestamp_abs": "06:43"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "A lack of a proper, you know,",
+      "timestamp_abs": "06:45"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "political framework or a policy.",
+      "timestamp_abs": "06:47"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I want you to remember that.",
+      "timestamp_abs": "06:49"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And that's why, you know, I always tell you, break your assumptions, break your assumptions.",
+      "timestamp_abs": "06:51"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it might not be a technology problem that you are trying to solve.",
+      "timestamp_abs": "06:55"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It might be something else.",
+      "timestamp_abs": "06:59"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this is a good example of that.",
+      "timestamp_abs": "07:01"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, that's what I want all of you to learn.",
+      "timestamp_abs": "07:04"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want you to be very critical with the problem definition that you have.",
+      "timestamp_abs": "07:07"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And even though sometimes we don't have enough time, that's why, you know,",
+      "timestamp_abs": "07:12"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I push you to, you know, be in contact with your TAs with, you know, other things.",
+      "timestamp_abs": "07:17"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because there's a lot of things that we still need to learn.",
+      "timestamp_abs": "07:22"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, Chilaka, thank you for clarifying that.",
+      "timestamp_abs": "07:25"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mean,",
+      "timestamp_abs": "07:29"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that you are now,",
+      "timestamp_abs": "07:30"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you know, in tune with that, that's that's very important.",
+      "timestamp_abs": "07:31"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "07:34"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Thank you.",
+      "timestamp_abs": "07:35"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "So, it was not that bad, right?",
+      "timestamp_abs": "07:36"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "No, it wasn't.",
+      "timestamp_abs": "07:38"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "07:39"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Who's next?",
+      "timestamp_abs": "07:40"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Aryang?",
+      "timestamp_abs": "07:41"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Do you want to go?",
+      "timestamp_abs": "07:42"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "07:43"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let's go.",
+      "timestamp_abs": "07:44"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let's start.",
+      "timestamp_abs": "07:45"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[clears throat]",
+      "timestamp_abs": "07:46"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Do you need help with the share screen or you're good?",
+      "timestamp_abs": "07:47"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, no. I'm good.",
+      "timestamp_abs": "07:49"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "07:50"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let's start.",
+      "timestamp_abs": "07:51"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tell us.",
+      "timestamp_abs": "07:52"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Your problem.",
+      "timestamp_abs": "07:53"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "What was your problem?",
+      "timestamp_abs": "07:54"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I'm going to pull up my document.",
+      "timestamp_abs": "07:56"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "07:58"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let me see if I can also pull up my document.",
+      "timestamp_abs": "07:59"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will have it ready.",
+      "timestamp_abs": "08:00"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "08:01"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "08:02"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "08:03"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So.",
+      "timestamp_abs": "08:04"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "The main problem that I identified was the lack of access to.",
+      "timestamp_abs": "08:05"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Reliable and quality education in developing countries.",
+      "timestamp_abs": "08:08"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "And especially for the female students.",
+      "timestamp_abs": "08:12"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Mhm.",
+      "timestamp_abs": "08:14"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh, then.",
+      "timestamp_abs": "08:15"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "After that, I made a change because you said that the problem cannot be lack of something.",
+      "timestamp_abs": "08:16"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Mhm.",
+      "timestamp_abs": "08:21"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So, it has to be a problem which itself is a problem.",
+      "timestamp_abs": "08:22"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Mhm.",
+      "timestamp_abs": "08:26"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So, after that, I changed my problem to existing inequalities in access to education.",
+      "timestamp_abs": "08:27"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Okay. Tell me more about that.",
+      "timestamp_abs": "08:33"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "What did you learn?",
+      "timestamp_abs": "08:35"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So, the existing inequality in access to education is basically.",
+      "timestamp_abs": "08:36"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "When students, especially female students,",
+      "timestamp_abs": "08:39"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "they don't have access to quality education or reliable education.",
+      "timestamp_abs": "08:42"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Because there are schools, but they are lacking resources.",
+      "timestamp_abs": "08:46"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "They are lacking the quality in education because they don't have proper teachers.",
+      "timestamp_abs": "08:49"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Or the teachers are not skilled enough to train the students.",
+      "timestamp_abs": "08:52"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Or if they have the resources, they don't have the transportation.",
+      "timestamp_abs": "08:55"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So it's still about the lack of access.",
+      "timestamp_abs": "08:58"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Okay. What else did you learn?",
+      "timestamp_abs": "09:00"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because I mean,",
+      "timestamp_abs": "09:02"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "what I told you is to not just replace the term \"lack of\" by another term,",
+      "timestamp_abs": "09:03"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "but really go deeper into that.",
+      "timestamp_abs": "09:07"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So, it's still, it's still that, right?",
+      "timestamp_abs": "09:09"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So what else did you learn?",
+      "timestamp_abs": "09:12"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because you changed the word, but not the problem.",
+      "timestamp_abs": "09:13"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "09:15"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the problem is not about the inequalities in access to education.",
+      "timestamp_abs": "09:16"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It is something else.",
+      "timestamp_abs": "09:20"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "What did you learn about that?",
+      "timestamp_abs": "09:22"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So there are different problems in that.",
+      "timestamp_abs": "09:24"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Mhm.",
+      "timestamp_abs": "09:26"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So, it's not a direct problem itself.",
+      "timestamp_abs": "09:27"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "It's like, uh, so the, the main cause of the problem is.",
+      "timestamp_abs": "09:30"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "A lot of things, for example,",
+      "timestamp_abs": "09:33"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "uh, some, for example, the culture.",
+      "timestamp_abs": "09:35"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Mhm.",
+      "timestamp_abs": "09:37"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "The culture where the students are not allowed to go out.",
+      "timestamp_abs": "09:38"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Or they don't have the transportation.",
+      "timestamp_abs": "09:40"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Or if they have the transportation and they go to schools,",
+      "timestamp_abs": "09:42"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "they don't have the proper teachers or they don't have the proper resources.",
+      "timestamp_abs": "09:44"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So there are many problems which are contributing to the lack of access.",
+      "timestamp_abs": "09:48"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "09:51"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "09:52"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So.",
+      "timestamp_abs": "09:53"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Those are the causes.",
+      "timestamp_abs": "09:54"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Right?",
+      "timestamp_abs": "09:55"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Those are the causes.",
+      "timestamp_abs": "09:56"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "09:57"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "09:58"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So, what's the problem?",
+      "timestamp_abs": "09:59"
+    }
+  ]
+}

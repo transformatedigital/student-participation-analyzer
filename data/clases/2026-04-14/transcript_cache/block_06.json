@@ -1,0 +1,83 @@
+{
+  "block": 6,
+  "time_range": "25:00-30:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "the first is actually this is the the issue is coming from the Ministry of uh, Energy and Human Energy and Natural Resources.",
+      "timestamp_abs": "25:00"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And it is the national level issue and involving a major solar plant, which is the PLN and also the PLN renewable energy. So, uh, I was wondering if it would be difficult to coordination with the with them.",
+      "timestamp_abs": "25:11"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And the second is, um, my research my friends, my colleague, uh, already contact the Chirata renewable",
+      "timestamp_abs": "25:28"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Chirata PLN renewable, and uh, they already have a meeting and but uh, the PLN, the Chirata PLN cannot, uh, doesn't have authority for collaborations. So the approval must come from the PLN headquarters. So, uh, I have a friend in the PLN headquarters. So now, um, I'm still internal coordinating with the PLN headquarter. Um,",
+      "timestamp_abs": "25:40"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "but I don't know, um, because after I met with the uh, Kisti, we have to make an official letter from the highest positions, uh, in in here, in the in the ministry or agency or the on on, uh, company.",
+      "timestamp_abs": "26:12"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So, uh, for me, the first barrier is for the uh, administrative procedure that we have to make it.",
+      "timestamp_abs": "26:31"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm, mhm, mhm, mhm, mhm.",
+      "timestamp_abs": "26:38"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I get it.",
+      "timestamp_abs": "26:40"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And then the last uh, is maybe funding, but I don't know. Maybe sometimes PLN has a lot of the money, the budget.",
+      "timestamp_abs": "26:41"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Um, maybe they can pay it, but, uh, the first barrier is, uh, to make an, um, administrative.",
+      "timestamp_abs": "26:50"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "timestamp_abs": "26:59"
+    }
+  ]
+}

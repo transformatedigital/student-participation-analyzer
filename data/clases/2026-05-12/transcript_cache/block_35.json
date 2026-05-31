@@ -1,0 +1,286 @@
+{
+  "block": 35,
+  "time_range": "170:00-175:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Okay. Uh, Aryang, you are starting the timer, no? Or someone else?",
+      "timestamp_abs": "170:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, I'm starting.",
+      "timestamp_abs": "170:04"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, uh, I'll, I'll, I'll start the class and then I'll ask you to, uh, do the sharing.",
+      "timestamp_abs": "170:05"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Sure.",
+      "timestamp_abs": "170:09"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Good. Uh, good morning, class. Uh, hope you all are having a wonderful, uh, morning today.",
+      "timestamp_abs": "170:10"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, um, today we are going to dive into a very important and insightful topic.",
+      "timestamp_abs": "170:16"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That is data visualization.",
+      "timestamp_abs": "170:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So I want to ask one question to all of you, like, what do you think data visualization is?",
+      "timestamp_abs": "170:20"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "I think data visualization is a graphical representation of data.",
+      "timestamp_abs": "170:25"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, nice. Okay. So, uh, okay, good.",
+      "timestamp_abs": "170:28"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "I think data visualization is the representation of data in a picture or chart format to enable people to easily understand what the data is trying to communicate.",
+      "timestamp_abs": "170:31"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, that's, that's a brilliant answer, Grace. Yeah. So it's, uh, very important to understand what a data visualization means.",
+      "timestamp_abs": "170:36"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And as Grace very well articulated,",
+      "timestamp_abs": "170:39"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "it's basically taking up the raw data and then converting it into some kind of visual format.",
+      "timestamp_abs": "170:41"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "That's right. And why do we do that?",
+      "timestamp_abs": "170:44"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "To help us to get a quick summary and insight from the data rather than going through the raw data itself.",
+      "timestamp_abs": "170:46"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's right. That's a perfect answer, Step. Yeah. It's, uh, when we are looking at the huge, uh, huge data sets,",
+      "timestamp_abs": "170:50"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "it's really difficult for us to, uh, absorb the information",
+      "timestamp_abs": "170:54"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and get insights from that, right? Uh, but if we have charts and graphs and pictures that's going to make our life much more easier.",
+      "timestamp_abs": "170:56"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "That's right. And why do we need that in a presentation format?",
+      "timestamp_abs": "170:59"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "To give the audience a clearer and more concise understanding of the data at a glance, allowing them to quickly grasp key insights and trends without having to delve into the raw data.",
+      "timestamp_abs": "171:01"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's, that's beautiful. That's perfect, Mega. Yeah. So you all are absolutely correct.",
+      "timestamp_abs": "171:06"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When we are presenting data to an audience, we have to keep it very concise.",
+      "timestamp_abs": "171:08"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We have to ensure that they are getting the gist of the story that the data is trying to communicate, right?",
+      "timestamp_abs": "171:11"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, uh, so let's start today's discussion",
+      "timestamp_abs": "171:14"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and, uh, before we start today's discussion on data visualization, I want to ask another question to all of you.",
+      "timestamp_abs": "171:17"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Like, what is that one thing that actually makes a compelling presentation?",
+      "timestamp_abs": "171:21"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What are the key elements of a compelling presentation?",
+      "timestamp_abs": "171:23"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Clarity. You have to be very clear with what you're trying to present to the audience.",
+      "timestamp_abs": "171:25"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right. So clarity is the key. Yeah.",
+      "timestamp_abs": "171:29"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "The ability to capture the audience's attention and tell a story that they can relate with.",
+      "timestamp_abs": "171:31"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So engaging your audience and telling a story that's very important.",
+      "timestamp_abs": "171:35"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Yes. Aryang. What do you think?",
+      "timestamp_abs": "171:38"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I think a compelling presentation would be one that is well-structured, easy to follow, and engaging, so that it can provide valuable insights and information to the audience.",
+      "timestamp_abs": "171:40"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Absolutely. That's, that's super helpful. Aryang, thank you. So, when we talk about well-structured and engaging, that's very important.",
+      "timestamp_abs": "171:46"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because sometimes when we are making presentations, we are just putting in information, right?",
+      "timestamp_abs": "171:50"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We are putting a lot of content in it, but we are not structuring it properly.",
+      "timestamp_abs": "171:53"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So a proper structure, having a proper flow, and as Grace also mentioned, telling a story, that's super important.",
+      "timestamp_abs": "171:56"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? So today we are going to delve into",
+      "timestamp_abs": "171:59"
+    }
+  ]
+}

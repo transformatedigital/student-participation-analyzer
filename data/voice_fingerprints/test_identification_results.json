@@ -1,0 +1,23 @@
+{
+  "model": "Voice Fingerprinting Identification v1.0",
+  "timestamp": "2026-04-29",
+  "note": "Ileana con doble validaci\u00f3n (2 muestras) por dominancia en grabaciones",
+  "test_blocks": 3,
+  "results": [
+    {
+      "block": "block_01_00000_00300.m4a",
+      "speaker": "Ileana",
+      "confidence": 59.72216393740358
+    },
+    {
+      "block": "block_02_00300_00600.m4a",
+      "speaker": "Sthepen",
+      "confidence": 70.48031951837277
+    },
+    {
+      "block": "block_03_00600_00900.m4a",
+      "speaker": "Ileana",
+      "confidence": 37.22505857771016
+    }
+  ]
+}

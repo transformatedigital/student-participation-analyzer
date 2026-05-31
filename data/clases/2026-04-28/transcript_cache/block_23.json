@@ -1,0 +1,528 @@
+{
+  "block": 23,
+  "time_range": "110:00-115:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and version four our internal.",
+      "timestamp_abs": "110:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay?",
+      "timestamp_abs": "110:02"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that the for director we will show only part one and two.",
+      "timestamp_abs": "110:03"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "110:08"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "110:09"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thank you very much, guys.",
+      "timestamp_abs": "110:24"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Very interesting class.",
+      "timestamp_abs": "110:26"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "110:28"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Please make sure everybody's file is version 4, in your case, version 4, 4 and brackets for director, version 4, okay?",
+      "timestamp_abs": "110:39"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "I do 3.1.",
+      "timestamp_abs": "110:50"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In your case is doc file.",
+      "timestamp_abs": "110:51"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "doc file.",
+      "timestamp_abs": "110:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So she can make some comments.",
+      "timestamp_abs": "110:53"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "you can upload",
+      "timestamp_abs": "110:54"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No PDF.",
+      "timestamp_abs": "110:55"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No PDF. Version 4. May 8.",
+      "timestamp_abs": "110:55"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Or may 8.",
+      "timestamp_abs": "110:57"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And if you have some tweaks for our meeting we can do it.",
+      "timestamp_abs": "110:58"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Okay, May 8.",
+      "timestamp_abs": "111:00"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you have something that you don't wanna show to. You have until 8 p.m.",
+      "timestamp_abs": "111:01"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "111:04"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sorry.",
+      "timestamp_abs": "111:05"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you want, if you can give me her name for the director. For example, she, she wants a version that she will share to her director.",
+      "timestamp_abs": "111:06"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "111:07"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I told her don't include the rest of the details, just the initial part, just to share with her director. Because the rest of it is just our internal how we will try to organize the business, but still it's very early draft, right?",
+      "timestamp_abs": "111:11"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, so I can put like because this is our institutional",
+      "timestamp_abs": "111:24"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, be confidential about it, about it. Yes. Write it, write it. Or you can",
+      "timestamp_abs": "111:30"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "No, I mean, I can put it as my background.",
+      "timestamp_abs": "111:33"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "It's okay.",
+      "timestamp_abs": "111:35"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or you can put a watermark confidential also.",
+      "timestamp_abs": "111:36"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, thank you.",
+      "timestamp_abs": "111:39"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "So, professor, I thought today is the the version four.",
+      "timestamp_abs": "111:41"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, now you change it. Great, thank you.",
+      "timestamp_abs": "111:47"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "111:49"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, for Kier and for Kepco you did two.",
+      "timestamp_abs": "111:49"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "You did two.",
+      "timestamp_abs": "111:51"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Nice. Oh, okay, okay, okay. You changed it slightly.",
+      "timestamp_abs": "111:52"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "111:54"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "You changed it slightly?",
+      "timestamp_abs": "111:55"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes, only only the the title.",
+      "timestamp_abs": "111:56"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Only the title?",
+      "timestamp_abs": "111:58"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "111:59"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, then no need to double. Just in the title, write it. For Kepco, this, for Kier. Because then eventually I, when I review it, I don't need to open two files.",
+      "timestamp_abs": "112:00"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "112:11"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because I, I wanna if I read the file, I would think it's a different file, but actually if it's only the title, just in write the title option for Kepco, title option for like that.",
+      "timestamp_abs": "112:11"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Yeah, but I also",
+      "timestamp_abs": "112:20"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Sorry.",
+      "timestamp_abs": "112:25"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Yeah, I consulted with Chilaka, so, uh, maybe and the Kepco with as I write a specific for Kepco, KDN.",
+      "timestamp_abs": "112:30"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "So I may",
+      "timestamp_abs": "112:42"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, so it has some changes.",
+      "timestamp_abs": "112:42"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "112:44"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "112:46"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "But only for the potential Korean partners.",
+      "timestamp_abs": "112:46"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Then how about we do this, Mega?",
+      "timestamp_abs": "112:50"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Do one for your director that doesn't have anything about the Korean partners. Do not confuse her.",
+      "timestamp_abs": "112:51"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Mmm.",
+      "timestamp_abs": "112:57"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For your for your because for your anyway, ah, section two includes that. Then for your director, let's merge it.",
+      "timestamp_abs": "112:58"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "113:04"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because for your director, she needs to know what are the potential partners, okay?",
+      "timestamp_abs": "113:04"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "113:07"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So maybe you wanna merge it into one.",
+      "timestamp_abs": "113:08"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For now, I think it's better to merge it. Because right now in your case we're not gonna, yeah, merging it is better. That's my short answer.",
+      "timestamp_abs": "113:11"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Merging it is better.",
+      "timestamp_abs": "113:19"
+    },
+    {
+      "timestamp": "03:20",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "text": "Merge from uh, uh, for",
+      "timestamp_abs": "113:20"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Kepco and KDN in one file. Only one file. It's okay to show to Kepco that we also considered Kier. It's okay to show to KDN that we also considered Kier.",
+      "timestamp_abs": "113:21"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "So I, I, I write both.",
+      "timestamp_abs": "113:30"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Both.",
+      "timestamp_abs": "113:32"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "113:32"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Make it one, merge it.",
+      "timestamp_abs": "113:33"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Make it one. Yeah.",
+      "timestamp_abs": "113:34"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "113:35"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's more easy for you to handle, and at this stage, since we are still, we are going to refigure, at this stage, many of the writings was strongly hinting to BSS, but now no. Maybe no, right? We are now going to hint it towards the right business model, or I don't know how we're going to hint it, right? So,",
+      "timestamp_abs": "113:36"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? We're going to slightly shift the problem focus.",
+      "timestamp_abs": "113:54"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Before the problem focus.",
+      "timestamp_abs": "113:58"
+    }
+  ]
+}

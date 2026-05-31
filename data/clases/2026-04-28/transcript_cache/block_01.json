@@ -1,0 +1,148 @@
+{
+  "block": 1,
+  "time_range": "00:00-05:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "video just, for me it's more important that I know what is the lightest one. So version three I'm reviewing. So I knew in your case what to update because you did the right label, but in your case I didn't. In your case, nothing was there. So,",
+      "timestamp_abs": "00:00"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I know K was very the PDF, but I couldn't have the the docx version, okay?",
+      "timestamp_abs": "00:11"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The other thing is,",
+      "timestamp_abs": "00:17"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "while I reviewed it,",
+      "timestamp_abs": "00:19"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Do you know in Korean what does this means? It means I entered into the self-reflection mode as a professor.",
+      "timestamp_abs": "00:22"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I started thinking, ah, this guys are still having, you improved a lot. I must say, you were very great improvements from the version one until version three. It's amazing. Very good improvement in terms of how complete and how professional is looking.",
+      "timestamp_abs": "00:32"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But when I see uh the overall document, not just the beginning part. I can feel that some of you still have logical jumps. And this is very important. This is not related to ICP or to the global commercialization.",
+      "timestamp_abs": "00:46"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's related to why you guys came to Korea and why you guys wants to want to be masters or PhDs.",
+      "timestamp_abs": "01:02"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "01:08"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I think and that's why when I entered the class, the first thing I was going to tell you was, I I did my PhD before the AI era.",
+      "timestamp_abs": "01:09"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I had to learn through just papers and like really dig in to find whatever I wanted to find because there was nothing nobody I could chat who could give me really good hints or very customized hints to my problem.",
+      "timestamp_abs": "01:19"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And that was hard, but I thought also these days, one of the biggest challenges you guys have is that because the tools are so great and they will write and prove read and prove write everything in English in a very nice English and even it will structure logically better your thoughts, even better than you guys do it.",
+      "timestamp_abs": "01:33"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Our brains become lazier and lazier. Same as we used to know a lot of phone numbers in our memory, maybe you are younger, but I used to know a lot of phone numbers by heart. Now I don't even know my husband's phone number.",
+      "timestamp_abs": "01:48"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "01:59"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So same, right? We are we get lazy. So the reason why I did this is because it's easy to write and keep having your word document and update it and talk to any AI and improve. But sometimes in our heart to we really like I I got the feeling some of your documents, I'm like, is this student really digesting what his problem? What the real problem is about? And what what when I say problem, what is problem? What is the concept of problem? When I'm telling you about the global commercialization problem.",
+      "timestamp_abs": "02:01"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I can I got the feeling, ah, I need to go back to basics with you guys. I need to go back because I thought, ah, remember today or or our agenda was to do the frameworks, right? The the frameworks on global commercialization. But when I read the ICPs, I thought, I cannot jump to start talking about MVPs and market development and technology readiness, when I get the feeling that you guys are still not really clear about what is what is a problem and how to describe a problem and and what are the difference between the root cause of that problem and the the possible solutions for the possible symptoms that that that problem is is giving me and therefore how to connect it logically. So I thought, we have to go a little bit back. And then on the other hand, I had a meeting with our office, our global commercialization office, and we were starting we were discussing about starting to plan the next semester. I remember you guys are kind of our guinea pigs, because you're the first batch, right? So, you're not our guinea pigs, but you're the first batch. So we are testing and and proving our hypothesis of on how to run this program from now on in terms of technological commercialization journey. And so I told that we were discussing that what is going to be the next course. So the course that follows this course is going to be another course that I told you it's like a capstone project design kind of course, right? So the idea is that you start fulfilling some milestones of projects of the project you design in this course.",
+      "timestamp_abs": "02:31"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Of course, it's not a linear process as I told you. It's a very iterative process. It's not like you can design the project and say, okay, everything the stakeholder are going to be ready, my body's going to be ready to sign when I say so. It's not going to be like that, right? So we're going to go try and error, trial and error, maybe pivot back to a new topic like that. But in general, we have to prepare you so that in the next course you have some milestones to complete.",
+      "timestamp_abs": "04:01"
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I was really I I went to self-reflection mode all this week saying, ah, I need to help them structure a very well argumentative and very well-founded and as I told you this semester is about demand verification.",
+      "timestamp_abs": "04:23"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So although many of you have already contacted and I could see in the ICP a lot of the efforts that you attached of the chats or the Zoom meetings and that. I can see you guys are really digging in in your houses.",
+      "timestamp_abs": "04:39"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I worry that and this is something I met Raun, I told you last week I met Raun the company of the security, actually they might",
+      "timestamp_abs": "04:51"
+    }
+  ]
+}

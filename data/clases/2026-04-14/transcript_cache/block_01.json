@@ -1,0 +1,315 @@
+{
+  "block": 1,
+  "time_range": "00:00-05:00",
+  "utterances": [
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Can you hear me?",
+      "timestamp_abs": "01:23"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "[inaudible] can you hear me?",
+      "timestamp_abs": "01:24"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "can you hear me?",
+      "timestamp_abs": "01:26"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "01:30"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "01:31"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "01:32"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "There's a little bit of delay but uh, yeah, we can we can see you perfectly. Yeah.",
+      "timestamp_abs": "01:33"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "01:38"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "How about the audio? You can hear me well?",
+      "timestamp_abs": "01:39"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Yes, we can.",
+      "timestamp_abs": "01:46"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, we can. There's a bit of delay.",
+      "timestamp_abs": "01:46"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh.",
+      "timestamp_abs": "01:48"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Can you repeat please?",
+      "timestamp_abs": "01:49"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Can you hear me well? I can say I I can understand that there's a delay when you when I speak.",
+      "timestamp_abs": "01:52"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "It was just a little bit of delay, but you if you continue talking I think is uh we can hear you, we can understand you.",
+      "timestamp_abs": "01:59"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, okay.",
+      "timestamp_abs": "02:07"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm I might change my my headphones settings. Maybe that's better.",
+      "timestamp_abs": "02:08"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is that better?",
+      "timestamp_abs": "02:12"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "I think it's better.",
+      "timestamp_abs": "02:15"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I think it's better.",
+      "timestamp_abs": "02:15"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All right, great.",
+      "timestamp_abs": "02:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm also going to change my internet to see if there's some more fast internet.",
+      "timestamp_abs": "02:17"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thank you so much and sorry for the waiting.",
+      "timestamp_abs": "02:24"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I I understand you guys started discussing but um",
+      "timestamp_abs": "02:25"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I'm not sure I'm interrupting.",
+      "timestamp_abs": "02:30"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is the audio better now? I changed my internet settings.",
+      "timestamp_abs": "02:32"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Yes, yes.",
+      "timestamp_abs": "02:37"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Better.",
+      "timestamp_abs": "02:37"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay, great.",
+      "timestamp_abs": "02:39"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So as I was saying, um, thank you so much and I'm so sorry for all the changes, sudden changes in our lecture today.",
+      "timestamp_abs": "02:40"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, I would like to apologize because I had a very sudden emergency with my kid yesterday, um, we were on the ER and it's been crazy.",
+      "timestamp_abs": "02:47"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I was um, I had a very important meeting with a specialist professor in neurology and pediatrics. So in Korea, the professors in the Korean hospitals are very busy these days, so it's very hard to get this kind of appointment, so I could not be in Dejon today.",
+      "timestamp_abs": "02:54"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, so thanks to the help of Cesar, we got this very, very IT enabled room where I can see you guys and we can try to uh keep on with our class as as as as active as always, even if I'm not there.",
+      "timestamp_abs": "03:12"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, I also prepared the Mirror board, which I guess with the back blackboard, uh already Cesar was sharing with you guys.",
+      "timestamp_abs": "03:27"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, I have the link, so Cesar, if you can share the Miro link,",
+      "timestamp_abs": "03:35"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "um, the Miro board link, or I will share with you another Miro link so that everybody can enter the Miro directly.",
+      "timestamp_abs": "03:39"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You don't need to wait until the blackboard. If you guys all have your laptops there, you can start writing your issues and then just share with the class.",
+      "timestamp_abs": "03:45"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think one of the before doing the pitching, because today the idea was that everybody will do the five to ten minute pitch.",
+      "timestamp_abs": "03:54"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I just thought it would be really good to just like put up in the table what challenges we are having, what are the difficulties, so that you guys can lessen your burden, lessen your nervous, uh, system in terms of, okay, definitely you don't have a product, you don't have a project in place.",
+      "timestamp_abs": "04:01"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a process that we're like trying to cook this project and some of you already chop some vegetables and put it into a soup, some of you are still just picking the ingredients of the vegetables or the meat or the type of ingredient that will go into the menu.",
+      "timestamp_abs": "04:17"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's what this course is about. So I don't I don't want you to be very pressured about, ah, I have to do a pitch, but I don't really have a topic yet, or I don't really have a project yet.",
+      "timestamp_abs": "04:33"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Actually, I want especially those of you who still are like resetting your project, um, I want to see the brainstorming, the the effort, the the the talking, the how you're doing on on uh the the sincere effort that you're doing to build up a real project.",
+      "timestamp_abs": "04:41"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's more important than",
+      "timestamp_abs": "04:58"
+    }
+  ]
+}

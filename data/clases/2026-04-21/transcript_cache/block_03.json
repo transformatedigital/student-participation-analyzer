@@ -1,0 +1,559 @@
+{
+  "block": 3,
+  "time_range": "10:00-15:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "really the one like the special permission possible.",
+      "timestamp_abs": "10:00"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay.",
+      "timestamp_abs": "10:03"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But then that's why at your level",
+      "timestamp_abs": "10:04"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "what I wonder is, technically speaking, just technologically speaking, not technically, technologically speaking.",
+      "timestamp_abs": "10:06"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "If we were to do this solution, who is the who will operate the solution?",
+      "timestamp_abs": "10:13"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "NIDA or teleco?",
+      "timestamp_abs": "10:19"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Teleco.",
+      "timestamp_abs": "10:21"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Teleco, right?",
+      "timestamp_abs": "10:22"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay. So if the teleco will operate it, the teleco will buy it, or will they get it?",
+      "timestamp_abs": "10:23"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, we buy.",
+      "timestamp_abs": "10:28"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Buy or get it. Initially, how by the inventory they don't obtain the inventory, right?",
+      "timestamp_abs": "10:29"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the rules on how to do it and how to operate it will be designed by NIDA and probably this coder.",
+      "timestamp_abs": "10:36"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "It is so.",
+      "timestamp_abs": "10:43"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So what is your role then? You provide the",
+      "timestamp_abs": "10:45"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "For us, for us",
+      "timestamp_abs": "10:47"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "we we connect",
+      "timestamp_abs": "10:48"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "because if they are doing the SIM card registration,",
+      "timestamp_abs": "10:51"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "we have integration with team.",
+      "timestamp_abs": "10:54"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Teleco and NIDA.",
+      "timestamp_abs": "10:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "You have an integration contract with NIDA?",
+      "timestamp_abs": "10:59"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh uh, yeah, yeah.",
+      "timestamp_abs": "11:01"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And then now after integrating with the with the AI chip.",
+      "timestamp_abs": "11:02"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "After getting the the the the the the score, they need to take the client.",
+      "timestamp_abs": "11:09"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They need to now to come back to us.",
+      "timestamp_abs": "11:14"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They have a CA. This CA report.",
+      "timestamp_abs": "11:17"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Report.",
+      "timestamp_abs": "11:19"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So that's why we said.",
+      "timestamp_abs": "11:20"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And they probably report here back.",
+      "timestamp_abs": "11:21"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "And the report back. Yeah, yeah.",
+      "timestamp_abs": "11:22"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "11:24"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So my question is, if that kind of platform were to be acquired from the perspective of your agency,",
+      "timestamp_abs": "11:25"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "it's too technical.",
+      "timestamp_abs": "11:32"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Right.",
+      "timestamp_abs": "11:34"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because you're not going to operate it.",
+      "timestamp_abs": "11:35"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For you, interesting would be to to get enough knowledge on how to set up the rules in the ecosystem.",
+      "timestamp_abs": "11:36"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And to provide that rules to these guys so that these guys ask these guys enforce this, however you solve it.",
+      "timestamp_abs": "11:43"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's your issue.",
+      "timestamp_abs": "11:51"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, I don't know if we'll check it. I got you the new ICP.",
+      "timestamp_abs": "11:52"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "You're NIDA ICP or",
+      "timestamp_abs": "11:56"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "11:57"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All right.",
+      "timestamp_abs": "11:58"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, yeah. We have a good.",
+      "timestamp_abs": "11:58"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They wrote very clearly.",
+      "timestamp_abs": "11:59"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, okay, okay, okay.",
+      "timestamp_abs": "12:01"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "What they need from us.",
+      "timestamp_abs": "12:03"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay, okay. I will check it.",
+      "timestamp_abs": "12:04"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, why I anyway, I will check it, but I wanted to clear this out because",
+      "timestamp_abs": "12:06"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the thing is,",
+      "timestamp_abs": "12:11"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "if we partner with KISA, that I want to why I ask this is because I want to be to give you clarity on what to expect from which counterpart.",
+      "timestamp_abs": "12:13"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So if the counterpart is KISA, most likely the expected output will be not technology, but know-how or some kind of policy, or like planning, some kind of master plan, or some kind of policy, public policy co-design.",
+      "timestamp_abs": "12:25"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So probably from KISA it's going to be something where where that if we contact KISA, the NIDA, the the NIDA from some sorry.",
+      "timestamp_abs": "12:40"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, they're going to be from the from the",
+      "timestamp_abs": "12:49"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the yeah, you're saying?",
+      "timestamp_abs": "12:53"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah, yeah, yeah, yeah.",
+      "timestamp_abs": "12:58"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, okay, okay, okay, okay.",
+      "timestamp_abs": "13:03"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "아, 예, 혹시 2시, 2시쯤에 가서.",
+      "timestamp_abs": "13:08"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "이해기.",
+      "timestamp_abs": "13:11"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "아, 예, 2시가 제가 바로 앞에 강의실에 있는데 좀 좀 쉬는 시간에 잠깐 올게요.",
+      "timestamp_abs": "13:13"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "감사합니다. 네.",
+      "timestamp_abs": "13:19"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, sorry, guys, but.",
+      "timestamp_abs": "13:21"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This university enforced this parking regulation.",
+      "timestamp_abs": "13:22"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But you guys are not important, professors are important.",
+      "timestamp_abs": "13:27"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And my parents too.",
+      "timestamp_abs": "13:30"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the only day I come to KAIST, I cannot park my car.",
+      "timestamp_abs": "13:31"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I need to request a special permit from the office next door.",
+      "timestamp_abs": "13:34"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I told him, I'm only here today, so anytime just call me because I need to enforce my parking.",
+      "timestamp_abs": "13:37"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I told him, during the break time at 2:00, I will go there. So when I have a break time at 2:00.",
+      "timestamp_abs": "13:43"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "(laughter)",
+      "timestamp_abs": "13:47"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, the what I was saying about KISA, just make sure you know for our discussion is,",
+      "timestamp_abs": "13:49"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "KISA output will be kind of consulting or like planning, kind of like a basic feasibility study, like that, or even maybe training could be some extent.",
+      "timestamp_abs": "13:54"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not sure, and I'm almost doubtful KISA will have direct technology.",
+      "timestamp_abs": "14:07"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "However,",
+      "timestamp_abs": "14:13"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "14:15"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So and what I would sorry and what I did is I I contact NIA because NIA is the National Informatization Agency of Korea.",
+      "timestamp_abs": "14:16"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And they are in charge of digital government in Korea. So even the KAI, many of the projects that they have enforced, these are the guys who design the policy, who design these projects, so.",
+      "timestamp_abs": "14:24"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I contacted my friend that in ID and I said, can you please let me know about KISA, these guys are talking now, they told me we will have a meeting yesterday and they will get back to me about what are the possibilities. So that's why I draw this because I wanted to let you know this is one possibility.",
+      "timestamp_abs": "14:35"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But at this level, we're not talking technology, we're talking probably ODA funds from NIA.",
+      "timestamp_abs": "14:49"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And something from KISA that is going to be under this level.",
+      "timestamp_abs": "14:56"
+    }
+  ]
+}

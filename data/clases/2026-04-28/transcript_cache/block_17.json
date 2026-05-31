@@ -1,0 +1,330 @@
+{
+  "block": 17,
+  "time_range": "80:00-85:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "one hour from now is three",
+      "timestamp_abs": "80:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh my God. No, one hour. We only have 30 minutes.",
+      "timestamp_abs": "80:02"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "I wanted to finish the class at 3:30. Sorry, Stephen, you want to say something?",
+      "timestamp_abs": "80:06"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So you uh in the ICP we have a part of a problem and we have what we call project title.",
+      "timestamp_abs": "80:09"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "80:14"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the title for get the title is the almost the last part we will write.",
+      "timestamp_abs": "80:15"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Even it.",
+      "timestamp_abs": "80:20"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, okay. That's the confusion also.",
+      "timestamp_abs": "80:20"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "It's the same.",
+      "timestamp_abs": "80:22"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Even in a paper, in a thesis.",
+      "timestamp_abs": "80:23"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "In a paper, paper, paper.",
+      "timestamp_abs": "80:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's the last thing.",
+      "timestamp_abs": "80:26"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "That's the last thing.",
+      "timestamp_abs": "80:27"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Forget about it. For now,",
+      "timestamp_abs": "80:28"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "for now.",
+      "timestamp_abs": "80:28"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "just put title option one, option two, option three, just start brainstorming options. The title we will decide because the scope is changing. So based on that.",
+      "timestamp_abs": "80:30"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "80:35"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We need to.",
+      "timestamp_abs": "80:36"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah, yeah, yeah, yeah.",
+      "timestamp_abs": "80:38"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "80:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we need to have to stick with the title.",
+      "timestamp_abs": "80:39"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And choose a technology is also a bias.",
+      "timestamp_abs": "80:41"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. I'm going to just quickly, I don't have enough time, I guess, but I'm going to try to finish the class in the next 15 minutes. And what I'm going to do is, since we don't have a class next week, okay? First of all,",
+      "timestamp_abs": "80:44"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I thank you.",
+      "timestamp_abs": "80:46"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Don't.",
+      "timestamp_abs": "80:46"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "80:47"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "says uh where is the submission of the midterm?",
+      "timestamp_abs": "80:54"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "How going to make a proposal for you guys on how to change the evaluation method of this course? Because at this stage, I don't see it's a good purpose to for you to just upload your ICP as it is. And I will evaluate it as a midterm. I don't think it's good. Because the reality is we need to really work a little bit more thanks to these new problems we have found, okay? So maybe I'm going to change it to our ICP, the final ICP plus the pitch, the ICP pitch. Then maybe I'm going to do the pitch for your midterm. And we're going to improve your pitch one more time, and then make a pitching session, and that will be your midterm. Okay, after two weeks of that. It's not important, not relevant. And then the final ICP will be your final, instead of the GCR. We have said that the GCR. I think next course of this course, what I'm talking with the office is I will be the professor of the next course. Sorry. So, half of the course I will deliver. The other half Professor Kim will deliver. And Professor Kim is three times tougher than me. You're like, I know.",
+      "timestamp_abs": "81:03"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "20",
+      "timestamp_abs": "81:06"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "81:25"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the pitch, the ICP pitch.",
+      "timestamp_abs": "81:32"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the midterm. Okay? After two weeks of that.",
+      "timestamp_abs": "81:42"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not important, not very relevant.",
+      "timestamp_abs": "81:43"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "next course of this course, what I'm talking with the office is I will be the professor of the next course. sorry.",
+      "timestamp_abs": "81:52"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So,",
+      "timestamp_abs": "81:58"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh, we have one course.",
+      "timestamp_abs": "82:00"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "half of the course I will deliver. The other half Professor Kim will deliver. And Professor Kim is three times tougher than me. You're like, I know.",
+      "timestamp_abs": "82:01"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yes.",
+      "timestamp_abs": "82:09"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Say, she's very, very tough. But she's really smart. And she will catch all the different gaps that you have, and she's very detailed, but she will teach you a lot. Okay? I am half of who I am because of her. So you are very lucky. She will guide you, and she will be very strict, but you will learn a lot. So, maybe half of the course will be delivered by me, and then in the middle she will be hope we are trying to design this course in a nice way so that it's also very cool for you to learn the capstone method. So, so because of that, I have enough chance to say, okay, we can finish at the ICP and then start building the GCR as part of the milestone of the project, of the capstone project in the next course. So, I'm going to give you a proposal of how we will evaluate this course based on the new ICP the new version, and I'm going to cancel the submission of the midterm for now, okay? So we're going to cancel that. I'm going to just quickly quickly share the specific common, the common mistakes I saw, and what I want to do is have a 15 to I have a meeting with I because we need to prepare for the meeting we have with labs. I will have a short 20 minutes, if you allow me, short 20 minute meeting with you guys to review the ICP together with.",
+      "timestamp_abs": "82:10"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yes.",
+      "timestamp_abs": "83:22"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "sure.",
+      "timestamp_abs": "83:23"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because then I can, I can show you these slides because today it's already too late, okay? And I don't want to rush it. I will show it to you my comments, but I don't want to rush it. So, so will help us just 20 minutes. So within any break you have at the late afternoon or late night where I am available, let's we can connect by Zoom and then have the short meeting, okay?",
+      "timestamp_abs": "83:24"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "No, no.",
+      "timestamp_abs": "83:32"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "will help us just 20 minutes.",
+      "timestamp_abs": "83:36"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "83:45"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All right. So, common problem I saw in many of your for your ICPs. Problem equals solution gap. So I think many of you really improved. Okay? Many of you really improved but still I see Oh, sorry. I want to say this. Actually, these are the three things three things I saw in improved. Originally, all of you had really vague and broad and very general ideas, but we shifted already to a more structured problem. When I'm talking about problem, I'm talking about this problem, really the root problem. So now you're defining the gap and it's good. Now we are in we have for example, TTS gap on the regulatory constraints. That's why I wrote like this. Stephen now knows that he's real problem. It's could be very complicated at the beginning you also said like, we have a problem because the the company originally you told me the whole big problem, but now you're really married with this one. So it's we are narrowing down so it's good progress. Another thing that everybody has, which I'm very proud of, is everybody now has much stronger institutional anchoring. So now, more or less everybody has linkage to your real organization, the or the federal ministry like that.",
+      "timestamp_abs": "83:47"
+    }
+  ]
+}

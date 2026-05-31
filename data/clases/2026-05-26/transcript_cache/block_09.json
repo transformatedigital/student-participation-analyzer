@@ -1,0 +1,374 @@
+{
+  "block": 9,
+  "time_range": "40:00-45:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "or the lack of rearrangement of subsidies to accommodate to to build up because when how do you think everybody in Korea has money to pay for electricity and gas? No.",
+      "timestamp_abs": "40:00"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Of course.",
+      "timestamp_abs": "40:08"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I want to mention, sorry, I want to interrupt you before.",
+      "timestamp_abs": "40:09"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "the way I see this is a very, it's a social problem.",
+      "timestamp_abs": "40:11"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Many of our the problems are socioeconomic, so it's not a big deal.",
+      "timestamp_abs": "40:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah. So as we know that the government has the the responsibility to care about its population.",
+      "timestamp_abs": "40:20"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And then all the population actually need to enjoy the same uh I mean, the same service, maybe uh or maybe the same uh uh opportunity like other people are having.",
+      "timestamp_abs": "40:32"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "By so doing, the area, maybe the government may not be able maybe to install a power plant, maybe to cover all this.",
+      "timestamp_abs": "40:46"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But if there is like initiative like an innovative solution, maybe uh we maybe a cheaper amount of money with that technology could develop.",
+      "timestamp_abs": "40:54"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So it can give like uh government the ins the the the the incentive.",
+      "timestamp_abs": "41:05"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You see?",
+      "timestamp_abs": "41:10"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "That is where they can.",
+      "timestamp_abs": "41:10"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "to push something",
+      "timestamp_abs": "41:11"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "push.",
+      "timestamp_abs": "41:11"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It can push. It can push because one of the the the advantage of new technology it helps to reducing maybe uh",
+      "timestamp_abs": "41:11"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Some cost or something.",
+      "timestamp_abs": "41:22"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, some cost.",
+      "timestamp_abs": "41:22"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So maybe deploying a power plant in that area and maybe not fully the government may not have that.",
+      "timestamp_abs": "41:23"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or it can be maybe not. It's like Anyway, the way Meg the way Mega is explaining it right now, look, the need I was pointing out that the need she tells me, the need she told me is access to electricity.",
+      "timestamp_abs": "41:29"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think still the necessity is higher level.",
+      "timestamp_abs": "41:34"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I I would because if this is too high, then what comes next, it's still too high.",
+      "timestamp_abs": "41:35"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So be careful of that. That's why I gave you this example.",
+      "timestamp_abs": "41:41"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you if you give me that as a background and then you go drilling down to the real thing, maybe it's about like they're saying, a subsidy issue, subsidy or the model issue like that.",
+      "timestamp_abs": "41:44"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then this level could be the necessity.",
+      "timestamp_abs": "41:54"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then when you give me the problem, the problem will be specific enough.",
+      "timestamp_abs": "41:56"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if you start too high, it's very likely that the problem you give me, it's still high.",
+      "timestamp_abs": "42:01"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is it is it better explained down?",
+      "timestamp_abs": "42:07"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So just just remember that once I saw this, this is my way to review quickly. Ah, it's access to electricity.",
+      "timestamp_abs": "42:09"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Access to electricity, yes, it's the overall huge necessity.",
+      "timestamp_abs": "42:15"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The overall huge necessity.",
+      "timestamp_abs": "42:19"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But probably there's all other issues why this necessity is not being covered, right?",
+      "timestamp_abs": "42:20"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want to see on that so that when you explain me that instead of here I felt like you were keep convincing me on the same thing you already told me.",
+      "timestamp_abs": "42:24"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You already told me, ah, if you have electricity, poverty can result.",
+      "timestamp_abs": "42:32"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, great.",
+      "timestamp_abs": "42:35"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But you keep telling me about this again instead of going down deeper to double click, double click, double click.",
+      "timestamp_abs": "42:36"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want to see double click why this necessity is what it is.",
+      "timestamp_abs": "42:41"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "And then after that, okay, what is the problem statement?",
+      "timestamp_abs": "42:45"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So in this case, when I see the problem statement, I'm like, okay.",
+      "timestamp_abs": "42:48"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "After you told me again very high, then you're telling me that the the energy access gap is the problem statement and then again is like, okay, we want to do this diesel replacement program.",
+      "timestamp_abs": "42:51"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And we want to do the structural barriers make the need for technology conversation strategies.",
+      "timestamp_abs": "43:04"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "But what are the structural barriers in detail?",
+      "timestamp_abs": "43:08"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay?",
+      "timestamp_abs": "43:12"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want to look at that specifically.",
+      "timestamp_abs": "43:13"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Some of them are okay, but some of them I think you need to.",
+      "timestamp_abs": "43:17"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's okay because you're still you barely started.",
+      "timestamp_abs": "43:19"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So now you need to dig dig dig dig dig to find.",
+      "timestamp_abs": "43:22"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it took to imagine even Chilaka has been covering the same topic and until now he started thinking he started finding out, ah, I need to check about the corruption.",
+      "timestamp_abs": "43:24"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I need to check.",
+      "timestamp_abs": "43:32"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So now you're going to start getting the warming up with this one because now you know how to get into the detailed more detailed analysis.",
+      "timestamp_abs": "43:33"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Many isolated communities rely heavily on diesel.",
+      "timestamp_abs": "43:44"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Their full electricity program has not been fully optimized.",
+      "timestamp_abs": "43:46"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "These are good, these are good points, but then this one for example,",
+      "timestamp_abs": "43:51"
+    }
+  ]
+}

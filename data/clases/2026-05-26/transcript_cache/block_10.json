@@ -1,0 +1,204 @@
+{
+  "block": 10,
+  "time_range": "45:00-50:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one, I would exploit it even more even from the meat.",
+      "timestamp_abs": "45:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For me, this one are more related to the need at early level, so that you can come here more with more specific ideas.",
+      "timestamp_abs": "45:06"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Does that help you?",
+      "timestamp_abs": "45:16"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "45:19"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "All right. Also, Professor, then when after they finished the feasibility study, they realized that where they last, the last uh power pole is is very extremely far.",
+      "timestamp_abs": "45:21"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Ah, so in your case, finally you guys did the the feasibility study.",
+      "timestamp_abs": "45:33"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "They actually make him to Nigeria.",
+      "timestamp_abs": "45:35"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay, okay, and they finished the project.",
+      "timestamp_abs": "45:37"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, still have done.",
+      "timestamp_abs": "45:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So they they the first was they applied for the fund for the feasibility study. Then they they when they apply for the fund to do the real project, that's where, I don't know, the challenges they faced. They said they were facing some challenges in in completing the project. What they proposed to the government was instead of taking the country does not even have enough power already. So it's better to build a mini a solar mini grid inside the community instead of taking power. Yeah, it's migrating internally. Also they don't have to bring the thing from the grid from the grid. Instead of spending all those funds in bringing the the power pole from that distance to the community.",
+      "timestamp_abs": "45:39"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's what Korea does in the small islands. They create a separate isolated grid, but after they do that, they invest a lot in the DCAC, they have this ACDC technology, like uh so that where they have this huge, huge, huge. So they have like this they have the smart grid operating isolated, like they call it microgrid. And that microgrid has a very huge backup system.",
+      "timestamp_abs": "46:17"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, exactly.",
+      "timestamp_abs": "46:38"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "connected to, but the backup system is just backup system. So the cost model becomes improved.",
+      "timestamp_abs": "46:39"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "This cost is always very expensive.",
+      "timestamp_abs": "46:43"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "That was it.",
+      "timestamp_abs": "46:46"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So they sort of calculated they they the amount of kilowatts or something the community will need. we did a survey of the households in the community and they what what the people have in their in their homes. So they sort of had a mental idea.",
+      "timestamp_abs": "46:46"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's great, Aryang, all these all these experience, all these documents, share them with me. I hope you already shared them if you have them, the feasibility, because it will give her insight. I mean, it's not going to be the exact same conditions, but anyway, it will give her.",
+      "timestamp_abs": "47:03"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "just have an idea.",
+      "timestamp_abs": "47:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah, yeah, great, great, great, great. Taraso. It's good that you guys are talking to each other and helping each other like that. It's good. It will give her a good inspiration.",
+      "timestamp_abs": "47:17"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, the only thing is really like right now, I think anyway, again, while you're falling in love with the problem of access, you have to fall in love a lot with the, I would look at, for example, the demographic, socio-economic and demographics of the entity area, how dispersed is the population, even what is the entity area that kilometer square, kilometer area. Um, what else did we mention?",
+      "timestamp_abs": "47:25"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And what is the diesel generator price right now, diesel generator investment, how how old they are, what's the price, um, how many PVs have been deployed for many years? Is there is a problem because it could be a problem of capacity also, like there is PV deployed, but then the PVs are not enough to cover. So and that's why I would look at the demographics, the size, like because there might be a gap of capacity, capacity issues in general, installed capacity issues. Um, and also as I said, it could be probably, most likely also again, there's a lot of uh, lack of subsidy, like the whole model itself is wrongly designed, right? Because they design it with the traditional way, like, I will invest in this infrastructure and then I'm going to call, I'm gonna, the utility company will is just expecting to say, can I, can I charge you for electricity, right? But the utility companies maybe very passive, especially public utility companies are very commonly, um, passive because they're just a monopoly. So they are just very slow in providing that kind of thing. If they were a private company, private company will just invest and they'll find a way to, you know, get the money back.",
+      "timestamp_abs": "47:52"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They found an investment, yeah.",
+      "timestamp_abs": "48:54"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They actually proposed that but uh we said these communities are too poor.",
+      "timestamp_abs": "48:56"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah, that's why so. So then maybe that the the idea is how to build a subsidy through any any other kind of incentive or tax or whatever where the subsidy can automatically just match the gap of the business model and then make sure that convince the utility company to actually invest there while giving the subsidy for a amount of years or something uh that can so even your solution could be the model itself, like the the model to bring up the model based on some references year.",
+      "timestamp_abs": "49:01"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The microgrid example, there is a Gapa Island in Jeju, that is a microgrid, that that the example that I'm telling you about about the microgrid, like the one you said like build just a small microgrid with an exit for backup system, that's the Gapa Island microgrid, or you want to be able to talk to me.",
+      "timestamp_abs": "49:28"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Now that feasibility study, the community has light now. That feasibility study helped, uh we submitted that report to rural electrification agency. So they actually did something for them.",
+      "timestamp_abs": "49:45"
+    },
+    {
+      "timestamp": "04:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah that's good. Yeah.",
+      "timestamp_abs": "49:56"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So that feasibility study actually helped the government to",
+      "timestamp_abs": "49:57"
+    }
+  ]
+}

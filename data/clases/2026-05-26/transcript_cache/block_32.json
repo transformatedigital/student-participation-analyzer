@@ -1,0 +1,20 @@
+{
+  "block": 32,
+  "time_range": "155:00-160:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "meeting because you know with Aria I did almost three or maybe three versions, you did three or four versions before we were ready for the interview.",
+      "timestamp_abs": "155:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "155:04"
+    }
+  ]
+}

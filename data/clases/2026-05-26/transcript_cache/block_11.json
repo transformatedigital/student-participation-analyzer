@@ -1,0 +1,20 @@
+{
+  "block": 11,
+  "time_range": "50:00-55:00",
+  "utterances": [
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I like um",
+      "timestamp_abs": "50:50"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There might be islands that were probably not exactly the same as NTT,",
+      "timestamp_abs": "50:52"
+    }
+  ]
+}

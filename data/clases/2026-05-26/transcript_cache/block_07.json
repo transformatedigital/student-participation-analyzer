@@ -1,0 +1,531 @@
+{
+  "block": 7,
+  "time_range": "30:00-33:59",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "some access issues.",
+      "timestamp_abs": "30:00"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and some infrastructure issues, okay?",
+      "timestamp_abs": "30:03"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that is related to the context.",
+      "timestamp_abs": "30:05"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I want you to dig in.",
+      "timestamp_abs": "30:07"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's just the tip of the iceberg, okay?",
+      "timestamp_abs": "30:10"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want to know what's here, really.",
+      "timestamp_abs": "30:13"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "30:16"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And until now you just mentioned this part.",
+      "timestamp_abs": "30:17"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I can say, okay, let's make let's look at this. I will give you the chance.",
+      "timestamp_abs": "30:21"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And don't worry, today I spoke to the professors about our strategy, about the technological commercialization journey.",
+      "timestamp_abs": "30:25"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And in our meeting I was think I was telling them,",
+      "timestamp_abs": "30:31"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "our students are not ready at all, none of their topics are fixed.",
+      "timestamp_abs": "30:34"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I reported like that.",
+      "timestamp_abs": "30:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But don't worry because they're learning how to think, how to get into this process, and once they do it, if they have to change the topic next year, next semester, they will do it and they will catch up very easily.",
+      "timestamp_abs": "30:39"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because the most important is you learn the process, you learn how to do technological commercialization journey, how to do collaborative projects. After this, even if you did this or that, it's not real, it's not a real issue.",
+      "timestamp_abs": "30:50"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You're going to just catch up in no time, okay?",
+      "timestamp_abs": "31:00"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So don't worry too much about that.",
+      "timestamp_abs": "31:03"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For you, I think, it's very clear. What I told you before.",
+      "timestamp_abs": "31:04"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you get if you can exercise this and get into the real root of this, and you fall in love into the problem, and really understand it and make out of this, and I make out of this analysis, a real problem to deliver an ICP and make it association.",
+      "timestamp_abs": "31:07"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You will be also practicing how to do this for your teacher.",
+      "timestamp_abs": "31:22"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So give yourself time, it's okay.",
+      "timestamp_abs": "31:27"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? No no worry.",
+      "timestamp_abs": "31:29"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, this is important for the evaluation.",
+      "timestamp_abs": "31:31"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not going to evaluate who has reached to the last point of the ICP, no.",
+      "timestamp_abs": "31:33"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "31:38"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Some part of the ICP even if you fill it out with hypothetical ideas, it's okay.",
+      "timestamp_abs": "31:39"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "At this point what I want you to practice is the process.",
+      "timestamp_abs": "31:43"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And critical thinking for how to fall in love with and how to justify, fall in love and justify and logically argument why this problem is relevant, and that this problem is evidence based problem.",
+      "timestamp_abs": "31:46"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "31:59"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think from your ICP in general my comment is,",
+      "timestamp_abs": "32:02"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "okay, let's give you let's give you a try.",
+      "timestamp_abs": "32:04"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't I don't dislike it at all. It's interesting.",
+      "timestamp_abs": "32:06"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I like that you state in the energy department, which is was your personal interest.",
+      "timestamp_abs": "32:08"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's okay.",
+      "timestamp_abs": "32:11"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And now you're not talking about the whole issue.",
+      "timestamp_abs": "32:12"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's already a big deal that you went down to this level.",
+      "timestamp_abs": "32:14"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's still surface process.",
+      "timestamp_abs": "32:18"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want more root process.",
+      "timestamp_abs": "32:20"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's okay because you are just in just starting.",
+      "timestamp_abs": "32:23"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it's okay.",
+      "timestamp_abs": "32:26"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So if you need more help, if you need like a big push and want to discuss with me in between.",
+      "timestamp_abs": "32:28"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that you can think through.",
+      "timestamp_abs": "32:34"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think here you might need some more support on how to go from here to the background.",
+      "timestamp_abs": "32:35"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You see here you're just telling me about, you're just giving me more details about the context.",
+      "timestamp_abs": "32:47"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mean,",
+      "timestamp_abs": "32:51"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But then",
+      "timestamp_abs": "32:53"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "access to electricity. Access to electricity is already solved.",
+      "timestamp_abs": "32:54"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But they don't have electricity.",
+      "timestamp_abs": "33:01"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "See, it must be because of something.",
+      "timestamp_abs": "33:04"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Access to electricity is not a problem that doesn't have a solution, technically speaking.",
+      "timestamp_abs": "33:07"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "33:17"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Technically speaking, Korea doesn't have, there is no place in Korea that has no electricity problem.",
+      "timestamp_abs": "33:18"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Right? So why NTT, what is very particular about the conditions of NTT that this problem is happening?",
+      "timestamp_abs": "33:24"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is just a symptom. Access to electricity is a symptom.",
+      "timestamp_abs": "33:32"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "What's the underlying cause for this particular region?",
+      "timestamp_abs": "33:36"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It cannot be the poverty.",
+      "timestamp_abs": "33:39"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Because they are poor?",
+      "timestamp_abs": "33:41"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Because they are poor, they don't have electricity?",
+      "timestamp_abs": "33:43"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh yeah, maybe they don't have any budget for making the",
+      "timestamp_abs": "33:45"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Then there is no then what then are you going to donate money to them?",
+      "timestamp_abs": "33:49"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Um, depends on the central government.",
+      "timestamp_abs": "33:55"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I know you're very rich, but no. That's not the result. Again.",
+      "timestamp_abs": "33:58"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There must be something happening.",
+      "timestamp_abs": "34:03"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like for example, if that's why I'm saying you have to double click, it might be for example, that the population is too sparse, that there's too few population in that area that doesn't justify that the utility company makes the investment of the infrastructure to connect.",
+      "timestamp_abs": "34:04"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know, there's like three or four more levels I can think about access of electricity issues.",
+      "timestamp_abs": "34:20"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Access electricity is big issues. Relatively.",
+      "timestamp_abs": "34:25"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not as big as you have it before.",
+      "timestamp_abs": "34:28"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Much better. But we have to think, access of electricity is not problem anymore technically speaking.",
+      "timestamp_abs": "34:30"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Right? Because in Jakarta there is access of electricity, right?",
+      "timestamp_abs": "34:36"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, sir.",
+      "timestamp_abs": "34:39"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, that's why we have a gap between the rural and the urban.",
+      "timestamp_abs": "34:41"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "34:45"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, so there's other issues particular to NTT, that are not access. Access is just, you know, the early on.",
+      "timestamp_abs": "34:46"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "What are the particular situations or circumstances in NTT that make this a prob a problem.",
+      "timestamp_abs": "34:54"
+    }
+  ]
+}

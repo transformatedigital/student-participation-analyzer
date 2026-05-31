@@ -1,0 +1,388 @@
+{
+  "block": 12,
+  "time_range": "55:00-60:00",
+  "utterances": [
+    {
+      "timestamp": "55:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so eh",
+      "timestamp_abs": "110:00"
+    },
+    {
+      "timestamp": "55:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "How many of you, eh I can see some of your notebooks here, but how many of you have drawn it on your notebook?",
+      "timestamp_abs": "110:02"
+    },
+    {
+      "timestamp": "55:04",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "110:04"
+    },
+    {
+      "timestamp": "55:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes.",
+      "timestamp_abs": "110:05"
+    },
+    {
+      "timestamp": "55:05",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I have it here.",
+      "timestamp_abs": "110:05"
+    },
+    {
+      "timestamp": "55:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "110:06"
+    },
+    {
+      "timestamp": "55:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Perfect, perfect.",
+      "timestamp_abs": "110:07"
+    },
+    {
+      "timestamp": "55:08",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Can I ask you to show it?",
+      "timestamp_abs": "110:08"
+    },
+    {
+      "timestamp": "55:09",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "110:09"
+    },
+    {
+      "timestamp": "55:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "110:10"
+    },
+    {
+      "timestamp": "55:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Can you show it?",
+      "timestamp_abs": "110:10"
+    },
+    {
+      "timestamp": "55:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh.",
+      "timestamp_abs": "110:11"
+    },
+    {
+      "timestamp": "55:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Hold on, hold on, hold on.",
+      "timestamp_abs": "110:12"
+    },
+    {
+      "timestamp": "55:13",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "110:13"
+    },
+    {
+      "timestamp": "55:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm going to pin your screen.",
+      "timestamp_abs": "110:14"
+    },
+    {
+      "timestamp": "55:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh, okay.",
+      "timestamp_abs": "110:15"
+    },
+    {
+      "timestamp": "55:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, there we go.",
+      "timestamp_abs": "110:16"
+    },
+    {
+      "timestamp": "55:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's good. That's very good.",
+      "timestamp_abs": "110:17"
+    },
+    {
+      "timestamp": "55:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, I did.",
+      "timestamp_abs": "110:18"
+    },
+    {
+      "timestamp": "55:19",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Anyone else? Mega?",
+      "timestamp_abs": "110:19"
+    },
+    {
+      "timestamp": "55:20",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "110:20"
+    },
+    {
+      "timestamp": "55:21",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Can you show us your notebook?",
+      "timestamp_abs": "110:21"
+    },
+    {
+      "timestamp": "55:22",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "110:22"
+    },
+    {
+      "timestamp": "55:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "110:23"
+    },
+    {
+      "timestamp": "55:24",
+      "speaker": "ILEANA",
+      "type": "teacher_instruction",
+      "text": "Show us, please.",
+      "timestamp_abs": "110:24"
+    },
+    {
+      "timestamp": "55:25",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Ah.",
+      "timestamp_abs": "110:25"
+    },
+    {
+      "timestamp": "55:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's very nice. Thank you.",
+      "timestamp_abs": "110:26"
+    },
+    {
+      "timestamp": "55:27",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "You're welcome.",
+      "timestamp_abs": "110:27"
+    },
+    {
+      "timestamp": "55:28",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Chilaka?",
+      "timestamp_abs": "110:28"
+    },
+    {
+      "timestamp": "55:29",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "110:29"
+    },
+    {
+      "timestamp": "55:30",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Can you show us your notebook?",
+      "timestamp_abs": "110:30"
+    },
+    {
+      "timestamp": "55:31",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Sure.",
+      "timestamp_abs": "110:31"
+    },
+    {
+      "timestamp": "55:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, my God. Okay.",
+      "timestamp_abs": "110:32"
+    },
+    {
+      "timestamp": "55:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Perfect. Perfect.",
+      "timestamp_abs": "110:33"
+    },
+    {
+      "timestamp": "55:34",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Thank you.",
+      "timestamp_abs": "110:34"
+    },
+    {
+      "timestamp": "55:35",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Grace?",
+      "timestamp_abs": "110:35"
+    },
+    {
+      "timestamp": "55:36",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "110:36"
+    },
+    {
+      "timestamp": "55:37",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Can you show us your notebook?",
+      "timestamp_abs": "110:37"
+    },
+    {
+      "timestamp": "55:38",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "110:38"
+    },
+    {
+      "timestamp": "55:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, that's beautiful. Thank you.",
+      "timestamp_abs": "110:39"
+    },
+    {
+      "timestamp": "55:40",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "You're welcome.",
+      "timestamp_abs": "110:40"
+    },
+    {
+      "timestamp": "55:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "And Stefen, please.",
+      "timestamp_abs": "110:41"
+    },
+    {
+      "timestamp": "55:42",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "110:42"
+    },
+    {
+      "timestamp": "55:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Can you show us your notebook?",
+      "timestamp_abs": "110:43"
+    },
+    {
+      "timestamp": "55:44",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "110:44"
+    },
+    {
+      "timestamp": "55:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Beautiful, thank you.",
+      "timestamp_abs": "110:45"
+    },
+    {
+      "timestamp": "55:46",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "You're welcome.",
+      "timestamp_abs": "110:46"
+    },
+    {
+      "timestamp": "55:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, I guess all of you have it.",
+      "timestamp_abs": "110:47"
+    },
+    {
+      "timestamp": "55:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's important to have it, right? Because once we start connecting...",
+      "timestamp_abs": "110:48"
+    },
+    {
+      "timestamp": "55:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "...things, you're going to need to have this reference as the initial framework to start building everything up.",
+      "timestamp_abs": "110:51"
+    },
+    {
+      "timestamp": "55:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I know a lot of you have a lot of creativity and artistic skills.",
+      "timestamp_abs": "110:54"
+    },
+    {
+      "timestamp": "55:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm very impressed with all your drawings.",
+      "timestamp_abs": "110:57"
+    },
+    {
+      "timestamp": "55:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, thank you for showing them.",
+      "timestamp_abs": "110:58"
+    }
+  ]
+}

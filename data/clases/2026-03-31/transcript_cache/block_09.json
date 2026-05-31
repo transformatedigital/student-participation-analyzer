@@ -1,0 +1,560 @@
+{
+  "block": 9,
+  "time_range": "40:00-45:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "we only like seventy two megawatt we can we can require like",
+      "timestamp_abs": "40:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the first,",
+      "timestamp_abs": "40:04"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "uh well then you can just do your homework and going to tell you how many you would need at the end.",
+      "timestamp_abs": "40:05"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "40:14"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, so",
+      "timestamp_abs": "40:15"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "SDA",
+      "timestamp_abs": "40:16"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is one brand.",
+      "timestamp_abs": "40:17"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But",
+      "timestamp_abs": "40:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay, they say",
+      "timestamp_abs": "40:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "SDA",
+      "timestamp_abs": "40:21"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "40:22"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is just like",
+      "timestamp_abs": "40:22"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "40:24"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You see, that's what I'm",
+      "timestamp_abs": "40:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's coming from",
+      "timestamp_abs": "40:26"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "a general",
+      "timestamp_abs": "40:27"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm.",
+      "timestamp_abs": "40:28"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "40:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, um",
+      "timestamp_abs": "40:30"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "if what I'm saying is our seventy two megawatt containers,",
+      "timestamp_abs": "40:33"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that's going to be a full full project eventually.",
+      "timestamp_abs": "40:40"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We're just hypothetically assuming, assuming the full project will be that because we're assuming that the needed capacity is three hundred and sixteen megawatt hours.",
+      "timestamp_abs": "40:43"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It means we probably need",
+      "timestamp_abs": "40:54"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "uh a supplier, okay,",
+      "timestamp_abs": "40:57"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "let's assume we need a supplier seventy two batteries.",
+      "timestamp_abs": "41:03"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But we're not going to invest in seventy two batteries right away.",
+      "timestamp_abs": "41:06"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We need to test how this is working with the system.",
+      "timestamp_abs": "41:10"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "41:14"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Right.",
+      "timestamp_abs": "41:15"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't think any crazy guy or any company say I can buy seventy two uh batteries right away.",
+      "timestamp_abs": "41:16"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "41:25"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mean that's what I believe.",
+      "timestamp_abs": "41:25"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "we can the later steps.",
+      "timestamp_abs": "41:27"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, there you go.",
+      "timestamp_abs": "41:31"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, now we're getting to the question I made earlier, question.",
+      "timestamp_abs": "41:33"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, I mean,",
+      "timestamp_abs": "41:37"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "since the your story is to me,",
+      "timestamp_abs": "41:40"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "we know we need to we know we need to kind of say or be able to store three hundred and sixteen megawatt hours as a name.",
+      "timestamp_abs": "41:44"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But we don't know what could be the best solution to to adapt to the condition of to the situation at say at the island.",
+      "timestamp_abs": "42:01"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think um",
+      "timestamp_abs": "42:06"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "for the small scale.",
+      "timestamp_abs": "42:07"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "42:09"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So like the story should be eventually we need to get to three hundred and sixty.",
+      "timestamp_abs": "42:10"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the initial measurement and study will provide the route.",
+      "timestamp_abs": "42:16"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then we can talk about the master plan.",
+      "timestamp_abs": "42:22"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Probably it's like a feasibility and master plan because the feasibility will tell you whether it's possible.",
+      "timestamp_abs": "42:24"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the master plan will be how to do it in terms of what to invest first.",
+      "timestamp_abs": "42:30"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, for example, if we look at the um, I'm not sure if.",
+      "timestamp_abs": "42:36"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm just, I'm going to tell you a very very silly, but since I was watching videos on Siraka.",
+      "timestamp_abs": "42:42"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let's say,",
+      "timestamp_abs": "42:52"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Siraka's, I don't know anything about this technology.",
+      "timestamp_abs": "42:54"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I can just think.",
+      "timestamp_abs": "42:58"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let's say this is the island,",
+      "timestamp_abs": "43:01"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and the PVs are here.",
+      "timestamp_abs": "43:02"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a mushroom.",
+      "timestamp_abs": "43:04"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And maybe you have to have a BS storage, you cannot store it for too far.",
+      "timestamp_abs": "43:07"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You have to storage somewhere near it.",
+      "timestamp_abs": "43:13"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then we have to say uh there's no for the distribution, all the infrastructure to have businesses connected to this, uh has some issues.",
+      "timestamp_abs": "43:16"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So probably we have to start with this size first, this size, this size, I don't know.",
+      "timestamp_abs": "43:33"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There could be some technical constraints on how to implement this.",
+      "timestamp_abs": "43:39"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In terms of physical infrastructure, in terms of money, in terms of access because we don't know how the grid is connecting towards the rest of the households in the island, and what this infrastructure is about.",
+      "timestamp_abs": "43:43"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, there are many factors to be considered.",
+      "timestamp_abs": "43:56"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think the feasibility is definitely going to need to measure up if this kind of technology will fit well this ecosystem.",
+      "timestamp_abs": "43:59"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "44:07"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And also later it will be the master plan to decide what goes first.",
+      "timestamp_abs": "44:07"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, for example, problem one in the infrastructure.",
+      "timestamp_abs": "44:12"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Problem two is how to connect to the offshore PVs.",
+      "timestamp_abs": "44:14"
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Problem three is how to distribute the energy that is stored here into the households and how to convert it to the right voltage, I don't know.",
+      "timestamp_abs": "44:18"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? So there's going to be certain constraints that you need to overcome to pro to move this project to the market.",
+      "timestamp_abs": "44:26"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And there's going to be a priority and an urgency and a strategy to go through it.",
+      "timestamp_abs": "44:32"
+    },
+    {
+      "timestamp": "04:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, that's what only we do that to our master plan.",
+      "timestamp_abs": "44:39"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "44:41"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "A master plan.",
+      "timestamp_abs": "44:42"
+    },
+    {
+      "timestamp": "04:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, like a roadmap.",
+      "timestamp_abs": "44:43"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You know.",
+      "timestamp_abs": "44:44"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So,",
+      "timestamp_abs": "44:45"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you want to add that to your story.",
+      "timestamp_abs": "44:46"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because right now your problem is we know, you kind of know what you need,",
+      "timestamp_abs": "44:48"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "but you don't know how, which technology, and you're not sure if it will work under the conditions of Siraka.",
+      "timestamp_abs": "44:53"
+    }
+  ]
+}

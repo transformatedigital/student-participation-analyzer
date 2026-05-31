@@ -1,0 +1,480 @@
+{
+  "block": 11,
+  "time_range": "50:00-55:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So even in the case it was a public entity, public telecom. So they need to do it through the public procurement process, which must have been a long and productive.",
+      "timestamp_abs": "50:00"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the Koreans were willing to.",
+      "timestamp_abs": "50:12"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And we helped them to prepare all the documentation, to register as a public tender, blah blah blah.",
+      "timestamp_abs": "50:14"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It could be that kind of project or it could not be that kind of project. It could be just something that goes through the Korean ODA system, so the Korean Ministry of uh this called Korean agency from National Organization.",
+      "timestamp_abs": "50:21"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They provide a opportunity for the Korean in India, uh to do the feasibility study on IDEA or fraud and verification and blah, blah, blah. And then there's just a consulting process that is provided by the Korean government for your government. That could be another way it shapes.",
+      "timestamp_abs": "50:36"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's very different. Each project will take a different shape and dependent on the shape of the project takes, and the type of partnership that it becomes, the type of proposal and the type of formal documents that will follow along that nature.",
+      "timestamp_abs": "50:52"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I cannot give you a recipe of 'this is document one, document two'. That doesn't work like that. That's the tricky part of this project.",
+      "timestamp_abs": "51:06"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "No, no.",
+      "timestamp_abs": "51:13"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah, of course.",
+      "timestamp_abs": "51:14"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay. In my case already I have project cases.",
+      "timestamp_abs": "51:15"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The feasibility study must be done, maybe it just needs to be...",
+      "timestamp_abs": "51:18"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, really. It is.",
+      "timestamp_abs": "51:23"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In your case, for example, you're gonna try it and you're gonna, in your case, you're adapting.",
+      "timestamp_abs": "51:24"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you're probably gonna have to work with them, like provide a solution to a very specific problem.",
+      "timestamp_abs": "51:29"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it will require adaptation.",
+      "timestamp_abs": "51:37"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "51:38"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And if it requires adaptation, it requires to test and to plan well what will be adapted and how it will be adapted.",
+      "timestamp_abs": "51:39"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And that requires the pre-feasibility, feasibility stage.",
+      "timestamp_abs": "51:48"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's self-contained.",
+      "timestamp_abs": "51:52"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "51:53"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Especially in your case, your case definitely is gonna be an, your case could be a solution, because your case is almost greenfield. They could, if it passed all what we need, it could be a solution.",
+      "timestamp_abs": "51:54"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "52:05"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's difficult.",
+      "timestamp_abs": "52:06"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "52:07"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in your case, it probably an adapted thing, because it's from the solution that you already solved to to the to the one that you can do.",
+      "timestamp_abs": "52:07"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "52:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, thank you.",
+      "timestamp_abs": "52:17"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Thank you very much, Aryang.",
+      "timestamp_abs": "52:18"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So.",
+      "timestamp_abs": "52:20"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Grace, you are my hero right now.",
+      "timestamp_abs": "52:23"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Oh, I'm happy.",
+      "timestamp_abs": "52:25"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm happy.",
+      "timestamp_abs": "52:26"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You have to, oopsie.",
+      "timestamp_abs": "52:27"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I feel that a lot of things happen at the time.",
+      "timestamp_abs": "52:29"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Thank you, prof.",
+      "timestamp_abs": "52:33"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, thank you. Very good. Okay, Grace.",
+      "timestamp_abs": "52:34"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "They already can give me a very honest, clear response. Then on that clear response maybe you and I can start engaging more with them. And then you are going to get an elaborator, not a collaborator.",
+      "timestamp_abs": "52:37"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Can I use the the vision that Professor collected, or I can use the one I have collected?",
+      "timestamp_abs": "52:49"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_response",
+      "text": "No, I think that the one that you corrected. I think that's better.",
+      "timestamp_abs": "52:54"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "So, for example,",
+      "timestamp_abs": "52:59"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "53:01"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "She will contact me after this.",
+      "timestamp_abs": "53:02"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it means that either we have lunch or coffee, or I invite her to our class to just say hi quickly.",
+      "timestamp_abs": "53:04"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or maybe I will invite her to uh well, to have a lunch.",
+      "timestamp_abs": "53:12"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then you meet. But it's interesting to meet for just to discuss what I'm.",
+      "timestamp_abs": "53:17"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe I will meet her just for running around with information, that just tell her about what you're doing.",
+      "timestamp_abs": "53:21"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then make a second meeting for you to bring her. I invite you to share or to come and give all the talk here for us.",
+      "timestamp_abs": "53:26"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "53:33"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "53:33"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or else now you won't like it that way.",
+      "timestamp_abs": "53:36"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Thank you.",
+      "timestamp_abs": "53:39"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So, at the time.",
+      "timestamp_abs": "53:41"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Ah, do you need a break? Five minutes?",
+      "timestamp_abs": "53:42"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Ten minutes?",
+      "timestamp_abs": "53:43"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Before we start?",
+      "timestamp_abs": "53:45"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Oh, yes.",
+      "timestamp_abs": "53:47"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "We have to break?",
+      "timestamp_abs": "53:48"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "No, no.",
+      "timestamp_abs": "53:49"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "[inaudible]",
+      "timestamp_abs": "53:50"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "No.",
+      "timestamp_abs": "53:51"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "I was washing.",
+      "timestamp_abs": "53:51"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Go, go, go.",
+      "timestamp_abs": "53:53"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Remember to be having a chance. Okay, Grace.",
+      "timestamp_abs": "53:54"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'll just keep it short and never.",
+      "timestamp_abs": "53:56"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "All right.",
+      "timestamp_abs": "53:58"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Ah.",
+      "timestamp_abs": "53:59"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[laughter]",
+      "timestamp_abs": "53:59"
+    }
+  ]
+}

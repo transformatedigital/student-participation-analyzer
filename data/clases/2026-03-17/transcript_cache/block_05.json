@@ -1,0 +1,228 @@
+{
+  "block": 5,
+  "time_range": "20:00-25:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "The technology that's just a selling milk. It's a AI technology, right? It's artificial intelligence that replicates and designs the the flavor of meat, you know, maybe milk, ice cream, or cheese, right?",
+      "timestamp_abs": "20:00"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is an MIT and genial entrepreneur project, right? Just geeks talking about AI, right?",
+      "timestamp_abs": "20:14"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's going to be packaged into a yogurt or a butter or a cheese that we actually get to get it from the supermarket.",
+      "timestamp_abs": "20:21"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The dialogue that AI algorithm generates in a lab just by some guys testing how to recreate meat, protein or whatever versus the value of milk called not milk, or mayonnaise or cheese in a supermarket.",
+      "timestamp_abs": "20:29"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Where is it?",
+      "timestamp_abs": "20:43"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the difference between an invention is going to the market generates value, that's innovation. Very good, right?",
+      "timestamp_abs": "20:45"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we are not saying inventions are worthless. Inventions are important because they are the seed. The seed.",
+      "timestamp_abs": "20:52"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if you put the seed just there and you don't do anything, the seed will not grow, right? The technology commercialization is a very important part to make it really burst into the economy and create lots of value.",
+      "timestamp_abs": "20:58"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But of course it, but the, the, what is it? The Adolf the position, yeah.",
+      "timestamp_abs": "21:12"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The physician.",
+      "timestamp_abs": "21:17"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "That still get the patent, right?",
+      "timestamp_abs": "21:18"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah. So But it's many years before.",
+      "timestamp_abs": "21:19"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "So still still have to pay?",
+      "timestamp_abs": "21:22"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Probably they use that. Depends on the business model. In this case I took two extreme two extreme cases, right? But maybe, for example, a very, very interesting example that we, we took Korea.",
+      "timestamp_abs": "21:24"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Do you know, do you know, Qualcomm? Have you ever heard about Qualcomm?",
+      "timestamp_abs": "21:36"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Qualcomm.",
+      "timestamp_abs": "21:43"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Qualcomm.",
+      "timestamp_abs": "21:44"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Qualcomm.",
+      "timestamp_abs": "21:45"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Qualcomm.",
+      "timestamp_abs": "21:45"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Qualcomm.",
+      "timestamp_abs": "21:46"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Telecommunication company.",
+      "timestamp_abs": "21:46"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh yeah, yeah, yeah. Very famous semiconductor and telecommunication company, right?",
+      "timestamp_abs": "21:47"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When Qualcomm was a startup that nobody knew about, many years ago, like in the nineties, early nineties. Qualcomm, there was a very important moment in the that era. You guys, you know, you guys know what CDMA is? Or TDMA technology is? Mobile CDMA?",
+      "timestamp_abs": "21:53"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "[inaudible]",
+      "timestamp_abs": "22:13"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "We have to use a CDMA.",
+      "timestamp_abs": "22:13"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You're our generation. I might tell you the news now that you're not so young. My other students don't know what I'm talking about.",
+      "timestamp_abs": "22:14"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "CDMA.",
+      "timestamp_abs": "22:22"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. You guys know CDMA. You don't know young anymore. So, CDMA and TDMA, the first and second telecommunication uh technology. Maybe Grace, you don't know what I'm talking about. You're young.",
+      "timestamp_abs": "22:23"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "CDMA and wait. Okay, nowadays you know LTE and 5G. Everybody knows LTE. Yeah, yeah.",
+      "timestamp_abs": "22:37"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Before we reach this era, 5G or LTE or 4G, many, many era, many generations before, before we got mobile internet, mobile we don't know, very, very young people.",
+      "timestamp_abs": "22:42"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There was a big dilemma in the world of telecommunications between CDMA",
+      "timestamp_abs": "22:55"
+    }
+  ]
+}
