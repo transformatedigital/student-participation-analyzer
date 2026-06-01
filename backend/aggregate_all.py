@@ -731,9 +731,9 @@ def write_dashboard_html(per_student, classes, agg_data):
             <th style="width:10%">Component</th>
             <th style="width:18%">Description</th>
             <th style="width:7%">Weight</th>
-            <th style="width:18%">Detailed Composition</th>
+            <th style="width:14%">Detailed Composition</th>
             <th style="width:6%">%</th>
-            <th style="width:41%">Notes</th>
+            <th style="width:45%">Notes</th>
           </tr>
         </thead>
         <tbody>
