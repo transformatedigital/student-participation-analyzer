@@ -766,14 +766,14 @@ def write_dashboard_html(per_student, classes, agg_data):
             <td class="policy-letter">D</td>
             <td class="policy-desc">Final Term Submission Report</td>
             <td class="policy-weight">15%</td>
-            <td><strong>D1</strong></td><td class="policy-pct">15%</td><td>Term Project ICP v.6 — Based on all the feedback provided by professor during the course (Format, References, Contents: Problem definition, Root-Problem definition, Logical Flow)</td>
+            <td><strong>D1</strong> Term Project Report ICP v.6</td><td class="policy-pct">15%</td><td>Evaluation based on all the feedback provided by professor during the course (Format, References, Contents: Problem definition, Root-Problem definition, Logical Flow)</td>
           </tr>
 
           <tr>
             <td class="policy-letter">E</td>
             <td class="policy-desc">Final GTC Presentation Project Pitch</td>
             <td class="policy-weight">20%</td>
-            <td><strong>E1</strong></td><td class="policy-pct">20%</td><td>Based on all the feedback provided by professor during the course (Format, References, Contents: Problem definition, Root-Problem definition, Logical Flow)</td>
+            <td><strong>E1</strong> Term Project Final Presentation: GTC Project Pitch</td><td class="policy-pct">20%</td><td>Evaluation based on all the feedback provided by professor during the course (Format, References, Contents: Problem definition, Root-Problem definition, Logical Flow)</td>
           </tr>
 
           <tr class="policy-total">
@@ -1088,7 +1088,7 @@ def write_dashboard_html(per_student, classes, agg_data):
   <div id="main-tab-D" class="main-tab-content">
     <div class="section coming-soon">
       <h2>📄 Component D — Final Term Submission Report (15%)</h2>
-      <p>Term Project ICP v.6 — Based on all the feedback provided by professor during the course (Format, References, Contents: Problem definition, Root-Problem definition, Logical Flow).</p>
+      <p>Term Project Report ICP v.6 — Evaluation based on all the feedback provided by professor during the course (Format, References, Contents: Problem definition, Root-Problem definition, Logical Flow).</p>
       <div class="cs-badge">⏳ Coming soon</div>
     </div>
   </div>
@@ -1097,7 +1097,7 @@ def write_dashboard_html(per_student, classes, agg_data):
   <div id="main-tab-E" class="main-tab-content">
     <div class="section coming-soon">
       <h2>🎯 Component E — Final GTC Presentation Project Pitch (20%)</h2>
-      <p>Based on all the feedback provided by professor during the course (Format, References, Contents: Problem definition, Root-Problem definition, Logical Flow)</p>
+      <p>Evaluation based on all the feedback provided by professor during the course (Format, References, Contents: Problem definition, Root-Problem definition, Logical Flow)</p>
       <div class="cs-badge">⏳ Coming soon</div>
     </div>
   </div>
