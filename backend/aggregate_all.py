@@ -770,7 +770,7 @@ def write_dashboard_html(per_student, classes, agg_data):
 
           <tr>
             <td class="policy-letter">E</td>
-            <td class="policy-desc">Final GTC Project Pitch</td>
+            <td class="policy-desc">Final GTC Presentation Project Pitch</td>
             <td class="policy-weight">20%</td>
             <td><strong>E1</strong></td><td class="policy-pct">20.0%</td><td>Based on all the feedback provided by professor during the course. All professor guidelines must be followed (references, PPT slides, formatting, etc.)</td>
           </tr>
@@ -808,7 +808,7 @@ def write_dashboard_html(per_student, classes, agg_data):
     </button>
     <button class="main-tab disabled" onclick="showMainTab(this, 'E')">
       <span class="tab-letter">E</span>
-      <span class="tab-text">Final GTC Project Pitch<br><small>20% · Coming soon</small></span>
+      <span class="tab-text">Final GTC Presentation Project Pitch<br><small>20% · Coming soon</small></span>
     </button>
   </div>
 
@@ -1095,7 +1095,7 @@ def write_dashboard_html(per_student, classes, agg_data):
   <!-- TAB E CONTENT -->
   <div id="main-tab-E" class="main-tab-content">
     <div class="section coming-soon">
-      <h2>🎯 Component E — Final GTC Project Pitch (20%)</h2>
+      <h2>🎯 Component E — Final GTC Presentation Project Pitch (20%)</h2>
       <p>Based on all the feedback provided by professor during the course. All professor guidelines must be followed (references, PPT slides, formatting, etc.)</p>
       <div class="cs-badge">⏳ Coming soon</div>
     </div>
