@@ -743,36 +743,36 @@ def write_dashboard_html(per_student, classes, agg_data):
             <td><strong>A1</strong> Student's Preparation</td><td class="policy-pct">7.5%</td><td>Questions to students</td>
           </tr>
           <tr class="policy-A-main"><td><strong>A2</strong> Student's Participation</td><td class="policy-pct">7.5%</td><td>Questions to Professor</td></tr>
-          <tr class="policy-A-main"><td><strong>A3</strong> Student's Attendance</td><td class="policy-pct">5.0%</td><td>—</td></tr>
+          <tr class="policy-A-main"><td><strong>A3</strong> Student's Attendance</td><td class="policy-pct">5%</td><td>—</td></tr>
 
           <tr>
             <td rowspan="2" class="policy-letter">B</td>
             <td rowspan="2" class="policy-desc">Pop-up Quiz / Team discussion</td>
             <td rowspan="2" class="policy-weight">25%</td>
-            <td><strong>B1</strong> Pop-up Quiz</td><td class="policy-pct">15.0%</td><td>B1.1 Pop-up Quiz 1 (date), B1.2 Pop-up Quiz 2 (date), B1.3 Pop-up Quiz 3 (June 2)</td>
+            <td><strong>B1</strong> Pop-up Quiz</td><td class="policy-pct">15%</td><td>B1.1 Pop-up Quiz 1 (date), B1.2 Pop-up Quiz 2 (date), B1.3 Pop-up Quiz 3 (June 2)</td>
           </tr>
-          <tr><td><strong>B2</strong> Team discussion</td><td class="policy-pct">10.0%</td><td>Case Study — Team A: Chilaka, Aryang · Team B: Sthepen, Mega, Grace</td></tr>
+          <tr><td><strong>B2</strong> Team discussion</td><td class="policy-pct">10%</td><td>Case Study — Team A: Chilaka, Aryang · Team B: Sthepen, Mega, Grace</td></tr>
 
           <tr>
             <td rowspan="2" class="policy-letter">C</td>
             <td rowspan="2" class="policy-desc">Assignments &amp; Partial Submissions</td>
             <td rowspan="2" class="policy-weight">20%</td>
-            <td><strong>C1</strong> Assignments</td><td class="policy-pct">10.0%</td><td>1) Reflection on Pop-up Quiz 1 vs 2, 2) GTC Framework Process Activities</td>
+            <td><strong>C1</strong> Assignments</td><td class="policy-pct">10%</td><td>1) Reflection on Pop-up Quiz 1 vs 2, 2) GTC Framework Process Activities</td>
           </tr>
-          <tr><td><strong>C2</strong> Partial Submissions</td><td class="policy-pct">10.0%</td><td>ICP (V1-V4)</td></tr>
+          <tr><td><strong>C2</strong> Partial Submissions</td><td class="policy-pct">10%</td><td>ICP (V1-V4)</td></tr>
 
           <tr>
             <td class="policy-letter">D</td>
             <td class="policy-desc">Final Term Submission Report</td>
             <td class="policy-weight">15%</td>
-            <td><strong>D1</strong></td><td class="policy-pct">15.0%</td><td>Term Project ICP v.6 — Based on all the feedback provided by professor during the course. All professor guidelines must be followed (references, PPT slides, formatting, etc.)</td>
+            <td><strong>D1</strong></td><td class="policy-pct">15%</td><td>Term Project ICP v.6 — Based on all the feedback provided by professor during the course. All professor guidelines must be followed (references, PPT slides, formatting, etc.)</td>
           </tr>
 
           <tr>
             <td class="policy-letter">E</td>
             <td class="policy-desc">Final GTC Presentation Project Pitch</td>
             <td class="policy-weight">20%</td>
-            <td><strong>E1</strong></td><td class="policy-pct">20.0%</td><td>Based on all the feedback provided by professor during the course. All professor guidelines must be followed (references, PPT slides, formatting, etc.)</td>
+            <td><strong>E1</strong></td><td class="policy-pct">20%</td><td>Based on all the feedback provided by professor during the course. All professor guidelines must be followed (references, PPT slides, formatting, etc.)</td>
           </tr>
 
           <tr class="policy-total">
