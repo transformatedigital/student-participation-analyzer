@@ -765,7 +765,7 @@ def write_dashboard_html(per_student, classes, agg_data):
             <td class="policy-letter">D</td>
             <td class="policy-desc">Final Term Submission Report</td>
             <td class="policy-weight">15%</td>
-            <td><strong>D1</strong></td><td class="policy-pct">15.0%</td><td>Based on ICP Evaluation Rubric</td>
+            <td><strong>D1</strong></td><td class="policy-pct">15.0%</td><td>Term Project ICP v.6 — Based on all the feedback provided by professor during the course. All professor guidelines must be followed (references, PPT slides, formatting, etc.)</td>
           </tr>
 
           <tr>
