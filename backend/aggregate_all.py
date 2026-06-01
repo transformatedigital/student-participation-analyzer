@@ -743,7 +743,7 @@ def write_dashboard_html(per_student, classes, agg_data):
             <td><strong>A1</strong> Student's Preparation</td><td class="policy-pct">7.5%</td><td>Questions to students</td>
           </tr>
           <tr class="policy-A-main"><td><strong>A2</strong> Student's Participation</td><td class="policy-pct">7.5%</td><td>Questions to Professor</td></tr>
-          <tr class="policy-A-main"><td><strong>A3</strong> Student's Attendance</td><td class="policy-pct">5%</td><td>—</td></tr>
+          <tr class="policy-A-main"><td><strong>A3</strong> Student's Attendance</td><td class="policy-pct">5%</td><td>Attendance recorded per class session</td></tr>
 
           <tr>
             <td rowspan="2" class="policy-letter">B</td>
