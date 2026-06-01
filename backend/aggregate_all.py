@@ -747,9 +747,9 @@ def write_dashboard_html(per_student, classes, agg_data):
 
           <tr>
             <td rowspan="2" class="policy-letter">B</td>
-            <td rowspan="2" class="policy-desc">Pop-up Quiz &amp; Worksheets / Team discussion</td>
+            <td rowspan="2" class="policy-desc">Pop-up Quiz / Team discussion</td>
             <td rowspan="2" class="policy-weight">25%</td>
-            <td><strong>B1</strong> Pop-up Quiz &amp; Worksheets</td><td class="policy-pct">15.0%</td><td>Pop-up Quiz 1 (date), Pop-up Quiz 2 (date), Pop-up Quiz 3 (June 2)</td>
+            <td><strong>B1</strong> Pop-up Quiz</td><td class="policy-pct">15.0%</td><td>B1.1 Pop-up Quiz 1 (date), B1.2 Pop-up Quiz 2 (date), B1.3 Pop-up Quiz 3 (June 2)</td>
           </tr>
           <tr><td><strong>B2</strong> Team discussion</td><td class="policy-pct">10.0%</td><td>Case Study — Team A: Chilaka, Aryang · Team B: Sthepen, Mega, Grace</td></tr>
 
@@ -796,7 +796,7 @@ def write_dashboard_html(per_student, classes, agg_data):
     </button>
     <button class="main-tab disabled" onclick="showMainTab(this, 'B')">
       <span class="tab-letter">B</span>
-      <span class="tab-text">Pop-up Quiz &amp; Worksheets / Team discussion<br><small>25% · Coming soon</small></span>
+      <span class="tab-text">Pop-up Quiz / Team discussion<br><small>25% · Coming soon</small></span>
     </button>
     <button class="main-tab disabled" onclick="showMainTab(this, 'C')">
       <span class="tab-letter">C</span>
@@ -974,8 +974,8 @@ def write_dashboard_html(per_student, classes, agg_data):
   <!-- TAB B CONTENT -->
   <div id="main-tab-B" class="main-tab-content">
     <div class="section">
-      <h2 style="color:#1e293b;">📊 Component B — Pop-up Quiz &amp; Worksheets / Team discussion (25%)</h2>
-      <p style="color:#64748b; font-size:13px; margin-bottom:16px;">B.1 Pop-up Quiz &amp; Worksheets (15%) + B.2 Team discussion (10%)</p>
+      <h2 style="color:#1e293b;">📊 Component B — Pop-up Quiz / Team discussion (25%)</h2>
+      <p style="color:#64748b; font-size:13px; margin-bottom:16px;">B.1 Pop-up Quiz (15%) + B.2 Team discussion (10%)</p>
 
       <div class="form-buttons">
         <a href="https://forms.gle/jXEW3uPj94wppenQ6" target="_blank" rel="noopener" class="form-btn form-btn-b1">
