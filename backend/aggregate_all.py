@@ -862,7 +862,7 @@ def write_dashboard_html(per_student, classes, agg_data):
           <tr class="recorded"><td>6</td><td>Tue, Apr 7</td><td>Class session</td><td><span class="status-pill status-rec">✅ Recorded</span></td><td><a href="classes/2026-04-07.html">View detail →</a></td></tr>
           <tr class="recorded"><td>7</td><td>Tue, Apr 14</td><td>GTC Lecture 6 + Presentations</td><td><span class="status-pill status-rec">✅ Recorded</span></td><td><a href="classes/2026-04-14.html">View detail →</a></td></tr>
           <tr class="recorded"><td>8</td><td>Tue, Apr 21</td><td>Class session</td><td><span class="status-pill status-rec">✅ Recorded</span></td><td><a href="classes/2026-04-21.html">View detail →</a></td></tr>
-          <tr><td>9</td><td>Tue, Apr 28</td><td>Lecture L9</td><td><span class="status-pill status-notrec">Not recorded</span></td><td>—</td></tr>
+          <tr class="recorded"><td>9</td><td>Tue, Apr 28</td><td>Class session</td><td><span class="status-pill status-rec">✅ Recorded</span></td><td><a href="classes/2026-04-28.html">View detail →</a></td></tr>
           <tr class="noclass"><td>10</td><td>Tue, May 5</td><td>Holiday (no class) · ICP V4 submission</td><td><span class="status-pill status-noclass">🚫 No class · Holiday</span></td><td>—</td></tr>
           <tr class="recorded"><td>11</td><td>Tue, May 12</td><td>Class session</td><td><span class="status-pill status-rec">✅ Recorded</span></td><td><a href="classes/2026-05-12.html">View detail →</a></td></tr>
           <tr class="recorded"><td>12</td><td>Tue, May 19</td><td>Class session</td><td><span class="status-pill status-rec">✅ Recorded</span></td><td><a href="classes/2026-05-19.html">View detail →</a></td></tr>
