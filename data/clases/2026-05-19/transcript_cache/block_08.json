@@ -1,0 +1,482 @@
+{
+  "block": 8,
+  "time_range": "35:00-40:00",
+  "utterances": [
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay guys, we're not gonna finish today, so just leave it where it is.",
+      "timestamp_abs": "35:07"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I want you to take a picture, take a picture to this.",
+      "timestamp_abs": "35:11"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "In my hand.",
+      "timestamp_abs": "35:15"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We're not gonna finish today.",
+      "timestamp_abs": "35:17"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I just want to finish this class maybe in 10 or 15 minutes from now, but I wanted to, I want to explain to you what you're gonna do next week.",
+      "timestamp_abs": "35:18"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So next week we're gonna, we have two things to do next week: our quiz discussion, quiz and ICP discussion.",
+      "timestamp_abs": "35:25"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because next week I'm gonna bring my comment of your ICP and we're gonna compare it to what you've been writing in your quizzes. So that's one activity we're gonna do next week.",
+      "timestamp_abs": "35:30"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Very funny.",
+      "timestamp_abs": "35:38"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And another activity very, very, very funny is this.",
+      "timestamp_abs": "35:40"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We're gonna exercise not with our ICP topic, with real other product projects who help you understand better so that you can apply this understanding into your own ICP topics.",
+      "timestamp_abs": "35:43"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we're gonna do one initial exercise is, which is very straightforward. I try to write it in a very easy way.",
+      "timestamp_abs": "35:53"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, in this case.",
+      "timestamp_abs": "35:59"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you, team one has case one, team two has case three, right?",
+      "timestamp_abs": "36:01"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "36:04"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we're gonna write here the symptoms that we read from that case and the symptoms that we read from that case, versus the root cause that every researcher team found from each case.",
+      "timestamp_abs": "36:05"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, that's one table that I want you to fill up.",
+      "timestamp_abs": "36:18"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the other table we're gonna fill out and this one will take time.",
+      "timestamp_abs": "36:22"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But since we know already gate 1.1 and gateway, gateway one or gate one in gate two.",
+      "timestamp_abs": "36:25"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We're gonna try to recreate if this was your problem as a global technology commercialization project in GDI, what will we would have done?",
+      "timestamp_abs": "36:33"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So what would have been activity one, activity two, activity three, before gate one and before gate two?",
+      "timestamp_abs": "36:44"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So remember I explained to you today this, right?",
+      "timestamp_abs": "36:51"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So we're gonna do, ah, what would have been contextual intelligence and market scanning in this case?",
+      "timestamp_abs": "36:56"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What would have been opportunity spotting in this case?",
+      "timestamp_abs": "37:01"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What would have been opportunity generation in this case?",
+      "timestamp_abs": "37:04"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that will help us, even if my writing here is not perfect, I want to confirm you guys actually understood and you can apply this.",
+      "timestamp_abs": "37:07"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In that case.",
+      "timestamp_abs": "37:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Can I get file?",
+      "timestamp_abs": "37:17"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We're gonna get this file, but, but we're gonna do it next week.",
+      "timestamp_abs": "37:18"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We're gonna do it together.",
+      "timestamp_abs": "37:22"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you, I'm gonna ask, but this file is still a draft, but I can share it, it's okay.",
+      "timestamp_abs": "37:23"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I'm gonna, I'm gonna ask, since I have it, so since I will upload into the KLMS.",
+      "timestamp_abs": "37:28"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Oh, you will.",
+      "timestamp_abs": "37:33"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This file, we will upload this file.",
+      "timestamp_abs": "37:34"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We will upload the, the case file.",
+      "timestamp_abs": "37:37"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The case file that I printed out so that you can read, read it.",
+      "timestamp_abs": "37:41"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "37:45"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What else do you want me to upload?",
+      "timestamp_abs": "37:46"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "This one.",
+      "timestamp_abs": "37:47"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, that one.",
+      "timestamp_abs": "37:49"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "What is that?",
+      "timestamp_abs": "37:50"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The gateway.",
+      "timestamp_abs": "37:51"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "37:52"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Those three, I will upload.",
+      "timestamp_abs": "37:54"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one. Take a picture.",
+      "timestamp_abs": "37:56"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "37:58"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "My very ugly script.",
+      "timestamp_abs": "37:59"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Next week I will bring the table, but I think I will bring the table too so we can print it.",
+      "timestamp_abs": "38:01"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the idea is that you don't have to do a homework, we're gonna create it together here, okay?",
+      "timestamp_abs": "38:06"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "No.",
+      "timestamp_abs": "38:10"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Ah.",
+      "timestamp_abs": "38:11"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "38:11"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "38:13"
+    },
+    {
+      "timestamp": "03:13",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "But but professor, uh,",
+      "timestamp_abs": "38:13"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "I mean, in terms of the, of how to fill the, the, the, the first sensing?",
+      "timestamp_abs": "38:15"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Isn't it already written all in this?",
+      "timestamp_abs": "38:22"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "38:25"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "The, this one, the symptoms and the problems?",
+      "timestamp_abs": "38:27"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "The prefix.",
+      "timestamp_abs": "38:30"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "This one?",
+      "timestamp_abs": "38:32"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "No, no, the, the, the others, the one in your draft.",
+      "timestamp_abs": "38:33"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It tells you the theory.",
+      "timestamp_abs": "38:37"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Contextual intelligence and market scanning.",
+      "timestamp_abs": "38:39"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "So, what could be the contextual intelligence and market scanning for, for this case?",
+      "timestamp_abs": "38:42"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Uh, what you are, you have the, you have case one or case three?",
+      "timestamp_abs": "38:48"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Case one.",
+      "timestamp_abs": "38:52"
+    },
+    {
+      "timestamp": "03:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I would say, for example, market scanning, these guys entered and they started seeing for some kind of, uh,",
+      "timestamp_abs": "38:55"
+    }
+  ]
+}

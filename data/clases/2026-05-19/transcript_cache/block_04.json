@@ -1,0 +1,585 @@
+{
+  "block": 4,
+  "time_range": "00:00-05:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I was just saying I'm gonna eliminate and they didn't fix it.",
+      "timestamp_abs": "15:00"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The mosquitos kept coming to the memorial, right? To the Washington Memorial.",
+      "timestamp_abs": "15:03"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So, I kept thinking about that, is it really the effective, or are we really shaping the problem wrongly?",
+      "timestamp_abs": "15:06"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then that's what I was trying to keep trying to say, how did Korea fix, but they didn't fix it. We know they don't fix it, it's still there.",
+      "timestamp_abs": "15:12"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "but how did they relatively reduce the amount of cases?",
+      "timestamp_abs": "15:18"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What was the key part I kept studying about that?",
+      "timestamp_abs": "15:23"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and I came up with the news that it was more like, rather than a software related or telecommunication related strategy.",
+      "timestamp_abs": "15:25"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It was like a really down down, deep down, policial, eh, like FBI kind of investigation strategy.",
+      "timestamp_abs": "15:32"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "where they kind of start started pinpointing what was the value chain of the criminal activity around around the identification fraud related to that.",
+      "timestamp_abs": "15:41"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Even in my country, we do it. We try to to to to colonize.",
+      "timestamp_abs": "15:52"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "where the scammers, you know.",
+      "timestamp_abs": "15:58"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Ah, security.",
+      "timestamp_abs": "16:00"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, the thing is when they got this very huge, um, how I'm going to say, gang, they were recruiting Korean young people.",
+      "timestamp_abs": "16:01"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Students and so like that.",
+      "timestamp_abs": "16:10"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a very big case, it was in the news all over, it was like one year ago.",
+      "timestamp_abs": "16:11"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I will send you some links about that.",
+      "timestamp_abs": "16:15"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I think it it serves as a reflection, like, ah, maybe the way we have to frame the problem.",
+      "timestamp_abs": "16:17"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Maybe it affected, maybe it doesn't.",
+      "timestamp_abs": "16:24"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I when I saw this, I like, I need to discover about this.",
+      "timestamp_abs": "16:26"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "That.",
+      "timestamp_abs": "16:30"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, okay.",
+      "timestamp_abs": "16:31"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Like, in my country, in Nigeria, um, the last two months, the, they raided a house, they had over 273 Chinese, inside the build a, a full building doing.",
+      "timestamp_abs": "16:32"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It was a call center of fishing.",
+      "timestamp_abs": "16:47"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah, this is the just their base.",
+      "timestamp_abs": "16:49"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "They raided the place and arrested over 273 Chinese.",
+      "timestamp_abs": "16:51"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a gang.",
+      "timestamp_abs": "16:55"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah, we have thousands in our country, we have a lot.",
+      "timestamp_abs": "16:56"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But that's why we need to be proactive, that is reactive.",
+      "timestamp_abs": "16:58"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "17:02"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You come after the...",
+      "timestamp_abs": "17:03"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yes, yes, yes.",
+      "timestamp_abs": "17:04"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why then we need to really understand the difference I think in your analysis.",
+      "timestamp_abs": "17:04"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You need to say reactive includes this, proactive includes this.",
+      "timestamp_abs": "17:08"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So probably you need to prove like reactive is not enough, proactive, then maybe very, very well we need to really discuss what's gonna be the impact of reactive, the impact of proactive.",
+      "timestamp_abs": "17:12"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because probably the expected outcome of proactive is definitely not as aggressive as reactive, right? It has some limitation.",
+      "timestamp_abs": "17:22"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "And within that limitation is and then within that limitation my question is, is the problem work a collaboration opportunity, within that limitation.",
+      "timestamp_abs": "17:32"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "17:42"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "17:43"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "17:44"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, next one, confirm the identified technology.",
+      "timestamp_abs": "17:45"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Confirm identified technology.",
+      "timestamp_abs": "17:49"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Verify if the technology is technically mature and conceptually.",
+      "timestamp_abs": "17:50"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Contextually, contextually adaptable.",
+      "timestamp_abs": "17:55"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Distinguishing between problems, solution versus technology and the product.",
+      "timestamp_abs": "17:58"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is another, then we need to just really understand.",
+      "timestamp_abs": "18:04"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is the potential real technology, technology transfer product, the elements that we're gonna be transferring into the innovation journey.",
+      "timestamp_abs": "18:07"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "And my counterpart, my partner, the resource, the technology source, um, how mature they are? Is it contextually adaptable?",
+      "timestamp_abs": "18:15"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For example, in, in, in Megascale, where Megabyte didn't hear you, and next week I'm gonna give.",
+      "timestamp_abs": "18:24"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Because I wanted to confirm everybody's final version, is it the drive I will ask you?",
+      "timestamp_abs": "18:29"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because right now, again, I don't know which one is the last.",
+      "timestamp_abs": "18:34"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Some of you I know, some of you I don't know.",
+      "timestamp_abs": "18:36"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "GRACE",
+      "text": "Grace, I don't know.",
+      "timestamp_abs": "18:38"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Some of you I didn't know.",
+      "timestamp_abs": "18:39"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "MEGA",
+      "text": "You I know.",
+      "timestamp_abs": "18:40"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The version four, but some of you didn't label the files, so again.",
+      "timestamp_abs": "18:42"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want to review.",
+      "timestamp_abs": "18:44"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "18:46"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "GRACE",
+      "text": "You too.",
+      "timestamp_abs": "18:46"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "I want a.",
+      "timestamp_abs": "18:47"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "18:48"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I told them please put it all for in one like previous versions one folder, only the version you want me to review in that folder.",
+      "timestamp_abs": "18:49"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I will review you.",
+      "timestamp_abs": "18:58"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "GRACE",
+      "text": "So, I think Grace also, you I couldn't understand.",
+      "timestamp_abs": "18:59"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I saw the modified.",
+      "timestamp_abs": "19:02"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "CHILAKA",
+      "text": "Also Chilaka in her folder, there is a copy.",
+      "timestamp_abs": "19:03"
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "CHILAKA",
+      "text": "So I do not just Chilaka file is this Mega file.",
+      "timestamp_abs": "19:08"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "I'll show you.",
+      "timestamp_abs": "19:11"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, okay.",
+      "timestamp_abs": "19:12"
+    },
+    {
+      "timestamp": "04:13",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Just the.",
+      "timestamp_abs": "19:13"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And please organize the files because the day I sit down to review that.",
+      "timestamp_abs": "19:14"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That should be the final.",
+      "timestamp_abs": "19:17"
+    },
+    {
+      "timestamp": "04:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If I have to sit down for, I always take like one hour for each one, or 30, 40 minutes for each one, it's five hours of my time at least.",
+      "timestamp_abs": "19:18"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want to sit down to the real file.",
+      "timestamp_abs": "19:25"
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "So Mercy.",
+      "timestamp_abs": "19:29"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "19:30"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So verify it's the candidate.",
+      "timestamp_abs": "19:31"
+    },
+    {
+      "timestamp": "04:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This and then finally alignment.",
+      "timestamp_abs": "19:33"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Map I here I use KIST, but it's just an example, right?",
+      "timestamp_abs": "19:35"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "KIST, Korean tech capabilities to the GDI partner needs in this case is you or your institutions and early policy and market analysis.",
+      "timestamp_abs": "19:38"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this final alignment is very important because we need to tweak it in terms of how the capabilities of the source and I'm using this an example are really matching the needs.",
+      "timestamp_abs": "19:46"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why I mentioned today, sometimes, and I'm gonna just make it a point.",
+      "timestamp_abs": "19:57"
+    }
+  ]
+}

@@ -865,9 +865,9 @@ def write_dashboard_html(per_student, classes, agg_data):
           <tr class="recorded"><td>8</td><td>Tue, Apr 21</td><td>Class session</td><td><span class="status-pill status-rec">✅ Recorded</span></td><td><a href="classes/2026-04-21.html">View detail →</a></td></tr>
           <tr><td>9</td><td>Tue, Apr 28</td><td>Lecture L9</td><td><span class="status-pill status-notrec">Not recorded</span></td><td>—</td></tr>
           <tr class="noclass"><td>10</td><td>Tue, May 5</td><td>Holiday (no class) · ICP V4 submission</td><td><span class="status-pill status-noclass">🚫 No class · Holiday</span></td><td>—</td></tr>
-          <tr><td>11</td><td>Tue, May 12</td><td><em>Upcoming</em></td><td><span class="status-pill status-pending">⏳ Pending</span></td><td>—</td></tr>
-          <tr><td>12</td><td>Tue, May 19</td><td><em>Upcoming</em></td><td><span class="status-pill status-pending">⏳ Pending</span></td><td>—</td></tr>
-          <tr><td>13</td><td>Tue, May 26</td><td><em>Upcoming</em></td><td><span class="status-pill status-pending">⏳ Pending</span></td><td>—</td></tr>
+          <tr class="recorded"><td>11</td><td>Tue, May 12</td><td>Class session</td><td><span class="status-pill status-rec">✅ Recorded</span></td><td><a href="classes/2026-05-12.html">View detail →</a></td></tr>
+          <tr class="recorded"><td>12</td><td>Tue, May 19</td><td>Class session</td><td><span class="status-pill status-rec">✅ Recorded</span></td><td><a href="classes/2026-05-19.html">View detail →</a></td></tr>
+          <tr class="recorded"><td>13</td><td>Tue, May 26</td><td>Class session</td><td><span class="status-pill status-rec">✅ Recorded</span></td><td><a href="classes/2026-05-26.html">View detail →</a></td></tr>
           <tr><td>14</td><td>Tue, Jun 2</td><td><em>Upcoming</em></td><td><span class="status-pill status-pending">⏳ Pending</span></td><td>—</td></tr>
           <tr><td>15</td><td>Tue, Jun 9</td><td><em>Upcoming</em></td><td><span class="status-pill status-pending">⏳ Pending</span></td><td>—</td></tr>
           <tr><td>16</td><td>Tue, Jun 16</td><td><em>Upcoming</em></td><td><span class="status-pill status-pending">⏳ Pending</span></td><td>—</td></tr>
@@ -883,19 +883,19 @@ def write_dashboard_html(per_student, classes, agg_data):
           <tr><td>Tue, Apr 7 (Wk 6)</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td><td class="absent-permission" title="Absent with permission — full attendance credit, no Prep/Part data">⚠ Absent (Permission)</td></tr>
           <tr><td>Tue, Apr 14 (Wk 7) — Presentations</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td></tr>
           <tr><td>Tue, Apr 21 (Wk 8)</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td></tr>
-          <tr class="pending-row"><td>Tue, May 12 (Wk 11)</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td></tr>
-          <tr class="pending-row"><td>Tue, May 19 (Wk 12)</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td></tr>
-          <tr class="pending-row"><td>Tue, May 26 (Wk 13)</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td></tr>
+          <tr><td>Tue, May 12 (Wk 11)</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td></tr>
+          <tr><td>Tue, May 19 (Wk 12)</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td></tr>
+          <tr><td>Tue, May 26 (Wk 13)</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td><td class="ok">✓</td></tr>
           <tr class="pending-row"><td>Tue, Jun 2 (Wk 14)</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td></tr>
           <tr class="pending-row"><td>Tue, Jun 9 (Wk 15)</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td></tr>
           <tr class="pending-row"><td>Tue, Jun 16 (Wk 16)</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td><td class="pending">—</td></tr>
         </tbody>
         <tfoot>
-          <tr><td>Total present (recorded)</td><td class="total">5/5</td><td class="total">5/5</td><td class="total">5/5</td><td class="total">5/5</td><td class="total">4/5</td></tr>
+          <tr><td>Total present (recorded)</td><td class="total">8/8</td><td class="total">8/8</td><td class="total">8/8</td><td class="total">8/8</td><td class="total">7/8</td></tr>
         </tfoot>
       </table>
       <p style="color:#94a3b8; font-size:12px; margin-top:10px; font-style:italic;">
-        — Empty cells (—) in weeks 11–16 will be updated once classes are recorded and processed.
+        — Empty cells (—) in weeks 14–16 will be updated once classes are held and processed.
       </p>
     </div>
   </div>

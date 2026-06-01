@@ -1,0 +1,91 @@
+{
+  "block": 3,
+  "time_range": "10:00-15:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Next one, right?",
+      "timestamp_abs": "10:00"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "10:03"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Number four.",
+      "timestamp_abs": "10:04"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Three to something for new neural now.",
+      "timestamp_abs": "10:05"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "For exciting uses, beneficiaries, decision makers.",
+      "timestamp_abs": "10:08"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "How do you see constraints and soldable boundaries with local stakeholders?",
+      "timestamp_abs": "10:13"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is kind of what you did. You said, okay, I need to call. I called the ministry of Sheela, you had a meeting with the federal minister, with the with the different uh presidents of the agencies.",
+      "timestamp_abs": "10:19"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you were trying to find, is our needed about this, is it what you're still on the process, okay?",
+      "timestamp_abs": "10:28"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So all of this again, it's not linear. It's not one, two, three, four. No.",
+      "timestamp_abs": "10:34"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's probably very uh iterative.",
+      "timestamp_abs": "10:38"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We go to three and four, we go back because we realize, ah, here we realize something that probably is it impacts the scanning that we need, or probably uhm",
+      "timestamp_abs": "10:41"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And number five.",
+      "timestamp_abs": "10:52"
+    }
+  ]
+}

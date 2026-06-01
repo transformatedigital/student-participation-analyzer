@@ -1,0 +1,28 @@
+{
+  "block": 10,
+  "time_range": "45:00-50:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, or any report of uh, for example, uh report, for example, in our country,",
+      "timestamp_abs": "45:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "sometimes the controller, there is the education controller or the education, uh,",
+      "timestamp_abs": "45:06"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "how do you call this? The um, I'm sorry. What is called?",
+      "timestamp_abs": "45:12"
+    }
+  ]
+}

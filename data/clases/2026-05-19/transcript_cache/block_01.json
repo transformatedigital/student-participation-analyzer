@@ -1,0 +1,267 @@
+{
+  "block": 1,
+  "time_range": "00:00-05:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, professor said that. So, I'm going to just follow that.",
+      "timestamp_abs": "00:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No.",
+      "timestamp_abs": "00:02"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because I don't know Rwanda. I don't know Congo. I don't know Nigeria. I know my own experience, okay? But the answer has to come from you. That's the tricky part, okay?",
+      "timestamp_abs": "00:03"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The other thing I wanted to use, I want to use the next 45 minutes to explain a little bit further this. So, until now, in the earlier part of the class, I explained the very big level, big level of the exact gate point, okay? The let's say, what I call the gate point, the decision point, okay?",
+      "timestamp_abs": "00:13"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But if we see this in a process flow, each one of the gates that say, this is gate one. This is diamond one, diamond two, diamond three, okay?",
+      "timestamp_abs": "00:29"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We every, every early part before we reach a gate, this is called stage one, stage two, stage three, stage four, okay?",
+      "timestamp_abs": "00:38"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Each stage each stage has a list. That's why I I tried to make a list of I'm sorry.",
+      "timestamp_abs": "00:45"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I tried to make a list where each stage has where each stage has a list of potential, this is step. If I, I am trying to build it and I I will even, I want to consult it with other professors who are doing all these projects with you, so that we have an official kind of more official framework for our process. But since you're in the first batch and while teaching you, I realized ITB is not enough, we need more detail process like that. So, I'm building this so that it it allows your batch and the previous next batches coming after you to have a more specific guideline.",
+      "timestamp_abs": "01:02"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, what I sent is the first stage, I call it sensing and it's stage sensing and it's like networking and opportunity discovery.",
+      "timestamp_abs": "01:39"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, that's why I wanted to share with you that I did this process.",
+      "timestamp_abs": "01:48"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But this is a very complex table that I couldn't teach you today because I did this week with the with the",
+      "timestamp_abs": "01:55"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "with the",
+      "timestamp_abs": "02:00"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "You know the triangle.",
+      "timestamp_abs": "02:04"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, it was a joke that it was just my thing, okay? There you go. So, this is a very big table where I'm trying to show, okay, step one.",
+      "timestamp_abs": "02:07"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "As I show this.",
+      "timestamp_abs": "02:20"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, So, step one is okay, demand from demand discovery to problem definition. You guys are right now iterating within the demand discovery towards the problem definition, right?",
+      "timestamp_abs": "02:23"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, the key guide in question is, is this problem worth solving?",
+      "timestamp_abs": "02:37"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "What your strategic intent is building prospect network, sensing and contextual intelligence. I'm trying to build the right English is not my first name, my first language either. So, I'm trying to build a nice keywords there that can help us summarize okay, if we're trying to say, this problem, what's going to be our strategic intent in this first stage, right? So, again, thinking about our initial stage is to prove our problem is real.",
+      "timestamp_abs": "02:43"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Then at this point, we are just trying to build a prospect network of potential partners, potential stakeholders, whether it is at home, also, like you are starting to think out within, is it going to be internally a problem for my R&D? Is it going to be related to the energy department? So, it's going to is it going to be a problem for the public utility in Chilaka.",
+      "timestamp_abs": "03:09"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Chilaka.",
+      "timestamp_abs": "03:28"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Chilaka.",
+      "timestamp_abs": "03:29"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "03:30"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Chilaka. Okay? So, I call this, if many of you are engineers already, so you know about processing, right? So, I tried to draw a very simplified process. I really very simplified main process and I thought the level one, the very major stage, stage one, I'm going to call it sensing.",
+      "timestamp_abs": "03:31"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because we're just like sensing. We're just trying to, you know, like connect the antenna and then try to say, what is the possible, right? So, sensing. And this is the call networking and opportunity discovery. So, what I did for this stage is try to write down what what potential activities or sub-processes could be contained within this stage.",
+      "timestamp_abs": "03:51"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think this is a better explanation than the explanations I gave you earlier on. Early on, I gave you big conceptual explanations, but I realized it's not so clear. So, I came back to this one. So, I'm going to go one by one trying to see, okay? So,",
+      "timestamp_abs": "04:16"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Aryang, please read number one.",
+      "timestamp_abs": "04:32"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "04:34"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "04:35"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You moved and now you get number one.",
+      "timestamp_abs": "04:36"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Please read the first one. Is it big enough?",
+      "timestamp_abs": "04:38"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, big enough.",
+      "timestamp_abs": "04:40"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Contextual.",
+      "timestamp_abs": "04:41"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Should I read?",
+      "timestamp_abs": "04:42"
+    },
+    {
+      "timestamp": "04:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, please.",
+      "timestamp_abs": "04:42"
+    },
+    {
+      "timestamp": "04:43",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Contextual intelligence or market scanning, identify country-level socio-economy data, policy gaps, demand side pain points, infrastructure constraints, and regulatory issue.",
+      "timestamp_abs": "04:43"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "04:57"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, any of your problems you're underlying",
+      "timestamp_abs": "04:58"
+    }
+  ]
+}

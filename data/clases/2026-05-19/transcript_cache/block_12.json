@@ -1,0 +1,234 @@
+{
+  "block": 12,
+  "time_range": "55:00-60:00",
+  "utterances": [
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Did you already finish?",
+      "timestamp_abs": "55:01"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Ah no.",
+      "timestamp_abs": "55:02"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "What about your first draft?",
+      "timestamp_abs": "55:02"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, I'm sorry.",
+      "timestamp_abs": "55:03"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "But did you start already?",
+      "timestamp_abs": "55:04"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I did. Yeah. I started. Yeah.",
+      "timestamp_abs": "55:05"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Okay. And you're you're going to keep the big",
+      "timestamp_abs": "55:06"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I mean, I'm trying to make it like smaller, so it's not like that big, because it's so big.",
+      "timestamp_abs": "55:07"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "And what would you recommend to yourself?",
+      "timestamp_abs": "55:09"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I mean,",
+      "timestamp_abs": "55:10"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "I would be like, what would you recommend from this experience?",
+      "timestamp_abs": "55:10"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah. I mean, I would try to focus more on certain elements than just, you know, the whole thing because it's so big.",
+      "timestamp_abs": "55:11"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay. What about the rest?",
+      "timestamp_abs": "55:15"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "I- Yeah, I have a big topic and I've been trying to narrow it down, too. Um,",
+      "timestamp_abs": "55:15"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Yeah. And what are you doing to narrow it down?",
+      "timestamp_abs": "55:18"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "I'm trying to focus on, um, only looking at women in STEM, and not trying to look at, you know, just, um, I guess, like, uh, general population, so that would just be, you know, a smaller population size.",
+      "timestamp_abs": "55:19"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Okay. What about you, Mega?",
+      "timestamp_abs": "55:24"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh, mine is not huge, but it's very vague. So I'm trying to, uh, focus on one specific part.",
+      "timestamp_abs": "55:25"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "And what is that part?",
+      "timestamp_abs": "55:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "So, mine is about like innovation policy, which is very big. So, uh, I'm going to look into the specifics about like government intervention into certain projects related to like, um, green energy, so it will be just one type of energy not all.",
+      "timestamp_abs": "55:30"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Okay. Very nice. And your data set, is it specific to this?",
+      "timestamp_abs": "55:38"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Um, I'm still trying to like connect data to it. Um, I was hoping to use like",
+      "timestamp_abs": "55:40"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, but don't just, that's what I'm saying. Don't just pick something and then try to find data because it's very common to do that like a lot of people like, you know, but you have the idea and then you're trying to prove it, right?",
+      "timestamp_abs": "55:43"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "I was hoping, yeah, I was hoping to find a paper and find a data in it. So that makes it easier.",
+      "timestamp_abs": "55:49"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's a good approach. So you're looking into some paper and say, oh, okay, this paper they use this data.",
+      "timestamp_abs": "55:52"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "55:55"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right. And then you adapt it to your question and you check off your question.",
+      "timestamp_abs": "55:55"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "55:58"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, perfect. Yes. That's a that's a perfect approach. What about you, uh, Chilaka?",
+      "timestamp_abs": "55:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Um, mine is actually very specific. Uh, I have focused on only",
+      "timestamp_abs": "55:59"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Perfect.",
+      "timestamp_abs": "56:00"
+    }
+  ]
+}

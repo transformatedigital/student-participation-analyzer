@@ -1,0 +1,2816 @@
+{
+  "block": 7,
+  "time_range": "30:00-35:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So this is just, yeah",
+      "timestamp_abs": "30:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So",
+      "timestamp_abs": "30:02"
+    },
+    {
+      "timestamp": "00:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "30:03"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "any questions?",
+      "timestamp_abs": "30:09"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "What if someone doesn't have a...",
+      "timestamp_abs": "30:10"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "no questions",
+      "timestamp_abs": "30:10"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so",
+      "timestamp_abs": "30:11"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you have to send",
+      "timestamp_abs": "30:11"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the solution to",
+      "timestamp_abs": "30:12"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this week",
+      "timestamp_abs": "30:13"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "the solution",
+      "timestamp_abs": "30:13"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And also send",
+      "timestamp_abs": "30:14"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Like what is it about?",
+      "timestamp_abs": "30:14"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "me",
+      "timestamp_abs": "30:15"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the other",
+      "timestamp_abs": "30:15"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the next class",
+      "timestamp_abs": "30:16"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like next Tuesday is",
+      "timestamp_abs": "30:16"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "So we send it by email or",
+      "timestamp_abs": "30:17"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "30:18"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No no no no",
+      "timestamp_abs": "30:18"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No no no",
+      "timestamp_abs": "30:19"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will collect",
+      "timestamp_abs": "30:19"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the solution",
+      "timestamp_abs": "30:20"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "in next class",
+      "timestamp_abs": "30:20"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "like a hard copy",
+      "timestamp_abs": "30:21"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "30:22"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay",
+      "timestamp_abs": "30:22"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So just",
+      "timestamp_abs": "30:22"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "give me that",
+      "timestamp_abs": "30:23"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "30:23"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay",
+      "timestamp_abs": "30:24"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Okay",
+      "timestamp_abs": "30:24"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Next class",
+      "timestamp_abs": "30:24"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "next class",
+      "timestamp_abs": "30:25"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Next class",
+      "timestamp_abs": "30:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "30:26"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "And is it the same for all three solutions?",
+      "timestamp_abs": "30:26"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, same",
+      "timestamp_abs": "30:27"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And if",
+      "timestamp_abs": "30:27"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "30:28"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "if it is the same",
+      "timestamp_abs": "30:28"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "then next class you will just",
+      "timestamp_abs": "30:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "submit it",
+      "timestamp_abs": "30:30"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay",
+      "timestamp_abs": "30:30"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "30:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Okay",
+      "timestamp_abs": "30:31"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "30:31"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the problem",
+      "timestamp_abs": "30:32"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "in that one?",
+      "timestamp_abs": "30:33"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh",
+      "timestamp_abs": "30:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "30:34"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the problem?",
+      "timestamp_abs": "30:34"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh",
+      "timestamp_abs": "30:35"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "30:35"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "The problem for this one is the...",
+      "timestamp_abs": "30:35"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's a problem with the [inaudible]",
+      "timestamp_abs": "30:36"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The problem is that",
+      "timestamp_abs": "30:37"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "It's a problem",
+      "timestamp_abs": "30:37"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the light doesn't",
+      "timestamp_abs": "30:38"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "because it's just two points",
+      "timestamp_abs": "30:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "30:39"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No",
+      "timestamp_abs": "30:39"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It should",
+      "timestamp_abs": "30:39"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "you want to make it",
+      "timestamp_abs": "30:40"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "at two focal points",
+      "timestamp_abs": "30:40"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "30:41"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes",
+      "timestamp_abs": "30:41"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So if you connect",
+      "timestamp_abs": "30:42"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "And so it's not possible to have",
+      "timestamp_abs": "30:42"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you connect",
+      "timestamp_abs": "30:43"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the light",
+      "timestamp_abs": "30:43"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "to there",
+      "timestamp_abs": "30:44"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "then the",
+      "timestamp_abs": "30:44"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the light will",
+      "timestamp_abs": "30:45"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "like",
+      "timestamp_abs": "30:45"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "it will be just",
+      "timestamp_abs": "30:46"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "focused on",
+      "timestamp_abs": "30:46"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this one",
+      "timestamp_abs": "30:47"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Right",
+      "timestamp_abs": "30:47"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah",
+      "timestamp_abs": "30:47"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Only this one",
+      "timestamp_abs": "30:48"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yeah",
+      "timestamp_abs": "30:48"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It will not",
+      "timestamp_abs": "30:49"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "be transferred to",
+      "timestamp_abs": "30:49"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the next point",
+      "timestamp_abs": "30:50"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "30:50"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the problem is",
+      "timestamp_abs": "30:51"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "not just",
+      "timestamp_abs": "30:51"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "connect",
+      "timestamp_abs": "30:52"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the light",
+      "timestamp_abs": "30:52"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "to the focal point",
+      "timestamp_abs": "30:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It should be",
+      "timestamp_abs": "30:53"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "transferred from one point",
+      "timestamp_abs": "30:54"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "to another",
+      "timestamp_abs": "30:54"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes",
+      "timestamp_abs": "30:55"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah",
+      "timestamp_abs": "30:55"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So solution",
+      "timestamp_abs": "30:56"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not this one",
+      "timestamp_abs": "30:56"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one",
+      "timestamp_abs": "30:57"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You said something",
+      "timestamp_abs": "30:57"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the problem",
+      "timestamp_abs": "30:58"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No solution for this one",
+      "timestamp_abs": "30:58"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "No solution for this one",
+      "timestamp_abs": "30:59"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No solution for this one",
+      "timestamp_abs": "30:59"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Right",
+      "timestamp_abs": "31:00"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Why?",
+      "timestamp_abs": "31:00"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Because the...",
+      "timestamp_abs": "31:01"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "31:01"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the problem?",
+      "timestamp_abs": "31:02"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "The problem is that you just want it to be...",
+      "timestamp_abs": "31:02"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's just [inaudible]",
+      "timestamp_abs": "31:03"
+    },
+    {
+      "timestamp": "01:03",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the problem?",
+      "timestamp_abs": "31:03"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So this is still the first problem",
+      "timestamp_abs": "31:04"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "31:04"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we're still",
+      "timestamp_abs": "31:04"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "in the first problem",
+      "timestamp_abs": "31:05"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "31:05"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the problem with this?",
+      "timestamp_abs": "31:05"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Still the first one",
+      "timestamp_abs": "31:06"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Still first one",
+      "timestamp_abs": "31:06"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Still the first problem",
+      "timestamp_abs": "31:07"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "31:07"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Then what is the problem",
+      "timestamp_abs": "31:07"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "with this picture?",
+      "timestamp_abs": "31:08"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So the light from [inaudible] light box",
+      "timestamp_abs": "31:08"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "From two",
+      "timestamp_abs": "31:09"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It needs to go into two focal points",
+      "timestamp_abs": "31:09"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes",
+      "timestamp_abs": "31:10"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the problem is that",
+      "timestamp_abs": "31:10"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this one",
+      "timestamp_abs": "31:11"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "only has one",
+      "timestamp_abs": "31:11"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "focal point",
+      "timestamp_abs": "31:12"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes",
+      "timestamp_abs": "31:12"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "31:12"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yeah",
+      "timestamp_abs": "31:13"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But",
+      "timestamp_abs": "31:13"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mean",
+      "timestamp_abs": "31:13"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "it's not even a focal point",
+      "timestamp_abs": "31:14"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's just",
+      "timestamp_abs": "31:14"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "one point that",
+      "timestamp_abs": "31:15"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "we need to transfer",
+      "timestamp_abs": "31:15"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the light",
+      "timestamp_abs": "31:16"
+    },
+    {
+      "timestamp": "01:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "from there to",
+      "timestamp_abs": "31:16"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "to another",
+      "timestamp_abs": "31:17"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah",
+      "timestamp_abs": "31:17"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "The problem is just two points",
+      "timestamp_abs": "31:17"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "31:18"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The problem is it's just two points",
+      "timestamp_abs": "31:18"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah",
+      "timestamp_abs": "31:19"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "And so you just",
+      "timestamp_abs": "31:19"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And it's not",
+      "timestamp_abs": "31:20"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "And so you just have it to one point",
+      "timestamp_abs": "31:20"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not",
+      "timestamp_abs": "31:20"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "transferring",
+      "timestamp_abs": "31:21"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "31:21"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not transferring",
+      "timestamp_abs": "31:21"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "from two points",
+      "timestamp_abs": "31:22"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "31:22"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is this one?",
+      "timestamp_abs": "31:23"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "It is just two points",
+      "timestamp_abs": "31:23"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Oh, is it solution?",
+      "timestamp_abs": "31:24"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Right",
+      "timestamp_abs": "31:24"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, no",
+      "timestamp_abs": "31:25"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is it problem?",
+      "timestamp_abs": "31:25"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No",
+      "timestamp_abs": "31:25"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "This one's a problem",
+      "timestamp_abs": "31:26"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sorry",
+      "timestamp_abs": "31:26"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is this one?",
+      "timestamp_abs": "31:27"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "This is the problem again",
+      "timestamp_abs": "31:27"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sorry",
+      "timestamp_abs": "31:28"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I",
+      "timestamp_abs": "31:28"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think",
+      "timestamp_abs": "31:28"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I copied it",
+      "timestamp_abs": "31:29"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "twice",
+      "timestamp_abs": "31:29"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "31:30"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's okay",
+      "timestamp_abs": "31:30"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "No, you're good",
+      "timestamp_abs": "31:30"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So just",
+      "timestamp_abs": "31:31"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "ignore that",
+      "timestamp_abs": "31:31"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So what is this one?",
+      "timestamp_abs": "31:32"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one",
+      "timestamp_abs": "31:32"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is it a solution?",
+      "timestamp_abs": "31:33"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "31:33"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah",
+      "timestamp_abs": "31:34"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "This is a solution",
+      "timestamp_abs": "31:34"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What's the solution?",
+      "timestamp_abs": "31:34"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is it?",
+      "timestamp_abs": "31:35"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's the",
+      "timestamp_abs": "31:35"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "the lens",
+      "timestamp_abs": "31:35"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's a lens",
+      "timestamp_abs": "31:36"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "31:36"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or",
+      "timestamp_abs": "31:36"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is it this lens?",
+      "timestamp_abs": "31:37"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "It's the",
+      "timestamp_abs": "31:37"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now",
+      "timestamp_abs": "31:38"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What did you say?",
+      "timestamp_abs": "31:38"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No, it's still",
+      "timestamp_abs": "31:38"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What",
+      "timestamp_abs": "31:39"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You can",
+      "timestamp_abs": "31:39"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "You can use this lens",
+      "timestamp_abs": "31:39"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "to send the light to the two focal points",
+      "timestamp_abs": "31:40"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What's been unique on the number of focal points?",
+      "timestamp_abs": "31:41"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh, only one focal point",
+      "timestamp_abs": "31:41"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Only one",
+      "timestamp_abs": "31:42"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "center",
+      "timestamp_abs": "31:42"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "center of the",
+      "timestamp_abs": "31:43"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So we can't use this",
+      "timestamp_abs": "31:43"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But you can",
+      "timestamp_abs": "31:44"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "use it to make",
+      "timestamp_abs": "31:44"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the light",
+      "timestamp_abs": "31:44"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "right",
+      "timestamp_abs": "31:45"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "parallel",
+      "timestamp_abs": "31:45"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "31:46"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh",
+      "timestamp_abs": "31:46"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Right",
+      "timestamp_abs": "31:46"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "31:47"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it should be",
+      "timestamp_abs": "31:47"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "a solution that",
+      "timestamp_abs": "31:48"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "can transfer",
+      "timestamp_abs": "31:48"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Wow",
+      "timestamp_abs": "31:48"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one",
+      "timestamp_abs": "31:49"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Wow",
+      "timestamp_abs": "31:49"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right",
+      "timestamp_abs": "31:50"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "31:50"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "31:50"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is",
+      "timestamp_abs": "31:51"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "this one",
+      "timestamp_abs": "31:51"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This",
+      "timestamp_abs": "31:51"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And also this one",
+      "timestamp_abs": "31:52"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The problem",
+      "timestamp_abs": "31:52"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We have to look for the problem",
+      "timestamp_abs": "31:53"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "31:54"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is the",
+      "timestamp_abs": "31:54"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is the problem",
+      "timestamp_abs": "31:55"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So",
+      "timestamp_abs": "31:55"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "31:56"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The problem is",
+      "timestamp_abs": "31:56"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "to collect",
+      "timestamp_abs": "31:57"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and then",
+      "timestamp_abs": "31:57"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "distribute",
+      "timestamp_abs": "31:57"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Mhm",
+      "timestamp_abs": "31:58"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "31:58"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "31:58"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "31:59"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So",
+      "timestamp_abs": "31:59"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is it a problem?",
+      "timestamp_abs": "32:00"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "What is the problem?",
+      "timestamp_abs": "32:00"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "This is the problem",
+      "timestamp_abs": "32:00"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is the problem",
+      "timestamp_abs": "32:01"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes",
+      "timestamp_abs": "32:01"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So",
+      "timestamp_abs": "32:02"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Solution",
+      "timestamp_abs": "32:02"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "CHILAKA",
+      "type": "student_question",
+      "text": "So what is the solution?",
+      "timestamp_abs": "32:03"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:03"
+    },
+    {
+      "timestamp": "02:03",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the answer?",
+      "timestamp_abs": "32:03"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "For solution?",
+      "timestamp_abs": "32:04"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Solution",
+      "timestamp_abs": "32:04"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "A parabolic reflector",
+      "timestamp_abs": "32:05"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's a mirror",
+      "timestamp_abs": "32:05"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No",
+      "timestamp_abs": "32:06"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "A mirror",
+      "timestamp_abs": "32:06"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "A solution",
+      "timestamp_abs": "32:07"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "A solution",
+      "timestamp_abs": "32:07"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "A solution",
+      "timestamp_abs": "32:08"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "A solution to it",
+      "timestamp_abs": "32:08"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "32:09"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes",
+      "timestamp_abs": "32:09"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is",
+      "timestamp_abs": "32:09"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:10"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the solution",
+      "timestamp_abs": "32:10"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "and problem",
+      "timestamp_abs": "32:11"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "of this one?",
+      "timestamp_abs": "32:11"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "This is a solution",
+      "timestamp_abs": "32:11"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "This is solution",
+      "timestamp_abs": "32:12"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Solution",
+      "timestamp_abs": "32:12"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:13"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the problem?",
+      "timestamp_abs": "32:13"
+    },
+    {
+      "timestamp": "02:13",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The problem",
+      "timestamp_abs": "32:13"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay",
+      "timestamp_abs": "32:14"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So from",
+      "timestamp_abs": "32:14"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "What is the solution for this one?",
+      "timestamp_abs": "32:14"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "32:15"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So",
+      "timestamp_abs": "32:15"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:16"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the problem",
+      "timestamp_abs": "32:16"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "of that solution?",
+      "timestamp_abs": "32:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "The problem of that solution is that",
+      "timestamp_abs": "32:17"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "there's a lot of heat",
+      "timestamp_abs": "32:17"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "32:18"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes",
+      "timestamp_abs": "32:18"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's collecting heat",
+      "timestamp_abs": "32:18"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:19"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And also",
+      "timestamp_abs": "32:19"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah",
+      "timestamp_abs": "32:19"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "32:20"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one",
+      "timestamp_abs": "32:20"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And",
+      "timestamp_abs": "32:20"
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "what it takes to",
+      "timestamp_abs": "32:21"
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "have",
+      "timestamp_abs": "32:21"
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this kind",
+      "timestamp_abs": "32:21"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "of",
+      "timestamp_abs": "32:22"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "uhm, optics",
+      "timestamp_abs": "32:22"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "32:23"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one",
+      "timestamp_abs": "32:23"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We said",
+      "timestamp_abs": "32:23"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "it needs to be expensive",
+      "timestamp_abs": "32:24"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah",
+      "timestamp_abs": "32:24"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "32:25"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yeah",
+      "timestamp_abs": "32:25"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah",
+      "timestamp_abs": "32:25"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And also it needs",
+      "timestamp_abs": "32:26"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this one",
+      "timestamp_abs": "32:26"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is",
+      "timestamp_abs": "32:27"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the solution",
+      "timestamp_abs": "32:27"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "32:27"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then",
+      "timestamp_abs": "32:28"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "And what is the problem",
+      "timestamp_abs": "32:28"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "of that one?",
+      "timestamp_abs": "32:29"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "It's a lot of heat",
+      "timestamp_abs": "32:29"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Heat",
+      "timestamp_abs": "32:29"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Heat",
+      "timestamp_abs": "32:30"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "32:30"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "32:30"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:30"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So",
+      "timestamp_abs": "32:31"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the problem",
+      "timestamp_abs": "32:31"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is",
+      "timestamp_abs": "32:32"
+    },
+    {
+      "timestamp": "02:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "to generate heat",
+      "timestamp_abs": "32:32"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And also",
+      "timestamp_abs": "32:33"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "this one",
+      "timestamp_abs": "32:33"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "32:34"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:34"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So",
+      "timestamp_abs": "32:34"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:35"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the problem",
+      "timestamp_abs": "32:35"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is",
+      "timestamp_abs": "32:36"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "it's expensive",
+      "timestamp_abs": "32:36"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes",
+      "timestamp_abs": "32:37"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "It's expensive",
+      "timestamp_abs": "32:37"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "32:37"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "32:37"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:38"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is",
+      "timestamp_abs": "32:38"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "This one?",
+      "timestamp_abs": "32:38"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one",
+      "timestamp_abs": "32:39"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Is it the solution?",
+      "timestamp_abs": "32:39"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Solution",
+      "timestamp_abs": "32:40"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Solution",
+      "timestamp_abs": "32:40"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is solution",
+      "timestamp_abs": "32:40"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "And what is the problem",
+      "timestamp_abs": "32:41"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "of this?",
+      "timestamp_abs": "32:41"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So this is still the first problem",
+      "timestamp_abs": "32:42"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:42"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it means",
+      "timestamp_abs": "32:42"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is",
+      "timestamp_abs": "32:43"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Still the first problem",
+      "timestamp_abs": "32:43"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:43"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is",
+      "timestamp_abs": "32:44"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "32:44"
+    },
+    {
+      "timestamp": "02:44",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the problem?",
+      "timestamp_abs": "32:44"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah",
+      "timestamp_abs": "32:45"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:45"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The problem",
+      "timestamp_abs": "32:45"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is",
+      "timestamp_abs": "32:46"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "to collect",
+      "timestamp_abs": "32:46"
+    },
+    {
+      "timestamp": "02:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "and distribute",
+      "timestamp_abs": "32:46"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "32:47"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah",
+      "timestamp_abs": "32:47"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:48"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the solution",
+      "timestamp_abs": "32:48"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:48"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No",
+      "timestamp_abs": "32:49"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is the problem",
+      "timestamp_abs": "32:49"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay",
+      "timestamp_abs": "32:49"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah",
+      "timestamp_abs": "32:50"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the solution",
+      "timestamp_abs": "32:50"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "to that",
+      "timestamp_abs": "32:50"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "problem?",
+      "timestamp_abs": "32:51"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "This one's expensive",
+      "timestamp_abs": "32:51"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yeah",
+      "timestamp_abs": "32:52"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "This one's expensive",
+      "timestamp_abs": "32:52"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the problem?",
+      "timestamp_abs": "32:52"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I mean",
+      "timestamp_abs": "32:53"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "what is the solution?",
+      "timestamp_abs": "32:53"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Expensive",
+      "timestamp_abs": "32:53"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the solution",
+      "timestamp_abs": "32:54"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "to collect",
+      "timestamp_abs": "32:54"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "light",
+      "timestamp_abs": "32:54"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Hmm?",
+      "timestamp_abs": "32:54"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the solution",
+      "timestamp_abs": "32:55"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "to collect",
+      "timestamp_abs": "32:55"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "light",
+      "timestamp_abs": "32:55"
+    }
+  ]
+}

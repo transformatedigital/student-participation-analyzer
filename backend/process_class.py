@@ -372,9 +372,14 @@ def run_pipeline(audio_path, session_id, students=None, skip_transcription=False
     print(f"  PIPELINE COMPONENTE A — Clase {session_id}")
     print(f"{'='*70}\n")
 
-    # 1. Fragmentar
+    # 1. Fragmentar (no aplica con --skip-transcription: se reutiliza el cache existente)
+    blocks_info = []
     info_file = blocks_dir / "blocks_5min_info.json"
-    if info_file.exists() and not audio_path:
+    if skip_transcription:
+        if not any(cache_dir.glob("block_*.json")):
+            print("❌ Skip-transcripción pero no existe transcript_cache previo.")
+            sys.exit(1)
+    elif info_file.exists() and not audio_path:
         with open(info_file) as f:
             blocks_info = json.load(f)
         print(f"📂 Usando bloques existentes: {len(blocks_info)}")

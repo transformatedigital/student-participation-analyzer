@@ -1,0 +1,4230 @@
+{
+  "session_id": "2026-05-19",
+  "generated_at": "2026-06-01T12:41:08",
+  "students": [
+    "Aryang",
+    "Mega",
+    "Chilaka",
+    "Grace",
+    "Sthepen"
+  ],
+  "attendance": {
+    "Aryang": true,
+    "Mega": true,
+    "Chilaka": true,
+    "Grace": true,
+    "Sthepen": true
+  },
+  "rubric": {
+    "scale": "1–6 (mapeado de evaluaciones A–E: A→6, B→5, C→4, D→2, E→1)",
+    "weights": {
+      "preparation": 7.5,
+      "participation": 7.5,
+      "attendance": 5.0
+    }
+  },
+  "preparation": {
+    "rows": [
+      {
+        "timestamp": "04:32",
+        "block": 1,
+        "question": "Aryang, please read number one.",
+        "directed_to": "Aryang",
+        "is_open": false,
+        "responder": "Aryang",
+        "response_text": "Okay.",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "04:38",
+        "block": 1,
+        "question": "Please read the first one. Is it big enough?",
+        "directed_to": "Aryang",
+        "is_open": false,
+        "responder": "Aryang",
+        "response_text": "Yes, big enough.",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "10:00",
+        "block": 3,
+        "question": "Next one, right?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Chilaka",
+        "response_text": "Yeah.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "15:06",
+        "block": 4,
+        "question": "So, I kept thinking about that, is it really the effective, or are we really shaping the problem wrongly?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "15:18",
+        "block": 4,
+        "question": "but how did they relatively reduce the amount of cases?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "15:23",
+        "block": 4,
+        "question": "What was the key part I kept studying about that?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Sthepen",
+        "response_text": "Yeah, this is the just their base.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 3
+        }
+      },
+      {
+        "timestamp": "17:32",
+        "block": 4,
+        "question": "And within that limitation is and then within that limitation my question is, is the problem work a collaboration opportunity, within that limitation.",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "18:15",
+        "block": 4,
+        "question": "And my counterpart, my partner, the resource, the technology source, um, how mature they are? Is it contextually adaptable?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "18:29",
+        "block": 4,
+        "question": "Because I wanted to confirm everybody's final version, is it the drive I will ask you?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Chilaka",
+        "response_text": "I'll show you.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "27:12",
+        "block": 6,
+        "question": "Okay, so each one, your case is number case number one, right?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Sthepen",
+        "response_text": "Oh, this one.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 2
+        }
+      },
+      {
+        "timestamp": "27:19",
+        "block": 6,
+        "question": "So you have read the title of the case?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Sthepen",
+        "response_text": "The local eye.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 2
+        }
+      },
+      {
+        "timestamp": "30:09",
+        "block": 7,
+        "question": "any questions?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "Okay",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:32",
+        "block": 7,
+        "question": "What is the problem",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:33",
+        "block": 7,
+        "question": "in that one?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:34",
+        "block": 7,
+        "question": "What is the problem?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "No",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:41",
+        "block": 7,
+        "question": "Right?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Chilaka",
+        "response_text": "Yes",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:58",
+        "block": 7,
+        "question": "What is the problem",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Chilaka",
+        "response_text": "Right",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:00",
+        "block": 7,
+        "question": "Why?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:02",
+        "block": 7,
+        "question": "What is the problem?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:03",
+        "block": 7,
+        "question": "What is the problem?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:05",
+        "block": 7,
+        "question": "What is the problem with this?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "Still the first one",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:07",
+        "block": 7,
+        "question": "Then what is the problem",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:08",
+        "block": 7,
+        "question": "with this picture?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "Yes",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:12",
+        "block": 7,
+        "question": "Right?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Chilaka",
+        "response_text": "Yeah",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:23",
+        "block": 7,
+        "question": "What is this one?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:24",
+        "block": 7,
+        "question": "Oh, is it solution?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Chilaka",
+        "response_text": "Right",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:25",
+        "block": 7,
+        "question": "Is it problem?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "This one's a problem",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:27",
+        "block": 7,
+        "question": "What is this one?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "This is the problem again",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:32",
+        "block": 7,
+        "question": "So what is this one?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:33",
+        "block": 7,
+        "question": "Is it a solution?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:33",
+        "block": 7,
+        "question": "Right?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "Yeah",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:34",
+        "block": 7,
+        "question": "What's the solution?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:35",
+        "block": 7,
+        "question": "What is it?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:36",
+        "block": 7,
+        "question": "Right?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:37",
+        "block": 7,
+        "question": "Is it this lens?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:38",
+        "block": 7,
+        "question": "What did you say?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "No, it's still",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:39",
+        "block": 7,
+        "question": "What",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:41",
+        "block": 7,
+        "question": "What's been unique on the number of focal points?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "Oh, only one focal point",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:46",
+        "block": 7,
+        "question": "Right?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Chilaka",
+        "response_text": "Right",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:51",
+        "block": 7,
+        "question": "What is",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:51",
+        "block": 7,
+        "question": "this one",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "Mhm",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:58",
+        "block": 7,
+        "question": "Right?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:00",
+        "block": 7,
+        "question": "Is it a problem?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Chilaka",
+        "response_text": "This is the problem",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:03",
+        "block": 7,
+        "question": "What is the answer?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "A parabolic reflector",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:09",
+        "block": 7,
+        "question": "What is",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:10",
+        "block": 7,
+        "question": "What is the solution",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:11",
+        "block": 7,
+        "question": "and problem",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:11",
+        "block": 7,
+        "question": "of this one?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "This is a solution",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:13",
+        "block": 7,
+        "question": "What is the problem?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:16",
+        "block": 7,
+        "question": "What is the problem",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:16",
+        "block": 7,
+        "question": "of that solution?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "The problem of that solution is that",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:23",
+        "block": 7,
+        "question": "Right?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "Yeah",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:25",
+        "block": 7,
+        "question": "Right?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Chilaka",
+        "response_text": "Yeah",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:28",
+        "block": 7,
+        "question": "And what is the problem",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:29",
+        "block": 7,
+        "question": "of that one?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "It's a lot of heat",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:30",
+        "block": 7,
+        "question": "Right?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "It's expensive",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:37",
+        "block": 7,
+        "question": "Right?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:38",
+        "block": 7,
+        "question": "What is",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:38",
+        "block": 7,
+        "question": "This one?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:39",
+        "block": 7,
+        "question": "Is it the solution?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "Solution",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:41",
+        "block": 7,
+        "question": "And what is the problem",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:41",
+        "block": 7,
+        "question": "of this?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:43",
+        "block": 7,
+        "question": "What is",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:44",
+        "block": 7,
+        "question": "What is the problem?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "Yeah",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:47",
+        "block": 7,
+        "question": "Right?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "Yeah",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:48",
+        "block": 7,
+        "question": "What is the solution",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:50",
+        "block": 7,
+        "question": "What is the solution",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:50",
+        "block": 7,
+        "question": "to that",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:51",
+        "block": 7,
+        "question": "problem?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Chilaka",
+        "response_text": "Yeah",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:52",
+        "block": 7,
+        "question": "What is the problem?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:53",
+        "block": 7,
+        "question": "what is the solution?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "Expensive",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:54",
+        "block": 7,
+        "question": "What is the solution",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:54",
+        "block": 7,
+        "question": "to collect",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:54",
+        "block": 7,
+        "question": "light",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:55",
+        "block": 7,
+        "question": "What is the solution",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:55",
+        "block": 7,
+        "question": "to collect",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:55",
+        "block": 7,
+        "question": "light",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "36:44",
+        "block": 8,
+        "question": "So what would have been activity one, activity two, activity three, before gate one and before gate two?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "36:56",
+        "block": 8,
+        "question": "So we're gonna do, ah, what would have been contextual intelligence and market scanning in this case?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "37:01",
+        "block": 8,
+        "question": "What would have been opportunity spotting in this case?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "37:04",
+        "block": 8,
+        "question": "What would have been opportunity generation in this case?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "37:46",
+        "block": 8,
+        "question": "What else do you want me to upload?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": "Aryang",
+        "response_text": "This one.",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "38:27",
+        "block": 8,
+        "question": "The, this one, the symptoms and the problems?",
+        "directed_to": "Sthepen",
+        "is_open": false,
+        "responder": "Sthepen",
+        "response_text": "The prefix.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 2
+        }
+      },
+      {
+        "timestamp": "38:32",
+        "block": 8,
+        "question": "This one?",
+        "directed_to": "Sthepen",
+        "is_open": false,
+        "responder": "Sthepen",
+        "response_text": "No, no, the, the, the others, the one in your draft.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 3
+        }
+      },
+      {
+        "timestamp": "38:42",
+        "block": 8,
+        "question": "So, what could be the contextual intelligence and market scanning for, for this case?",
+        "directed_to": "Sthepen",
+        "is_open": false,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 0
+        }
+      },
+      {
+        "timestamp": "38:48",
+        "block": 8,
+        "question": "Uh, what you are, you have the, you have case one or case three?",
+        "directed_to": "Sthepen",
+        "is_open": false,
+        "responder": "Aryang",
+        "response_text": "Case one.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 0
+        }
+      },
+      {
+        "timestamp": "40:04",
+        "block": 9,
+        "question": "How about your problem and your...",
+        "directed_to": "Sthepen",
+        "is_open": false,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 0
+        }
+      },
+      {
+        "timestamp": "45:12",
+        "block": 10,
+        "question": "how do you call this? The um, I'm sorry. What is called?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "50:29",
+        "block": 11,
+        "question": "Every time?",
+        "directed_to": "Chilaka",
+        "is_open": false,
+        "responder": "Chilaka",
+        "response_text": "Yeah. professor.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:01",
+        "block": 12,
+        "question": "Did you already finish?",
+        "directed_to": "Aryang",
+        "is_open": false,
+        "responder": "Aryang",
+        "response_text": "Ah no.",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:02",
+        "block": 12,
+        "question": "What about your first draft?",
+        "directed_to": "Aryang",
+        "is_open": false,
+        "responder": "Aryang",
+        "response_text": "No, I'm sorry.",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:04",
+        "block": 12,
+        "question": "But did you start already?",
+        "directed_to": "Aryang",
+        "is_open": false,
+        "responder": "Aryang",
+        "response_text": "I did. Yeah. I started. Yeah.",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:06",
+        "block": 12,
+        "question": "Okay. And you're you're going to keep the big",
+        "directed_to": "Aryang",
+        "is_open": false,
+        "responder": "Aryang",
+        "response_text": "I mean, I'm trying to make it like smaller, so it's not like that big, because it's so big.",
+        "scores": {
+          "Aryang": 5,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:09",
+        "block": 12,
+        "question": "And what would you recommend to yourself?",
+        "directed_to": "Aryang",
+        "is_open": false,
+        "responder": "Aryang",
+        "response_text": "I mean,",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:10",
+        "block": 12,
+        "question": "I would be like, what would you recommend from this experience?",
+        "directed_to": "Aryang",
+        "is_open": false,
+        "responder": "Aryang",
+        "response_text": "Yeah. I mean, I would try to focus more on certain elements than just, you know, the whole thing because it's so big.",
+        "scores": {
+          "Aryang": 5,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:15",
+        "block": 12,
+        "question": "Okay. What about the rest?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:18",
+        "block": 12,
+        "question": "Yeah. And what are you doing to narrow it down?",
+        "directed_to": "Grace",
+        "is_open": false,
+        "responder": "Grace",
+        "response_text": "I'm trying to focus on, um, only looking at women in STEM, and not trying to look at, you know, just, um, I guess, like, uh, general population, so that would just be, you know, a smaller population size.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": 6,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:24",
+        "block": 12,
+        "question": "Okay. What about you, Mega?",
+        "directed_to": "Mega",
+        "is_open": false,
+        "responder": "Mega",
+        "response_text": "Uh, mine is not huge, but it's very vague. So I'm trying to, uh, focus on one specific part.",
+        "scores": {
+          "Aryang": null,
+          "Mega": 4,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:29",
+        "block": 12,
+        "question": "And what is that part?",
+        "directed_to": "Mega",
+        "is_open": false,
+        "responder": "Mega",
+        "response_text": "So, mine is about like innovation policy, which is very big. So, uh, I'm going to look into the specifics about like government intervention into certain projects related to like, um, green energy, so it will be just one type of energy not all.",
+        "scores": {
+          "Aryang": null,
+          "Mega": 5,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:38",
+        "block": 12,
+        "question": "Okay. Very nice. And your data set, is it specific to this?",
+        "directed_to": "Mega",
+        "is_open": false,
+        "responder": "Mega",
+        "response_text": "Um, I'm still trying to like connect data to it. Um, I was hoping to use like",
+        "scores": {
+          "Aryang": null,
+          "Mega": 5,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "60:40",
+        "block": 13,
+        "question": "Right?",
+        "directed_to": "ABIERTA",
+        "is_open": true,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "62:10",
+        "block": 13,
+        "question": "Maybe you want to do that too because you asked me similar.",
+        "directed_to": "Aryang",
+        "is_open": false,
+        "responder": "Aryang",
+        "response_text": "Yeah, um, I",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "64:13",
+        "block": 13,
+        "question": "So and then that's why my second question was, you have the real data on that? I want to see.",
+        "directed_to": "Aryang",
+        "is_open": false,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": 0,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "64:21",
+        "block": 13,
+        "question": "So and what kind of how much data, for example, do you have like a really panel data for five years in a row of coal management versus the whole GDP and all the different parameters of economic demographic blah blah blah.",
+        "directed_to": "Aryang",
+        "is_open": false,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": 0,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "64:34",
+        "block": 13,
+        "question": "And can you run all of them? I wonder.",
+        "directed_to": "Aryang",
+        "is_open": false,
+        "responder": null,
+        "response_text": "",
+        "scores": {
+          "Aryang": 0,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      }
+    ],
+    "totals": {
+      "Aryang": {
+        "sum_scores": 72,
+        "n_opportunities": 33,
+        "max_possible": 198,
+        "pct_obtained": 2.73,
+        "pct_max": 7.5
+      },
+      "Mega": {
+        "sum_scores": 14,
+        "n_opportunities": 3,
+        "max_possible": 18,
+        "pct_obtained": 5.83,
+        "pct_max": 7.5
+      },
+      "Chilaka": {
+        "sum_scores": 22,
+        "n_opportunities": 11,
+        "max_possible": 66,
+        "pct_obtained": 2.5,
+        "pct_max": 7.5
+      },
+      "Grace": {
+        "sum_scores": 6,
+        "n_opportunities": 1,
+        "max_possible": 6,
+        "pct_obtained": 7.5,
+        "pct_max": 7.5
+      },
+      "Sthepen": {
+        "sum_scores": 12,
+        "n_opportunities": 8,
+        "max_possible": 48,
+        "pct_obtained": 1.88,
+        "pct_max": 7.5
+      }
+    }
+  },
+  "participation": {
+    "rows": [
+      {
+        "timestamp": "02:04",
+        "block": 1,
+        "speaker": "Sthepen",
+        "type": "Comment",
+        "text": "You know the triangle.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 3
+        }
+      },
+      {
+        "timestamp": "03:28",
+        "block": 1,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "Chilaka.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "03:30",
+        "block": 1,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "Okay.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "04:41",
+        "block": 1,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Contextual.",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "04:42",
+        "block": 1,
+        "speaker": "Aryang",
+        "type": "Question to Professor",
+        "text": "Should I read?",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "04:43",
+        "block": 1,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Contextual intelligence or market scanning, identify country-level socio-economy data, policy gaps, demand side pain points, infrastructure constraints, and regulatory issue.",
+        "scores": {
+          "Aryang": 4,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "10:03",
+        "block": 3,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Yeah.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "10:05",
+        "block": 3,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "Three to something for new neural now.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "10:08",
+        "block": 3,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "For exciting uses, beneficiaries, decision makers.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "10:13",
+        "block": 3,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "How do you see constraints and soldable boundaries with local stakeholders?",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 4,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "15:52",
+        "block": 4,
+        "speaker": "Sthepen",
+        "type": "Comment",
+        "text": "Even in my country, we do it. We try to to to to colonize.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 4
+        }
+      },
+      {
+        "timestamp": "15:58",
+        "block": 4,
+        "speaker": "Sthepen",
+        "type": "Comment",
+        "text": "where the scammers, you know.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 3
+        }
+      },
+      {
+        "timestamp": "16:31",
+        "block": 4,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "Ah, okay.",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "16:32",
+        "block": 4,
+        "speaker": "Sthepen",
+        "type": "Comment",
+        "text": "Like, in my country, in Nigeria, um, the last two months, the, they raided a house, they had over 273 Chinese, inside the build a, a full building doing.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 5
+        }
+      },
+      {
+        "timestamp": "16:49",
+        "block": 4,
+        "speaker": "Sthepen",
+        "type": "Voluntary Response",
+        "text": "Yeah, this is the just their base.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 3
+        }
+      },
+      {
+        "timestamp": "16:51",
+        "block": 4,
+        "speaker": "Sthepen",
+        "type": "Comment",
+        "text": "They raided the place and arrested over 273 Chinese.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 3
+        }
+      },
+      {
+        "timestamp": "16:56",
+        "block": 4,
+        "speaker": "Sthepen",
+        "type": "Comment",
+        "text": "Yeah, we have thousands in our country, we have a lot.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 4
+        }
+      },
+      {
+        "timestamp": "17:02",
+        "block": 4,
+        "speaker": "Sthepen",
+        "type": "Voluntary Response",
+        "text": "Yeah.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 2
+        }
+      },
+      {
+        "timestamp": "17:04",
+        "block": 4,
+        "speaker": "Sthepen",
+        "type": "Voluntary Response",
+        "text": "Yes, yes, yes.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 2
+        }
+      },
+      {
+        "timestamp": "17:43",
+        "block": 4,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "Okay.",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "18:46",
+        "block": 4,
+        "speaker": "Mega",
+        "type": "Comment",
+        "text": "Yeah.",
+        "scores": {
+          "Aryang": null,
+          "Mega": 2,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "18:47",
+        "block": 4,
+        "speaker": "Grace",
+        "type": "Comment",
+        "text": "I want a.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": 2,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "19:11",
+        "block": 4,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "I'll show you.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "19:13",
+        "block": 4,
+        "speaker": "Mega",
+        "type": "Comment",
+        "text": "Just the.",
+        "scores": {
+          "Aryang": null,
+          "Mega": 2,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "25:58",
+        "block": 6,
+        "speaker": "Grace",
+        "type": "Voluntary Response",
+        "text": "One per group.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": 2,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "26:09",
+        "block": 6,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "The previous page. Oh, okay.",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "26:12",
+        "block": 6,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "Objective to transition from viewing the GTC journey as a product to understanding global technology commercialization as a process.",
+        "scores": {
+          "Aryang": 4,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "26:23",
+        "block": 6,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "First, read one of the three narrative below.",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "26:26",
+        "block": 6,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "Two, for each case, identify the symptoms, what stakeholders initially thought the problem was and the root cause, the actual systemic or structural issue discovered.",
+        "scores": {
+          "Aryang": 5,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "26:38",
+        "block": 6,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "Three, outline the journey of each case by mapping the events to the four get decisions points. Get one, problem demand fit. Get two, solution partner fit. Get three, feasibility and verification. Get four, scale up and institutionalization.",
+        "scores": {
+          "Aryang": 5,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "27:16",
+        "block": 6,
+        "speaker": "Sthepen",
+        "type": "Voluntary Response",
+        "text": "Oh, this one.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 2
+        }
+      },
+      {
+        "timestamp": "27:22",
+        "block": 6,
+        "speaker": "Sthepen",
+        "type": "Voluntary Response",
+        "text": "The local eye.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 2
+        }
+      },
+      {
+        "timestamp": "27:55",
+        "block": 6,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "What happened in the [inaudible]",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 1,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "28:17",
+        "block": 6,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "This one is the [inaudible] one.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 1,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:00",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "So this is just, yeah",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:10",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Question to Professor",
+        "text": "What if someone doesn't have a...",
+        "scores": {
+          "Aryang": 4,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:10",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "no questions",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:13",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "the solution",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:14",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Question to Professor",
+        "text": "Like what is it about?",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:17",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Question to Professor",
+        "text": "So we send it by email or",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:22",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Okay",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:24",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Okay",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:24",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Okay",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:25",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "next class",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:26",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Question to Professor",
+        "text": "And is it the same for all three solutions?",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:30",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Okay",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:31",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Okay",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:33",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "Oh",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:35",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "Oh",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:35",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "The problem for this one is the...",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:36",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "It's a problem with the [inaudible]",
+        "scores": {
+          "Aryang": 1,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:37",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "It's a problem",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:38",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "because it's just two points",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 4,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:39",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "No",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:41",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Yes",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:42",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "And so it's not possible to have",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:47",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Right",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:47",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Yeah",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:48",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Yeah",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:55",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Yeah",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:58",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "No solution for this one",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "30:59",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "No solution for this one",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:00",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Right",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:01",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "Because the...",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:02",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "The problem is that you just want it to be...",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 4,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:03",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "It's just [inaudible]",
+        "scores": {
+          "Aryang": 1,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:04",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "So this is still the first problem",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:06",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Still the first one",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:07",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Still the first problem",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:08",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "So the light from [inaudible] light box",
+        "scores": {
+          "Aryang": 1,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:09",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "It needs to go into two focal points",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:12",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Yes",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:13",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Yeah",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:17",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Yeah",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:17",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "The problem is just two points",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:19",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Yeah",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:19",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "And so you just",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:20",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "And so you just have it to one point",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:23",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "It is just two points",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:24",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Right",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:26",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "This one's a problem",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:27",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "This is the problem again",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:30",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "It's okay",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:30",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "No, you're good",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:34",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Yeah",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:34",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "This is a solution",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:35",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "It's the",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:35",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "the lens",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:37",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "It's the",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:38",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "No, it's still",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:39",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "You can use this lens",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:40",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "to send the light to the two focal points",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:41",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Oh, only one focal point",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:43",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "So we can't use this",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:46",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "Oh",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:46",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Right",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "31:58",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Mhm",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:00",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Question to Professor",
+        "text": "What is the problem?",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:00",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "This is the problem",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:01",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Yes",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:02",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "Solution",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:03",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Question to Professor",
+        "text": "So what is the solution?",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:04",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Question to Professor",
+        "text": "For solution?",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:05",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "A parabolic reflector",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:05",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "It's a mirror",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:06",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "A mirror",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:07",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "A solution",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:07",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "A solution",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:08",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "A solution to it",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:11",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "This is a solution",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:12",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "This is solution",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:13",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "The problem",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:14",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "Okay",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:14",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "So from",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:14",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Question to Professor",
+        "text": "What is the solution for this one?",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:17",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "The problem of that solution is that",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:17",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "there's a lot of heat",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:18",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "It's collecting heat",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:19",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Yeah",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:24",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Yeah",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:25",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Yeah",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:25",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Yeah",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:29",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "It's a lot of heat",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:29",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Heat",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:37",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "It's expensive",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:40",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Solution",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:40",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Solution",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:42",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "So this is still the first problem",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:43",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "Still the first problem",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:45",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Yeah",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:47",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Yeah",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:51",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "This one's expensive",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:52",
+        "block": 7,
+        "speaker": "Chilaka",
+        "type": "Voluntary Response",
+        "text": "Yeah",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:52",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "This one's expensive",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:53",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Expensive",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "32:54",
+        "block": 7,
+        "speaker": "Aryang",
+        "type": "Question to Professor",
+        "text": "Hmm?",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "35:15",
+        "block": 8,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "In my hand.",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "37:17",
+        "block": 8,
+        "speaker": "Chilaka",
+        "type": "Question to Professor",
+        "text": "Can I get file?",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "37:33",
+        "block": 8,
+        "speaker": "Sthepen",
+        "type": "Comment",
+        "text": "Oh, you will.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 2
+        }
+      },
+      {
+        "timestamp": "37:47",
+        "block": 8,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "This one.",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "37:50",
+        "block": 8,
+        "speaker": "Aryang",
+        "type": "Question to Professor",
+        "text": "What is that?",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "37:52",
+        "block": 8,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "Okay.",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "38:10",
+        "block": 8,
+        "speaker": "Sthepen",
+        "type": "Comment",
+        "text": "No.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 2
+        }
+      },
+      {
+        "timestamp": "38:13",
+        "block": 8,
+        "speaker": "Sthepen",
+        "type": "Question to Professor",
+        "text": "But but professor, uh,",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 3
+        }
+      },
+      {
+        "timestamp": "38:15",
+        "block": 8,
+        "speaker": "Sthepen",
+        "type": "Question to Professor",
+        "text": "I mean, in terms of the, of how to fill the, the, the, the first sensing?",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 4
+        }
+      },
+      {
+        "timestamp": "38:22",
+        "block": 8,
+        "speaker": "Sthepen",
+        "type": "Question to Professor",
+        "text": "Isn't it already written all in this?",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 3
+        }
+      },
+      {
+        "timestamp": "38:52",
+        "block": 8,
+        "speaker": "Aryang",
+        "type": "Voluntary Response",
+        "text": "Case one.",
+        "scores": {
+          "Aryang": 2,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "40:04",
+        "block": 9,
+        "speaker": "Sthepen",
+        "type": "Comment",
+        "text": "Yeah, so, uh, for me, the problem is really clear and...",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 4
+        }
+      },
+      {
+        "timestamp": "50:06",
+        "block": 11,
+        "speaker": "Sthepen",
+        "type": "Comment",
+        "text": "Actually, uh, what happens is, uh,",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 3
+        }
+      },
+      {
+        "timestamp": "50:09",
+        "block": 11,
+        "speaker": "Sthepen",
+        "type": "Comment",
+        "text": "Uh oh, uh Most likely like, they probably",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": 3
+        }
+      },
+      {
+        "timestamp": "50:11",
+        "block": 11,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "Auditors are the most corrupt in my country.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 3,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "50:15",
+        "block": 11,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "Before they come, you're already giving them something even before they arrive. So that they're most corrupt. When it happens maybe a case of corruption within uh, maybe one professor will be uh, caught in this issue.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 6,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "50:21",
+        "block": 11,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "What it's happened is that they they deal from the faculty first first to invite",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 4,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "50:31",
+        "block": 11,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "To challenge whether it's real or it happens, actually.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 4,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "50:36",
+        "block": 11,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "Because maybe it can be just something. Yeah yeah, of course. Yeah, maybe it's some, yeah yeah yeah yeah, so they confirm. Yeah yeah yeah.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 6,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "50:42",
+        "block": 11,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "If it is such and then the dean has not also the power to like fire a professor. It is to be sent to the to the committee, the administrative committee. So the rector with the academic secretary general, they discuss about that. And if it's really proved that something happened, there's corruption such. And then even the the president of the university also has no power to fire the the the university professor. Then it is sent to the Ministry of Higher Education. From there the decision is taken. But to reach that point, we need to make sure that something really happened.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 5,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "51:27",
+        "block": 11,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "But sometimes it can also happen but do we really need to fire this professor for what has been? Or maybe the rector, the university of uh the the president of the university can maybe just uh how do we call it? Maybe Cross it off.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 5,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "51:44",
+        "block": 11,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "Yeah.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 2,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "54:22",
+        "block": 11,
+        "speaker": "Grace",
+        "type": "Comment",
+        "text": "I just want to show you, uh, my",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": 3,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "54:27",
+        "block": 11,
+        "speaker": "Grace",
+        "type": "Comment",
+        "text": "Confess. Okay.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": 2,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "54:44",
+        "block": 11,
+        "speaker": "Grace",
+        "type": "Comment",
+        "text": "correlation is impossible. Maybe some some synergies. synergies.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": 3,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "54:49",
+        "block": 11,
+        "speaker": "Grace",
+        "type": "Comment",
+        "text": "So, okay. And then for example, in my case, the topic is something that also will become a project and then so.",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": 5,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:15",
+        "block": 12,
+        "speaker": "Grace",
+        "type": "Comment",
+        "text": "I- Yeah, I have a big topic and I've been trying to narrow it down, too. Um,",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": 4,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:49",
+        "block": 12,
+        "speaker": "Mega",
+        "type": "Comment",
+        "text": "I was hoping, yeah, I was hoping to find a paper and find a data in it. So that makes it easier.",
+        "scores": {
+          "Aryang": null,
+          "Mega": 5,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:55",
+        "block": 12,
+        "speaker": "Mega",
+        "type": "Voluntary Response",
+        "text": "Yeah.",
+        "scores": {
+          "Aryang": null,
+          "Mega": 2,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:58",
+        "block": 12,
+        "speaker": "Mega",
+        "type": "Voluntary Response",
+        "text": "Yeah.",
+        "scores": {
+          "Aryang": null,
+          "Mega": 2,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "55:59",
+        "block": 12,
+        "speaker": "Chilaka",
+        "type": "Comment",
+        "text": "Um, mine is actually very specific. Uh, I have focused on only",
+        "scores": {
+          "Aryang": null,
+          "Mega": null,
+          "Chilaka": 4,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "62:52",
+        "block": 13,
+        "speaker": "Aryang",
+        "type": "Question to Professor",
+        "text": "So does the target you may uh you still have to publish at least three three papers?",
+        "scores": {
+          "Aryang": 4,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "62:59",
+        "block": 13,
+        "speaker": "Aryang",
+        "type": "Question to Professor",
+        "text": "your PhD?",
+        "scores": {
+          "Aryang": 3,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      },
+      {
+        "timestamp": "63:24",
+        "block": 13,
+        "speaker": "Aryang",
+        "type": "Comment",
+        "text": "Yeah, I have an idea. If if I make it um from uh a very huge, uh I can divide it into three papers.",
+        "scores": {
+          "Aryang": 4,
+          "Mega": null,
+          "Chilaka": null,
+          "Grace": null,
+          "Sthepen": null
+        }
+      }
+    ],
+    "totals": {
+      "Aryang": {
+        "sum_scores": 214,
+        "n_opportunities": 85,
+        "max_possible": 510,
+        "pct_obtained": 3.15,
+        "pct_max": 7.5
+      },
+      "Mega": {
+        "sum_scores": 13,
+        "n_opportunities": 5,
+        "max_possible": 30,
+        "pct_obtained": 3.25,
+        "pct_max": 7.5
+      },
+      "Chilaka": {
+        "sum_scores": 148,
+        "n_opportunities": 54,
+        "max_possible": 324,
+        "pct_obtained": 3.43,
+        "pct_max": 7.5
+      },
+      "Grace": {
+        "sum_scores": 21,
+        "n_opportunities": 7,
+        "max_possible": 42,
+        "pct_obtained": 3.75,
+        "pct_max": 7.5
+      },
+      "Sthepen": {
+        "sum_scores": 57,
+        "n_opportunities": 19,
+        "max_possible": 114,
+        "pct_obtained": 3.75,
+        "pct_max": 7.5
+      }
+    }
+  },
+  "summary": {
+    "Aryang": {
+      "preparation_pct": 2.73,
+      "participation_pct_A_quality_only": 3.15,
+      "participation_pct_B_with_bonus": 4.65,
+      "quantity_bonus": 1.5,
+      "n_voluntary_contribs": 85,
+      "attendance_pct": 5.0,
+      "attendance_status": "Asistió",
+      "component_a_total_scenario_A": 10.88,
+      "component_a_total_scenario_B": 12.38,
+      "component_a_max": 20.0
+    },
+    "Mega": {
+      "preparation_pct": 5.83,
+      "participation_pct_A_quality_only": 3.25,
+      "participation_pct_B_with_bonus": 3.75,
+      "quantity_bonus": 0.5,
+      "n_voluntary_contribs": 5,
+      "attendance_pct": 5.0,
+      "attendance_status": "Asistió",
+      "component_a_total_scenario_A": 14.08,
+      "component_a_total_scenario_B": 14.58,
+      "component_a_max": 20.0
+    },
+    "Chilaka": {
+      "preparation_pct": 2.5,
+      "participation_pct_A_quality_only": 3.43,
+      "participation_pct_B_with_bonus": 4.93,
+      "quantity_bonus": 1.5,
+      "n_voluntary_contribs": 54,
+      "attendance_pct": 5.0,
+      "attendance_status": "Asistió",
+      "component_a_total_scenario_A": 10.93,
+      "component_a_total_scenario_B": 12.43,
+      "component_a_max": 20.0
+    },
+    "Grace": {
+      "preparation_pct": 7.5,
+      "participation_pct_A_quality_only": 3.75,
+      "participation_pct_B_with_bonus": 4.25,
+      "quantity_bonus": 0.5,
+      "n_voluntary_contribs": 7,
+      "attendance_pct": 5.0,
+      "attendance_status": "Asistió",
+      "component_a_total_scenario_A": 16.25,
+      "component_a_total_scenario_B": 16.75,
+      "component_a_max": 20.0
+    },
+    "Sthepen": {
+      "preparation_pct": 1.88,
+      "participation_pct_A_quality_only": 3.75,
+      "participation_pct_B_with_bonus": 4.75,
+      "quantity_bonus": 1.0,
+      "n_voluntary_contribs": 19,
+      "attendance_pct": 5.0,
+      "attendance_status": "Asistió",
+      "component_a_total_scenario_A": 10.63,
+      "component_a_total_scenario_B": 11.63,
+      "component_a_max": 20.0
+    }
+  }
+}

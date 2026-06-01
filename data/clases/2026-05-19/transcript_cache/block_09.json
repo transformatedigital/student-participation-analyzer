@@ -1,0 +1,35 @@
+{
+  "block": 9,
+  "time_range": "40:00-45:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I'm okay.",
+      "timestamp_abs": "40:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, I'm glad you're okay.",
+      "timestamp_abs": "40:01"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "How about your problem and your...",
+      "timestamp_abs": "40:04"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah, so, uh, for me, the problem is really clear and...",
+      "timestamp_abs": "40:04"
+    }
+  ]
+}

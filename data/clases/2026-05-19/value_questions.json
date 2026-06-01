@@ -1,0 +1,517 @@
+{
+  "session": "2026-05-19",
+  "generated_at": "2026-06-01T12:42:33",
+  "count": 51,
+  "questions": [
+    {
+      "timestamp": "04:32",
+      "topic": "Reading instructions",
+      "question": "Aryang, please read the first item listed under the 'Sensing' stage of the simplified technology commercialization process.",
+      "raw_question": "Aryang, please read number one.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Okay.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "04:38",
+      "topic": "Reading instructions",
+      "question": "Aryang, please read the first item on the list related to the 'Sensing' stage of the technology commercialization process. Also, is the text large enough for you to read comfortably?",
+      "raw_question": "Please read the first one. Is it big enough?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, big enough. Contextual intelligence or market scanning, identify country-level socio-economy data, policy gaps, demand side pain points, infrastructure constraints, and regulatory issue.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "10:00",
+      "topic": "Seminar progression",
+      "question": "Are we ready to move on to the next item on the list, specifically number four, for discussion?",
+      "raw_question": "Next one, right?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yeah. Number four. For existing users, beneficiaries, decision makers, how do you see constraints and solvable boundaries with local stakeholders?",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "15:23",
+      "topic": "Korea's fraud strategy",
+      "question": "Referring to my past research on how Korea relatively reduced cases related to identity fraud, which involved a deep-down policial investigation strategy rather than a software or telecommunication approach, what was the key part I kept studying about that specific strategy?",
+      "raw_question": "What was the key part I kept studying about that?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "Even in my country, we do it. We try to colonize where the scammers, you know.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "18:29",
+      "topic": "Assignment submission",
+      "question": "To confirm everyone's final version of the assignments, is the Google Drive (or similar shared drive) the correct place where I should look for your submissions?",
+      "raw_question": "Because I wanted to confirm everybody's final version, is it the drive I will ask you?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "No explicit student response.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "27:12",
+      "topic": "Case assignment",
+      "question": "Sthepen, to clarify case assignments, is your case assigned as 'case number one'?",
+      "raw_question": "Okay, so each one, your case is number case number one, right?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Oh, this one.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "27:19",
+      "topic": "Case study title",
+      "question": "Sthepen, have you read the title of Case Three, which is assigned to you?",
+      "raw_question": "So you have read the title of the case?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "The local eye.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "30:09",
+      "topic": "General questions",
+      "question": "Does anyone have any questions regarding our current discussion or instructions?",
+      "raw_question": "any questions?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "What if someone doesn't have a...? No questions.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "30:34",
+      "topic": "Problem identification",
+      "question": "Could you identify the specific problem being depicted or referred to in this discussion?",
+      "raw_question": "What is the problem?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Oh. It's a problem with the [inaudible].",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "30:41",
+      "topic": "Focal points",
+      "question": "Is it correct that the objective for this particular item or scenario is to achieve two focal points?",
+      "raw_question": "Right?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "30:58",
+      "topic": "Problem identification",
+      "question": "Regarding the item or scenario we just discussed that has 'no solution,' what exactly is the problem it presents?",
+      "raw_question": "What is the problem",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "No solution for this one. Right.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "31:05",
+      "topic": "Problem definition",
+      "question": "Regarding the 'first problem' we are discussing, what exactly is the issue with the item or concept being presented?",
+      "raw_question": "What is the problem with this?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Still the first one.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "31:08",
+      "topic": "Problem analysis",
+      "question": "Specifically, what is the problem depicted in this picture?",
+      "raw_question": "with this picture?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "So the light from [inaudible] light box. It needs to go into two focal points.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "31:12",
+      "topic": "Focal points problem",
+      "question": "Is it correct that the problem with this design is that it only has one focal point, when two are required?",
+      "raw_question": "Right?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yes. Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "31:24",
+      "topic": "Solution identification",
+      "question": "The item being discussed, described as having 'just two points,' is it meant to be a solution to the problem?",
+      "raw_question": "Oh, is it solution?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Right.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "31:25",
+      "topic": "Problem identification",
+      "question": "No, let me correct that. Should this item or concept actually be identified as a problem?",
+      "raw_question": "Is it problem?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "This one's a problem.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "31:27",
+      "topic": "Item identification",
+      "question": "Could you definitively identify what this item, which we've categorized as a problem, represents?",
+      "raw_question": "What is this one?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "This is the problem again.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "31:33",
+      "topic": "Solution identification",
+      "question": "Ignoring our previous confusion, is this current item we are looking at indeed a solution?",
+      "raw_question": "Right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah. This is a solution.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "31:38",
+      "topic": "Lens function",
+      "question": "Aryang, could you repeat or elaborate on what you were saying about how this lens is used?",
+      "raw_question": "What did you say?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No, it's still... You can use this lens to send the light to the two focal points.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "31:41",
+      "topic": "Lens focal points",
+      "question": "Considering this lens and its capability to send light to focal points, what is unique or problematic about the number of focal points it creates?",
+      "raw_question": "What's been unique on the number of focal points?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Oh, only one focal point.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "31:46",
+      "topic": "Lens function",
+      "question": "Is it correct that this lens can be used to make the light parallel?",
+      "raw_question": "Right?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Right.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "31:51",
+      "topic": "Item identification",
+      "question": "Could you identify what this new item is, as we now need to look for the problem associated with it?",
+      "raw_question": "this one",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No explicit student response.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "32:00",
+      "topic": "Problem identification",
+      "question": "Is the item or concept we are currently discussing to be classified as a problem?",
+      "raw_question": "Is it a problem?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "This is the problem. Yes.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "32:03",
+      "topic": "Solution proposal",
+      "question": "Now that we've identified the problem, what is the solution?",
+      "raw_question": "What is the answer?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "For solution? A parabolic reflector. It's a mirror.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "32:11",
+      "topic": "Problem & solution",
+      "question": "For this particular item, what are both the solution and the problem?",
+      "raw_question": "of this one?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "This is a solution. This is solution.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "32:16",
+      "topic": "Solution problems",
+      "question": "What specific problems or drawbacks are associated with the solution that was just identified?",
+      "raw_question": "of that solution?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "The problem of that solution is that there's a lot of heat.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "32:23",
+      "topic": "Solution cost",
+      "question": "Is it correct that the type of optics required for this solution needs to be expensive?",
+      "raw_question": "Right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "32:25",
+      "topic": "Solution cost",
+      "question": "Is it accurate to say that the optics for this solution are expensive?",
+      "raw_question": "Right?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yeah. Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "32:29",
+      "topic": "Solution drawbacks",
+      "question": "What specific problem or drawback is associated with that particular solution?",
+      "raw_question": "of that one?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "It's a lot of heat. Heat.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "32:30",
+      "topic": "Solution drawbacks",
+      "question": "Is it correct that 'heat' is the identified problem with this solution?",
+      "raw_question": "Right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No explicit student response.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "32:39",
+      "topic": "Solution identification",
+      "question": "Regarding the item we are currently discussing or pointing to, is this specifically the solution?",
+      "raw_question": "Is it the solution?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, it is the solution.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "32:44",
+      "topic": "Problem identification",
+      "question": "Given that we just identified the solution, what is the specific problem that this solution addresses?",
+      "raw_question": "What is the problem?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "32:47",
+      "topic": "Problem confirmation",
+      "question": "I've just stated that the problem is 'to collect and distribute.' Am I correct in this understanding?",
+      "raw_question": "Right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "32:51",
+      "topic": "Problem definition",
+      "question": "We were discussing the solution, and Aryang mentioned it's expensive. Can you reiterate or clarify what the fundamental problem is that we are trying to solve?",
+      "raw_question": "problem?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yeah. This one's expensive.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "32:53",
+      "topic": "Solution identification",
+      "question": "After discussing the problem, I meant to ask, what is the proposed solution?",
+      "raw_question": "what is the solution?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "It is expensive.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "37:46",
+      "topic": "Seminar materials",
+      "question": "Beyond the case file I've already mentioned, are there any other materials or files that you would like me to upload for the seminar?",
+      "raw_question": "What else do you want me to upload?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, please upload this specific file, which is 'The gateway'.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "38:27",
+      "topic": "Document sections",
+      "question": "Are you referring to the section in this document that outlines the symptoms and problems, when you ask if it's already written?",
+      "raw_question": "The, this one, the symptoms and the problems?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "I'm referring to the prefix section.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "38:32",
+      "topic": "Document sections",
+      "question": "Are you referring to this specific part [likely pointing to a document] as 'the prefix'?",
+      "raw_question": "This one?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "No, I'm referring to a different part, the one in your draft.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "38:48",
+      "topic": "Case identification",
+      "question": "To help me understand your specific example of contextual intelligence and market scanning, are you working on Case One or Case Three?",
+      "raw_question": "Uh, what you are, you have the, you have case one or case three?",
+      "answered_by": "Aryang",
+      "score": null,
+      "response_text": "I am working on Case One.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "50:29",
+      "topic": "Corruption frequency",
+      "question": "You mentioned that auditors are corrupt in your country and that they are given something before they even arrive. Does this practice occur every single time?",
+      "raw_question": "Every time?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "Yes, it happens consistently. They even involve a professor to challenge whether the corruption is real or not.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "55:01",
+      "topic": "Project status",
+      "question": "Regarding your project or dissertation, have you already completed it?",
+      "raw_question": "Did you already finish?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No, I have not finished it yet.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "55:02",
+      "topic": "Draft status",
+      "question": "Since you haven't finished your project, what is the status of your first draft?",
+      "raw_question": "What about your first draft?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No, I have not completed the first draft.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "55:04",
+      "topic": "Project initiation",
+      "question": "Even if you haven't finished your first draft, have you at least started working on your project?",
+      "raw_question": "But did you start already?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Yes, I have started working on it.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "55:06",
+      "topic": "Project scope",
+      "question": "Considering you've started your project, are you planning to maintain its current broad scope?",
+      "raw_question": "Okay. And you're you're going to keep the big",
+      "answered_by": "Aryang",
+      "score": 5,
+      "response_text": "No, I'm trying to make it smaller, because the current scope is too big.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "55:09",
+      "topic": "Project recommendations",
+      "question": "Based on your experience with this project so far, what advice or recommendation would you give to yourself?",
+      "raw_question": "And what would you recommend to yourself?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "I would try to focus more on certain elements rather than attempting to cover the entire subject, because it's currently too broad.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "55:10",
+      "topic": "Project experience",
+      "question": "Reflecting on your experience with this project, what recommendations would you offer based on what you've learned?",
+      "raw_question": "I would be like, what would you recommend from this experience?",
+      "answered_by": "Aryang",
+      "score": 5,
+      "response_text": "I would try to focus more on certain elements rather than covering the whole thing because the topic is very broad.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "55:18",
+      "topic": "Project scope narrowing",
+      "question": "Grace, you mentioned having a large topic and trying to narrow it down. What specific actions are you taking to narrow your project's scope?",
+      "raw_question": "Yeah. And what are you doing to narrow it down?",
+      "answered_by": "Grace",
+      "score": 6,
+      "response_text": "I'm trying to focus specifically on women in STEM, rather than the general population, to achieve a smaller population size for my research.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "55:24",
+      "topic": "Project status",
+      "question": "Mega, following our discussion with Grace about project scope, how is your project progressing and what is its current status?",
+      "raw_question": "Okay. What about you, Mega?",
+      "answered_by": "Mega",
+      "score": 4,
+      "response_text": "My topic isn't huge, but it's very vague, so I'm trying to focus on one specific part.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "55:29",
+      "topic": "Project specific focus",
+      "question": "You mentioned your project topic is vague and you're focusing on one specific part. Could you please specify which part you intend to focus on?",
+      "raw_question": "And what is that part?",
+      "answered_by": "Mega",
+      "score": 5,
+      "response_text": "My project is about innovation policy, which is a very broad topic. I'm going to look specifically into government intervention in certain projects related to green energy, focusing on one type of energy rather than all of them.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "55:38",
+      "topic": "Data set relevance",
+      "question": "Now that you've clarified your specific project focus on government intervention in green energy projects, is your chosen data set specifically tailored to this narrowed scope?",
+      "raw_question": "Okay. Very nice. And your data set, is it specific to this?",
+      "answered_by": "Mega",
+      "score": 5,
+      "response_text": "I'm still trying to connect the data to it. I was hoping to use...",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "62:10",
+      "topic": "Project alignment",
+      "question": "Given that Mega wants to align her ICP and research proposal, and you asked a similar question, would you also be interested in trying to match your ICP and research proposal?",
+      "raw_question": "Maybe you want to do that too because you asked me similar.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, I am interested in that.",
+      "is_substantive": false
+    }
+  ]
+}

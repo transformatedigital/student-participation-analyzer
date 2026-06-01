@@ -1,0 +1,217 @@
+{
+  "block": 11,
+  "time_range": "50:00-55:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that you need to be fixing this kind of thing. That kind of implicit, I know explicitly exists.",
+      "timestamp_abs": "50:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Actually, uh, what happens is, uh,",
+      "timestamp_abs": "50:06"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Same for you, Chili, like also",
+      "timestamp_abs": "50:08"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Uh oh, uh Most likely like, they probably",
+      "timestamp_abs": "50:09"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Auditors are the most corrupt in my country.",
+      "timestamp_abs": "50:11"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Auditors.",
+      "timestamp_abs": "50:14"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Before they come, you're already giving them something even before they arrive. So that they're most corrupt. When it happens maybe a case of corruption within uh, maybe one professor will be uh, caught in this issue.",
+      "timestamp_abs": "50:15"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "50:21"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "What it's happened is that they they deal from the faculty first first to invite",
+      "timestamp_abs": "50:21"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Every time?",
+      "timestamp_abs": "50:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yeah. professor.",
+      "timestamp_abs": "50:30"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "To challenge whether it's real or it happens, actually.",
+      "timestamp_abs": "50:31"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay, okay.",
+      "timestamp_abs": "50:35"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Because maybe it can be just something. Yeah yeah, of course. Yeah, maybe it's some, yeah yeah yeah yeah, so they confirm. Yeah yeah yeah.",
+      "timestamp_abs": "50:36"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "50:41"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "If it is such and then the dean has not also the power to like fire a professor. It is to be sent to the to the committee, the administrative committee. So the rector with the academic secretary general, they discuss about that. And if it's really proved that something happened, there's corruption such. And then even the the president of the university also has no power to fire the the the university professor. Then it is sent to the Ministry of Higher Education. From there the decision is taken. But to reach that point, we need to make sure that something really happened.",
+      "timestamp_abs": "50:42"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "51:26"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "But sometimes it can also happen but do we really need to fire this professor for what has been? Or maybe the rector, the university of uh the the president of the university can maybe just uh how do we call it? Maybe Cross it off.",
+      "timestamp_abs": "51:27"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, a discipline.",
+      "timestamp_abs": "51:43"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "51:44"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, make a discipline. Yeah. A discipline, stuff, you know, maybe you can.",
+      "timestamp_abs": "51:44"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So like I'm thinking about this because I think the problem, it needs to be like, I think while we do this exercise next week, we can discuss further. You can see how like it really initially it looks like a real problem, but it's actually a symptom. So maybe we can try to think. I have some, I keep thinking like, mm, I'm not saying, if you talk about the general word problem, probably yes, it's a problem. Your university needs efficiency and needs transparency and definitely they need to system and automate it. But is it the type of problem we're talking about in this class and for your technology commercialization journey? That's my question right now for you. You slightly already moving towards there and you, you two are still, I keep trying to find the way. You, I'm still, I'm just thinking preparing you for the presentation and all that. So please, like in your case, both you work with that. Arya will have the meeting with me next Wednesday, next Tuesday. We're going to tell you about that experience in the class next Tuesday. And you, I was supposed to solve it tonight about what's the to present. This is going to say, okay, Kisty has some money, like then are we going to move on with Kisty or we're going to move with another different partners next. But anyway, for you, I think it's good that you prepare with Cesar the presentation. You already had a very strong pitch, but I think you need to improve it a little bit. Maybe have a meeting with Arya and Cesar and because Arya even he had a good presentation, he improved it a lot more once he had the guidance. So I think you two can work in that side. And you, let me. How about you tell, confess in front of everybody?",
+      "timestamp_abs": "51:48"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "ALL",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "54:20"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "I just want to show you, uh, my",
+      "timestamp_abs": "54:22"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Confess.",
+      "timestamp_abs": "54:25"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Confess. Okay.",
+      "timestamp_abs": "54:27"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this is a dissertation for dissertation. And that's a different thing from. No, I mean, like I I want to make correlation with the dissertation and also the project.",
+      "timestamp_abs": "54:30"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "correlation is impossible. Maybe some some synergies. synergies.",
+      "timestamp_abs": "54:44"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "54:47"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "So, okay. And then for example, in my case, the topic is something that also will become a project and then so.",
+      "timestamp_abs": "54:49"
+    }
+  ]
+}

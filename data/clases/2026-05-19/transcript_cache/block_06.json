@@ -1,0 +1,408 @@
+{
+  "block": 6,
+  "time_range": "25:00-30:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "on the table right now. It's not the case.",
+      "timestamp_abs": "25:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I tried to generate a hypothetical technology commercialization case that we could discuss",
+      "timestamp_abs": "25:02"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that it would give you certainty, ah, this is how it would work in that case. Okay, so mine could go this way or that way.",
+      "timestamp_abs": "25:06"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I created this case and this is like a a case. I I created three, but",
+      "timestamp_abs": "25:12"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "since we're gonna do two themes. Maybe one theme here, one theme here with.",
+      "timestamp_abs": "25:16"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then you're gonna read that case and you're gonna we're gonna try to build this process hypothetically into that case, okay?",
+      "timestamp_abs": "25:21"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So um, so we have like 20 more minutes before we wrap up the class.",
+      "timestamp_abs": "25:29"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I'm gonna give you 20 minutes to just read it and discuss it and we're gonna retake this case again next class, okay? So",
+      "timestamp_abs": "25:34"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "don't worry.",
+      "timestamp_abs": "25:40"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So instead of giving you as a homework,",
+      "timestamp_abs": "25:42"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is handout for that team, you guys discuss it.",
+      "timestamp_abs": "25:44"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is gonna be Stephen.",
+      "timestamp_abs": "25:48"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, up until Grace and then you two",
+      "timestamp_abs": "25:50"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "can read this case.",
+      "timestamp_abs": "25:52"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "Oh, it's only one case.",
+      "timestamp_abs": "25:54"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no.",
+      "timestamp_abs": "25:56"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "One for group.",
+      "timestamp_abs": "25:56"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "One per group.",
+      "timestamp_abs": "25:58"
+    },
+    {
+      "timestamp": "01:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, I'm gonna read the instructions, okay.",
+      "timestamp_abs": "26:04"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "directed_to": "ARYANG",
+      "text": "Arya, please read the instructions for everybody.",
+      "timestamp_abs": "26:05"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "The previous page. Oh, okay.",
+      "timestamp_abs": "26:09"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Objective to transition from viewing the GTC journey as a product to understanding global technology commercialization as a process.",
+      "timestamp_abs": "26:12"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, this is the answer.",
+      "timestamp_abs": "26:21"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "First, read one of the three narrative below.",
+      "timestamp_abs": "26:23"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Two, for each case, identify the symptoms, what stakeholders initially thought the problem was and the root cause, the actual systemic or structural issue discovered.",
+      "timestamp_abs": "26:26"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Three, outline the journey of each case by mapping the events to the four get decisions points. Get one, problem demand fit. Get two, solution partner fit. Get three, feasibility and verification. Get four, scale up and institutionalization.",
+      "timestamp_abs": "26:38"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, sorry, that 456 is my mistake.",
+      "timestamp_abs": "26:55"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The bullet should be one, two, three.",
+      "timestamp_abs": "26:57"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I just found it.",
+      "timestamp_abs": "27:00"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The bullet, the bullet is 456 but it should be 123.",
+      "timestamp_abs": "27:02"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "It's 7, 8, 9.",
+      "timestamp_abs": "27:06"
+    },
+    {
+      "timestamp": "02:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "27:08"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "The case is different.",
+      "timestamp_abs": "27:09"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Keep going, keep going, keep going.",
+      "timestamp_abs": "27:11"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay, so each one, your case is number case number one, right?",
+      "timestamp_abs": "27:12"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Oh, this one.",
+      "timestamp_abs": "27:16"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, okay.",
+      "timestamp_abs": "27:16"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You have case three.",
+      "timestamp_abs": "27:17"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All right.",
+      "timestamp_abs": "27:18"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So you have read the title of the case?",
+      "timestamp_abs": "27:19"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "The local eye.",
+      "timestamp_abs": "27:22"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Okay, this is what he has.",
+      "timestamp_abs": "27:24"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so please read it, you guys read it.",
+      "timestamp_abs": "27:27"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "What happened in the [inaudible]",
+      "timestamp_abs": "27:55"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Oh, no. [inaudible]",
+      "timestamp_abs": "28:03"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "I don't have this one.",
+      "timestamp_abs": "28:04"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Oh, I have another one.",
+      "timestamp_abs": "28:06"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Just saying.",
+      "timestamp_abs": "28:11"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "This one is the [inaudible] one.",
+      "timestamp_abs": "28:17"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Hmm.",
+      "timestamp_abs": "28:25"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want you to make sure",
+      "timestamp_abs": "28:33"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that you read it very carefully.",
+      "timestamp_abs": "28:38"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Very carefully.",
+      "timestamp_abs": "28:41"
+    },
+    {
+      "timestamp": "03:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then we're going to discuss.",
+      "timestamp_abs": "28:47"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "I'm sure that the [inaudible] problem.",
+      "timestamp_abs": "29:38"
+    },
+    {
+      "timestamp": "04:46",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Giving governance.",
+      "timestamp_abs": "29:46"
+    },
+    {
+      "timestamp": "04:48",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "29:48"
+    }
+  ]
+}
