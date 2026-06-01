@@ -550,7 +550,8 @@ def write_dashboard_html(per_student, classes, agg_data):
   }}
   .toggle-icon.open {{ transform: rotate(90deg); }}
   .collapsible-header:hover .toggle-icon {{ background: #dbeafe; }}
-  .policy-table {{ width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 8px; }}
+  .policy-table {{ width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 8px; table-layout: fixed; }}
+  .policy-table td, .policy-table th {{ word-wrap: break-word; overflow-wrap: break-word; }}
   .policy-table th {{
     background: #305496; color: white; padding: 10px 12px; text-align: left;
     font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em;
@@ -727,12 +728,12 @@ def write_dashboard_html(per_student, classes, agg_data):
       <table class="policy-table">
         <thead>
           <tr>
-            <th style="width:40px">Component</th>
-            <th>Description</th>
-            <th style="width:80px">Weight</th>
-            <th>Detailed Composition</th>
-            <th style="width:60px">%</th>
-            <th>Notes</th>
+            <th style="width:6%">Component</th>
+            <th style="width:16%">Description</th>
+            <th style="width:8%">Weight</th>
+            <th style="width:34%">Detailed Composition</th>
+            <th style="width:6%">%</th>
+            <th style="width:30%">Notes</th>
           </tr>
         </thead>
         <tbody>
