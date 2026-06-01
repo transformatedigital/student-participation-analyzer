@@ -751,7 +751,7 @@ def write_dashboard_html(per_student, classes, agg_data):
             <td rowspan="2" class="policy-weight">25%</td>
             <td><strong>B1</strong> Pop-up Quiz</td><td class="policy-pct">15%</td><td>B1.1 Pop-up Quiz 1 (date), B1.2 Pop-up Quiz 2 (date), B1.3 Pop-up Quiz 3 (June 2)</td>
           </tr>
-          <tr><td><strong>B2</strong> Team discussion</td><td class="policy-pct">10%</td><td>Case Study — Team A: Chilaka, Aryang · Team B: Sthepen, Mega, Grace</td></tr>
+          <tr><td><strong>B2</strong> Team discussion</td><td class="policy-pct">10%</td><td>B2.1 Case Study — Team A: Chilaka, Aryang · Team B: Sthepen, Mega, Grace</td></tr>
 
           <tr>
             <td rowspan="2" class="policy-letter">C</td>
