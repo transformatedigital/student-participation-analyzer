@@ -746,19 +746,18 @@ def write_dashboard_html(per_student, classes, agg_data):
           <tr class="policy-A-main"><td><strong>A3</strong> Student's Attendance</td><td class="policy-pct">5.0%</td><td>—</td></tr>
 
           <tr>
-            <td rowspan="3" class="policy-letter">B</td>
-            <td rowspan="3" class="policy-desc">Individual Classwork / Worksheet / Team discussion</td>
-            <td rowspan="3" class="policy-weight">25%</td>
-            <td><strong>B1</strong> Individual Classwork</td><td class="policy-pct">10.0%</td><td>—</td>
+            <td rowspan="2" class="policy-letter">B</td>
+            <td rowspan="2" class="policy-desc">Pop-up Quiz &amp; Worksheets / Team discussion</td>
+            <td rowspan="2" class="policy-weight">25%</td>
+            <td><strong>B1</strong> Pop-up Quiz &amp; Worksheets</td><td class="policy-pct">15.0%</td><td>Pop-up Quiz 1 (date), Pop-up Quiz 2 (date), Pop-up Quiz 3 (June 2)</td>
           </tr>
-          <tr><td><strong>B2</strong> Worksheet</td><td class="policy-pct">10.0%</td><td>—</td></tr>
-          <tr><td><strong>B3</strong> Team discussion</td><td class="policy-pct">5.0%</td><td>—</td></tr>
+          <tr><td><strong>B2</strong> Team discussion</td><td class="policy-pct">10.0%</td><td>Case Study — Team A: Chilaka, Aryang · Team B: Sthepen, Mega, Grace</td></tr>
 
           <tr>
             <td rowspan="2" class="policy-letter">C</td>
             <td rowspan="2" class="policy-desc">Assignments &amp; Partial Submissions</td>
             <td rowspan="2" class="policy-weight">20%</td>
-            <td><strong>C1</strong> Assignments</td><td class="policy-pct">10.0%</td><td>1) Popup Quiz Reflection, 2) GTC Framework process</td>
+            <td><strong>C1</strong> Assignments</td><td class="policy-pct">10.0%</td><td>1) Reflection on Pop-up Quiz 1 vs 2, 2) GTC Framework Process Activities</td>
           </tr>
           <tr><td><strong>C2</strong> Partial Submissions</td><td class="policy-pct">10.0%</td><td>ICP (V1-V4)</td></tr>
 
@@ -797,7 +796,7 @@ def write_dashboard_html(per_student, classes, agg_data):
     </button>
     <button class="main-tab disabled" onclick="showMainTab(this, 'B')">
       <span class="tab-letter">B</span>
-      <span class="tab-text">Individual Classwork / Worksheet / Team discussion<br><small>25% · Coming soon</small></span>
+      <span class="tab-text">Pop-up Quiz &amp; Worksheets / Team discussion<br><small>25% · Coming soon</small></span>
     </button>
     <button class="main-tab disabled" onclick="showMainTab(this, 'C')">
       <span class="tab-letter">C</span>
@@ -975,8 +974,8 @@ def write_dashboard_html(per_student, classes, agg_data):
   <!-- TAB B CONTENT -->
   <div id="main-tab-B" class="main-tab-content">
     <div class="section">
-      <h2 style="color:#1e293b;">📊 Component B — Individual Classwork / Worksheet / Team discussion (25%)</h2>
-      <p style="color:#64748b; font-size:13px; margin-bottom:16px;">B.1 Individual Classwork (10%) + B.2 Worksheet (10%) + B.3 Team discussion (5%)</p>
+      <h2 style="color:#1e293b;">📊 Component B — Pop-up Quiz &amp; Worksheets / Team discussion (25%)</h2>
+      <p style="color:#64748b; font-size:13px; margin-bottom:16px;">B.1 Pop-up Quiz &amp; Worksheets (15%) + B.2 Team discussion (10%)</p>
 
       <div class="form-buttons">
         <a href="https://forms.gle/jXEW3uPj94wppenQ6" target="_blank" rel="noopener" class="form-btn form-btn-b1">
