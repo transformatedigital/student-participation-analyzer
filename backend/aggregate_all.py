@@ -758,7 +758,7 @@ def write_dashboard_html(per_student, classes, agg_data):
             <td rowspan="2" class="policy-letter">C</td>
             <td rowspan="2" class="policy-desc">Assignments &amp; Partial Submissions</td>
             <td rowspan="2" class="policy-weight">20%</td>
-            <td><strong>C1</strong> Assignments</td><td class="policy-pct">10%</td><td>C1.1) Reflection on Pop-up Quiz 1 vs 2, C1.2) GTC Framework Process Activities</td>
+            <td><strong>C1</strong> Assignments</td><td class="policy-pct">10%</td><td>C1.1) Reflection on Pop-up Quiz 1, C1.2) GTC Framework Process Activities</td>
           </tr>
           <tr><td><strong>C2</strong> Partial Submissions</td><td class="policy-pct">10%</td><td>C2.1 ICP (V1-V4)</td></tr>
 
