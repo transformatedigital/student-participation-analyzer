@@ -728,12 +728,12 @@ def write_dashboard_html(per_student, classes, agg_data):
       <table class="policy-table">
         <thead>
           <tr>
-            <th style="width:8%">Component</th>
-            <th style="width:20%">Description</th>
-            <th style="width:8%">Weight</th>
-            <th style="width:20%">Detailed Composition</th>
+            <th style="width:10%">Component</th>
+            <th style="width:18%">Description</th>
+            <th style="width:7%">Weight</th>
+            <th style="width:18%">Detailed Composition</th>
             <th style="width:6%">%</th>
-            <th style="width:38%">Notes</th>
+            <th style="width:41%">Notes</th>
           </tr>
         </thead>
         <tbody>
