@@ -740,40 +740,40 @@ def write_dashboard_html(per_student, classes, agg_data):
             <td rowspan="3" class="policy-letter">A</td>
             <td rowspan="3" class="policy-desc">Student's Preparation, Participation &amp; Attendance</td>
             <td rowspan="3" class="policy-weight">20%</td>
-            <td>Student's Preparation</td><td class="policy-pct">7.5%</td><td>Questions to students</td>
+            <td><strong>A1</strong> Student's Preparation</td><td class="policy-pct">7.5%</td><td>Questions to students</td>
           </tr>
-          <tr class="policy-A-main"><td>Student's Participation</td><td class="policy-pct">7.5%</td><td>Questions to Professor</td></tr>
-          <tr class="policy-A-main"><td>Student's Attendance</td><td class="policy-pct">5.0%</td><td>—</td></tr>
+          <tr class="policy-A-main"><td><strong>A2</strong> Student's Participation</td><td class="policy-pct">7.5%</td><td>Questions to Professor</td></tr>
+          <tr class="policy-A-main"><td><strong>A3</strong> Student's Attendance</td><td class="policy-pct">5.0%</td><td>—</td></tr>
 
           <tr>
             <td rowspan="3" class="policy-letter">B</td>
-            <td rowspan="3" class="policy-desc">Classwork / Worksheet / Team discussion</td>
+            <td rowspan="3" class="policy-desc">Individual Classwork / Worksheet / Team discussion</td>
             <td rowspan="3" class="policy-weight">25%</td>
-            <td>Classwork</td><td class="policy-pct">8.3%</td><td>—</td>
+            <td><strong>B1</strong> Individual Classwork</td><td class="policy-pct">10.0%</td><td>—</td>
           </tr>
-          <tr><td>Worksheet</td><td class="policy-pct">8.3%</td><td>—</td></tr>
-          <tr><td>Team discussion</td><td class="policy-pct">8.4%</td><td>—</td></tr>
+          <tr><td><strong>B2</strong> Worksheet</td><td class="policy-pct">10.0%</td><td>—</td></tr>
+          <tr><td><strong>B3</strong> Team discussion</td><td class="policy-pct">5.0%</td><td>—</td></tr>
 
           <tr>
             <td rowspan="2" class="policy-letter">C</td>
             <td rowspan="2" class="policy-desc">Assignments &amp; Partial Submissions</td>
             <td rowspan="2" class="policy-weight">20%</td>
-            <td>Assignments</td><td class="policy-pct">10.0%</td><td>1) Popup Quiz Reflection, 2) GTC Framework process</td>
+            <td><strong>C1</strong> Assignments</td><td class="policy-pct">10.0%</td><td>1) Popup Quiz Reflection, 2) GTC Framework process</td>
           </tr>
-          <tr><td>Partial Submissions</td><td class="policy-pct">10.0%</td><td>ICP (V1-V4)</td></tr>
+          <tr><td><strong>C2</strong> Partial Submissions</td><td class="policy-pct">10.0%</td><td>ICP (V1-V4)</td></tr>
 
           <tr>
             <td class="policy-letter">D</td>
             <td class="policy-desc">Final Term Submission Report</td>
             <td class="policy-weight">15%</td>
-            <td>—</td><td class="policy-pct">15.0%</td><td>Based on ICP Evaluation Rubric</td>
+            <td><strong>D1</strong></td><td class="policy-pct">15.0%</td><td>Based on ICP Evaluation Rubric</td>
           </tr>
 
           <tr>
             <td class="policy-letter">E</td>
             <td class="policy-desc">Final GTC Project Pitch</td>
             <td class="policy-weight">20%</td>
-            <td>—</td><td class="policy-pct">20.0%</td><td>Based on all the feedback provided by professor during the course. All professor guidelines must be followed (references, PPT slides, formatting, etc.)</td>
+            <td><strong>E1</strong></td><td class="policy-pct">20.0%</td><td>Based on all the feedback provided by professor during the course. All professor guidelines must be followed (references, PPT slides, formatting, etc.)</td>
           </tr>
 
           <tr class="policy-total">
@@ -797,7 +797,7 @@ def write_dashboard_html(per_student, classes, agg_data):
     </button>
     <button class="main-tab disabled" onclick="showMainTab(this, 'B')">
       <span class="tab-letter">B</span>
-      <span class="tab-text">Classwork / Worksheet / Team discussion<br><small>25% · Coming soon</small></span>
+      <span class="tab-text">Individual Classwork / Worksheet / Team discussion<br><small>25% · Coming soon</small></span>
     </button>
     <button class="main-tab disabled" onclick="showMainTab(this, 'C')">
       <span class="tab-letter">C</span>
@@ -975,8 +975,8 @@ def write_dashboard_html(per_student, classes, agg_data):
   <!-- TAB B CONTENT -->
   <div id="main-tab-B" class="main-tab-content">
     <div class="section">
-      <h2 style="color:#1e293b;">📊 Component B — Classwork / Worksheet / Team discussion (25%)</h2>
-      <p style="color:#64748b; font-size:13px; margin-bottom:16px;">B.1 Classwork (8.3%) + B.2 Worksheet (8.3%) + B.3 Team discussion (8.4%)</p>
+      <h2 style="color:#1e293b;">📊 Component B — Individual Classwork / Worksheet / Team discussion (25%)</h2>
+      <p style="color:#64748b; font-size:13px; margin-bottom:16px;">B.1 Individual Classwork (10%) + B.2 Worksheet (10%) + B.3 Team discussion (5%)</p>
 
       <div class="form-buttons">
         <a href="https://forms.gle/jXEW3uPj94wppenQ6" target="_blank" rel="noopener" class="form-btn form-btn-b1">
