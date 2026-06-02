@@ -1,0 +1,486 @@
+{
+  "block": 17,
+  "time_range": "80:00-85:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "logic.",
+      "timestamp_abs": "80:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The right logic of how you will defend this project.",
+      "timestamp_abs": "80:01"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Within GDI's philosophy, it's still",
+      "timestamp_abs": "80:04"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "a question mark in your case, to me.",
+      "timestamp_abs": "80:08"
+    },
+    {
+      "timestamp": "00:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? So, it's okay if we move in two tracks, because I don't want to delay your practical experience to do technology commercialization, but I also don't want you to miss the opportunity to practice your logical argumentation of building this project.",
+      "timestamp_abs": "80:11"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "80:27"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, just big warning in that sense.",
+      "timestamp_abs": "80:28"
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Big disclaimer.",
+      "timestamp_abs": "80:31"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's good that you are being approached, you found the chance to discuss with Dr. Park and that he's gonna introduce you somebody.",
+      "timestamp_abs": "80:32"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But just make sure that you, because right now still your need is big, I think.",
+      "timestamp_abs": "80:40"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I gave you some comments. I hope you can prove me wrong by the final week.",
+      "timestamp_abs": "80:45"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, continue.",
+      "timestamp_abs": "80:50"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What else?",
+      "timestamp_abs": "80:51"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh as for uh Indonesian sides, I already talk also the PLNs.",
+      "timestamp_abs": "80:52"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "You spoke to PLN about this?",
+      "timestamp_abs": "80:57"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yeah, uh, uh, PLN prefer to make a pilot project in the entity.",
+      "timestamp_abs": "80:59"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "81:07"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh, because uh, uh, this, uh, that area has a, uh, equator area, so they, they will get a lot of energy from the solar.",
+      "timestamp_abs": "81:08"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "And also, uh, there are a lot of uh.",
+      "timestamp_abs": "81:21"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So they're near the equator, okay.",
+      "timestamp_abs": "81:23"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yeah. And also there are a lot of poverty over there.",
+      "timestamp_abs": "81:25"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "So, uh,",
+      "timestamp_abs": "81:28"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "uh, the, uh, PLN prefer to",
+      "timestamp_abs": "81:30"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "uh, put the pilot project in the, uh, entity.",
+      "timestamp_abs": "81:33"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "And also, um, previously I already contacted the, the director of energy there.",
+      "timestamp_abs": "81:36"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But this, this might not be related anymore, yeah?",
+      "timestamp_abs": "81:41"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You updated to Infinity, huh?",
+      "timestamp_abs": "81:44"
+    },
+    {
+      "timestamp": "01:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This one you haven't, for example, here you instead of putting the same thing that I wrote here, very smart students, huh?",
+      "timestamp_abs": "81:51"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Because I don't have, I didn't review your.",
+      "timestamp_abs": "81:57"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, no.",
+      "timestamp_abs": "82:00"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Sthephen and Mega, very smart.",
+      "timestamp_abs": "82:02"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "You don't think I was a student, too?",
+      "timestamp_abs": "82:04"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, instead of putting the same thing, you have to say I spoke to Professor Park like, Professor, engagement with Professor Park to the possibility of meeting Infinity, blah, blah, blah, like that.",
+      "timestamp_abs": "82:06"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Ah, okay.",
+      "timestamp_abs": "82:14"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "When you don't know the answer, just copy the question. Very, very good.",
+      "timestamp_abs": "82:17"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Assessment for battery deployment.",
+      "timestamp_abs": "82:27"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Yeah, uh, uh.",
+      "timestamp_abs": "82:30"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "What do you understand for Let's go, okay.",
+      "timestamp_abs": "82:33"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Mega, is there anything you want to add more?",
+      "timestamp_abs": "82:36"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Oh, yeah. After, after uh I contact the PLN, uh PLN prefer to uh one of the islands in the entity, uh that's a Timor Islands. And, uh, at that uh area there is a PV uh and the capacity is uh 5 MW.",
+      "timestamp_abs": "82:38"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "And then, uh the person, uh will be the pilot project. So, uh,",
+      "timestamp_abs": "82:58"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, so they narrowed down to an area, an area of PV that could be the site for the pilot project.",
+      "timestamp_abs": "83:04"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Also the, the, the the area of solar PV. Okay.",
+      "timestamp_abs": "83:09"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Okay, anything else?",
+      "timestamp_abs": "83:14"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Uh, that's all.",
+      "timestamp_abs": "83:15"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Perfect.",
+      "timestamp_abs": "83:16"
+    },
+    {
+      "timestamp": "03:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I want to share this because we are like one hour, we have a break time and then one hour to discuss general comments.",
+      "timestamp_abs": "83:18"
+    },
+    {
+      "timestamp": "03:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But one of the things I want before going to break is I wanna like really, of course, we're going to bring this back in the beginning of the next semester and your summary for maybe on the second you have an opportunity and and to keep going on this, but.",
+      "timestamp_abs": "83:23"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "One of the things I wanna like really just remind you guys,",
+      "timestamp_abs": "83:37"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "is what do we understand I and I want you to, I want to try, I want you to try",
+      "timestamp_abs": "83:43"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "to explain to me a little bit of what's the difference between stage one and sorry, stop.",
+      "timestamp_abs": "83:49"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "I say.",
+      "timestamp_abs": "83:54"
+    },
+    {
+      "timestamp": "03:56",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Say.",
+      "timestamp_abs": "83:56"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Between, between stage one. What's the difference between demand side, supply side and preliminary due diligence?",
+      "timestamp_abs": "84:00"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What do you think is the difference?",
+      "timestamp_abs": "84:07"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "At the demand side you need to prove if the",
+      "timestamp_abs": "84:14"
+    },
+    {
+      "timestamp": "04:19",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "the problem you are talking about",
+      "timestamp_abs": "84:19"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "is real, is is it real to be invested by the",
+      "timestamp_abs": "84:21"
+    },
+    {
+      "timestamp": "04:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Your time, your effort.",
+      "timestamp_abs": "84:27"
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "maybe even demand, is it the real problem that the government can invest money or Somebody.",
+      "timestamp_abs": "84:29"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Any donor? That's the demand side.",
+      "timestamp_abs": "84:35"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "You need to show that they calculate the mathematics, the loopholes in the policies and whatever.",
+      "timestamp_abs": "84:37"
+    },
+    {
+      "timestamp": "04:43",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "And then on the supply side,",
+      "timestamp_abs": "84:43"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "I think",
+      "timestamp_abs": "84:45"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "this is the",
+      "timestamp_abs": "84:47"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "the the one who going to give you the the solution.",
+      "timestamp_abs": "84:51"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Is is is the",
+      "timestamp_abs": "84:57"
+    }
+  ]
+}

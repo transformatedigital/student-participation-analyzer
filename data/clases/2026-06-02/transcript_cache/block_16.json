@@ -1,0 +1,427 @@
+{
+  "block": 16,
+  "time_range": "75:00-80:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think in general you did a good job, but some of them might be misclassified, right?",
+      "timestamp_abs": "75:00"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So if like they say brainstorm,",
+      "timestamp_abs": "75:07"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, don't don't use the same word. I wish I wish because this is very general, right?",
+      "timestamp_abs": "75:10"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In your case really, what are you doing? In your case you are trying to understand.",
+      "timestamp_abs": "75:14"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Actually, I gave you a comment of what you have to do in this. I already prepared a comment for you. One of the things you have to do in this case,",
+      "timestamp_abs": "75:21"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You really wanna understand the picture like a little bit what Arya said he's doing.",
+      "timestamp_abs": "75:28"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "And I gave you like, how are other countries solving this issue?",
+      "timestamp_abs": "75:33"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Many countries have the same issue as Rwanda, although they have different different constraints, different strengths, for example, many countries have fishing and slashing, but they don't have the mobile money condition, right? They are having the bank.",
+      "timestamp_abs": "75:35"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you want to understand how is the global landscape? So I think when you're brainstorming this digital policy tech responses, you want to understand how other countries are trying to solve this issue, whether it is with AI or with not AI.",
+      "timestamp_abs": "75:46"
+    },
+    {
+      "timestamp": "00:58",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What have countries done?",
+      "timestamp_abs": "75:58"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Prior to the AI era or in the AI era. You want to really understand the global landscape. What are others doing?",
+      "timestamp_abs": "76:00"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "To really make sure that what you're suggesting is not a silver bullet of technology only, but actually a comprehensive solution to the problem.",
+      "timestamp_abs": "76:05"
+    },
+    {
+      "timestamp": "01:15",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Yeah, my ICT already, I have to.",
+      "timestamp_abs": "76:15"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "A little bit. Because most of Africa can't really do mobile money.",
+      "timestamp_abs": "76:18"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "I try to benchmark on the other countries.",
+      "timestamp_abs": "76:22"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "How have they been? Yeah.",
+      "timestamp_abs": "76:24"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "But if you see they are still also uh doing",
+      "timestamp_abs": "76:26"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I wish you I think it's good that you made peer countries, it's good. But try to find other good countries like Korea or Singapore or Estonia, I don't know.",
+      "timestamp_abs": "76:30"
+    },
+    {
+      "timestamp": "01:40",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "What are countries that we know that are really best practice models that have solved this in a different way?",
+      "timestamp_abs": "76:40"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Of course, I know they will have gaps because they're not exactly the same as Rwanda. But what are other countries doing whether they're using AI or not? Be always open to that question.",
+      "timestamp_abs": "76:45"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? Do not plug it into the AI picture situation either.",
+      "timestamp_abs": "76:56"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's why I'm saying benchmark this AI policy tech kind of mix, right?",
+      "timestamp_abs": "76:59"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "I think the PPT I shared in the evening.",
+      "timestamp_abs": "77:05"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, you see, I try to look around the world.",
+      "timestamp_abs": "77:09"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "The US, Europe, Asia.",
+      "timestamp_abs": "77:14"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'll give you feedback I haven't checked it yet, but I will check it.",
+      "timestamp_abs": "77:17"
+    },
+    {
+      "timestamp": "02:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Alright. So, madam, May",
+      "timestamp_abs": "77:21"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[Laughter]",
+      "timestamp_abs": "77:24"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes, professor.",
+      "timestamp_abs": "77:26"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes, yes.",
+      "timestamp_abs": "77:28"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yeah, thank you, professor.",
+      "timestamp_abs": "77:29"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Um, after I knew the information that Chilaka already make uh similar of our project, I consultation with Professor Park. So there are there are a lot of data that I have to fulfill. So now it's already completed.",
+      "timestamp_abs": "77:30"
+    },
+    {
+      "timestamp": "02:45",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Um, uh first time I put a socio-economic data collections like I put uh collected poverty. I already make a map also.",
+      "timestamp_abs": "77:45"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Where is the poverty and also the electricity access uh and uh",
+      "timestamp_abs": "77:53"
+    },
+    {
+      "timestamp": "03:02",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "uh the regulations, uh infrastructure and regulatory scans.",
+      "timestamp_abs": "78:02"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "So um I put it also the demographic the demographic data.",
+      "timestamp_abs": "78:09"
+    },
+    {
+      "timestamp": "03:15",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Uh the last time I told the professor is the data is already completed that I have to design the uh the design to give to the Infinithill.",
+      "timestamp_abs": "78:15"
+    },
+    {
+      "timestamp": "03:24",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Say that again, please? I couldn't understand.",
+      "timestamp_abs": "78:24"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Technical design.",
+      "timestamp_abs": "78:26"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Uh. So the data that I have to fulfill um already completed for the demographical, socio-economic and also",
+      "timestamp_abs": "78:27"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "It is actually same here.",
+      "timestamp_abs": "78:34"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "But uh uh not all I put in here. I already make a report to professor.",
+      "timestamp_abs": "78:37"
+    },
+    {
+      "timestamp": "03:45",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "And also after that um uh the professor wants me to make kind of the designs to give to Infinithill Lab.",
+      "timestamp_abs": "78:45"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Ah, so he already wants to match you with that company.",
+      "timestamp_abs": "78:57"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "79:00"
+    },
+    {
+      "timestamp": "04:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Infinithill Lab.",
+      "timestamp_abs": "79:01"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Infinithill Lab.",
+      "timestamp_abs": "79:03"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "79:04"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Infinity Village.",
+      "timestamp_abs": "79:04"
+    },
+    {
+      "timestamp": "04:05",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "And the Infinity Energy, Infinity Energy.",
+      "timestamp_abs": "79:05"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "So you're discussing with them with him about the possibility to match with that company. Okay.",
+      "timestamp_abs": "79:09"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "79:14"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "MEGA",
+      "type": "student_comment",
+      "text": "Um uh",
+      "timestamp_abs": "79:15"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But be careful, my my really big alert is you might enter the same loop as him.",
+      "timestamp_abs": "79:17"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "One thing is the project, the tangible project that you might build and do not misunderstand me.",
+      "timestamp_abs": "79:24"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's really good that you're already finding a possible again, it's really good that you thanks to Professor Park and his network, you're starting this exploration and and you're going to start your solution exploration and you're going to start your what's there, like what's there outside and how like this kind of initial dating, right?",
+      "timestamp_abs": "79:31"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not bad.",
+      "timestamp_abs": "79:49"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But remember that especially in your case, I still don't find your I still find it like open.",
+      "timestamp_abs": "79:51"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the real the right",
+      "timestamp_abs": "79:58"
+    }
+  ]
+}

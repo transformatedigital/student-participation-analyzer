@@ -1,0 +1,225 @@
+{
+  "block": 15,
+  "time_range": "70:00-75:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And then, uh, Kisa has the source of the regression and whatever, we're gonna mark from there.",
+      "timestamp_abs": "70:00"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And then I go to technology exploitation.",
+      "timestamp_abs": "70:09"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Evaluate technical maturity of the that's why even I need to",
+      "timestamp_abs": "70:14"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, this is ongoing. that's what he told me.",
+      "timestamp_abs": "70:20"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So assessing the context of",
+      "timestamp_abs": "70:23"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You haven't even met them. No, no. Even I would say here you would say, rather than that, I would say like, evaluate the focus. Because look at this, this is soft engagement. There are two things. Technology exploration is the first one is identify candidates. What's out there? So, we're in, you already thanks to you, we already found these two possible candidates. Great.",
+      "timestamp_abs": "70:25"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "And for example, here you're not mentioning Round. Round is ongoing and it's a possible candidate. Why is it not here?",
+      "timestamp_abs": "70:45"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And then I will after discussing with the lady did you because, you know, I",
+      "timestamp_abs": "70:55"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's a task. It might be, I'm not saying you're gonna marry Round. I'm just saying what's out there? You found out there is a Round and Round is a mobile ID for",
+      "timestamp_abs": "71:01"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh yeah, yeah. I mean,",
+      "timestamp_abs": "71:10"
+    },
+    {
+      "timestamp": "01:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh yeah, yeah. I'm not saying you're gonna marry Round, I'm just saying what's out there? Right?",
+      "timestamp_abs": "71:11"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I really added the company for",
+      "timestamp_abs": "71:18"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Or any other",
+      "timestamp_abs": "71:20"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They had what they call mobile security.",
+      "timestamp_abs": "71:21"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But I saw it is on the like after download and you have it on the your smartphone. That's why I need",
+      "timestamp_abs": "71:23"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's good but in terms of my, you know, at the end of the day you need to think about the context of your country. That's why I said this is well good developed countries where everyone has an idea of smart for",
+      "timestamp_abs": "71:31"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There's different constraints but they have the experience so they might be interesting stakeholder.",
+      "timestamp_abs": "71:42"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So again and this one is soft engagement. So in the previous one is what's out there? In this one is already soft engagement. In your case and Mega's case as well, you haven't started this because you haven't been able to have any meeting yet.",
+      "timestamp_abs": "71:46"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "72:01"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So here you want to be like all the from pending on going in this category. Because you are in this category you already started dating, going to the first date. You haven't gone to any date yet. Okay? Because of we haven't started that process, right? So you understand the category now. So you have to re-edit about this kind of thing.",
+      "timestamp_abs": "72:02"
+    },
+    {
+      "timestamp": "02:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? So solely again, whatever you see in the internet, basic rule is not real. Whatever Chat GPT or Gemini or what is it? Cloth tell you, is also not real. As future masters or PhD, you have to confirm. Confirm means if you see it and touch it, then that's confirmed.",
+      "timestamp_abs": "72:27"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "DIY was misleaded by the because I'm here in Korea and I had the SK that is doing that. That's maybe I find myself and I found them.",
+      "timestamp_abs": "72:47"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But in my experience really, I was like you. I also thought, ah, Samsung is doing this and this and this. And when I met them,",
+      "timestamp_abs": "72:58"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not at all.",
+      "timestamp_abs": "73:05"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not at all.",
+      "timestamp_abs": "73:07"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I had this experience as a consultant of the World Bank and they they are telling me I I have to please evaluate the feasibility study of the procurement system. And then I went and oh, it was the customs system. And then I remember I went to the different ports and the Ministry of Finance like that. And they told me, yeah, we have an electronic system and we have this EDI platform. We are doing exchange of online documents. I said, oh really? Ah, show me, show me. And I was waiting, I will visit this place. So please show me how you do it. Yeah, we have all of this, okay, then show me. And then eventually they come with a card of paper.",
+      "timestamp_abs": "73:09"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "[laughter]",
+      "timestamp_abs": "73:39"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And they were saying, we have this what is the the electronic record that you have, the online platform. Ah, yeah, we have it there, this is here. And they come with the that's is the record. Right? And then when I really, really, really ask and ask and ask, the the really exchange of document was an Excel that they were extending by email and the exchange process was not was not a digital transaction process. It was just an electronic as in email electronic, right? So, in my experience as an expert of this field, many times people are saying, no, this is an online thing. It's not real. So, I'm not saying this is the case, but just to give you an example of how how things are in the reality.",
+      "timestamp_abs": "73:40"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Any other thing you want to share? For preliminary synthesis?",
+      "timestamp_abs": "74:22"
+    },
+    {
+      "timestamp": "04:25",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Other things are most impending process, all activities, I think I see",
+      "timestamp_abs": "74:25"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think these activities especially because today we last time we didn't have a chance to really go into the preliminary synthesis part a lot. I think many of you still this one might have it like, yeah, you or might might work, you have to work on it, especially after today's logic. Like you want to really think, is my activity really matching this box? Is my activity when you are putting the activities, want to really think is this activity part of this box, this box, or this box?",
+      "timestamp_abs": "74:31"
+    }
+  ]
+}

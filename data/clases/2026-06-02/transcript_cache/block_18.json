@@ -1,0 +1,265 @@
+{
+  "block": 18,
+  "time_range": "85:00-90:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "have you done it now?",
+      "timestamp_abs": "85:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "for but is the one in the best across the world. that's going to sort of this problem completely.",
+      "timestamp_abs": "85:01"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "timestamp_abs": "85:08"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "that's how I understand it.",
+      "timestamp_abs": "85:09"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Nice. And the third part?",
+      "timestamp_abs": "85:10"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "And the, uh, I think here is to see the the technologies.",
+      "timestamp_abs": "85:12"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "To see the",
+      "timestamp_abs": "85:22"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "preliminary synthesis because it is the opportunity generation.",
+      "timestamp_abs": "85:22"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "brainstorming the AI [inaudible]",
+      "timestamp_abs": "85:26"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Anybody can help him?",
+      "timestamp_abs": "85:28"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Are you all there?",
+      "timestamp_abs": "85:30"
+    },
+    {
+      "timestamp": "00:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Very close. Very warm. No, not hot, hot, hot, but very warm.",
+      "timestamp_abs": "85:32"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "The last part or one to three?",
+      "timestamp_abs": "85:36"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "You want to complete or you want to go from the start? Whatever you want.",
+      "timestamp_abs": "85:39"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh for me, the demand side is the the recipient side. Which is the let's say can I use example? Let's say the Indonesian's problem and the sub-please, the sub-please side is from the the Korean, the Korean side and the preliminary synthesis is like when you try to match uh their uh supply and demand things.",
+      "timestamp_abs": "85:43"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, it's a good summary. Yeah. This is the part. When you're you're not trying to evaluate the technology. That's the last part where I thought. In the first part, you're right. You're trying to confirm that this problem isn't worthy. That is a real problem and worthy of anybody's effort. In the second side is you're exploring what is there? What's out there? And what is it really like? Right? What's out there? What what is the competitive landscape? What's the global landscape? Is there a potential suitable, good suitable solution or product or technology or component, is there, right? There's something that can provide some contribution to this problem at some point. And this one is matching both sides. You said it well. It's trying to match both sides. Trying to match. At this at this stage we're not marrying everybody anybody yet. It's just you're just you met this guy with a very good guy that has a need. And then you met this good woman who is a very, very good woman and you oh, she needs a boyfriend and maybe she's looking for a boyfriend. There's very little to love us. So, they might be a good couple. But the one is Christian, the other one is Muslim and then, and then, yeah. Huh? And then maybe maybe they're one one believes in Jesus Christ, the other one in uh uh Muhammad, whatever, Muhammad, right? So, maybe, maybe not, maybe you're still at this stage you're just trying to, trying to understand that's why it's like preliminary synthesis. It's just, can I create an opportunity for these guys to meet? So, I said, without premature lock-in. Still just kind of brainstorm. Is this like really just question your your logic? I think this guy could be a good this girl could be a good match to this boyfriend, but maybe I realized the one guy believes in Muhammad, the other guy in Jesus Christ. So, it went like that, right?",
+      "timestamp_abs": "86:09"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So, trial version.",
+      "timestamp_abs": "87:56"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Hmm.",
+      "timestamp_abs": "87:57"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Trial, trial version.",
+      "timestamp_abs": "87:58"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. So, trial version. Even before trial version, right? Because at this stage maybe they maybe you just went for launch and you introduced them just to see as a friend or just to see they really can can match each other, right? Okay? So, at this stage you're just really mapping the potential opportunity and trying to see, can you align this? Can you align this demand, supply? Can you align it? Can you? It's just that early synthesis of what you think this side and this side could have could collaborate. At this stage it's just really early on feasibility and a ground checking.",
+      "timestamp_abs": "87:59"
+    },
+    {
+      "timestamp": "03:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? So, of course, words more, words less. This is very important. I wanted you to understand that. And, uh, so I think yeah.",
+      "timestamp_abs": "88:38"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I don't know how much time. We can talk really like in detail about that, but I don't want to come confuse here right now. The only thing I want you to ask and I I I think you could you could stop here because I'm not gonna from now on, already from next week, I want you to really focus on just wrapping up your ICP and your presentation. Although we know it's like a photo in time of what we're going to be doing here. But since that you guys already know, I'm I'm letting you know officially, this is not a thing that we're going to finish in this course, but we're gonna continue and we're gonna meet in the summer. Then please, give this you already have, huh?",
+      "timestamp_abs": "88:52"
+    },
+    {
+      "timestamp": "04:29",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Huh?",
+      "timestamp_abs": "89:29"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "You said summer, meaning we continue the project in summer?",
+      "timestamp_abs": "89:31"
+    },
+    {
+      "timestamp": "04:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah.",
+      "timestamp_abs": "89:34"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "You think there's no rest vacation?",
+      "timestamp_abs": "89:36"
+    },
+    {
+      "timestamp": "04:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "I'm sorry, what?",
+      "timestamp_abs": "89:38"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I I'll let you know.",
+      "timestamp_abs": "89:40"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "July, August.",
+      "timestamp_abs": "89:41"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Definitely. You guys all know, didn't know that we have a summer semester?",
+      "timestamp_abs": "89:44"
+    },
+    {
+      "timestamp": "04:49",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Summer?",
+      "timestamp_abs": "89:49"
+    },
+    {
+      "timestamp": "04:50",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Did didn't inform them?",
+      "timestamp_abs": "89:50"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Ah, it's not my, how can I say, it's",
+      "timestamp_abs": "89:52"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "He's a goose? Ah, you didn't say no. They they received the.",
+      "timestamp_abs": "89:55"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Chilaka, you didn't tell them?",
+      "timestamp_abs": "89:58"
+    }
+  ]
+}
