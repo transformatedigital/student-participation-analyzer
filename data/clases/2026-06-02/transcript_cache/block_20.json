@@ -1,0 +1,191 @@
+{
+  "block": 20,
+  "time_range": "95:00-100:00",
+  "utterances": [
+    {
+      "timestamp": "95:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "worry about because of these reasons. So I took notes like that voice notes. And then I came home and during the week I organized them and I tried to understand I",
+      "timestamp_abs": "190:00"
+    },
+    {
+      "timestamp": "95:08",
+      "speaker": "STHEPHEN",
+      "type": "student_comment",
+      "text": "I I realize.",
+      "timestamp_abs": "190:08"
+    },
+    {
+      "timestamp": "95:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, so I tried to organize it and I tried to understand like I tried to help ask AI to improve my thinking because sometimes maybe I'm wrong, maybe I'm thinking when I see areas or Stephens or Mega's project. This is my initial impression, but I might be wrong. But I worry about this. So I try to just in a very unstructured way blur all my concerns. And later on when I analyze all my notes, I try to organize it in this kind of matters.",
+      "timestamp_abs": "190:11"
+    },
+    {
+      "timestamp": "95:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Many of the things is what I already have told you. But I wanted to really remind you because this is the this is what I will also evaluate. How I'm not going to evaluate whether you fully solve it because I know it's an ongoing process. But I will evaluate how for how much improvement and how much effort to improve I can see. Okay.",
+      "timestamp_abs": "190:43"
+    },
+    {
+      "timestamp": "96:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So for example, in the case of I already told you I worry that yours would be too much solution driven, right? I try to I try to ask English is not my first language so I try to ask it the AI how to maybe make it short, right? So what is the current primary primary risk I see in your project?",
+      "timestamp_abs": "191:04"
+    },
+    {
+      "timestamp": "96:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And and I said, okay, in this case the TTS technology gap which I already comment to you that it's not the right way to frame it rather than evaluating the deep systemic causes for example, this is just an example right take it as an example. Lack of sovereign AI compute local speech data says or strict cross border cloud security I don't know right? It might be wrong might be wrong but just an example.",
+      "timestamp_abs": "191:22"
+    },
+    {
+      "timestamp": "96:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um in the case of a Stephen, again, it could be potentially solution driven and I told you before when I see your wise, your five wise, I can see you plugged in the AI issue right there. It's plugging right?",
+      "timestamp_abs": "191:46"
+    },
+    {
+      "timestamp": "96:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I write right proposing an AI before modeling the administrative post registration validation vacuum. So one of the things I will propose to you, I will I will this is just a general I I have one slide per one of you. Uh-huh.",
+      "timestamp_abs": "191:59"
+    },
+    {
+      "timestamp": "97:13",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Okay. And and can we get the slides?",
+      "timestamp_abs": "192:13"
+    },
+    {
+      "timestamp": "97:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. But uh this is from you know what? From version four. The last version I have.",
+      "timestamp_abs": "192:17"
+    },
+    {
+      "timestamp": "97:26",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "I sent an updated one yesterday.",
+      "timestamp_abs": "192:26"
+    },
+    {
+      "timestamp": "97:28",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Yeah, but you guys Am I your robot?",
+      "timestamp_abs": "192:28"
+    },
+    {
+      "timestamp": "97:33",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Cause you're coming some mind.",
+      "timestamp_abs": "192:33"
+    },
+    {
+      "timestamp": "97:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Great. If you solved them?",
+      "timestamp_abs": "192:36"
+    },
+    {
+      "timestamp": "97:37",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "192:37"
+    },
+    {
+      "timestamp": "97:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you solved them, great.",
+      "timestamp_abs": "192:38"
+    },
+    {
+      "timestamp": "97:39",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Even me I was thinking but my I was surprised reading reading this.",
+      "timestamp_abs": "192:39"
+    },
+    {
+      "timestamp": "97:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so this is the last version I have that is version four. I mean I might have I might have new versions in the cloud, but the one I last read and the one you we already last discussed in version four officially.",
+      "timestamp_abs": "192:45"
+    },
+    {
+      "timestamp": "97:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Before if you already made improvements about that, great. Cookies for everybody. But I'm just pointing out what in my mind that is a concern. If you solved it and you already improved it for your last version, great. Just consider it, okay?",
+      "timestamp_abs": "192:58"
+    },
+    {
+      "timestamp": "98:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I will give more detail, but just give me a break.",
+      "timestamp_abs": "193:12"
+    },
+    {
+      "timestamp": "98:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So Mega. Mega, again, potentially solution driven because I see again the focus on the like a battery energy system or something like that.",
+      "timestamp_abs": "193:15"
+    },
+    {
+      "timestamp": "98:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And in your case, I think there is a this is important. A concrete multi-dimensional like there's several dimensions here, the poverty issue, the product loss among the remote population. So there are some issues there. So which one are we going to do? What is your five wise there very specifically, I again as I told you before in the dimensions of how we will logically frame it, which is different than how we will practically engage into this project, okay?",
+      "timestamp_abs": "193:25"
+    },
+    {
+      "timestamp": "98:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, which anyway, this exercise, you might think, uh, the most important is I do the project. Why they care about how I write it? Because we're trying to make you become global digital generation leaders. So that's why we have to force you to do this thinking, critical thinking and critical analysis and argumentation process.",
+      "timestamp_abs": "193:53"
+    },
+    {
+      "timestamp": "99:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we are not a global technology commercialization business center. We are a graduate school, so we have to do both things, practical, theoretical, practical and education.",
+      "timestamp_abs": "194:12"
+    },
+    {
+      "timestamp": "99:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So potentially two solution for two solution push this guys this problem, right? Again, this already I told you last time, maybe you already solved it as a fact that when I read your document, I could see that NTS very well solved in between the lines. And and maybe you already fixed it, so that's why then I can relying on lack of national platform as a core hidden problem, pushing forward a software instead of diagnosing the structural situation.",
+      "timestamp_abs": "194:22"
+    },
+    {
+      "timestamp": "99:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. If you already solved it, then that's great.",
+      "timestamp_abs": "194:51"
+    }
+  ]
+}

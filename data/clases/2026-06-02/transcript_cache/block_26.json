@@ -1,0 +1,153 @@
+{
+  "block": 26,
+  "time_range": "125:00-130:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "lecture files.",
+      "timestamp_abs": "125:00"
+    },
+    {
+      "timestamp": "00:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And, um, let's see. So next week we're gonna just come directly, be ready everybody for presentation.",
+      "timestamp_abs": "125:01"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You're gonna sit here, I'm gonna sit there.",
+      "timestamp_abs": "125:05"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm just kidding.",
+      "timestamp_abs": "125:07"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You're gonna sit to present.",
+      "timestamp_abs": "125:08"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "One by one, we present.",
+      "timestamp_abs": "125:10"
+    },
+    {
+      "timestamp": "00:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm gonna give you 10 minutes plus five or 10 minutes of my comments.",
+      "timestamp_abs": "125:12"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And everybody comments. So I want you, where I want you to pay attention, because you paid attention to everybody's comments that I give.",
+      "timestamp_abs": "125:16"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And you have your own experience of how you're developing your ICP or your, your presentation.",
+      "timestamp_abs": "125:21"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I will give you a chance to also comment on your peers respectfully. Ah, if I were you, I would be doing this.",
+      "timestamp_abs": "125:25"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If I were you, I would be doing this. Because maybe your perspective is a little bit different than mine and it's valid.",
+      "timestamp_abs": "125:30"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I will give you a chance to get peer, peer comments and my comments.",
+      "timestamp_abs": "125:33"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why I wanted to make it short.",
+      "timestamp_abs": "125:36"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The final presentation will be a bit longer. The final presentation we can do 20 minutes.",
+      "timestamp_abs": "125:38"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "125:41"
+    },
+    {
+      "timestamp": "00:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the rehearsal will be shorter so that you.",
+      "timestamp_abs": "125:42"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In the rehearsal, don't I don't want you to focus too much on the script of what you're gonna present.",
+      "timestamp_abs": "125:44"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want you to focus on, \"Oh, Professor, I did this. I improved this. I improved this.\"",
+      "timestamp_abs": "125:48"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You want to just quickly report what you, where where you're struggling or what you have done from now until then.",
+      "timestamp_abs": "125:52"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In your final presentation, it should be like the pitch. Like, \"I'm the minister. I am the NIDA's president.\"",
+      "timestamp_abs": "125:55"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or, \"I am Breeze's president.\" That you're going to present to me this initiative. Okay?",
+      "timestamp_abs": "125:59"
+    }
+  ]
+}

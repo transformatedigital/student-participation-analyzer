@@ -1,0 +1,20 @@
+{
+  "block": 24,
+  "time_range": "115:00-120:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that you need to be and then find the evidence about that.",
+      "timestamp_abs": "115:00"
+    },
+    {
+      "timestamp": "00:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? That's my general.",
+      "timestamp_abs": "115:19"
+    }
+  ]
+}

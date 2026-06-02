@@ -10,7 +10,7 @@
       "Grace",
       "Sthepen"
     ],
-    "generated_at": "2026-06-02T15:26:19"
+    "generated_at": "2026-06-02T16:14:53"
   },
   "full_transcription": [
     {
@@ -6648,6 +6648,1308 @@
       "type": "teacher_statement",
       "text": "But then you have to give me until 4:10 at least.",
       "block": 19
+    },
+    {
+      "timestamp": "190:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "worry about because of these reasons. So I took notes like that voice notes. And then I came home and during the week I organized them and I tried to understand I",
+      "block": 20
+    },
+    {
+      "timestamp": "190:08",
+      "speaker": "STHEPHEN",
+      "type": "student_comment",
+      "text": "I I realize.",
+      "block": 20
+    },
+    {
+      "timestamp": "190:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, so I tried to organize it and I tried to understand like I tried to help ask AI to improve my thinking because sometimes maybe I'm wrong, maybe I'm thinking when I see areas or Stephens or Mega's project. This is my initial impression, but I might be wrong. But I worry about this. So I try to just in a very unstructured way blur all my concerns. And later on when I analyze all my notes, I try to organize it in this kind of matters.",
+      "block": 20
+    },
+    {
+      "timestamp": "190:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Many of the things is what I already have told you. But I wanted to really remind you because this is the this is what I will also evaluate. How I'm not going to evaluate whether you fully solve it because I know it's an ongoing process. But I will evaluate how for how much improvement and how much effort to improve I can see. Okay.",
+      "block": 20
+    },
+    {
+      "timestamp": "191:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So for example, in the case of I already told you I worry that yours would be too much solution driven, right? I try to I try to ask English is not my first language so I try to ask it the AI how to maybe make it short, right? So what is the current primary primary risk I see in your project?",
+      "block": 20
+    },
+    {
+      "timestamp": "191:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And and I said, okay, in this case the TTS technology gap which I already comment to you that it's not the right way to frame it rather than evaluating the deep systemic causes for example, this is just an example right take it as an example. Lack of sovereign AI compute local speech data says or strict cross border cloud security I don't know right? It might be wrong might be wrong but just an example.",
+      "block": 20
+    },
+    {
+      "timestamp": "191:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um in the case of a Stephen, again, it could be potentially solution driven and I told you before when I see your wise, your five wise, I can see you plugged in the AI issue right there. It's plugging right?",
+      "block": 20
+    },
+    {
+      "timestamp": "191:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I write right proposing an AI before modeling the administrative post registration validation vacuum. So one of the things I will propose to you, I will I will this is just a general I I have one slide per one of you. Uh-huh.",
+      "block": 20
+    },
+    {
+      "timestamp": "192:13",
+      "speaker": "UNKNOWN",
+      "type": "student_question",
+      "text": "Okay. And and can we get the slides?",
+      "block": 20
+    },
+    {
+      "timestamp": "192:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. But uh this is from you know what? From version four. The last version I have.",
+      "block": 20
+    },
+    {
+      "timestamp": "192:26",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "I sent an updated one yesterday.",
+      "block": 20
+    },
+    {
+      "timestamp": "192:28",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Yeah, but you guys Am I your robot?",
+      "block": 20
+    },
+    {
+      "timestamp": "192:33",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Cause you're coming some mind.",
+      "block": 20
+    },
+    {
+      "timestamp": "192:36",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Great. If you solved them?",
+      "block": 20
+    },
+    {
+      "timestamp": "192:37",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "Yeah.",
+      "block": 20
+    },
+    {
+      "timestamp": "192:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If you solved them, great.",
+      "block": 20
+    },
+    {
+      "timestamp": "192:39",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Even me I was thinking but my I was surprised reading reading this.",
+      "block": 20
+    },
+    {
+      "timestamp": "192:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so this is the last version I have that is version four. I mean I might have I might have new versions in the cloud, but the one I last read and the one you we already last discussed in version four officially.",
+      "block": 20
+    },
+    {
+      "timestamp": "192:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Before if you already made improvements about that, great. Cookies for everybody. But I'm just pointing out what in my mind that is a concern. If you solved it and you already improved it for your last version, great. Just consider it, okay?",
+      "block": 20
+    },
+    {
+      "timestamp": "193:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I will give more detail, but just give me a break.",
+      "block": 20
+    },
+    {
+      "timestamp": "193:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So Mega. Mega, again, potentially solution driven because I see again the focus on the like a battery energy system or something like that.",
+      "block": 20
+    },
+    {
+      "timestamp": "193:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And in your case, I think there is a this is important. A concrete multi-dimensional like there's several dimensions here, the poverty issue, the product loss among the remote population. So there are some issues there. So which one are we going to do? What is your five wise there very specifically, I again as I told you before in the dimensions of how we will logically frame it, which is different than how we will practically engage into this project, okay?",
+      "block": 20
+    },
+    {
+      "timestamp": "193:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, which anyway, this exercise, you might think, uh, the most important is I do the project. Why they care about how I write it? Because we're trying to make you become global digital generation leaders. So that's why we have to force you to do this thinking, critical thinking and critical analysis and argumentation process.",
+      "block": 20
+    },
+    {
+      "timestamp": "194:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So we are not a global technology commercialization business center. We are a graduate school, so we have to do both things, practical, theoretical, practical and education.",
+      "block": 20
+    },
+    {
+      "timestamp": "194:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So potentially two solution for two solution push this guys this problem, right? Again, this already I told you last time, maybe you already solved it as a fact that when I read your document, I could see that NTS very well solved in between the lines. And and maybe you already fixed it, so that's why then I can relying on lack of national platform as a core hidden problem, pushing forward a software instead of diagnosing the structural situation.",
+      "block": 20
+    },
+    {
+      "timestamp": "194:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. If you already solved it, then that's great.",
+      "block": 20
+    },
+    {
+      "timestamp": "100:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Why is verification with post registration, we really know that because it's just at the beginning and the rest of the cycle there is no verification.",
+      "block": 21
+    },
+    {
+      "timestamp": "100:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, so drill down to regulatory administrative or operational bottlenecks.",
+      "block": 21
+    },
+    {
+      "timestamp": "100:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If we focus on that, it's gonna look much better.",
+      "block": 21
+    },
+    {
+      "timestamp": "100:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then again, I told you, right? I think you should really work a little bit on what Aria mentioned.",
+      "block": 21
+    },
+    {
+      "timestamp": "100:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Really analyze comparable developing countries like Rwanda, pure economies, you already started that.",
+      "block": 21
+    },
+    {
+      "timestamp": "100:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "How do they manage identity validation within similar infrastructure, but also comparing with advanced nation markets, okay?",
+      "block": 21
+    },
+    {
+      "timestamp": "100:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So how are other countries who are doing this good? I'm talking, I'm not sure who to say it's [inaudible] I think right now for my project I'm using Estonia and Singapore.",
+      "block": 21
+    },
+    {
+      "timestamp": "100:48",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Could you use somebody else?",
+      "block": 21
+    },
+    {
+      "timestamp": "100:49",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Singapore is more similar to",
+      "block": 21
+    },
+    {
+      "timestamp": "100:51",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Because the difference between",
+      "block": 21
+    },
+    {
+      "timestamp": "100:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I'm doing it for Latin American countries who have completely different problems and really big governance issues.",
+      "block": 21
+    },
+    {
+      "timestamp": "101:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it might be interesting for you to look at those, but it might be interesting to you for you to look at, I don't know, South Africa, Australia, I don't know.",
+      "block": 21
+    },
+    {
+      "timestamp": "101:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, countries that have a relevant. It's okay, I think.",
+      "block": 21
+    },
+    {
+      "timestamp": "101:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I am if I am on a diet, okay?",
+      "block": 21
+    },
+    {
+      "timestamp": "101:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let's say the definition of beauty is gonna be 90-60-90, okay?",
+      "block": 21
+    },
+    {
+      "timestamp": "101:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "90-60-90 was the definition of beauty in my generation.",
+      "block": 21
+    },
+    {
+      "timestamp": "101:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "You know 90-60-90, Mega?",
+      "block": 21
+    },
+    {
+      "timestamp": "101:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "90-60-90.",
+      "block": 21
+    },
+    {
+      "timestamp": "101:27",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "The measure.",
+      "block": 21
+    },
+    {
+      "timestamp": "101:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, measurement.",
+      "block": 21
+    },
+    {
+      "timestamp": "101:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the definition of beauty is that 90-60-90, okay?",
+      "block": 21
+    },
+    {
+      "timestamp": "101:33",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "90-60-90.",
+      "block": 21
+    },
+    {
+      "timestamp": "101:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Breast 90, waist 60 and the, the way.",
+      "block": 21
+    },
+    {
+      "timestamp": "101:38",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "The measurement.",
+      "block": 21
+    },
+    {
+      "timestamp": "101:39",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "90-60-90.",
+      "block": 21
+    },
+    {
+      "timestamp": "101:41",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "How they use it, how they use it.",
+      "block": 21
+    },
+    {
+      "timestamp": "101:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If this is the definition of beauty, okay?",
+      "block": 21
+    },
+    {
+      "timestamp": "101:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I am on, I am in a quest to become beautiful, okay?",
+      "block": 21
+    },
+    {
+      "timestamp": "101:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the definition of beauty is this.",
+      "block": 21
+    },
+    {
+      "timestamp": "101:52",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "90-60-90.",
+      "block": 21
+    },
+    {
+      "timestamp": "101:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let's say that's the reference, okay?",
+      "block": 21
+    },
+    {
+      "timestamp": "101:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not saying I will ever become 60 in the weight, right?",
+      "block": 21
+    },
+    {
+      "timestamp": "101:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For 60 in the weight is very difficult.",
+      "block": 21
+    },
+    {
+      "timestamp": "102:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I really want to know what did some woman do to get 60 in the way, so that I can copy some steps to become at least not 60, maybe I can become 80, right? Or 75.",
+      "block": 21
+    },
+    {
+      "timestamp": "102:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Right?",
+      "block": 21
+    },
+    {
+      "timestamp": "102:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "So, as developing countries, do we have to keep referencing on, on just 80, 80, 80 because it's difficult to become 90-60-90?",
+      "block": 21
+    },
+    {
+      "timestamp": "102:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No.",
+      "block": 21
+    },
+    {
+      "timestamp": "102:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We want to really benchmark with the best first league, major league players, even though we know to become like major league players is very hard.",
+      "block": 21
+    },
+    {
+      "timestamp": "102:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We need to understand what these major league players need to reach this very difficult situation, okay?",
+      "block": 21
+    },
+    {
+      "timestamp": "102:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because even if we cannot really get there, we can strive to be the least possible way waistline that I can, okay?",
+      "block": 21
+    },
+    {
+      "timestamp": "102:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is the kind of leadership, the kind of global digital innovation leadership I want you to think of, okay?",
+      "block": 21
+    },
+    {
+      "timestamp": "102:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it's good that you make you know realities around Rwanda is like this.",
+      "block": 21
+    },
+    {
+      "timestamp": "103:01",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "But what are these 90-60-90s?",
+      "block": 21
+    },
+    {
+      "timestamp": "103:03",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "What is the guys to really, really match the best beauty standards, the best NID safe standards, right?",
+      "block": 21
+    },
+    {
+      "timestamp": "103:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "What did these guys do?",
+      "block": 21
+    },
+    {
+      "timestamp": "103:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because this is a problem everyone in the world is trying to solve.",
+      "block": 21
+    },
+    {
+      "timestamp": "103:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now, policy process map.",
+      "block": 21
+    },
+    {
+      "timestamp": "103:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I told you before, one of the things I would do in your case is to map what's the whole process quickly in your mind and map it.",
+      "block": 21
+    },
+    {
+      "timestamp": "103:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or if you have some regulation that you can reuse or you can like ask you AI to simplify it, you'll help yourself finding some kind of process or a line or like cycle, right?",
+      "block": 21
+    },
+    {
+      "timestamp": "103:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Where you can map how what is the entire cycle of the mobile ID because it's also very difficult different.",
+      "block": 21
+    },
+    {
+      "timestamp": "103:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The mobile money identity cycle and the NID cycle is a little kind of, one on top of the other, is overlap.",
+      "block": 21
+    },
+    {
+      "timestamp": "103:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it certainly has some inter some differentiation.",
+      "block": 21
+    },
+    {
+      "timestamp": "103:58",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "One is the foundation over the other.",
+      "block": 21
+    },
+    {
+      "timestamp": "105:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "or or maybe not real time. Maybe you can decide, ah no, actually, the real time is very hard in Rwanda because we don't have certain infrastructures. So we're gonna maybe real time is just 96 to night.",
+      "block": 22
+    },
+    {
+      "timestamp": "105:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But maybe real time not but we can have a long like a three step or rather than one step, we can have like a key gateway step verification along the way, or or double step verification, something something. There might be a something intermediate that can be related to that.",
+      "block": 22
+    },
+    {
+      "timestamp": "105:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "block": 22
+    },
+    {
+      "timestamp": "105:34",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Make sense?",
+      "block": 22
+    },
+    {
+      "timestamp": "105:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, the good thing that this is the number one or number two.",
+      "block": 22
+    },
+    {
+      "timestamp": "105:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You already started the...",
+      "block": 22
+    },
+    {
+      "timestamp": "105:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, the PDF.",
+      "block": 22
+    },
+    {
+      "timestamp": "105:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, the... so that means",
+      "block": 22
+    },
+    {
+      "timestamp": "105:44",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "the PTA you have brought it.",
+      "block": 22
+    },
+    {
+      "timestamp": "105:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I think I'm gonna get the feedback from your side.",
+      "block": 22
+    },
+    {
+      "timestamp": "105:48",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Because for them, I did it the way I was expecting from there.",
+      "block": 22
+    },
+    {
+      "timestamp": "105:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right.",
+      "block": 22
+    },
+    {
+      "timestamp": "105:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And then the other side also I'm trying to match it.",
+      "block": 22
+    },
+    {
+      "timestamp": "105:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So how far you get here for me is important.",
+      "block": 22
+    },
+    {
+      "timestamp": "105:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For the...",
+      "block": 22
+    },
+    {
+      "timestamp": "110:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "three major fishermen population. I'm just saying an example, right? But if there is a special industry uh or agro something something, like, that will be there is a that because everybody like you could tell me out of their economic matrix, the this entity population feeds out of fishermen and agriculture, like maybe culture, they are they are doing cultivation of seaweed. I don't know, I don't know exactly, but but I'm just I try to provide an example of a level that I like. A level that I think is sufficient enough to match because I think for you the difficulty for you is that you go high level and you stay high level or mid level, right? But I wish it was a little bit more specific, but when I say specific, I wanted to give you a specific example, and this is the example I came up with.",
+      "block": 23
+    },
+    {
+      "timestamp": "110:57",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay. If the the the location of the solar pv is near to the location and there is no electricity.",
+      "block": 23
+    },
+    {
+      "timestamp": "111:05",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "So yeah, but then there is no electricity and so what?",
+      "block": 23
+    },
+    {
+      "timestamp": "111:08",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So after after we give more capacity uh in the in the in the past it could be give them the electricity and also the power.",
+      "block": 23
+    },
+    {
+      "timestamp": "111:20",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "But are they willing to pay for it? Are they able to pay for it? Is there a model to give them or is there a subsidy to There is no electricity because either there is no demand, or there is no demand who can pay for it.",
+      "block": 23
+    },
+    {
+      "timestamp": "111:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If there is enough people who can pay for it, believe me, they would have been they would have been electricity here. My assumption is that there is a very poor population there or not enough people. Sometimes it's like if the island is too remote, the population is not enough to to to justify the investment. Right? So if there is not even a a beneficiary, a real real primary like a the real beneficiary who is suffering,",
+      "block": 23
+    },
+    {
+      "timestamp": "113:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "who is suffering, who will be willing to pay or who is who is important enough whether I numbers of people or numbers of household or industry, strategic industry, that the government will say either they pay or I will pay for it because this this very specific group of people are needing it because they are very poor, and a subsidy will be created or there's going to be a regulation modified to provide for it.",
+      "block": 23
+    },
+    {
+      "timestamp": "113:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I worry about that. How to make this project feasible?",
+      "block": 23
+    },
+    {
+      "timestamp": "113:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So before the text selection, we need to solve this. Right now you are kind of doing the text selection before really really giving me an specific gap. You're giving me a general gap. No electricity. It's a very general gap. Your level of gap is like is like is like Chilaka telling me no no AI. AI is an enabler. His problem is no AI. Or Arria telling me no AI or no It's big. It's big still. Not not not not specific enough.",
+      "block": 23
+    },
+    {
+      "timestamp": "114:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, for example, before, I thought why previous public interventions failed, right? You can also if this is not if it's difficult for you to reach this one, maybe you can ask yourself, why previous public interventions failed? Why have why until now this population here has no energy? So maybe there is a policy fail, there is a lack of coordination between regional planners and the PLM. Or there is a financial model, the local tariffs are too high, and there is a lack of microfinancing structures of the grid populations. Or the local community lacks the technical training.",
+      "block": 23
+    },
+    {
+      "timestamp": "115:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "that you need to be and then find the evidence about that.",
+      "block": 24
+    },
+    {
+      "timestamp": "115:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? That's my general.",
+      "block": 24
+    },
+    {
+      "timestamp": "120:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "create a little bit with Caesar.",
+      "block": 25
+    },
+    {
+      "timestamp": "120:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay. I will check.",
+      "block": 25
+    },
+    {
+      "timestamp": "120:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You met yesterday, you know, the one you...",
+      "block": 25
+    },
+    {
+      "timestamp": "125:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "lecture files.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And, um, let's see. So next week we're gonna just come directly, be ready everybody for presentation.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You're gonna sit here, I'm gonna sit there.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm just kidding.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You're gonna sit to present.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "One by one, we present.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm gonna give you 10 minutes plus five or 10 minutes of my comments.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And everybody comments. So I want you, where I want you to pay attention, because you paid attention to everybody's comments that I give.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And you have your own experience of how you're developing your ICP or your, your presentation.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I will give you a chance to also comment on your peers respectfully. Ah, if I were you, I would be doing this.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If I were you, I would be doing this. Because maybe your perspective is a little bit different than mine and it's valid.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I will give you a chance to get peer, peer comments and my comments.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why I wanted to make it short.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The final presentation will be a bit longer. The final presentation we can do 20 minutes.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "block": 26
+    },
+    {
+      "timestamp": "125:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But the rehearsal will be shorter so that you.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In the rehearsal, don't I don't want you to focus too much on the script of what you're gonna present.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I want you to focus on, \"Oh, Professor, I did this. I improved this. I improved this.\"",
+      "block": 26
+    },
+    {
+      "timestamp": "125:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You want to just quickly report what you, where where you're struggling or what you have done from now until then.",
+      "block": 26
+    },
+    {
+      "timestamp": "125:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "In your final presentation, it should be like the pitch. Like, \"I'm the minister. I am the NIDA's president.\"",
+      "block": 26
+    },
+    {
+      "timestamp": "125:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or, \"I am Breeze's president.\" That you're going to present to me this initiative. Okay?",
+      "block": 26
+    },
+    {
+      "timestamp": "130:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You already learn how to do it. If next semester you say, 'Professor, you know what? I'm gonna do the project and finish it up.'",
+      "block": 27
+    },
+    {
+      "timestamp": "130:05",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "But I'm gonna do a different topic for my master's. Right?",
+      "block": 27
+    },
+    {
+      "timestamp": "130:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But you already learn how to do it. I don't need to explain it to you again.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:09",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay, then.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:10",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Okay, thank you.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:15",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Alameda.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:16",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Alameda.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uhuh.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, I'm going to start from scratch.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yo.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tienes estas, la tengo hasta el, hasta el",
+      "block": 27
+    },
+    {
+      "timestamp": "130:28",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Sí.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tienes unas slides abajo, pero no esas. Esas las quité porque no quería, tenían como cosas que no me gustaba para, que los iba a confundir.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Entonces hay que cortarle en la slide 10 y solo mandar eso.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yo te mandé el Google Docs.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tú tienes, este es el Google Docs. Lo tienes compartido directo.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Entonces, nada más, descárgalo o le das print hasta la página 10. Y ese es el que envías.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Y esto, entonces, ahora sí yo tengo que, okay, tengo que revisar este.",
+      "block": 27
+    },
+    {
+      "timestamp": "130:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Eh tengo que ver lo de la presentación de él y la presentación de ella. Chilaca, don't forget to send me your presentation.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:05",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "I sent you it email me.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, by email, yeah. By email.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I already contacted Dr. Gashami.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:10",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "He's going to perhaps to just the things but also that people next week maybe if if I if you get your feedback then the next",
+      "block": 27
+    },
+    {
+      "timestamp": "131:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tomorrow is a holiday. I have my kids home.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it's going to be difficult.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Today I reached my house at 9:00 p.m.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, and I have to put to sleep my babies until like no, no. Today is impossible.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tomorrow is probably difficult.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I'll try on Thursday, maybe Thursday noon.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will try.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:35",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Okay, maybe Friday.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:36",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So that maybe the next presentation might be our last. It might not be because you can just Yeah, yeah, yeah.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I I I think you you guys know from what I've been telling you, probably if I see your slides, I'm going to just pinpoint quickly what I think I and but it's not going to be further far more far away than this, it's probably not going to be.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you already know it.",
+      "block": 27
+    },
+    {
+      "timestamp": "131:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "What I'm going to pinpoint is more on the form, on things that I see that are wrongly, wrong statement or overly exaggerated statements that I can see, non-accuracies, things like that.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "text": "Okay?",
+      "block": 27
+    },
+    {
+      "timestamp": "132:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If there is anything specific you want to you want me to see that you're on on on sure, let me know.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:16",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "The first two slides the first two slides is from your comment.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:20",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Like uh the problem the Y Y3.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:23",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "I did it. I changed it to problem statement kind of.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:26",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "And then the comparison between the why the other countries.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:31",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Because I did like it's like a a table.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:37",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "I did the Estonia, Japan, UK, US.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:42",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "But the good thing I saw because for me as I as you said from the practice of Rwanda.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:48",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "We link I link with the what? With the SIM card.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:50",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "But you may find some countries they don't link.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:52",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So that's you can see that the scores how I attracted it.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will check. I will check.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will let you know.",
+      "block": 27
+    },
+    {
+      "timestamp": "132:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will try by Thursday. Thursday night, like this night.",
+      "block": 27
+    },
+    {
+      "timestamp": "133:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I contacted Gashami. Let's see if he because he might be sleeping.",
+      "block": 27
+    },
+    {
+      "timestamp": "133:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I contacted him, I left him a message over the weekend.",
+      "block": 27
+    },
+    {
+      "timestamp": "133:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So for the the leg up to take I do have it.",
+      "block": 27
     }
   ],
   "teacher_questions": [
@@ -7794,6 +9096,130 @@
         "response": "Okay.",
         "quality_score": "C"
       }
+    },
+    {
+      "id": 109,
+      "timestamp": "192:28",
+      "question": "Yeah, but you guys Am I your robot?",
+      "directed_to": "Class",
+      "block": 20,
+      "student_response": null
+    },
+    {
+      "id": 110,
+      "timestamp": "192:36",
+      "question": "Great. If you solved them?",
+      "directed_to": "Class",
+      "block": 20,
+      "student_response": null
+    },
+    {
+      "id": 111,
+      "timestamp": "100:48",
+      "question": "Could you use somebody else?",
+      "directed_to": "Sthepen",
+      "block": 21,
+      "student_response": {
+        "student": "Sthepen",
+        "response": "Singapore is more similar to",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 112,
+      "timestamp": "101:22",
+      "question": "You know 90-60-90, Mega?",
+      "directed_to": "Mega",
+      "block": 21,
+      "student_response": null
+    },
+    {
+      "id": 113,
+      "timestamp": "102:14",
+      "question": "Right?",
+      "directed_to": "Class",
+      "block": 21,
+      "student_response": null
+    },
+    {
+      "id": 114,
+      "timestamp": "102:14",
+      "question": "So, as developing countries, do we have to keep referencing on, on just 80, 80, 80 because it's difficult to become 90-60-90?",
+      "directed_to": "Class",
+      "block": 21,
+      "student_response": null
+    },
+    {
+      "id": 115,
+      "timestamp": "103:01",
+      "question": "But what are these 90-60-90s?",
+      "directed_to": "Class",
+      "block": 21,
+      "student_response": null
+    },
+    {
+      "id": 116,
+      "timestamp": "103:03",
+      "question": "What is the guys to really, really match the best beauty standards, the best NID safe standards, right?",
+      "directed_to": "Class",
+      "block": 21,
+      "student_response": null
+    },
+    {
+      "id": 117,
+      "timestamp": "103:10",
+      "question": "What did these guys do?",
+      "directed_to": "Class",
+      "block": 21,
+      "student_response": null
+    },
+    {
+      "id": 118,
+      "timestamp": "105:34",
+      "question": "Make sense?",
+      "directed_to": "Class",
+      "block": 22,
+      "student_response": null
+    },
+    {
+      "id": 119,
+      "timestamp": "111:05",
+      "question": "So yeah, but then there is no electricity and so what?",
+      "directed_to": "Class",
+      "block": 23,
+      "student_response": {
+        "student": "Aryang",
+        "response": "So after after we give more capacity uh in the in the in the past it could be give them the electricity and also the power.",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 120,
+      "timestamp": "111:20",
+      "question": "But are they willing to pay for it? Are they able to pay for it? Is there a model to give them or is there a subsidy to There is no electricity because either there is no demand, or there is no demand who can pay for it.",
+      "directed_to": "Class",
+      "block": 23,
+      "student_response": null
+    },
+    {
+      "id": 121,
+      "timestamp": "130:05",
+      "question": "But I'm gonna do a different topic for my master's. Right?",
+      "directed_to": "Class",
+      "block": 27,
+      "student_response": {
+        "student": "Aryang",
+        "response": "Okay, then.",
+        "quality_score": "C"
+      }
+    },
+    {
+      "id": 122,
+      "timestamp": "132:10",
+      "question": "Okay?",
+      "directed_to": "Class",
+      "block": 27,
+      "student_response": null
     }
   ],
   "student_contributions": [
@@ -10964,6 +12390,357 @@
       "content": "Okay.",
       "quality_score": "C",
       "block": 19
+    },
+    {
+      "id": 353,
+      "timestamp": "100:49",
+      "student": "Sthepen",
+      "type": "voluntary_response",
+      "content": "Singapore is more similar to",
+      "quality_score": "C",
+      "block": 21
+    },
+    {
+      "id": 354,
+      "timestamp": "100:51",
+      "student": "Sthepen",
+      "type": "voluntary_response",
+      "content": "Because the difference between",
+      "quality_score": "C",
+      "block": 21
+    },
+    {
+      "id": 355,
+      "timestamp": "101:27",
+      "student": "Sthepen",
+      "type": "comment",
+      "content": "The measure.",
+      "quality_score": "C",
+      "block": 21
+    },
+    {
+      "id": 356,
+      "timestamp": "101:33",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "90-60-90.",
+      "quality_score": "C",
+      "block": 21
+    },
+    {
+      "id": 357,
+      "timestamp": "101:38",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "The measurement.",
+      "quality_score": "C",
+      "block": 21
+    },
+    {
+      "id": 358,
+      "timestamp": "101:39",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "90-60-90.",
+      "quality_score": "C",
+      "block": 21
+    },
+    {
+      "id": 359,
+      "timestamp": "101:41",
+      "student": "Sthepen",
+      "type": "comment",
+      "content": "How they use it, how they use it.",
+      "quality_score": "C",
+      "block": 21
+    },
+    {
+      "id": 360,
+      "timestamp": "101:52",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "90-60-90.",
+      "quality_score": "C",
+      "block": 21
+    },
+    {
+      "id": 361,
+      "timestamp": "103:58",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "One is the foundation over the other.",
+      "quality_score": "C",
+      "block": 21
+    },
+    {
+      "id": 362,
+      "timestamp": "105:35",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Ah, the good thing that this is the number one or number two.",
+      "quality_score": "C",
+      "block": 22
+    },
+    {
+      "id": 363,
+      "timestamp": "105:41",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "No, the PDF.",
+      "quality_score": "C",
+      "block": 22
+    },
+    {
+      "id": 364,
+      "timestamp": "105:44",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "the PTA you have brought it.",
+      "quality_score": "C",
+      "block": 22
+    },
+    {
+      "id": 365,
+      "timestamp": "105:45",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "I think I'm gonna get the feedback from your side.",
+      "quality_score": "C",
+      "block": 22
+    },
+    {
+      "id": 366,
+      "timestamp": "105:48",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Because for them, I did it the way I was expecting from there.",
+      "quality_score": "C",
+      "block": 22
+    },
+    {
+      "id": 367,
+      "timestamp": "105:53",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "And then the other side also I'm trying to match it.",
+      "quality_score": "C",
+      "block": 22
+    },
+    {
+      "id": 368,
+      "timestamp": "110:57",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Okay. If the the the location of the solar pv is near to the location and there is no electricity.",
+      "quality_score": "C",
+      "block": 23
+    },
+    {
+      "id": 369,
+      "timestamp": "111:08",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "So after after we give more capacity uh in the in the in the past it could be give them the electricity and also the power.",
+      "quality_score": "C",
+      "block": 23
+    },
+    {
+      "id": 370,
+      "timestamp": "120:00",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "create a little bit with Caesar.",
+      "quality_score": "C",
+      "block": 25
+    },
+    {
+      "id": 371,
+      "timestamp": "130:09",
+      "student": "Aryang",
+      "type": "voluntary_response",
+      "content": "Okay, then.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 372,
+      "timestamp": "130:10",
+      "student": "Sthepen",
+      "type": "voluntary_response",
+      "content": "Okay, thank you.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 373,
+      "timestamp": "130:15",
+      "student": "Grace",
+      "type": "comment",
+      "content": "Alameda.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 374,
+      "timestamp": "130:16",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "Alameda.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 375,
+      "timestamp": "130:24",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "Yo.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 376,
+      "timestamp": "130:28",
+      "student": "Chilaka",
+      "type": "voluntary_response",
+      "content": "Sí.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 377,
+      "timestamp": "131:05",
+      "student": "Chilaka",
+      "type": "voluntary_response",
+      "content": "I sent you it email me.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 378,
+      "timestamp": "131:10",
+      "student": "Sthepen",
+      "type": "comment",
+      "content": "He's going to perhaps to just the things but also that people next week maybe if if I if you get your feedback then the next",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 379,
+      "timestamp": "131:35",
+      "student": "Sthepen",
+      "type": "comment",
+      "content": "Okay, maybe Friday.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 380,
+      "timestamp": "131:36",
+      "student": "Sthepen",
+      "type": "comment",
+      "content": "So that maybe the next presentation might be our last. It might not be because you can just Yeah, yeah, yeah.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 381,
+      "timestamp": "132:16",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "The first two slides the first two slides is from your comment.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 382,
+      "timestamp": "132:20",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "Like uh the problem the Y Y3.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 383,
+      "timestamp": "132:23",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "I did it. I changed it to problem statement kind of.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 384,
+      "timestamp": "132:26",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "And then the comparison between the why the other countries.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 385,
+      "timestamp": "132:31",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "Because I did like it's like a a table.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 386,
+      "timestamp": "132:37",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "I did the Estonia, Japan, UK, US.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 387,
+      "timestamp": "132:42",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "But the good thing I saw because for me as I as you said from the practice of Rwanda.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 388,
+      "timestamp": "132:48",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "We link I link with the what? With the SIM card.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 389,
+      "timestamp": "132:50",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "But you may find some countries they don't link.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 390,
+      "timestamp": "132:52",
+      "student": "Chilaka",
+      "type": "comment",
+      "content": "So that's you can see that the scores how I attracted it.",
+      "quality_score": "C",
+      "block": 27
+    },
+    {
+      "id": 391,
+      "timestamp": "133:09",
+      "student": "Aryang",
+      "type": "comment",
+      "content": "So for the the leg up to take I do have it.",
+      "quality_score": "C",
+      "block": 27
     }
   ]
 }

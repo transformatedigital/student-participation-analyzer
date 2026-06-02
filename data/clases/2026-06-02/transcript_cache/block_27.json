@@ -1,0 +1,400 @@
+{
+  "block": 27,
+  "time_range": "130:00-133:14",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You already learn how to do it. If next semester you say, 'Professor, you know what? I'm gonna do the project and finish it up.'",
+      "timestamp_abs": "130:00"
+    },
+    {
+      "timestamp": "00:05",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "But I'm gonna do a different topic for my master's. Right?",
+      "timestamp_abs": "130:05"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But you already learn how to do it. I don't need to explain it to you again.",
+      "timestamp_abs": "130:07"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay, then.",
+      "timestamp_abs": "130:09"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Okay, thank you.",
+      "timestamp_abs": "130:10"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Alameda.",
+      "timestamp_abs": "130:15"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Alameda.",
+      "timestamp_abs": "130:16"
+    },
+    {
+      "timestamp": "00:17",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uhuh.",
+      "timestamp_abs": "130:17"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, I'm going to start from scratch.",
+      "timestamp_abs": "130:20"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yo.",
+      "timestamp_abs": "130:24"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tienes estas, la tengo hasta el, hasta el",
+      "timestamp_abs": "130:25"
+    },
+    {
+      "timestamp": "00:28",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Sí.",
+      "timestamp_abs": "130:28"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tienes unas slides abajo, pero no esas. Esas las quité porque no quería, tenían como cosas que no me gustaba para, que los iba a confundir.",
+      "timestamp_abs": "130:29"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Entonces hay que cortarle en la slide 10 y solo mandar eso.",
+      "timestamp_abs": "130:37"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yo te mandé el Google Docs.",
+      "timestamp_abs": "130:41"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tú tienes, este es el Google Docs. Lo tienes compartido directo.",
+      "timestamp_abs": "130:44"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Entonces, nada más, descárgalo o le das print hasta la página 10. Y ese es el que envías.",
+      "timestamp_abs": "130:48"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Y esto, entonces, ahora sí yo tengo que, okay, tengo que revisar este.",
+      "timestamp_abs": "130:54"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Eh tengo que ver lo de la presentación de él y la presentación de ella. Chilaca, don't forget to send me your presentation.",
+      "timestamp_abs": "130:59"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "I sent you it email me.",
+      "timestamp_abs": "131:05"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, by email, yeah. By email.",
+      "timestamp_abs": "131:06"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I already contacted Dr. Gashami.",
+      "timestamp_abs": "131:08"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "He's going to perhaps to just the things but also that people next week maybe if if I if you get your feedback then the next",
+      "timestamp_abs": "131:10"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tomorrow is a holiday. I have my kids home.",
+      "timestamp_abs": "131:19"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it's going to be difficult.",
+      "timestamp_abs": "131:21"
+    },
+    {
+      "timestamp": "01:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Today I reached my house at 9:00 p.m.",
+      "timestamp_abs": "131:23"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, and I have to put to sleep my babies until like no, no. Today is impossible.",
+      "timestamp_abs": "131:25"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Tomorrow is probably difficult.",
+      "timestamp_abs": "131:29"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I'll try on Thursday, maybe Thursday noon.",
+      "timestamp_abs": "131:31"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will try.",
+      "timestamp_abs": "131:34"
+    },
+    {
+      "timestamp": "01:35",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "Okay, maybe Friday.",
+      "timestamp_abs": "131:35"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "So that maybe the next presentation might be our last. It might not be because you can just Yeah, yeah, yeah.",
+      "timestamp_abs": "131:36"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "131:42"
+    },
+    {
+      "timestamp": "01:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I I I think you you guys know from what I've been telling you, probably if I see your slides, I'm going to just pinpoint quickly what I think I and but it's not going to be further far more far away than this, it's probably not going to be.",
+      "timestamp_abs": "131:43"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you already know it.",
+      "timestamp_abs": "131:57"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "What I'm going to pinpoint is more on the form, on things that I see that are wrongly, wrong statement or overly exaggerated statements that I can see, non-accuracies, things like that.",
+      "timestamp_abs": "131:58"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay?",
+      "timestamp_abs": "132:10"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If there is anything specific you want to you want me to see that you're on on on sure, let me know.",
+      "timestamp_abs": "132:10"
+    },
+    {
+      "timestamp": "02:16",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "The first two slides the first two slides is from your comment.",
+      "timestamp_abs": "132:16"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mhm.",
+      "timestamp_abs": "132:19"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Like uh the problem the Y Y3.",
+      "timestamp_abs": "132:20"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh-huh.",
+      "timestamp_abs": "132:22"
+    },
+    {
+      "timestamp": "02:23",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "I did it. I changed it to problem statement kind of.",
+      "timestamp_abs": "132:23"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "And then the comparison between the why the other countries.",
+      "timestamp_abs": "132:26"
+    },
+    {
+      "timestamp": "02:31",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "Because I did like it's like a a table.",
+      "timestamp_abs": "132:31"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "I did the Estonia, Japan, UK, US.",
+      "timestamp_abs": "132:37"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "But the good thing I saw because for me as I as you said from the practice of Rwanda.",
+      "timestamp_abs": "132:42"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "We link I link with the what? With the SIM card.",
+      "timestamp_abs": "132:48"
+    },
+    {
+      "timestamp": "02:50",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "But you may find some countries they don't link.",
+      "timestamp_abs": "132:50"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "So that's you can see that the scores how I attracted it.",
+      "timestamp_abs": "132:52"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will check. I will check.",
+      "timestamp_abs": "132:55"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will let you know.",
+      "timestamp_abs": "132:57"
+    },
+    {
+      "timestamp": "02:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will try by Thursday. Thursday night, like this night.",
+      "timestamp_abs": "132:58"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I contacted Gashami. Let's see if he because he might be sleeping.",
+      "timestamp_abs": "133:03"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I contacted him, I left him a message over the weekend.",
+      "timestamp_abs": "133:06"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So for the the leg up to take I do have it.",
+      "timestamp_abs": "133:09"
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "block": 21,
+  "time_range": "100:00-105:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Why is verification with post registration, we really know that because it's just at the beginning and the rest of the cycle there is no verification.",
+      "timestamp_abs": "100:00"
+    },
+    {
+      "timestamp": "00:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, so drill down to regulatory administrative or operational bottlenecks.",
+      "timestamp_abs": "100:09"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If we focus on that, it's gonna look much better.",
+      "timestamp_abs": "100:14"
+    },
+    {
+      "timestamp": "00:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then again, I told you, right? I think you should really work a little bit on what Aria mentioned.",
+      "timestamp_abs": "100:18"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Really analyze comparable developing countries like Rwanda, pure economies, you already started that.",
+      "timestamp_abs": "100:23"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "How do they manage identity validation within similar infrastructure, but also comparing with advanced nation markets, okay?",
+      "timestamp_abs": "100:29"
+    },
+    {
+      "timestamp": "00:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So how are other countries who are doing this good? I'm talking, I'm not sure who to say it's [inaudible] I think right now for my project I'm using Estonia and Singapore.",
+      "timestamp_abs": "100:37"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "Could you use somebody else?",
+      "timestamp_abs": "100:48"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Singapore is more similar to",
+      "timestamp_abs": "100:49"
+    },
+    {
+      "timestamp": "00:51",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Because the difference between",
+      "timestamp_abs": "100:51"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I'm doing it for Latin American countries who have completely different problems and really big governance issues.",
+      "timestamp_abs": "100:54"
+    },
+    {
+      "timestamp": "01:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it might be interesting for you to look at those, but it might be interesting to you for you to look at, I don't know, South Africa, Australia, I don't know.",
+      "timestamp_abs": "101:00"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, countries that have a relevant. It's okay, I think.",
+      "timestamp_abs": "101:07"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I am if I am on a diet, okay?",
+      "timestamp_abs": "101:12"
+    },
+    {
+      "timestamp": "01:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let's say the definition of beauty is gonna be 90-60-90, okay?",
+      "timestamp_abs": "101:14"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "90-60-90 was the definition of beauty in my generation.",
+      "timestamp_abs": "101:18"
+    },
+    {
+      "timestamp": "01:22",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "You know 90-60-90, Mega?",
+      "timestamp_abs": "101:22"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "90-60-90.",
+      "timestamp_abs": "101:24"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "The measure.",
+      "timestamp_abs": "101:27"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, measurement.",
+      "timestamp_abs": "101:28"
+    },
+    {
+      "timestamp": "01:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So the definition of beauty is that 90-60-90, okay?",
+      "timestamp_abs": "101:29"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "90-60-90.",
+      "timestamp_abs": "101:33"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Breast 90, waist 60 and the, the way.",
+      "timestamp_abs": "101:34"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "The measurement.",
+      "timestamp_abs": "101:38"
+    },
+    {
+      "timestamp": "01:39",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "90-60-90.",
+      "timestamp_abs": "101:39"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "How they use it, how they use it.",
+      "timestamp_abs": "101:41"
+    },
+    {
+      "timestamp": "01:42",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If this is the definition of beauty, okay?",
+      "timestamp_abs": "101:42"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I am on, I am in a quest to become beautiful, okay?",
+      "timestamp_abs": "101:45"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the definition of beauty is this.",
+      "timestamp_abs": "101:49"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "90-60-90.",
+      "timestamp_abs": "101:52"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Let's say that's the reference, okay?",
+      "timestamp_abs": "101:53"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm not saying I will ever become 60 in the weight, right?",
+      "timestamp_abs": "101:55"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For 60 in the weight is very difficult.",
+      "timestamp_abs": "101:59"
+    },
+    {
+      "timestamp": "02:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I really want to know what did some woman do to get 60 in the way, so that I can copy some steps to become at least not 60, maybe I can become 80, right? Or 75.",
+      "timestamp_abs": "102:02"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Right?",
+      "timestamp_abs": "102:14"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So, as developing countries, do we have to keep referencing on, on just 80, 80, 80 because it's difficult to become 90-60-90?",
+      "timestamp_abs": "102:14"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No.",
+      "timestamp_abs": "102:24"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We want to really benchmark with the best first league, major league players, even though we know to become like major league players is very hard.",
+      "timestamp_abs": "102:25"
+    },
+    {
+      "timestamp": "02:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We need to understand what these major league players need to reach this very difficult situation, okay?",
+      "timestamp_abs": "102:34"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because even if we cannot really get there, we can strive to be the least possible way waistline that I can, okay?",
+      "timestamp_abs": "102:39"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is the kind of leadership, the kind of global digital innovation leadership I want you to think of, okay?",
+      "timestamp_abs": "102:49"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, it's good that you make you know realities around Rwanda is like this.",
+      "timestamp_abs": "102:56"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "But what are these 90-60-90s?",
+      "timestamp_abs": "103:01"
+    },
+    {
+      "timestamp": "03:03",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What is the guys to really, really match the best beauty standards, the best NID safe standards, right?",
+      "timestamp_abs": "103:03"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "What did these guys do?",
+      "timestamp_abs": "103:10"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because this is a problem everyone in the world is trying to solve.",
+      "timestamp_abs": "103:12"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now, policy process map.",
+      "timestamp_abs": "103:16"
+    },
+    {
+      "timestamp": "03:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I told you before, one of the things I would do in your case is to map what's the whole process quickly in your mind and map it.",
+      "timestamp_abs": "103:19"
+    },
+    {
+      "timestamp": "03:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Or if you have some regulation that you can reuse or you can like ask you AI to simplify it, you'll help yourself finding some kind of process or a line or like cycle, right?",
+      "timestamp_abs": "103:28"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Where you can map how what is the entire cycle of the mobile ID because it's also very difficult different.",
+      "timestamp_abs": "103:39"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The mobile money identity cycle and the NID cycle is a little kind of, one on top of the other, is overlap.",
+      "timestamp_abs": "103:46"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it certainly has some inter some differentiation.",
+      "timestamp_abs": "103:54"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "One is the foundation over the other.",
+      "timestamp_abs": "103:58"
+    }
+  ]
+}

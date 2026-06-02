@@ -1,0 +1,78 @@
+{
+  "block": 23,
+  "time_range": "110:00-115:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "three major fishermen population. I'm just saying an example, right? But if there is a special industry uh or agro something something, like, that will be there is a that because everybody like you could tell me out of their economic matrix, the this entity population feeds out of fishermen and agriculture, like maybe culture, they are they are doing cultivation of seaweed. I don't know, I don't know exactly, but but I'm just I try to provide an example of a level that I like. A level that I think is sufficient enough to match because I think for you the difficulty for you is that you go high level and you stay high level or mid level, right? But I wish it was a little bit more specific, but when I say specific, I wanted to give you a specific example, and this is the example I came up with.",
+      "timestamp_abs": "110:00"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay. If the the the location of the solar pv is near to the location and there is no electricity.",
+      "timestamp_abs": "110:57"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So yeah, but then there is no electricity and so what?",
+      "timestamp_abs": "111:05"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So after after we give more capacity uh in the in the in the past it could be give them the electricity and also the power.",
+      "timestamp_abs": "111:08"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "But are they willing to pay for it? Are they able to pay for it? Is there a model to give them or is there a subsidy to There is no electricity because either there is no demand, or there is no demand who can pay for it.",
+      "timestamp_abs": "111:20"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If there is enough people who can pay for it, believe me, they would have been they would have been electricity here. My assumption is that there is a very poor population there or not enough people. Sometimes it's like if the island is too remote, the population is not enough to to to justify the investment. Right? So if there is not even a a beneficiary, a real real primary like a the real beneficiary who is suffering,",
+      "timestamp_abs": "111:38"
+    },
+    {
+      "timestamp": "03:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "who is suffering, who will be willing to pay or who is who is important enough whether I numbers of people or numbers of household or industry, strategic industry, that the government will say either they pay or I will pay for it because this this very specific group of people are needing it because they are very poor, and a subsidy will be created or there's going to be a regulation modified to provide for it.",
+      "timestamp_abs": "113:11"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I worry about that. How to make this project feasible?",
+      "timestamp_abs": "113:35"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So before the text selection, we need to solve this. Right now you are kind of doing the text selection before really really giving me an specific gap. You're giving me a general gap. No electricity. It's a very general gap. Your level of gap is like is like is like Chilaka telling me no no AI. AI is an enabler. His problem is no AI. Or Arria telling me no AI or no It's big. It's big still. Not not not not specific enough.",
+      "timestamp_abs": "113:41"
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, for example, before, I thought why previous public interventions failed, right? You can also if this is not if it's difficult for you to reach this one, maybe you can ask yourself, why previous public interventions failed? Why have why until now this population here has no energy? So maybe there is a policy fail, there is a lack of coordination between regional planners and the PLM. Or there is a financial model, the local tariffs are too high, and there is a lack of microfinancing structures of the grid populations. Or the local community lacks the technical training.",
+      "timestamp_abs": "114:23"
+    }
+  ]
+}

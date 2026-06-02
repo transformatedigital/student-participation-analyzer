@@ -1,0 +1,112 @@
+{
+  "block": 22,
+  "time_range": "105:00-110:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "or or maybe not real time. Maybe you can decide, ah no, actually, the real time is very hard in Rwanda because we don't have certain infrastructures. So we're gonna maybe real time is just 96 to night.",
+      "timestamp_abs": "105:00"
+    },
+    {
+      "timestamp": "00:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But maybe real time not but we can have a long like a three step or rather than one step, we can have like a key gateway step verification along the way, or or double step verification, something something. There might be a something intermediate that can be related to that.",
+      "timestamp_abs": "105:15"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "105:33"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Make sense?",
+      "timestamp_abs": "105:34"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah, the good thing that this is the number one or number two.",
+      "timestamp_abs": "105:35"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You already started the...",
+      "timestamp_abs": "105:39"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, the PDF.",
+      "timestamp_abs": "105:41"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, the... so that means",
+      "timestamp_abs": "105:43"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "the PTA you have brought it.",
+      "timestamp_abs": "105:44"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I think I'm gonna get the feedback from your side.",
+      "timestamp_abs": "105:45"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Because for them, I did it the way I was expecting from there.",
+      "timestamp_abs": "105:48"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right.",
+      "timestamp_abs": "105:52"
+    },
+    {
+      "timestamp": "00:53",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And then the other side also I'm trying to match it.",
+      "timestamp_abs": "105:53"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So how far you get here for me is important.",
+      "timestamp_abs": "105:56"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "For the...",
+      "timestamp_abs": "105:59"
+    }
+  ]
+}
