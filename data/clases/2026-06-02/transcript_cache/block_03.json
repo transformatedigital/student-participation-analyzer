@@ -1,0 +1,221 @@
+{
+  "block": 3,
+  "time_range": "10:00-15:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "different gateways or stakeholders who could provide assistance, who have experts or who have or manage certain ODA related funds, who could provide this kind of thing. So I want to tell you the whole story. So this was the conversation.",
+      "timestamp_abs": "10:00"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The other conversation she told me that the other opportunity she saw is this one, which I thought is really interesting. I didn't know about this but I I wanted to share it with you.",
+      "timestamp_abs": "10:13"
+    },
+    {
+      "timestamp": "00:23",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Which one?",
+      "timestamp_abs": "10:23"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay. You have here. Ah.",
+      "timestamp_abs": "10:25"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah.",
+      "timestamp_abs": "10:27"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So they mentioned to me, I I didn't know about this.",
+      "timestamp_abs": "10:30"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah.",
+      "timestamp_abs": "10:33"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I guess not.",
+      "timestamp_abs": "10:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "So she mentioned to me about this Koica, do you know about this program?",
+      "timestamp_abs": "10:39"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Yeah, yeah.",
+      "timestamp_abs": "10:43"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "You know about it?",
+      "timestamp_abs": "10:44"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I didn't know about it. So this creative technology solution program is like Koica has different programs through which you can, you know Koica? Everybody here knows Koica?",
+      "timestamp_abs": "10:45"
+    },
+    {
+      "timestamp": "00:55",
+      "speaker": "UNKNOWN",
+      "type": "student_response",
+      "text": "No?",
+      "timestamp_abs": "10:55"
+    },
+    {
+      "timestamp": "00:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Koica is the Korean International Cooperation Agency. So it's the agency within the Ministry of Foreign Affairs in Korea that handles official development assistance money. So it's like international cooperation funds for emerging countries. So if you, if you search the countries that are beneficiaries of this program, all of your countries are here. Nigeria, Indonesia and Rwanda.",
+      "timestamp_abs": "10:56"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "They're doing so much in Nigeria right now.",
+      "timestamp_abs": "11:19"
+    },
+    {
+      "timestamp": "01:21",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. But this program is very interesting because it's different to any other ODA project. Normal ODA projects take like two or three years in Koica because you have to submit and blah, blah, blah. But this one is really specially for innovative ideas and new technologies to ODA projects. Only for prospective entrepreneur startups or venture innovators. So it's very related to what we're trying to do. And the other important thing is they have, instead of having like once a year call, they have like twice a year call. So the cycle of approving is much shorter. And the money is not small.",
+      "timestamp_abs": "11:21"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "This is almost $30, $300, $30,000.",
+      "timestamp_abs": "11:59"
+    },
+    {
+      "timestamp": "02:04",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "$30,000.",
+      "timestamp_abs": "12:04"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "$300,000.",
+      "timestamp_abs": "12:07"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "$300,000.",
+      "timestamp_abs": "12:09"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "$300,000 and $500,000. The maximum is $500,000. Is not small money to start this business.",
+      "timestamp_abs": "12:14"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Close, close, close.",
+      "timestamp_abs": "12:20"
+    },
+    {
+      "timestamp": "02:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So they are like the process is the Korean company, the Korean innovator, so for example Torus Lab, or KIST with a spin-off or a startup who would have the knowledge of this one. But in your case we're deciding a different track. But for example, if we were to find a Rwanda, like a startup in Rwanda who could collaborate, or for example, Nida has a, Nida with a Korean company SK, not SK because SK is not possible here because the company needs to be established within the past 10 years, so it should be like a relatively new. So maybe Round has a spin-off or something like that. Then or a social enterprise, so that must have a corporation that manage the social issues. So there should be any type of business.",
+      "timestamp_abs": "12:22"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "That's from Korea.",
+      "timestamp_abs": "13:08"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "STHEPEN",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "The company has to be like 10 years in the [inaudible].",
+      "timestamp_abs": "13:09"
+    },
+    {
+      "timestamp": "03:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yes. Like it's a small scale up company. But 40% of this budget can be shared with the recipient country. So it's not only for the Korean company. So the Korean company needs to collaborate with the company or the entity in that country because the the official the official program is applied the innovative idea news technology to ODA projects. And it aims to contribute to finding solutions to challenging development task and also enhancing the effectiveness of various development partners. So I think it's very interesting. It could be for Torus Labs, it could be an interesting thing. Um, and or maybe for Rwanda as well. I heard about this just today in the lunch. I didn't know. But they mentioned to me this one and they said all of your students' countries are related to those, and maybe it's something like if if your country has a small budget and you need expansion, and Torus Lab is willing to apply for this one, because that's another issue, the Korean entity has to apply for this one.",
+      "timestamp_abs": "13:12"
+    },
+    {
+      "timestamp": "04:09",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "ILEANA",
+      "text": "Ah, okay. So, so we cannot [inaudible].",
+      "timestamp_abs": "14:09"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_response",
+      "text": "No, the foreign entity cannot. It's for Korean companies.",
+      "timestamp_abs": "14:11"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I see.",
+      "timestamp_abs": "14:15"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The Korean innovation, the Korean entrepreneur has to apply for it, but the Korean entrepreneur can share 40% of the budget with the local with the local counterpart, right? So the idea is to you for the Koica CTS project, right? Will provide seed money for mentoring and then the the proof of concept or like that. So for example, if in Mega's case, if we find this is just one of the programs, but there are so many, really so many. I know so many opportunities. So So that's why I always tell you, if we find the right problem, and the right partner, the money, there is many different ways that we can collect it to find the it's not a it's not super easy, no. But there are in Korean, the Korean ecosystem, there's there is",
+      "timestamp_abs": "14:16"
+    }
+  ]
+}

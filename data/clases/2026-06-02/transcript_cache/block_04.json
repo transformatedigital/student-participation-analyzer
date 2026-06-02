@@ -1,0 +1,422 @@
+{
+  "block": 4,
+  "time_range": "15:00-20:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "the generous, generous profits.",
+      "timestamp_abs": "15:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So this is just one, but there are other, other profits. So,",
+      "timestamp_abs": "15:02"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "just I wanted to just quickly within the brackets tell you about this one that I learned in the lunch, that they will tell me, ah, maybe this one could be a good, but I then they ask me, who is the company developing the NIS? And I said, ah, it's Softtech, but I think Softtech is more than 10 years old. So,",
+      "timestamp_abs": "15:06"
+    },
+    {
+      "timestamp": "00:21",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "15:21"
+    },
+    {
+      "timestamp": "00:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's probably and it's they either they have to make a spinoff or it would be, for example, a joint venture between Softtech and a Nigerian company, uh, that is a trustworthy or like a good partner that we find in Nigeria like that.",
+      "timestamp_abs": "15:22"
+    },
+    {
+      "timestamp": "00:35",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, with after we had a talk, we started the meeting at 11:30 until 1:00 p.m. After we had a talk we thought, ah no, this is not a good track for KISTI and NTIS. Because probably you don't only need an a the technology piece of that is not the only issue. You probably need some package between technology and also the whole, the whole technical advisory for the whole governance renewal, kind of similar to you also.",
+      "timestamp_abs": "15:35"
+    },
+    {
+      "timestamp": "01:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, we thought, ah no, definitely this could be better to do to be done through KISTI because KISTI has to be there.",
+      "timestamp_abs": "16:01"
+    },
+    {
+      "timestamp": "01:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Right? Because KISTI has to the whole, the whole package, right? Not only the company, right? So,",
+      "timestamp_abs": "16:08"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I realized, because even if Softtech, like they have all the knowledge of building the technology with the process. But the know-how on how to reorganize the ecosystem that's all with KISTI.",
+      "timestamp_abs": "16:13"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, or with KISTI and the Ministry of Science and Technology. So,",
+      "timestamp_abs": "16:24"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "With you, what we discussed is that the key point when I told them about the news of uh of uh Mr. Lee?",
+      "timestamp_abs": "16:27"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mr. Lee?",
+      "timestamp_abs": "16:36"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Nypa, Nypa Mr. Nypa because I mean, what is his name? I always forgot.",
+      "timestamp_abs": "16:37"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "His son. Is that Hong?",
+      "timestamp_abs": "16:41"
+    },
+    {
+      "timestamp": "01:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Hong, Hong. Hong.",
+      "timestamp_abs": "16:44"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm very bad with names.",
+      "timestamp_abs": "16:45"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Mr. Hong. So I told him, do you know already the date when they when the African ministers are going to be invited?",
+      "timestamp_abs": "16:47"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But from what he's saying, he said he's not them that sends the invitation that I they don't have any business with sending the invitation. No Nypa. The Ministry of Foreign Affairs and the Ministry of Science and Technology.",
+      "timestamp_abs": "16:55"
+    },
+    {
+      "timestamp": "02:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They said it's not even Science and Technology or Nypa.",
+      "timestamp_abs": "17:06"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Oh, really?",
+      "timestamp_abs": "17:09"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Because I'm I'm supposed to meet him and Professor next month on the 22nd.",
+      "timestamp_abs": "17:09"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So he said it's part of the I think is initiated from our home countries. That is normally sent to Ministry of Finance, not even Science and Technology.",
+      "timestamp_abs": "17:17"
+    },
+    {
+      "timestamp": "02:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah.",
+      "timestamp_abs": "17:28"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "They they might not even know when they send.",
+      "timestamp_abs": "17:29"
+    },
+    {
+      "timestamp": "02:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So it's not sponsored by the Korean government. It's sponsored by",
+      "timestamp_abs": "17:33"
+    },
+    {
+      "timestamp": "02:37",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "African Development Bank. And it's in partnership with Ministry of Finance of Korea. That they they normally send it to Ministry of Finance of the of the other countries.",
+      "timestamp_abs": "17:37"
+    },
+    {
+      "timestamp": "02:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Maybe through Gido, you know Gido?",
+      "timestamp_abs": "17:49"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Gido. right?",
+      "timestamp_abs": "17:51"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Yeah, you know Gido?",
+      "timestamp_abs": "17:53"
+    },
+    {
+      "timestamp": "02:53",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, yeah, yeah.",
+      "timestamp_abs": "17:53"
+    },
+    {
+      "timestamp": "02:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will check with Gido. I think Gido might know if it's the African Development Bank, maybe Gido might know when these guys are going to be invited. But the question is if they're going to invite if Dr. Gido.",
+      "timestamp_abs": "17:54"
+    },
+    {
+      "timestamp": "03:04",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "around September or so.",
+      "timestamp_abs": "18:04"
+    },
+    {
+      "timestamp": "03:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, but the date must be already onwards. So my question is because they told me, this is the this is the image we are trying to. Definitely let's say the date is going to be September 1st. I'm going to just make a hypothesis. They're going to be into some event of the IFDV where IFDV will invite all of the ministers of Science and Technology of Africa to Korea.",
+      "timestamp_abs": "18:05"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I think it's July.",
+      "timestamp_abs": "18:27"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Huh?",
+      "timestamp_abs": "18:29"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "I think it's July.",
+      "timestamp_abs": "18:30"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "July?",
+      "timestamp_abs": "18:31"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I think so.",
+      "timestamp_abs": "18:32"
+    },
+    {
+      "timestamp": "03:33",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "How do you know?",
+      "timestamp_abs": "18:33"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I I Yeah.",
+      "timestamp_abs": "18:35"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, because of the IFDV.",
+      "timestamp_abs": "18:36"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, yeah, yeah. I heard that it's gonna be in July. The visit the African Minister's visit.",
+      "timestamp_abs": "18:37"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes.",
+      "timestamp_abs": "18:41"
+    },
+    {
+      "timestamp": "03:42",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "And any any chance we could know that date soon? Because that's this is very important because if it's gonna be in July, we have no time. Huh?",
+      "timestamp_abs": "18:42"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, for them, the only thing I mean it's an it's just an invitation because they know how to fast track their own visa. You just need.",
+      "timestamp_abs": "18:52"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "But that's that's not an issue though. What I'm saying is, first question is, are they inviting the minister of science and technology or are they inviting the minister of finance? That's the first question.",
+      "timestamp_abs": "18:59"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "So what he said, he said it's the Minister of Ministers of Finance.",
+      "timestamp_abs": "19:07"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that means",
+      "timestamp_abs": "19:12"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So that that's why that's where I had the challenge. I told him, and he said them and Minister of Science and ICT don't have any anything to do with with that invitation. That the Minister of Finance normally sends it to the Minister of Finance of African countries.",
+      "timestamp_abs": "19:14"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "19:31"
+    },
+    {
+      "timestamp": "04:32",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So that we have to find out on our own.",
+      "timestamp_abs": "19:32"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "And who does that of these events?",
+      "timestamp_abs": "19:35"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, I and it's on AI and digital transformation. So I'm wondering why they're only inviting only Ministers of of Finance instead of the relevant ministers.",
+      "timestamp_abs": "19:37"
+    },
+    {
+      "timestamp": "04:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because from IFDV perspective, they're financing the minister of finance.",
+      "timestamp_abs": "19:47"
+    },
+    {
+      "timestamp": "04:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "African Development Bank lends money.",
+      "timestamp_abs": "19:52"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "19:54"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And the one who decides whether I borrow that money or not is the Minister of Finance.",
+      "timestamp_abs": "19:55"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "19:59"
+    }
+  ]
+}

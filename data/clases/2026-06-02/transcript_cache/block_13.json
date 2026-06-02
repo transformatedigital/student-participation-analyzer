@@ -1,0 +1,253 @@
+{
+  "block": 13,
+  "time_range": "60:00-65:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "but that's your call. So if you feel that it's important to to have a demo before that, then yeah.",
+      "timestamp_abs": "60:00"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay. Okay. I got it. So I think it's fair that it is, yeah, if I think my company should give uh a demo first for that just to impress the Indonesian partner.",
+      "timestamp_abs": "60:06"
+    },
+    {
+      "timestamp": "00:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah. And then they will tell you what, what are the needs and then they will explain what's important. Okay. All right. Thank you, Aryang. So this is what you wanted to change in the agenda, right?",
+      "timestamp_abs": "60:20"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, right.",
+      "timestamp_abs": "60:29"
+    },
+    {
+      "timestamp": "00:30",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Okay. All right. Uh, Mega. Do you want to add something Mega? Or are you okay with the with the agenda right now?",
+      "timestamp_abs": "60:30"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "MEGA",
+      "type": "student_question",
+      "text": "Yes, ma'am. I actually I don't want to add anything because our agenda is fixed already. But uh earlier, uh you told that if they're having the meeting, if we should uh provide to them the the time and then the the duration, right? So the agenda is 1 hour long. So when they're having the meeting, should we like put the time, for example, 30 minutes for the presentation, then 10 minutes for Q&A something like that?",
+      "timestamp_abs": "60:36"
+    },
+    {
+      "timestamp": "01:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's a very good point. Yes, you should actually. You know why? Because people like to know how much time they have. And if you put it for example 15 minutes for this, 20 minutes for this, they know, oh, okay, I cannot go longer than that. So yes, you should. You should have that you you have that that control of the meeting that you should include in the agenda like this, like for example in a university class, we have 50 minutes for this one, 15 minutes for the lab, 15 minutes for the for example the discussion, it's the same thing for a meeting. Otherwise, it will be a free for all. And it's not good. Yes, you should. It's a very good point, Mega. Thank you. Yes.",
+      "timestamp_abs": "61:05"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Okay, ma'am. Thank you.",
+      "timestamp_abs": "61:45"
+    },
+    {
+      "timestamp": "01:47",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "You're welcome. Chilaka, do you want to add something?",
+      "timestamp_abs": "61:47"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yeah, madam. I think the agenda is already well set.",
+      "timestamp_abs": "61:50"
+    },
+    {
+      "timestamp": "01:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. All right. So everything's fine by you. Okay, Chilaka. Thank you. Uh, Grace. Grace, what about you? Do you have anything you want to add to this agenda?",
+      "timestamp_abs": "61:54"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "GRACE",
+      "type": "student_question",
+      "text": "Um, I think no, ma'am. I think it's good already. I just want to clarify for number four because if we confirm with them that we are meeting with them already. Do we still need to send the invitation to them or can we just have the meeting right away since it's already confirmed?",
+      "timestamp_abs": "62:00"
+    },
+    {
+      "timestamp": "02:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You confirm with them the meeting. You have to send the invite always. So that is like the formality of the company. Even if you confirm verbally, you still have to send a calendar invite because the calendar invite is the reminder for them and for you that you have a meeting and also to put the agenda in the calendar invite itself. Yeah. That's a that's always a good thing. Yeah. Always. Always send the calendar invite. You never just meet like that.",
+      "timestamp_abs": "62:20"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Okay, ma'am. Thank you.",
+      "timestamp_abs": "62:51"
+    },
+    {
+      "timestamp": "02:52",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "STHEPEN",
+      "text": "You're welcome. Stephon, do you have something to add?",
+      "timestamp_abs": "62:52"
+    },
+    {
+      "timestamp": "02:55",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "No, ma'am. I think everything is good already.",
+      "timestamp_abs": "62:55"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. All right. Okay. So this is, this is all good with the agenda. What about the email? Uh, did you, did you send the draft email to me already? Aryang, right? You sent it to me yesterday, right?",
+      "timestamp_abs": "62:57"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, yes. I have sent it.",
+      "timestamp_abs": "63:07"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. And then Mega you sent it to me as well? Oh no, you did not. You just told me verbally yesterday that you sent it. Oh, sorry. I was checking with other people.",
+      "timestamp_abs": "63:08"
+    },
+    {
+      "timestamp": "03:17",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "No, ma'am. I did not send the email yet. Because I told you that my partner actually haven't given me a response when will be the meeting so I think I should send it when they actually give a response.",
+      "timestamp_abs": "63:17"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, you you sent me a draft email and I told you that it was fine for the draft.",
+      "timestamp_abs": "63:31"
+    },
+    {
+      "timestamp": "03:37",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Oh, oh. Yes, yes, ma'am. I send the draft. Yes.",
+      "timestamp_abs": "63:37"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "MEGA",
+      "text": "Yes. So that's what I asked if you sent it. I did not mean you sent it to the company. I mean you sent it to me to check it. Yeah, right? So you sent it already, right?",
+      "timestamp_abs": "63:40"
+    },
+    {
+      "timestamp": "03:48",
+      "speaker": "MEGA",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "63:48"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Okay. All right. Chilaka, you sent me the draft email, right?",
+      "timestamp_abs": "63:49"
+    },
+    {
+      "timestamp": "03:52",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes, ma'am. Yes, I sent it.",
+      "timestamp_abs": "63:52"
+    },
+    {
+      "timestamp": "03:54",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. All right. Grace, you sent me the draft email, right?",
+      "timestamp_abs": "63:54"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Um, no, ma'am. I still have to change some things for my email.",
+      "timestamp_abs": "63:57"
+    },
+    {
+      "timestamp": "04:02",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "Okay. So you still need to work on it? Okay. All right. Stephen, you sent me the draft email, right?",
+      "timestamp_abs": "64:02"
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "STHEPEN",
+      "type": "student_response",
+      "text": "Uh, no, ma'am. I also still need to work on it.",
+      "timestamp_abs": "64:08"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay. So you still need to work on it? Okay. All right. So you two, you need to send it to me. And then for the draft email, what's your target date? Next week. And then for the agenda, next week as well. So for next week, Monday, for example, your target date for the email and the agenda to be fixed, right? You wanna set that as a deadline or what?",
+      "timestamp_abs": "64:11"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "64:36"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. So for next week, I will follow up with you two. Grace and Stephon, you need to send me the draft. And then for the rest of you, Aryang, Mega, Chilaka, you have sent it to me, I have reviewed it right now, so it's good. But now you need to actually send it to the company for the real meeting. Right?",
+      "timestamp_abs": "64:37"
+    },
+    {
+      "timestamp": "04:59",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Yes, ma'am.",
+      "timestamp_abs": "64:59"
+    }
+  ]
+}

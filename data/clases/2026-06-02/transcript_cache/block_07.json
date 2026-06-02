@@ -1,0 +1,450 @@
+{
+  "block": 7,
+  "time_range": "30:00-35:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "next time you're already a professor.",
+      "timestamp_abs": "30:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I already think about what things I have to do and then I can say, ah, this you don't need to do for example.",
+      "timestamp_abs": "30:02"
+    },
+    {
+      "timestamp": "00:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "If I can give you feedback then at least I can save some time for you to say, ah, this way you don't need to review that, but you might need to review this, right?",
+      "timestamp_abs": "30:06"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think making this kind of to-do list can help you out later because one of the important outputs of the project design, capstone design course will be to define all the activities within the pipeline of this project.",
+      "timestamp_abs": "30:13"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I think definitely not only focus on what is done, focus on also on what on what pending or what's not even done.",
+      "timestamp_abs": "30:26"
+    },
+    {
+      "timestamp": "00:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Some things might be on hold.",
+      "timestamp_abs": "30:34"
+    },
+    {
+      "timestamp": "00:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Some things for example the letter.",
+      "timestamp_abs": "30:36"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's not in this category.",
+      "timestamp_abs": "30:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "but I don't know if you sent it or not but you're probably ongoing, right?",
+      "timestamp_abs": "30:39"
+    },
+    {
+      "timestamp": "00:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Some things are ongoing.",
+      "timestamp_abs": "30:43"
+    },
+    {
+      "timestamp": "00:44",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, I have some ongoing and pending.",
+      "timestamp_abs": "30:44"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "30:46"
+    },
+    {
+      "timestamp": "00:46",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "30:46"
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "All right.",
+      "timestamp_abs": "30:47"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Continue on the stakeholder engagement.",
+      "timestamp_abs": "30:48"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "because I initiated direct discussion with the DG of the NDTI to introduce the NTS adoption concept and to gauge his.",
+      "timestamp_abs": "30:49"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Institutional interest.",
+      "timestamp_abs": "30:59"
+    },
+    {
+      "timestamp": "01:02",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So the DG expressed optimism that the collaboration will solve both NBTIS operational problem and Nigeria's broader R&D coordination challenge.",
+      "timestamp_abs": "31:02"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So also the supervising director, I I discussed with him. So he the he confirmed ministry level relevance and undertook to escalate also to the DG of NBTI.",
+      "timestamp_abs": "31:13"
+    },
+    {
+      "timestamp": "01:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Be careful with these kind of important claims.",
+      "timestamp_abs": "31:25"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think KISTI is one of.",
+      "timestamp_abs": "31:28"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will give you that comment.",
+      "timestamp_abs": "31:31"
+    },
+    {
+      "timestamp": "01:32",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "KISTI is one of.",
+      "timestamp_abs": "31:32"
+    },
+    {
+      "timestamp": "01:34",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "One of.",
+      "timestamp_abs": "31:34"
+    },
+    {
+      "timestamp": "01:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But not the only.",
+      "timestamp_abs": "31:36"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think it's one of the players who did this, one of the players.",
+      "timestamp_abs": "31:37"
+    },
+    {
+      "timestamp": "01:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But actually in your in in your ICP also I I found out you have some strong strong statements about that.",
+      "timestamp_abs": "31:41"
+    },
+    {
+      "timestamp": "01:49",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And of course you're trying to sell and sell well your partner.",
+      "timestamp_abs": "31:49"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But as a future PhD, you have to be very",
+      "timestamp_abs": "31:52"
+    },
+    {
+      "timestamp": "01:56",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Diplomatic.",
+      "timestamp_abs": "31:56"
+    },
+    {
+      "timestamp": "01:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Not diplomatic.",
+      "timestamp_abs": "31:57"
+    },
+    {
+      "timestamp": "01:58",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Rather than diplomatic.",
+      "timestamp_abs": "31:58"
+    },
+    {
+      "timestamp": "02:00",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "[inaudible]",
+      "timestamp_abs": "32:00"
+    },
+    {
+      "timestamp": "02:01",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "rather than diplomatic, I think as experts we we should strive to be, uh,",
+      "timestamp_abs": "32:01"
+    },
+    {
+      "timestamp": "02:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "neutral.",
+      "timestamp_abs": "32:07"
+    },
+    {
+      "timestamp": "02:09",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "General.",
+      "timestamp_abs": "32:09"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Below.",
+      "timestamp_abs": "32:10"
+    },
+    {
+      "timestamp": "02:10",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Is the.",
+      "timestamp_abs": "32:10"
+    },
+    {
+      "timestamp": "02:11",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no, no, no.",
+      "timestamp_abs": "32:11"
+    },
+    {
+      "timestamp": "02:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I I think as a as a what I try to be and this is just a personal partially a personal perspective.",
+      "timestamp_abs": "32:12"
+    },
+    {
+      "timestamp": "02:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "but I think as a PhD and as a expert, we have to strive to be very close to the truth.",
+      "timestamp_abs": "32:18"
+    },
+    {
+      "timestamp": "02:25",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because we are scientists to work to provide evidence, right?",
+      "timestamp_abs": "32:25"
+    },
+    {
+      "timestamp": "02:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So one of the biggest difference from me before when I was a master's and after I became a PhD and a professor and later on like a senior advisor to these kind of organizations or these projects.",
+      "timestamp_abs": "32:29"
+    },
+    {
+      "timestamp": "02:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "was that I tried to build my position by being very evidence-based.",
+      "timestamp_abs": "32:40"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Like when I say something, I try to really, really confirm is this really and I even all my AIs, I always try to tell my AIs, please never be in agree with me, be always a devil's advocate, question my logic.",
+      "timestamp_abs": "32:47"
+    },
+    {
+      "timestamp": "02:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Why? Because I want to be as much as I possible, I want to for sure, I might be wrong because I'm a human but I want to be really close to the truth.",
+      "timestamp_abs": "32:59"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And one of the things I learned is that in many many instances, very this kind of very let's say highly.",
+      "timestamp_abs": "33:07"
+    },
+    {
+      "timestamp": "03:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I feel like it's like exaggerated, no other Korean, this is not really close to the truth because probably there are other Korean institutions.",
+      "timestamp_abs": "33:16"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "who have worked a lot, there is Sree, there is like even within the Ministry of Science and Technology or even within the the logistic assembly in Korea, if you learn the history of the Korean there is a lot of stakeholders who really played an important role in this kind of transformation of the governance.",
+      "timestamp_abs": "33:22"
+    },
+    {
+      "timestamp": "03:39",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, um, maybe I guess I became more afraid of strong statements because I realized that I want to be able to prove everything that I say.",
+      "timestamp_abs": "33:39"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "with evidence.",
+      "timestamp_abs": "33:50"
+    },
+    {
+      "timestamp": "03:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So because I became so paranoid with this, I'm more careful about these kind of things.",
+      "timestamp_abs": "33:51"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I think as a eventually through your projects or through your research, anyway, whatever you are doing, even through your research, you have to be scientifically truth, right?",
+      "timestamp_abs": "33:57"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "That's what you're trying to prove finally through any kind of empirical study or like that.",
+      "timestamp_abs": "34:06"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So be careful with that, even if it's this is not a scientific document.",
+      "timestamp_abs": "34:10"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I would be very like okay, very assertive I guess or not maybe, maybe just this is kind of I think very strong no other Korean institution.",
+      "timestamp_abs": "34:15"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think it's better to say just like one of the critical stakeholders, one of the relevant and it's more close to the truth rather than being a very like a like overstatement kind of thing.",
+      "timestamp_abs": "34:24"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "You get what I'm saying, right?",
+      "timestamp_abs": "34:37"
+    },
+    {
+      "timestamp": "04:40",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Go on.",
+      "timestamp_abs": "34:40"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay.",
+      "timestamp_abs": "34:41"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I identify FMS the Federal Ministry of Innovation, Science and Technology as a primary institutional owner of the proposed collaboration.",
+      "timestamp_abs": "34:45"
+    },
+    {
+      "timestamp": "04:54",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "directed_to": "Class",
+      "text": "Who are the holders of the econ mandate executive for the five authority.",
+      "timestamp_abs": "34:54"
+    },
+    {
+      "timestamp": "04:58",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "budgetary authority.",
+      "timestamp_abs": "34:58"
+    }
+  ]
+}

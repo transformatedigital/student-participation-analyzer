@@ -1,0 +1,449 @@
+{
+  "block": 11,
+  "time_range": "50:00-55:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "from technology expansion.",
+      "timestamp_abs": "50:00"
+    },
+    {
+      "timestamp": "00:04",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "No.",
+      "timestamp_abs": "50:04"
+    },
+    {
+      "timestamp": "00:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Very good work. Thank you so much.",
+      "timestamp_abs": "50:07"
+    },
+    {
+      "timestamp": "00:13",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "[inaudible] synthesis.",
+      "timestamp_abs": "50:13"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "while like while reviewing everybody. We're going to review quickly everybody, but I think you guys are getting a little more in your. maybe I should have classified this there, this there, like that.",
+      "timestamp_abs": "50:14"
+    },
+    {
+      "timestamp": "00:25",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Okay. Arya.",
+      "timestamp_abs": "50:25"
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Me?",
+      "timestamp_abs": "50:26"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay. Uh for me, uh I input the contextual intelligence uh I have uh one ongoing which is benchmarking for AI globally.",
+      "timestamp_abs": "50:27"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, good. You're doing this one already.",
+      "timestamp_abs": "50:38"
+    },
+    {
+      "timestamp": "00:39",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "and validate.",
+      "timestamp_abs": "50:39"
+    },
+    {
+      "timestamp": "00:40",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah.",
+      "timestamp_abs": "50:40"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Which are you just benchmarking solutions or countries or banks?",
+      "timestamp_abs": "50:41"
+    },
+    {
+      "timestamp": "00:48",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "country and banks.",
+      "timestamp_abs": "50:48"
+    },
+    {
+      "timestamp": "00:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Oh, banks. So you're you're benchmarking the clients.",
+      "timestamp_abs": "50:49"
+    },
+    {
+      "timestamp": "00:52",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes. Uh Because uh for from what my understanding, I need to kinda spin spin off my IC to to be more problem side. So uh last week I uh have uh discussion with my EDM teams. because in BRI, even though uh the problem is created by the IT division, it should be owned by the business division.",
+      "timestamp_abs": "50:52"
+    },
+    {
+      "timestamp": "01:18",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Correct.",
+      "timestamp_abs": "51:18"
+    },
+    {
+      "timestamp": "01:19",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So I tried kinda to find the which one is the use the business division that they will approach.",
+      "timestamp_abs": "51:19"
+    },
+    {
+      "timestamp": "01:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Good.",
+      "timestamp_abs": "51:26"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So maybe after I get the that information, I will",
+      "timestamp_abs": "51:27"
+    },
+    {
+      "timestamp": "01:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "try to match.",
+      "timestamp_abs": "51:30"
+    },
+    {
+      "timestamp": "01:31",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, try to match my my problem statement. So uh but uh up till now I haven't still get the the result. So I put it in can be. For the for the use case targeted. The business side.",
+      "timestamp_abs": "51:31"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "51:45"
+    },
+    {
+      "timestamp": "01:45",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And for the stakeholder engagement,",
+      "timestamp_abs": "51:45"
+    },
+    {
+      "timestamp": "01:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I like this one too. Okay.",
+      "timestamp_abs": "51:48"
+    },
+    {
+      "timestamp": "01:50",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Ah yeah, actually it's two.",
+      "timestamp_abs": "51:50"
+    },
+    {
+      "timestamp": "01:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's important because it might be a limitation.",
+      "timestamp_abs": "51:52"
+    },
+    {
+      "timestamp": "01:55",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah. Next to help my statement.",
+      "timestamp_abs": "51:55"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And for uh for the stakeholder engagement, confirm legal clearance from BRI legal team for collaboration. In term of the, let's say I go with uh either either either partner, toorus, Moai or blah blah blah. Uh so it is also uh in uh pending.",
+      "timestamp_abs": "51:59"
+    },
+    {
+      "timestamp": "02:17",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "In the stakeholder engagement part?",
+      "timestamp_abs": "52:17"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes. Because it is from the legal team.",
+      "timestamp_abs": "52:19"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "In term after we get the TTS model can uh is it legal to to to be deployed to deploy in?",
+      "timestamp_abs": "52:24"
+    },
+    {
+      "timestamp": "02:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I will be in the. June 4th meeting, by the way. I will try to be available.",
+      "timestamp_abs": "52:30"
+    },
+    {
+      "timestamp": "02:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh yeah, yeah, yeah. I I put it also.",
+      "timestamp_abs": "52:35"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Uh and next I move to the technology scouting.",
+      "timestamp_abs": "52:38"
+    },
+    {
+      "timestamp": "02:42",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So how about the tootorus? You already discussed with them more further or not yet?",
+      "timestamp_abs": "52:42"
+    },
+    {
+      "timestamp": "02:47",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh not yet because",
+      "timestamp_abs": "52:47"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "You get get the questions.",
+      "timestamp_abs": "52:48"
+    },
+    {
+      "timestamp": "02:51",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Oh, the question I already asked and also asked the Prof Yuan and she also",
+      "timestamp_abs": "52:51"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Professor Yun.",
+      "timestamp_abs": "52:56"
+    },
+    {
+      "timestamp": "02:57",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh Professor Yun, she also already replied.",
+      "timestamp_abs": "52:57"
+    },
+    {
+      "timestamp": "03:01",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "And now this, I actually I put it in the maybe I can just jump, jump.",
+      "timestamp_abs": "53:01"
+    },
+    {
+      "timestamp": "03:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Yeah.",
+      "timestamp_abs": "53:06"
+    },
+    {
+      "timestamp": "03:07",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Jump, jump.",
+      "timestamp_abs": "53:07"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Tell us the story.",
+      "timestamp_abs": "53:08"
+    },
+    {
+      "timestamp": "03:10",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Okay. Um, the when I talked to my friends about the budget, they say that, oh, we don't have budget, but previously you said there is. So uh with with with today information, I try to approach them again. Uh at least, as far as I know, you uh in BRI we always have to be some budget. But is it uh you said",
+      "timestamp_abs": "53:10"
+    },
+    {
+      "timestamp": "03:35",
+      "speaker": "ILEANA",
+      "type": "teacher_comment",
+      "text": "Especially if it's in the planning documents, some KPI is there, some budget needs to be there. Exactly.",
+      "timestamp_abs": "53:35"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Exactly. But to to to watering down, maybe I will put the Koika and I will try to explain them. Uh actually, there will be, I can, sorry, uh I can approach the Koika. But still you need to also show the the the BRI uh must have so some need also.",
+      "timestamp_abs": "53:40"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, I agree.",
+      "timestamp_abs": "54:03"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Yeah, that that's so that's time.",
+      "timestamp_abs": "54:04"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And also commitment.",
+      "timestamp_abs": "54:06"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yes, the commitment and I and that's kind of the thing that I want to to to approach to them, to to the to the",
+      "timestamp_abs": "54:07"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So BRI did not have any approved or even planned the budget for this initiative. They only had the problem that the strategic commit. Exactly, it does not make sense.",
+      "timestamp_abs": "54:12"
+    },
+    {
+      "timestamp": "04:21",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "That's why I'm uh before",
+      "timestamp_abs": "54:21"
+    },
+    {
+      "timestamp": "04:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But it's but it's very difficult. In many corporations, don't worry. It happens in the best of the families. So it's it's okay, so don't worry about it. So just there was a need this is for all of us to learn.",
+      "timestamp_abs": "54:24"
+    },
+    {
+      "timestamp": "04:35",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "No, yeah, yeah.",
+      "timestamp_abs": "54:35"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "It's very No, no, no. But yeah, yeah.",
+      "timestamp_abs": "54:36"
+    },
+    {
+      "timestamp": "04:37",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "But I mean, uh in term So but in term to I replay more to the Professor Yuan.",
+      "timestamp_abs": "54:37"
+    },
+    {
+      "timestamp": "04:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Uh Yun.",
+      "timestamp_abs": "54:43"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yun.",
+      "timestamp_abs": "54:44"
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yun, Professor Yun, I have to at least I think I need to state the budget. So you you see",
+      "timestamp_abs": "54:45"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "So you haven't replied to her yet.",
+      "timestamp_abs": "54:51"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, I ha I haven't replied for the budget part. I only reply I only reply for the technical.",
+      "timestamp_abs": "54:53"
+    }
+  ]
+}

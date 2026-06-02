@@ -1,0 +1,169 @@
+{
+  "block": 9,
+  "time_range": "40:00-45:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The thing is, it's right. I'm not saying it's not relevant. I'm just saying it's wrongly, the activity itself is better classified in the in the state where we are learning about.",
+      "timestamp_abs": "40:00"
+    },
+    {
+      "timestamp": "00:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Remember, it's the demand sensing problem discovery.",
+      "timestamp_abs": "40:10"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, supply sensing solution exploration, and synthesis operation definition. So, if I if I were me, maybe this could also be here in synthesis.",
+      "timestamp_abs": "40:16"
+    },
+    {
+      "timestamp": "00:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Because at this level, you're kind of already mixing. I I know KIST has a TRL nine and TIES, but actually we might need this and this and this level. So you're trying to do this TRL assessment by mixing already both perspectives.",
+      "timestamp_abs": "40:27"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So either you put it in the beginning when you're just talking about what the demand you need from the demand perspective, or you put it on the end where you're already mixing the what you saw in this side and what you saw in this side, and where you're already trying to do the matchmaking.",
+      "timestamp_abs": "40:38"
+    },
+    {
+      "timestamp": "00:54",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay?",
+      "timestamp_abs": "40:54"
+    },
+    {
+      "timestamp": "00:59",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Uh, you also found A3. Why you found why do you think A3 has a potential secondary part here?",
+      "timestamp_abs": "40:59"
+    },
+    {
+      "timestamp": "01:07",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Because of their antecedents, their history of their environment.",
+      "timestamp_abs": "41:07"
+    },
+    {
+      "timestamp": "01:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, but A3 is more like a user.",
+      "timestamp_abs": "41:10"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Because it",
+      "timestamp_abs": "41:12"
+    },
+    {
+      "timestamp": "01:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "A3 is like...",
+      "timestamp_abs": "41:12"
+    },
+    {
+      "timestamp": "01:17",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, from they sort of they give a conducive environment for for development of startups where they develop their",
+      "timestamp_abs": "41:17"
+    },
+    {
+      "timestamp": "01:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Oh, yes, but uh... yes, but A3 is more like a beneficiary of the ecosystem, whereas from what I understand, your ICP is about governance, the whole R&D governance transformation, plus some technology platform that helps this integration, that enables this integration. But for me, A3's experience is just one of the users and a very important user, I agree. Very important user, a user of the R&D governance. Like, thanks to the R&D governance transformation, A3 become what A3 become. So he's like a beneficiary.",
+      "timestamp_abs": "41:28"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But not really a player of the governance. A3 did not design or redesign or did not do any kind of R&D policy design. In that sense, is more like or like there are other like, maybe you can NST, NST is also another, the National Science and Technology. I think it's NST or KIST, KIST.",
+      "timestamp_abs": "42:26"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "There is some other there are other R&D institutes who have been doing more on R&D planning than A3.",
+      "timestamp_abs": "43:14"
+    },
+    {
+      "timestamp": "03:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "A3 is just a big output delivered. Output delivery entity. So I want to listen to your logic, why you think A3?",
+      "timestamp_abs": "43:22"
+    },
+    {
+      "timestamp": "03:31",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I'm looking at it from the angle that like A3, like even the what she explained earlier today, that so many startups, they they",
+      "timestamp_abs": "43:31"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Are you went to A3 yesterday?",
+      "timestamp_abs": "43:40"
+    },
+    {
+      "timestamp": "03:41",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, they accommodate them and allow they they watch their technology and when when they produce after a while, they have to move out from the they are sort of their custodians. So that's the angle I'm looking at them from. I I didn't see them as angle of beneficiaries. I'm just looking at them as sort of part of the maybe incubation ecosystem.",
+      "timestamp_abs": "43:41"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, but then like, what I'm saying is your scope, let's say this is the scope, the line, I'm going to simplify. This is the line of the value chain of the technology, let's say, the national innovation value chain of Nigeria.",
+      "timestamp_abs": "44:07"
+    },
+    {
+      "timestamp": "04:23",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Say the national innovation, very simple. Actually it's like this, all right? But let's say this is the this is the one, okay?",
+      "timestamp_abs": "44:23"
+    },
+    {
+      "timestamp": "04:31",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, if that's the right, there is initial some basic R&D, like really basic science, right? So how the ecosystem provides the funding and universities and labs are doing a lot of work, they're publishing papers and they're all hopefully, probably not a lot, but they're actually doing intellectual property assets, right?",
+      "timestamp_abs": "44:31"
+    },
+    {
+      "timestamp": "04:55",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And then there is other institutions together with these guys, what I what I will call",
+      "timestamp_abs": "44:55"
+    }
+  ]
+}

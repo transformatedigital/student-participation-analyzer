@@ -1,0 +1,590 @@
+{
+  "block": 1,
+  "time_range": "00:00-05:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "question and somebody responded correctly.",
+      "timestamp_abs": "00:00"
+    },
+    {
+      "timestamp": "00:02",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But this time is very sophisticated uh voice to text analysis and etcetera.",
+      "timestamp_abs": "00:02"
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, um, we have a very, very thorough analysis of who has given input and who has contributed in the class.",
+      "timestamp_abs": "00:08"
+    },
+    {
+      "timestamp": "00:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I'm gonna try to rely on that.",
+      "timestamp_abs": "00:14"
+    },
+    {
+      "timestamp": "00:16",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I think anyway towards your final, it's not a big deal because you are, have been working on this ICP for a long time.",
+      "timestamp_abs": "00:16"
+    },
+    {
+      "timestamp": "00:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And of course you will have to review it because this is gonna be the first time I'm gonna, I mean, I'm grading it and you're gonna have grades related to the ICP versions.",
+      "timestamp_abs": "00:24"
+    },
+    {
+      "timestamp": "00:33",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But that grades are very like the weight of that grade overall is not so high.",
+      "timestamp_abs": "00:33"
+    },
+    {
+      "timestamp": "00:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "versus the weight of the final submission, okay?",
+      "timestamp_abs": "00:38"
+    },
+    {
+      "timestamp": "00:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you must understand that this final one, I don't wanna see uh, any kind of uh, problems related that to the referencing, to the format.",
+      "timestamp_abs": "00:41"
+    },
+    {
+      "timestamp": "00:50",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I if I see that kind of sloppiness, then I will be hard on that because I want you to focus on being very professional.",
+      "timestamp_abs": "00:50"
+    },
+    {
+      "timestamp": "00:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And also of course the logical flow, I'm gonna give you final input now and I'm gonna review again against your presentation, rehearsal next week.",
+      "timestamp_abs": "00:57"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I'm gonna review that logical flow and I want you to rehearse on it.",
+      "timestamp_abs": "01:06"
+    },
+    {
+      "timestamp": "01:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "As I told you before, this ICP anyway, you have a chance to change it.",
+      "timestamp_abs": "01:09"
+    },
+    {
+      "timestamp": "01:13",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So just worry about what you're gonna present it now and exercising how to present these problem solution fit.",
+      "timestamp_abs": "01:13"
+    },
+    {
+      "timestamp": "01:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, rather than looking at, ah, this is gonna be the final project and no.",
+      "timestamp_abs": "01:20"
+    },
+    {
+      "timestamp": "01:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Release from that stress right now, because we're rehearsing.",
+      "timestamp_abs": "01:24"
+    },
+    {
+      "timestamp": "01:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "You will have a couple of weeks more uh, towards the next course, uh, maybe five or six weeks or seven weeks to finally really confirm whether this will be your project or not.",
+      "timestamp_abs": "01:27"
+    },
+    {
+      "timestamp": "01:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I think in your case, you need more, like we will need to build it a little bit different for your, for your graduation project related issues.",
+      "timestamp_abs": "01:37"
+    },
+    {
+      "timestamp": "01:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I think Stephen, Chilaka are relatively well, well in in on the road.",
+      "timestamp_abs": "01:46"
+    },
+    {
+      "timestamp": "01:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Mega, you still need to narrow it down and Grace is still, I think I, I still have to work more with Mega and Grace.",
+      "timestamp_abs": "01:53"
+    },
+    {
+      "timestamp": "01:59",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We're gonna probably meet, all of you probably will meet me during the summer and probably we're gonna meet uh,",
+      "timestamp_abs": "01:59"
+    },
+    {
+      "timestamp": "02:05",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "because the idea is that we don't drop this initiative for, for eight or 12 weeks, I don't know, while the summer is on and then we get them get it back in September.",
+      "timestamp_abs": "02:05"
+    },
+    {
+      "timestamp": "02:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, we need to keep working.",
+      "timestamp_abs": "02:14"
+    },
+    {
+      "timestamp": "02:15",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So, uh, so and that is that.",
+      "timestamp_abs": "02:15"
+    },
+    {
+      "timestamp": "02:19",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, so if you have any comment related to the evaluation, like the you, you, you, it's on the middle, right?",
+      "timestamp_abs": "02:19"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So you can review it.",
+      "timestamp_abs": "02:24"
+    },
+    {
+      "timestamp": "02:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, you have any comment or anything that you feel that you need to tell me before the last week or still trying to change it, I can modify it if it's a democratic opinion.",
+      "timestamp_abs": "02:26"
+    },
+    {
+      "timestamp": "02:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh, but otherwise we're gonna proceed with it.",
+      "timestamp_abs": "02:36"
+    },
+    {
+      "timestamp": "02:38",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Uh,",
+      "timestamp_abs": "02:38"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "UNKNOWN",
+      "type": "student_comment",
+      "text": "Next meeting we will have uh",
+      "timestamp_abs": "02:39"
+    },
+    {
+      "timestamp": "02:41",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "presents and",
+      "timestamp_abs": "02:41"
+    },
+    {
+      "timestamp": "02:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I requested two things because all of you have presented with me one on one, except for you and Grace.",
+      "timestamp_abs": "02:43"
+    },
+    {
+      "timestamp": "02:48",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So that's why I requested to Seser to please schedule an agenda with you and Grace separate, one on one, so that you have a chance to have a rehearsal with me, one on one.",
+      "timestamp_abs": "02:48"
+    },
+    {
+      "timestamp": "02:56",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I will dedicate uh, 30 minutes or 40 minutes to each of you.",
+      "timestamp_abs": "02:56"
+    },
+    {
+      "timestamp": "03:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, to to review thoroughly your presentation, give you comments so that you are well prepared for your final presentation.",
+      "timestamp_abs": "03:00"
+    },
+    {
+      "timestamp": "03:08",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So next week is gonna be rehearsal.",
+      "timestamp_abs": "03:08"
+    },
+    {
+      "timestamp": "03:09",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The week after that is gonna be final presentation and submission of your ICP.",
+      "timestamp_abs": "03:09"
+    },
+    {
+      "timestamp": "03:14",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay? That's what you the, the, the lineup that you guys chose based on what Seser informed me.",
+      "timestamp_abs": "03:14"
+    },
+    {
+      "timestamp": "03:21",
+      "speaker": "ARYANG",
+      "type": "student_question",
+      "text": "Actually, they uh, they replied, they are available after 11, right?",
+      "timestamp_abs": "03:21"
+    },
+    {
+      "timestamp": "03:25",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Yeah.",
+      "timestamp_abs": "03:25"
+    },
+    {
+      "timestamp": "03:26",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Next month Monday.",
+      "timestamp_abs": "03:26"
+    },
+    {
+      "timestamp": "03:27",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Monday after 11.",
+      "timestamp_abs": "03:27"
+    },
+    {
+      "timestamp": "03:29",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "03:29"
+    },
+    {
+      "timestamp": "03:30",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "And you're available too?",
+      "timestamp_abs": "03:30"
+    },
+    {
+      "timestamp": "03:32",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Uh, Monday after 11.",
+      "timestamp_abs": "03:32"
+    },
+    {
+      "timestamp": "03:34",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "I think yeah.",
+      "timestamp_abs": "03:34"
+    },
+    {
+      "timestamp": "03:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay, so I will adjust adjust to the schedule at 11.",
+      "timestamp_abs": "03:36"
+    },
+    {
+      "timestamp": "03:40",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "At 11. At 11:00 AM is okay?",
+      "timestamp_abs": "03:40"
+    },
+    {
+      "timestamp": "03:43",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "11:15 or?",
+      "timestamp_abs": "03:43"
+    },
+    {
+      "timestamp": "03:44",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Because you have a class until 11, right?",
+      "timestamp_abs": "03:44"
+    },
+    {
+      "timestamp": "03:46",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So I'm gonna put it 11:15 so you have some time to.",
+      "timestamp_abs": "03:46"
+    },
+    {
+      "timestamp": "03:49",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Good?",
+      "timestamp_abs": "03:49"
+    },
+    {
+      "timestamp": "03:50",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "So 11:15 to 11 to 12 to 1:15.",
+      "timestamp_abs": "03:50"
+    },
+    {
+      "timestamp": "03:53",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Yeah. But how about your lunch time?",
+      "timestamp_abs": "03:53"
+    },
+    {
+      "timestamp": "03:57",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Lunchtime.",
+      "timestamp_abs": "03:57"
+    },
+    {
+      "timestamp": "03:58",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "No, no. No lunchtime.",
+      "timestamp_abs": "03:58"
+    },
+    {
+      "timestamp": "03:59",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Oh, really?",
+      "timestamp_abs": "03:59"
+    },
+    {
+      "timestamp": "04:00",
+      "speaker": "GRACE",
+      "type": "student_comment",
+      "text": "Whoa, whoa, whoa, whoa.",
+      "timestamp_abs": "04:00"
+    },
+    {
+      "timestamp": "04:03",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "No, no.",
+      "timestamp_abs": "04:03"
+    },
+    {
+      "timestamp": "04:04",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Because you have class in the afternoon or?",
+      "timestamp_abs": "04:04"
+    },
+    {
+      "timestamp": "04:06",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Ah, in the morning.",
+      "timestamp_abs": "04:06"
+    },
+    {
+      "timestamp": "04:07",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, you don't have class in the afternoon.",
+      "timestamp_abs": "04:07"
+    },
+    {
+      "timestamp": "04:08",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "GRACE",
+      "text": "How about Grace?",
+      "timestamp_abs": "04:08"
+    },
+    {
+      "timestamp": "04:10",
+      "speaker": "GRACE",
+      "type": "student_response",
+      "text": "Same as you.",
+      "timestamp_abs": "04:10"
+    },
+    {
+      "timestamp": "04:11",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Same, yeah.",
+      "timestamp_abs": "04:11"
+    },
+    {
+      "timestamp": "04:12",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Ah, okay, so you can have lunch after 1:15.",
+      "timestamp_abs": "04:12"
+    },
+    {
+      "timestamp": "04:14",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Okay. How about you, you okay, Seser?",
+      "timestamp_abs": "04:14"
+    },
+    {
+      "timestamp": "04:15",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "Yeah, it's okay.",
+      "timestamp_abs": "04:15"
+    },
+    {
+      "timestamp": "04:16",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "You're not dying?",
+      "timestamp_abs": "04:16"
+    },
+    {
+      "timestamp": "04:17",
+      "speaker": "ARYANG",
+      "type": "student_response",
+      "text": "I'm dying. I should be on diet.",
+      "timestamp_abs": "04:17"
+    },
+    {
+      "timestamp": "04:20",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "I also should be on diet.",
+      "timestamp_abs": "04:20"
+    },
+    {
+      "timestamp": "04:22",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Anyway, okay, so we can do 12 11:15 to 1:15 is good for me.",
+      "timestamp_abs": "04:22"
+    },
+    {
+      "timestamp": "04:26",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "04:26"
+    },
+    {
+      "timestamp": "04:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Um, so that's important.",
+      "timestamp_abs": "04:28"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So please inform to Grace because he had an official event today and he couldn't join us, but please inform.",
+      "timestamp_abs": "04:30"
+    },
+    {
+      "timestamp": "04:36",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And I'm gonna give you anyway comments today so that you can maybe work on those comments until next.",
+      "timestamp_abs": "04:36"
+    },
+    {
+      "timestamp": "04:41",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Now, let's comment a little bit.",
+      "timestamp_abs": "04:41"
+    },
+    {
+      "timestamp": "04:43",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "We have to divide the class into two.",
+      "timestamp_abs": "04:43"
+    },
+    {
+      "timestamp": "04:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "The comments that I want I I I separate and I prepare a small presentation on what I'm looking at in each of your ICPs.",
+      "timestamp_abs": "04:44"
+    },
+    {
+      "timestamp": "04:51",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Until the version that I have.",
+      "timestamp_abs": "04:51"
+    },
+    {
+      "timestamp": "04:53",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Last time I gave you brief general comments that I shared on version four.",
+      "timestamp_abs": "04:53"
+    },
+    {
+      "timestamp": "04:57",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "But I kept thinking if I were you guys towards your final",
+      "timestamp_abs": "04:57"
+    }
+  ]
+}

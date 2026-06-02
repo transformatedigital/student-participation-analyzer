@@ -1,0 +1,106 @@
+{
+  "block": 6,
+  "time_range": "25:00-30:00",
+  "utterances": [
+    {
+      "timestamp": "25:00",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "operation on NTIS, and the new new versions and all of that. So, if we just go directly to this level and say, hey, listen, we're gonna collaborate with Nigeria. He doesn't have any funds, he doesn't have there is no motivator for him to really actually move. And they told me as a side note, there's been all the requests from other countries, but they didn't fortify. So, it means this director is not so interested into international collaboration. But if we move it from here, then automatically you have to start moving. So that's why I told you, we have to be very smart about how do we move about this.",
+      "timestamp_abs": "50:00"
+    },
+    {
+      "timestamp": "25:30",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "And this is a very example for you guys, because sometimes it's like what I told you about Giza, or I told you about for example, the SKR, from SK, they're just going to try to sell you something, and it's not the approach you want. So I want to tell you the story to that we all learn from it. Okay?",
+      "timestamp_abs": "50:30"
+    },
+    {
+      "timestamp": "25:44",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So let's see. Maybe says, oh, you can help us find out if that's the case. If it's the Ministry of Finance, let's move through trying to figure out with the Ministry of Finance what type of deliverables will be. Or at least if you can meet the Ministry of Finance here, then you can also discuss with him, listen, I'm trying to move ahead with this project. Um, and maybe he's willing to support you. And then when he meets the Ministry of Finance, but it's difficult because from the Ministry of Finance to Ministry of Finance agenda, the topics are very different.",
+      "timestamp_abs": "50:44"
+    },
+    {
+      "timestamp": "26:09",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "It's totally different.",
+      "timestamp_abs": "51:09"
+    },
+    {
+      "timestamp": "26:10",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "So totally different. So they might be they might feel that it's not really related to their own agenda, so they might not really give you the attention that they needed.",
+      "timestamp_abs": "51:10"
+    },
+    {
+      "timestamp": "26:18",
+      "speaker": "STHEPEN",
+      "type": "student_comment",
+      "text": "The person is still to bring the minister of Science and Technology to, because it wouldn't only focus on NTIS then, because so many other things will speak of.",
+      "timestamp_abs": "51:18"
+    },
+    {
+      "timestamp": "26:28",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Yeah, yeah, yeah, yeah. I agree with you. We need to find a way to invite him. So I'm also going to keep looking at other opportunities from other entities.",
+      "timestamp_abs": "51:28"
+    },
+    {
+      "timestamp": "26:37",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay.",
+      "timestamp_abs": "51:37"
+    },
+    {
+      "timestamp": "26:38",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "Class",
+      "text": "Okay, so that's really, now, explain to me what tasks you're thinking about your homework to make.",
+      "timestamp_abs": "51:38"
+    },
+    {
+      "timestamp": "26:46",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "Well.",
+      "timestamp_abs": "51:46"
+    },
+    {
+      "timestamp": "26:46",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "CHILAKA",
+      "text": "Oh, this is Chilaka, no?",
+      "timestamp_abs": "51:46"
+    },
+    {
+      "timestamp": "26:48",
+      "speaker": "CHILAKA",
+      "type": "student_response",
+      "text": "I think I'll just pick maybe just two from each from each section.",
+      "timestamp_abs": "51:48"
+    },
+    {
+      "timestamp": "26:52",
+      "speaker": "ILEANA",
+      "type": "teacher_statement",
+      "text": "Okay. Yes, yes, yes, yes, but I want everybody to to share.",
+      "timestamp_abs": "51:52"
+    },
+    {
+      "timestamp": "26:56",
+      "speaker": "CHILAKA",
+      "type": "student_comment",
+      "text": "It's.",
+      "timestamp_abs": "51:56"
+    }
+  ]
+}

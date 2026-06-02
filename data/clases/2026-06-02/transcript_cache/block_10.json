@@ -1,0 +1,21 @@
+{
+  "block": 10,
+  "time_range": "45:00-50:00",
+  "utterances": [
+    {
+      "timestamp": "00:00",
+      "speaker": "ARYANG",
+      "type": "student_comment",
+      "text": "Okay.",
+      "timestamp_abs": "45:00"
+    },
+    {
+      "timestamp": "00:00",
+      "speaker": "ILEANA",
+      "type": "teacher_question",
+      "directed_to": "ARYANG",
+      "text": "Anything else you want to add, Aryang?",
+      "timestamp_abs": "45:00"
+    }
+  ]
+}
