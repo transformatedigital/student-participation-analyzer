@@ -1,0 +1,737 @@
+{
+  "session": "2026-06-02",
+  "generated_at": "2026-06-03T02:43:25",
+  "count": 73,
+  "questions": [
+    {
+      "timestamp": "03:30",
+      "topic": "Meeting availability",
+      "question": "Aryang, are you also available for the meeting on Monday after 11 AM?",
+      "raw_question": "And you're available too?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, I think I'm available Monday after 11 AM.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "03:53",
+      "topic": "Meeting schedule",
+      "question": "Grace, considering the proposed meeting time from 11:15 AM to 1:15 PM, how would that impact your lunch time?",
+      "raw_question": "Yeah. But how about your lunch time?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "No, no. No lunchtime.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "04:04",
+      "topic": "Student schedule",
+      "question": "Aryang, are you available for a meeting until 1:15 PM without a lunch break because you have classes in the afternoon?",
+      "raw_question": "Because you have class in the afternoon or?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "I have class in the morning, not in the afternoon.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "04:08",
+      "topic": "Student schedule",
+      "question": "Grace, how does your schedule look for the proposed meeting time, specifically regarding afternoon classes?",
+      "raw_question": "How about Grace?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "My schedule is the same as Aryang's.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "04:14",
+      "topic": "Meeting schedule",
+      "question": "Aryang (Seser), are you personally okay with having lunch after the meeting finishes at 1:15 PM?",
+      "raw_question": "Okay. How about you, you okay, Seser?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah, it's okay.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "04:16",
+      "topic": "Personal well-being",
+      "question": "Are you sure you're okay with the delayed lunch, or are you 'dying' from hunger?",
+      "raw_question": "You're not dying?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "I'm dying; I should be on a diet.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "05:09",
+      "topic": "Course reflections",
+      "question": "Would anyone else like to share their thoughts or reflections on the course, specifically on what we've discussed so far?",
+      "raw_question": "Did anybody else wanna share?",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "I can go. I want to talk about stage one. I really understood it. For me, this is like my first time coming across it.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "05:51",
+      "topic": "Project methodology",
+      "question": "Would anyone else like to share their perspective on the importance of understanding project goals and structuring them, or on any other aspect discussed?",
+      "raw_question": "Anybody else?",
+      "answered_by": "Grace",
+      "score": 2,
+      "response_text": "I can go. I'll go with the first stage. For me, the first stage, the 5 Ys...",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "06:44",
+      "topic": "Homework review",
+      "question": "Would anyone else like to share their insights or reflections, perhaps on the importance of making projects concrete or regarding the homework review?",
+      "raw_question": "Anybody else?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "I can go. For the homework review, I think this first stage one has been an eye-opener.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "07:48",
+      "topic": "Project rationale",
+      "question": "Would anyone else like to share their thoughts on the importance of understanding the 'why' behind a project, or any other related point?",
+      "raw_question": "Anybody else?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "I can go. Actually, I also have similar opinions. I think Stage 1 also is really interesting to me.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "08:22",
+      "topic": "Problem understanding",
+      "question": "Would anyone else like to share their reflections on the homework or any other aspects of the course discussed so far?",
+      "raw_question": "Anybody else?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "I'll go next. For me, I think the important things are to understand the problem and the reason why we need to understand the problem.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "09:03",
+      "topic": "Course usefulness",
+      "question": "In general, do you think this course was useful for you?",
+      "raw_question": "Like, do you think this course was useful for you?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, very useful.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "10:39",
+      "topic": "Koica program",
+      "question": "Sthepen, I heard about the Creative Technology Solution program and that it might be related to Koica. Do you know about the Koica program?",
+      "raw_question": "So she mentioned to me about this Koica, do you know about this program?",
+      "answered_by": "Sthepen",
+      "score": 2,
+      "response_text": "Yeah, yeah, I know about it.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "17:53",
+      "topic": "Contact person",
+      "question": "Aryang, do you know Gido, who might have information about the African Development Bank program invitations?",
+      "raw_question": "Yeah, you know Gido?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yeah, yeah, yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "18:31",
+      "topic": "Event date",
+      "question": "Aryang, are you confirming that the African Minister's visit for the IFDV event is in July, not September?",
+      "raw_question": "July?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "I think so.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "18:33",
+      "topic": "Information source",
+      "question": "Aryang, how do you know that the African Minister's visit is scheduled for July?",
+      "raw_question": "How do you know?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "I heard that it's going to be in July, the African Minister's visit, because of the IFDV.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "18:59",
+      "topic": "Invited ministry",
+      "question": "Aryang, putting aside visa logistics, my primary question is whether the event organized by the African Development Bank is inviting the Minister of Science and Technology or the Minister of Finance from African countries?",
+      "raw_question": "But that's that's not an issue though. What I'm saying is, first question is, are they inviting the minister of science and technology or are they inviting the minister of finance? That's the first question.",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "The person I spoke with said it's the Ministers of Finance. That's where I had the challenge; he said the Minister of Science and ICT doesn't have anything to do with that invitation, as the Ministry of Finance normally sends it to their counterparts in African countries. So we have to find that out on our own.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "19:35",
+      "topic": "Event organizers",
+      "question": "Aryang, who typically organizes or handles the invitations for these kinds of events, specifically from the Korean side, given that they involve the Ministry of Finance?",
+      "raw_question": "And who does that of these events?",
+      "answered_by": "Aryang",
+      "score": 5,
+      "response_text": "I'm wondering why they're only inviting Ministers of Finance instead of the relevant ministers, as it's on AI and digital transformation.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "51:38",
+      "topic": "Homework tasks",
+      "question": "Chilaka, regarding your homework for this course, please explain what specific tasks you are planning to include.",
+      "raw_question": "Okay, so that's really, now, explain to me what tasks you're thinking about your homework to make.",
+      "answered_by": "Chilaka",
+      "score": 2,
+      "response_text": "I think I'll just pick maybe just two from each section.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "51:46",
+      "topic": "Speaker identification",
+      "question": "Excuse me, I just want to confirm, are you Chilaka?",
+      "raw_question": "Oh, this is Chilaka, no?",
+      "answered_by": "Chilaka",
+      "score": 4,
+      "response_text": "I think I'll just pick maybe just two from each from each section.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "30:39",
+      "topic": "Project task status",
+      "question": "Aryang, regarding the letter for your project, is it still an ongoing task, or has it already been sent?",
+      "raw_question": "but I don't know if you sent it or not but you're probably ongoing, right?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Yes, I have some ongoing and pending tasks.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "34:37",
+      "topic": "Academic communication",
+      "question": "Aryang, do you understand my feedback about being precise and avoiding overstatements in your project document, similar to maintaining scientific truthfulness, for example, by rephrasing 'no other Korean institution' to 'one of the critical stakeholders'?",
+      "raw_question": "You get what I'm saying, right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Okay.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "36:15",
+      "topic": "Technology Readiness Levels",
+      "question": "Mega, based on our discussion about technology readiness levels (TRLs), do you understand what I mean when I refer to TRL 7?",
+      "raw_question": "Mega, when I'm saying TRL 7, you know what I'm talking about?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Yeah, yeah, yeah.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "36:19",
+      "topic": "Technology Readiness Levels",
+      "question": "Mega, can you explain, more or less, what Technology Readiness Level (TRL) 7 signifies?",
+      "raw_question": "What is TRL 7, more or less?",
+      "answered_by": "Mega",
+      "score": 5,
+      "response_text": "It's, I think, TRL until 9. So it's close to being to the...",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "40:59",
+      "topic": "Stakeholder role (A3)",
+      "question": "Aryang, you included A3 in your project plan. Can you explain your reasoning for why A3 has a potential secondary role or is placed in this particular section of your framework, such as the synthesis operation definition?",
+      "raw_question": "Uh, you also found A3. Why you found why do you think A3 has a potential secondary part here?",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "Because of their antecedents, their history, their environment. They sort of give a conducive environment for the development of startups, where they develop their products.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "43:40",
+      "topic": "Site visit (A3)",
+      "question": "Aryang, did you visit A3 yesterday, which might have influenced your understanding of their role in the innovation ecosystem?",
+      "raw_question": "Are you went to A3 yesterday?",
+      "answered_by": "Aryang",
+      "score": 6,
+      "response_text": "Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "45:00",
+      "topic": "Project feedback",
+      "question": "Aryang, do you have anything else you would like to add or clarify regarding your project and our discussion about A3's role in the innovation value chain?",
+      "raw_question": "Anything else you want to add, Aryang?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "No.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "50:25",
+      "topic": "Project update",
+      "question": "Aryang, please proceed with your presentation or update on your project.",
+      "raw_question": "Okay. Arya.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Okay. For me, I input contextual intelligence. I have one ongoing, which is benchmarking for AI globally, and validate.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "50:41",
+      "topic": "AI benchmarking scope",
+      "question": "Aryang, when you mention 'benchmarking for AI globally,' are you benchmarking specific AI solutions, different countries' AI strategies, or banks that are implementing AI?",
+      "raw_question": "Which are you just benchmarking solutions or countries or banks?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "I'm benchmarking countries and banks.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "50:49",
+      "topic": "Client benchmarking",
+      "question": "Aryang, to confirm, when you say you are benchmarking 'banks,' you mean you are benchmarking the clients or potential users of the AI solutions?",
+      "raw_question": "Oh, banks. So you're you're benchmarking the clients.",
+      "answered_by": "Aryang",
+      "score": 6,
+      "response_text": "Yes. Because from my understanding, I need to kind of spin off my IC to be more problem-side. So last week I had a discussion with my EDM teams, because in BRI, even though the problem is created by the IT division, it should be owned by the business division. So I tried to find which business division they will approach.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "52:17",
+      "topic": "Legal clearance process",
+      "question": "Aryang, you mentioned confirming legal clearance for collaboration with potential partners; is this activity part of the 'stakeholder engagement' section of your plan?",
+      "raw_question": "In the stakeholder engagement part?",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "Yes, it is part of the stakeholder engagement because it comes from the legal team, concerning whether it is legal to deploy the TTS model after we acquire it.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "52:42",
+      "topic": "Partner discussions status",
+      "question": "Regarding the potential partner 'tootorus,' have you already had further discussions with them, or not yet?",
+      "raw_question": "So how about the tootorus? You already discussed with them more further or not yet?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "Not yet. I already asked the questions and also consulted Professor Yun, who has already replied.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "52:48",
+      "topic": "Partner questions status",
+      "question": "Did you obtain or formulate the questions you intend to ask the potential partner?",
+      "raw_question": "You get get the questions.",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "Oh, yes, I already asked the questions and also asked Professor Yun, and she has already replied.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "53:08",
+      "topic": "Budget discussion",
+      "question": "Please elaborate on your recent discussions regarding the budget, including what you learned from your friends and Professor Yun, and your plan moving forward.",
+      "raw_question": "Tell us the story.",
+      "answered_by": "Aryang",
+      "score": 5,
+      "response_text": "When I talked to my friends about the budget, they said they don't have one, despite previous indications. With today's information, I'll try to approach them again because, as far as I know, BRI should always have some budget, especially if it's in the planning documents with KPIs. I might suggest Koika as a funding option, but BRI still needs to show some need.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "54:43",
+      "topic": "Name correction",
+      "question": "(Correction) The professor's name is Yun, not Yuan.",
+      "raw_question": "Uh Yun.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yun. Professor Yun.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "54:51",
+      "topic": "Reply status (budget)",
+      "question": "To confirm, you haven't yet replied to Professor Yun regarding the budget aspect of your discussion?",
+      "raw_question": "So you haven't replied to her yet.",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "Yes, I haven't replied for the budget part. I only replied for the technical part.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "56:05",
+      "topic": "Next presenter",
+      "question": "Would any other student like to volunteer to share their updates or progress regarding their projects?",
+      "raw_question": "Any other person that wants to volunteer with their [inaudible]?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Yes, ma'am. (Mega volunteers)",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "64:29",
+      "topic": "Project progress update",
+      "question": "Chilaka, following up on the general request for updates, do you have anything to share regarding your project progress?",
+      "raw_question": "Yeah. Any other comment? What about Chilaka or Stephon? Do you have anything to share?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "Not yet, ma'am, but I am planning to, after the meeting with [inaudible].",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "64:44",
+      "topic": "Meeting agenda review",
+      "question": "Mega, do you have any additional points or modifications you wish to suggest for the current meeting agenda, or are you satisfied with it as it stands?",
+      "raw_question": "Okay. So, that's fine. Chilaka?",
+      "answered_by": "Chilaka",
+      "score": 1,
+      "response_text": "I don't want to add anything because our agenda is fixed already. However, I want to clarify: earlier, you mentioned that if they're having the meeting, we should provide the time and duration. Since the agenda is one hour long, should we specify time slots within the agenda, for example, 30 minutes for presentation and 10 minutes for Q&A?",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "60:30",
+      "topic": "Meeting agenda review",
+      "question": "Chilaka, do you have any comments or additions regarding the meeting agenda?",
+      "raw_question": "Okay. All right. Uh, Mega. Do you want to add something Mega? Or are you okay with the with the agenda right now?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "Yeah, madam. I think the agenda is already well set.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "61:47",
+      "topic": "Meeting invitation process",
+      "question": "Grace, do you have any comments or additions you would like to make regarding the meeting agenda?",
+      "raw_question": "You're welcome. Chilaka, do you want to add something?",
+      "answered_by": "Chilaka",
+      "score": 4,
+      "response_text": "I think no, ma'am. I think it's good already. I just want to clarify for number four: if we confirm with them that we are meeting already, do we still need to send the invitation to them or can we just have the meeting right away since it's already confirmed?",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "61:54",
+      "topic": "Meeting agenda review",
+      "question": "Stephon, do you have any comments or additions to the meeting agenda?",
+      "raw_question": "Okay. All right. So everything's fine by you. Okay, Chilaka. Thank you. Uh, Grace. Grace, what about you? Do you have anything you want to add to this agenda?",
+      "answered_by": "Grace",
+      "score": 3,
+      "response_text": "No, ma'am. I think everything is good already.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "62:52",
+      "topic": "Draft email submission",
+      "question": "Mega, to clarify, you have already sent the draft email to me (Professor Ileana) for review, correct?",
+      "raw_question": "You're welcome. Stephon, do you have something to add?",
+      "answered_by": "Sthepen",
+      "score": 4,
+      "response_text": "Oh, oh. Yes, yes, ma'am. I sent the draft. Yes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "63:40",
+      "topic": "Draft email submission",
+      "question": "Chilaka, have you sent me the draft email for review?",
+      "raw_question": "Yes. So that's what I asked if you sent it. I did not mean you sent it to the company. I mean you sent it to me to check it. Yeah, right? So you sent it already, right?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Yes, ma'am. Yes, I sent it.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "63:49",
+      "topic": "Draft email submission",
+      "question": "Grace, have you sent me the draft email for review?",
+      "raw_question": "Okay. All right. Chilaka, you sent me the draft email, right?",
+      "answered_by": "Chilaka",
+      "score": 3,
+      "response_text": "No, ma'am. I still have to change some things for my email.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "63:54",
+      "topic": "Draft email submission",
+      "question": "Stephon, have you sent me the draft email for review?",
+      "raw_question": "Okay. All right. Grace, you sent me the draft email, right?",
+      "answered_by": "Grace",
+      "score": 3,
+      "response_text": "No, ma'am. I also still need to work on it.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "64:02",
+      "topic": "Deadline setting",
+      "question": "For Grace and Stephon, are we setting next Monday as the target date or deadline for you two to finalize and send me both the draft email and the meeting agenda for review?",
+      "raw_question": "Okay. So you still need to work on it? Okay. All right. Stephen, you sent me the draft email, right?",
+      "answered_by": "Sthepen",
+      "score": null,
+      "response_text": "Yes, ma'am.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "64:11",
+      "topic": "Next presenter",
+      "question": "Mega, would you like to present your updates now?",
+      "raw_question": "Okay. So you still need to work on it? Okay. All right. So you two, you need to send it to me. And then for the draft email, what's your target date? Next week. And then for the agenda, next week as well. So for next week, Monday, for example, your target date for the email and the agenda to be fixed, right? You wanna set that as a deadline or what?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "He said he can't go. (An unidentified student refers to Stephen/Stephon)",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "66:29",
+      "topic": "TRL confirmation",
+      "question": "Stephon, how did you confirm the Technology Readiness Level (TRL) for your specific project or technology, 'the mine'?",
+      "raw_question": "Okay, I opened to Megan. You want to go, Megan?",
+      "answered_by": "Sthepen",
+      "score": null,
+      "response_text": "Because it's already in use in the school.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "68:57",
+      "topic": "Technology candidates",
+      "question": "Aryang, in your technology exploitation overview, you haven't mentioned 'Round' as a possible candidate, even though it's an ongoing project. Could you explain why it's not included in your current discussion or list of candidates?",
+      "raw_question": "How do you confirm the TRL for the mine?",
+      "answered_by": "Sthepen",
+      "score": 4,
+      "response_text": "Oh yeah, yeah. I mean, I really added the company for [inaudible].",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "70:45",
+      "topic": "Global best practices",
+      "question": "When brainstorming digital policy tech responses for Rwanda, how have other countries globally, both prior to and during the AI era, addressed similar issues, and what approaches are they currently employing to ensure a comprehensive solution?",
+      "raw_question": "And for example, here you're not mentioning Round. Round is ongoing and it's a possible candidate. Why is it not here?",
+      "answered_by": "Aryang",
+      "score": 3,
+      "response_text": "I try to benchmark on the other countries.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "76:00",
+      "topic": "Benchmarking findings",
+      "question": "What have been your findings or observations from benchmarking the approaches of other countries in solving similar issues?",
+      "raw_question": "Prior to the AI era or in the AI era. You want to really understand the global landscape. What are others doing?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "But if you see, they are still also doing [something].",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "76:24",
+      "topic": "Best practice models",
+      "question": "Can you identify countries that are known as best practice models for solving these kinds of issues, potentially using different approaches from those you've already considered, regardless of whether they use AI?",
+      "raw_question": "How have they been? Yeah.",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "(No direct response from Mega; Stephon later mentions a PPT)",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "76:40",
+      "topic": "Project design clarification",
+      "question": "Mega, could you please repeat and clarify the last point you made about the completed data and the design you need to provide to Infinithill, as I did not fully understand it?",
+      "raw_question": "What are countries that we know that are really best practice models that have solved this in a different way?",
+      "answered_by": "Mega",
+      "score": null,
+      "response_text": "I mean the technical design. The data that I have to fulfill, covering demographical and socio-economic aspects, is already completed. I've already made a report to the professor. And after that, the professor wants me to make kind of the designs to give to Infinithill Lab.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "78:24",
+      "topic": "Company matchmaking",
+      "question": "So, based on your previous statement, is Professor Park already intending to connect you or your project with the Infinithill Lab?",
+      "raw_question": "Say that again, please? I couldn't understand.",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "78:57",
+      "topic": "Collaboration discussion",
+      "question": "So, you are currently discussing with Professor Park the possibility of a match or collaboration with the Infinithill Lab company?",
+      "raw_question": "Ah, so he already wants to match you with that company.",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "Yeah.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "79:09",
+      "topic": "Project updates",
+      "question": "What other updates or points do you have to share regarding your project progress?",
+      "raw_question": "So you're discussing with them with him about the possibility to match with that company. Okay.",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "As for the Indonesian side, I already spoke with PLN. PLN prefers to make a pilot project in the NTT (Nusa Tenggara Timur) area because that area is near the equator, so they will get a lot of energy from solar.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "80:51",
+      "topic": "Stakeholder engagement",
+      "question": "Did you indeed speak with PLN (Perusahaan Listrik Negara, the Indonesian state electricity company) regarding your project?",
+      "raw_question": "What else?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "Yes, PLN prefers to make a pilot project in the NTT (Nusa Tenggara Timur) area because it's an equatorial region with high solar energy potential.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "80:57",
+      "topic": "Student tactics",
+      "question": "(Rhetorical question, implying shared experience) Do you not believe that I was also a student once?",
+      "raw_question": "You spoke to PLN about this?",
+      "answered_by": "Mega",
+      "score": 3,
+      "response_text": "(No direct answer from the student, Ileana continues her statement.)",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "82:04",
+      "topic": "",
+      "question": "You don't think I was a student, too?",
+      "raw_question": "You don't think I was a student, too?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "82:36",
+      "topic": "Battery Deployment Project",
+      "question": "Mega, regarding the assessment for battery deployment and the identification of the Timor Islands as a potential site for the pilot project, is there anything else you would like to add?",
+      "raw_question": "Mega, is there anything you want to add more?",
+      "answered_by": "Mega",
+      "score": 5,
+      "response_text": "Yes, after contacting PLN, they preferred Timor Islands as one of the potential locations. This area already has a 5 MW PV capacity. The plan is for this to be the site for the pilot project.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "83:14",
+      "topic": "Project Update Confirmation",
+      "question": "Mega, do you have any further details or comments to add about the battery deployment project and the identified pilot project site?",
+      "raw_question": "Okay, anything else?",
+      "answered_by": "Mega",
+      "score": 2,
+      "response_text": "No, that's all.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "84:07",
+      "topic": "Demand/Supply Side Differences",
+      "question": "Sthepen, what do you think is the difference between the demand side, supply side, and preliminary due diligence in the context of technology commercialization?",
+      "raw_question": "What do you think is the difference?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "On the demand side, you need to prove if the problem you are addressing is real and worthy of investment. It's about determining if there's a genuine problem that the government or someone else can invest time and money into.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "85:00",
+      "topic": "Supply Side Explanation",
+      "question": "Aryang, would you like to elaborate on the supply side aspect of the technology commercialization framework?",
+      "raw_question": "have you done it now?",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "The supply side identifies the best solutions globally that can completely resolve the problem.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "85:10",
+      "topic": "Preliminary Due Diligence",
+      "question": "Aryang, you've explained the demand and supply sides. What is your understanding of the third part: preliminary due diligence?",
+      "raw_question": "Nice. And the third part?",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "For the third part, preliminary synthesis, I think it's about evaluating the technologies, which is related to opportunity generation.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "85:39",
+      "topic": "Explaining Framework Stages",
+      "question": "Aryang, regarding the explanation of demand side, supply side, and preliminary due diligence, would you like to complete your previous explanation of the third part, or would you prefer to start explaining all three parts from the beginning?",
+      "raw_question": "You want to complete or you want to go from the start? Whatever you want.",
+      "answered_by": "Aryang",
+      "score": 5,
+      "response_text": "For me, the demand side is the recipient side, representing the problem, for example, Indonesia's problem. The supply side is from the provider, like the Korean side. And the preliminary synthesis is when you try to match the supply and demand elements.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "89:50",
+      "topic": "Summer Semester Information",
+      "question": "Chilaka, were the students not informed about the summer semester?",
+      "raw_question": "Did didn't inform them?",
+      "answered_by": "Chilaka",
+      "score": 4,
+      "response_text": "Ah, it's not my, how can I say, it's...",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "90:08",
+      "topic": "Summer Semester Communication",
+      "question": "Aryang, did you inform the relevant parties (e.g., the university administration) about your travel plans or situation related to the summer semester?",
+      "raw_question": "But did you inform?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Yes, I informed them.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "92:46",
+      "topic": "Seminar Time Allocation",
+      "question": "Students, for the next part of the seminar where we'll discuss your comments, how much time do you need to prepare or review your thoughts, considering the suggested framework for reorganizing your project ideas?",
+      "raw_question": "Now, I'm gonna give you uh five minutes, 10 minutes? How much do you want? Five minutes because we I wanna go through your comments.",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Five minutes initially, but then we decided on 10 minutes.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "93:01",
+      "topic": "Seminar Break Schedule",
+      "question": "Given we have agreed on a 10-minute break for your preparation, shall we reconvene the seminar at 3:20?",
+      "raw_question": "Okay, 10 minutes. So let's come back at 3:20, okay?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Okay.",
+      "is_substantive": false
+    },
+    {
+      "timestamp": "100:48",
+      "topic": "Project Comparison Countries",
+      "question": "Sthepen, considering your project and the need to analyze comparable countries, could you consider using examples of countries other than Estonia and Singapore for your analysis of identity validation within similar infrastructures?",
+      "raw_question": "Could you use somebody else?",
+      "answered_by": "Sthepen",
+      "score": 3,
+      "response_text": "Singapore is more similar because the difference between...",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "111:05",
+      "topic": "Project Feasibility/Impact",
+      "question": "Aryang, regarding your point that the solar PV location is near an area with no electricity, what are the implications of this situation, and how does your project plan to address the lack of electricity and ensure project feasibility and sustainability?",
+      "raw_question": "So yeah, but then there is no electricity and so what?",
+      "answered_by": "Aryang",
+      "score": 4,
+      "response_text": "After we give more capacity in the past, it could provide them with electricity and also the power.",
+      "is_substantive": true
+    },
+    {
+      "timestamp": "130:05",
+      "topic": "Transferable Skills Confirmation",
+      "question": "Even if you decide to pursue a different topic for your Master's thesis, you have still gained valuable skills and knowledge on how to develop and present a project, correct?",
+      "raw_question": "But I'm gonna do a different topic for my master's. Right?",
+      "answered_by": "Aryang",
+      "score": 2,
+      "response_text": "Okay, then.",
+      "is_substantive": false
+    }
+  ]
+}
