@@ -190,6 +190,28 @@ def render_component_c_html():
     return c1_html, c2_html
 
 
+def render_component_d_html():
+    """Generate static HTML table for Component D — 5 criteria × 0-3 = 15%."""
+    students = ["Aryang", "Mega", "Chilaka", "Grace", "Sthepen"]
+    criteria = ["Format", "References", "Problem definition", "Root-Problem definition", "Logical Flow"]
+
+    def empty_cell():
+        return '<td style="background:#fafafa;color:#94a3b8;text-align:center;font-weight:600;">—</td>'
+
+    header_cols = "".join(f'<th>{c}<br><small style="font-weight:500;opacity:.85;">/3 pts</small></th>' for c in criteria)
+    html = f'''<table class="b-summary-table">
+<thead><tr>
+  <th>Student</th>{header_cols}<th>Total<br><small style="font-weight:500;opacity:.85;">/15%</small></th>
+</tr></thead><tbody>'''
+
+    for s in students:
+        cells = "".join(empty_cell() for _ in criteria)
+        html += f'<tr><td class="student-name">{s}</td>{cells}<td style="color:#94a3b8;text-align:center;font-weight:600;">— / 15</td></tr>\n'
+
+    html += "</tbody></table>"
+    return html
+
+
 def get_component_b_data():
     """Cross-evaluations data — Week 2 (Mar 10, 2026): First Draft ICP Presentations."""
     raw = [
@@ -496,6 +518,7 @@ def write_dashboard_html(per_student, classes, agg_data):
     embedded_b = json.dumps(get_component_b_data(), ensure_ascii=False)
     embedded_c = json.dumps(get_component_c_data(), ensure_ascii=False)
     c1_table, c2_table = render_component_c_html()
+    d_table = render_component_d_html()
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -885,7 +908,7 @@ def write_dashboard_html(per_student, classes, agg_data):
       <span class="tab-letter">C</span>
       <span class="tab-text">Assignments &amp; Partial Submissions<br><small>20% · Active</small></span>
     </button>
-    <button class="main-tab disabled" onclick="showMainTab(this, 'D')">
+    <button class="main-tab" onclick="showMainTab(this, 'D')">
       <span class="tab-letter">D</span>
       <span class="tab-text">Final Term Submission Report<br><small>15% · Coming soon</small></span>
     </button>
@@ -1172,10 +1195,17 @@ def write_dashboard_html(per_student, classes, agg_data):
 
   <!-- TAB D CONTENT -->
   <div id="main-tab-D" class="main-tab-content">
-    <div class="section coming-soon">
-      <h2>📄 Component D — Final Term Submission Report (15%)</h2>
-      <p>Term Project Report ICP v.6 — Evaluation based on all the feedback provided by professor during the course (Format, References, Contents: Problem definition, Root-Problem definition, Logical Flow).</p>
-      <div class="cs-badge">⏳ Coming soon</div>
+    <div class="section">
+      <h2 style="color:#1e293b;">📄 Component D — Final Term Submission Report (15%)</h2>
+      <p style="color:#64748b; font-size:13px;">D1 Term Project Report ICP v.6 — Evaluation based on feedback provided by the professor throughout the course.</p>
+    </div>
+    <div class="section">
+      <h2>📋 D1 — ICP v.6 Evaluation Rubric (15%)</h2>
+      <p style="color:#64748b; font-size:13px; margin-bottom:16px;">
+        5 criteria · each scored <strong>0–3</strong> · sum = 15% maximum.<br>
+        <span style="color:#94a3b8; font-size:12px;">0 = Not addressed &nbsp;·&nbsp; 1 = Needs improvement &nbsp;·&nbsp; 2 = Adequate &nbsp;·&nbsp; 3 = Excellent</span>
+      </p>
+      {d_table}
     </div>
   </div>
 
