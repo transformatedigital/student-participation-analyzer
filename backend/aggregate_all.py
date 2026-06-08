@@ -212,6 +212,28 @@ def render_component_d_html():
     return html
 
 
+def render_component_e_html():
+    """Generate static HTML table for Component E — 5 criteria × 0-4 = 20%."""
+    students = ["Aryang", "Mega", "Chilaka", "Grace", "Sthepen"]
+    criteria = ["Format", "References", "Problem definition", "Root-Problem definition", "Logical Flow"]
+
+    def empty_cell():
+        return '<td style="background:#fafafa;color:#94a3b8;text-align:center;font-weight:600;">—</td>'
+
+    header_cols = "".join(f'<th>{c}<br><small style="font-weight:500;opacity:.85;">/4 pts</small></th>' for c in criteria)
+    html = f'''<table class="b-summary-table">
+<thead><tr>
+  <th>Student</th>{header_cols}<th>Total<br><small style="font-weight:500;opacity:.85;">/20%</small></th>
+</tr></thead><tbody>'''
+
+    for s in students:
+        cells = "".join(empty_cell() for _ in criteria)
+        html += f'<tr><td class="student-name">{s}</td>{cells}<td style="color:#94a3b8;text-align:center;font-weight:600;">— / 20</td></tr>\n'
+
+    html += "</tbody></table>"
+    return html
+
+
 def get_component_b_data():
     """Cross-evaluations data — Week 2 (Mar 10, 2026): First Draft ICP Presentations."""
     raw = [
@@ -519,6 +541,7 @@ def write_dashboard_html(per_student, classes, agg_data):
     embedded_c = json.dumps(get_component_c_data(), ensure_ascii=False)
     c1_table, c2_table = render_component_c_html()
     d_table = render_component_d_html()
+    e_table = render_component_e_html()
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -912,9 +935,9 @@ def write_dashboard_html(per_student, classes, agg_data):
       <span class="tab-letter">D</span>
       <span class="tab-text">Final Term Submission Report<br><small>15% · Coming soon</small></span>
     </button>
-    <button class="main-tab disabled" onclick="showMainTab(this, 'E')">
+    <button class="main-tab" onclick="showMainTab(this, 'E')">
       <span class="tab-letter">E</span>
-      <span class="tab-text">Final GTC Presentation Project Pitch<br><small>20% · Coming soon</small></span>
+      <span class="tab-text">Final GTC Presentation Project Pitch<br><small>20% · Active</small></span>
     </button>
   </div>
 
@@ -1211,10 +1234,17 @@ def write_dashboard_html(per_student, classes, agg_data):
 
   <!-- TAB E CONTENT -->
   <div id="main-tab-E" class="main-tab-content">
-    <div class="section coming-soon">
-      <h2>🎯 Component E — Final GTC Presentation Project Pitch (20%)</h2>
-      <p>Evaluation based on all the feedback provided by professor during the course (Format, References, Contents: Problem definition, Root-Problem definition, Logical Flow)</p>
-      <div class="cs-badge">⏳ Coming soon</div>
+    <div class="section">
+      <h2 style="color:#1e293b;">🎯 Component E — Final GTC Presentation Project Pitch (20%)</h2>
+      <p style="color:#64748b; font-size:13px;">E1 Term Project Final Presentation — Evaluation based on feedback provided by the professor throughout the course.</p>
+    </div>
+    <div class="section">
+      <h2>📋 E1 — GTC Project Pitch Evaluation Rubric (20%)</h2>
+      <p style="color:#64748b; font-size:13px; margin-bottom:16px;">
+        5 criteria · each scored <strong>0–4</strong> · sum = 20% maximum.<br>
+        <span style="color:#94a3b8; font-size:12px;">0 = Not addressed &nbsp;·&nbsp; 1 = Needs improvement &nbsp;·&nbsp; 2 = Adequate &nbsp;·&nbsp; 3 = Good &nbsp;·&nbsp; 4 = Excellent</span>
+      </p>
+      {e_table}
     </div>
   </div>
 
