@@ -48,8 +48,8 @@ PRESENTER_ALIASES = {
 
 
 def get_component_c_data():
-    """C.1 Assignments — 5 exams during semester. Sum / max = % of 10%."""
-    exam1_responses = {
+    """C.1 Assignments (10%) + C.2 Partial Submissions (10%) = 20%."""
+    c11_responses = {
         "Grace": {
             "full_name": "SONGANZILA GRACE MFUMU",
             "answers": [
@@ -102,32 +102,44 @@ def get_component_c_data():
         },
     }
 
-    questions_e1 = [
+    c11_questions = [
         "Q1: Objective of GTC course",
         "Q2: Real problem of GTC initiative",
         "Q3: Owner of the initiative",
         "Q4: Expected impact",
     ]
 
-    exams = [
+    BLANK = {"Aryang": None, "Mega": None, "Chilaka": None, "Grace": None, "Sthepen": None}
+
+    c1_activities = [
         {
-            "id": 1, "date": "2026-05-12", "date_label": "Tue, May 12 (Wk 11)",
-            "title": "Exam 1 — GTC Course Foundations",
+            "id": "C1.1", "label": "C1.1 Reflection on Pop-up Quiz 1",
+            "date_label": "Tue, May 12 (Wk 11)", "status": "completed", "max": 100,
+            "scores": {"Aryang": 100, "Mega": 100, "Chilaka": 100, "Grace": 100, "Sthepen": 100},
+            "questions": c11_questions,
+            "responses": c11_responses,
             "max_per_question": 25, "n_questions": 4,
-            "questions": questions_e1,
-            "responses": exam1_responses,
-            "status": "completed",
         },
-        {"id": 2, "date": "2026-05-19", "date_label": "Tue, May 19 (Wk 12)",
-         "title": "Exam 2 — Pending", "status": "pending"},
-        {"id": 3, "date": "2026-05-26", "date_label": "Tue, May 26 (Wk 13)",
-         "title": "Exam 3 — Pending", "status": "pending"},
-        {"id": 4, "date": "2026-06-02", "date_label": "Tue, Jun 2 (Wk 14)",
-         "title": "Exam 4 — Pending", "status": "pending"},
-        {"id": 5, "date": "2026-06-09", "date_label": "Tue, Jun 9 (Wk 15)",
-         "title": "Exam 5 — Pending", "status": "pending"},
+        {
+            "id": "C1.2", "label": "C1.2 GTC Framework Process Activities",
+            "date_label": "— TBD", "status": "pending", "max": 100,
+            "scores": dict(BLANK),
+        },
     ]
-    return {"exams": exams, "weight_total": 10.0, "n_exams": 5}
+
+    c2_submissions = [
+        {"id": "C2.1", "label": "C2.1 ICP V1", "status": "pending", "max": 100, "scores": dict(BLANK)},
+        {"id": "C2.2", "label": "C2.2 ICP V2", "status": "pending", "max": 100, "scores": dict(BLANK)},
+        {"id": "C2.3", "label": "C2.3 ICP V3", "status": "pending", "max": 100, "scores": dict(BLANK)},
+        {"id": "C2.4", "label": "C2.4 ICP V4", "status": "pending", "max": 100, "scores": dict(BLANK)},
+    ]
+
+    return {
+        "c1_activities": c1_activities,
+        "c2_submissions": c2_submissions,
+        "weight_c1": 10.0,
+        "weight_c2": 10.0,
+    }
 
 
 def get_component_b_data():
@@ -820,9 +832,9 @@ def write_dashboard_html(per_student, classes, agg_data):
       <span class="tab-letter">B</span>
       <span class="tab-text">Pop-up Quiz / Team discussion<br><small>25% · Active</small></span>
     </button>
-    <button class="main-tab disabled" onclick="showMainTab(this, 'C')">
+    <button class="main-tab" onclick="showMainTab(this, 'C')">
       <span class="tab-letter">C</span>
-      <span class="tab-text">Assignments &amp; Partial Submissions<br><small>20% · Coming soon</small></span>
+      <span class="tab-text">Assignments &amp; Partial Submissions<br><small>20% · Active</small></span>
     </button>
     <button class="main-tab disabled" onclick="showMainTab(this, 'D')">
       <span class="tab-letter">D</span>
@@ -1087,30 +1099,26 @@ def write_dashboard_html(per_student, classes, agg_data):
   <div id="main-tab-C" class="main-tab-content">
     <div class="section">
       <h2 style="color:#1e293b;">📝 Component C — Assignments &amp; Partial Submissions (20%)</h2>
-      <p style="color:#64748b; font-size:13px;">C.1 Assignments (10%) + C.2 Partial Submissions (10%)</p>
+      <p style="color:#64748b; font-size:13px;">C1 Assignments (10%) + C2 Partial Submissions (10%)</p>
     </div>
 
     <div class="section">
-      <h2>📚 C.1 Summary — Total per student (so far)</h2>
+      <h2>📚 C1 — Assignments (10%)</h2>
       <p style="color:#64748b; font-size:13px; margin-bottom:16px;">
-        Sum of scores across all 5 exams (max 100 per exam × 5 = 500 total) → % of the 10% weight.
+        2 activities: C1.1 Reflection on Pop-up Quiz 1 · C1.2 GTC Framework Process Activities.
+        Average of completed activities (each out of 100) → % of the 10% weight.
       </p>
       <table id="c1SummaryTable" class="b-summary-table"></table>
+      <div id="c1ActivityList" style="margin-top:16px;"></div>
     </div>
 
     <div class="section">
-      <h2>📝 C.1 — Assignments Exam-by-exam (10%)</h2>
+      <h2>📄 C2 — Partial Submissions (10%)</h2>
       <p style="color:#64748b; font-size:13px; margin-bottom:16px;">
-        5 in-class assessments throughout the semester. Each exam has 4 questions worth 25 points each (max 100).
-        Click an exam to see all student answers and scores.
+        4 ICP versions: C2.1 ICP V1 · C2.2 ICP V2 · C2.3 ICP V3 · C2.4 ICP V4.
+        Average of submitted versions (each out of 100) → % of the 10% weight.
       </p>
-      <div id="c1ExamsList"></div>
-    </div>
-
-    <div class="section coming-soon">
-      <h3 style="margin:0 0 12px; color:#305496;">📄 C.2 — Partial Submissions (10%)</h3>
-      <p>C2.1 ICP V1, C2.2 ICP V2, C2.3 ICP V3, C2.4 ICP V4</p>
-      <div class="cs-badge">⏳ Coming soon</div>
+      <table id="c2SummaryTable" class="b-summary-table"></table>
     </div>
   </div>
 
@@ -1335,86 +1343,106 @@ function renderComponentC() {{
     }});
   }});
 
-  // ── C.1 Summary table ──
-  const maxTotal = 5 * 4 * 25;  // 5 exams × 4 questions × 25 = 500
-  let sumHtml = `<thead><tr>
+  const cStudents = ['Aryang', 'Mega', 'Chilaka', 'Grace', 'Sthepen'];
+  const N_C1 = 2;   // C1.1 + C1.2
+  const N_C2 = 4;   // ICP V1-V4
+  const W_C1 = 10;
+  const W_C2 = 10;
+
+  // ── C1 Summary table ──
+  let c1Sum = `<thead><tr>
     <th>Student</th>
-    <th>Exams done</th>
-    <th>Points obtained</th>
-    <th>Max possible (so far)</th>
-    <th>% of C.1 (10)</th>
-    <th>Progress to 10%</th>
+    <th>C1.1 / 100</th>
+    <th>C1.2 / 100</th>
+    <th>Average</th>
+    <th>% of C1 (10%)</th>
   </tr></thead><tbody>`;
-  const sortedC = studentsList.map(s => {{
-    const t = totals[s];
-    return {{ s, ...t, pct: t.max ? (t.sum / maxTotal) * 10 : 0 }};
-  }}).sort((a, b) => b.sum - a.sum);
-  sortedC.forEach(({{ s, sum, max, n_done, pct }}) => {{
-    const pctFinal = ((sum / maxTotal) * 10).toFixed(2);
-    const pctProgress = ((sum / maxTotal) * 100).toFixed(1);
-    sumHtml += `<tr>
-      <td class="student-name">${{s}}</td>
-      <td>${{n_done}} / 5</td>
-      <td class="b-cell-done">${{sum}} / ${{maxTotal}}</td>
-      <td>${{max || '—'}}</td>
-      <td class="total">${{pctFinal}} / 10</td>
-      <td><span class="pct-bar"><div style="width:${{pctProgress}}%"></div></span> ${{pctProgress}}%</td>
+  cStudents.forEach(s => {{
+    const acts = C.c1_activities || [];
+    const scores = acts.map(a => a.scores[s]);
+    const done = scores.filter(v => v !== null && v !== undefined);
+    const avg = done.length ? done.reduce((a,b)=>a+b,0) / N_C1 : 0;
+    const pct = ((avg / 100) * W_C1).toFixed(2);
+    const cells = scores.map(v =>
+      v == null ? `<td class="cell-empty">—</td>` : `<td class="b-cell-done">${{v}}</td>`
+    ).join('');
+    c1Sum += `<tr><td class="student-name">${{s}}</td>${{cells}}
+      <td class="${{done.length ? 'total' : 'cell-empty'}}">${{done.length ? avg.toFixed(1) : '—'}}</td>
+      <td class="${{done.length ? 'total' : 'cell-empty'}}">${{done.length ? pct + ' / 10' : '—'}}</td>
     </tr>`;
   }});
-  sumHtml += '</tbody>';
-  document.getElementById('c1SummaryTable').innerHTML = sumHtml;
+  c1Sum += '</tbody>';
+  document.getElementById('c1SummaryTable').innerHTML = c1Sum;
 
-  // ── Lista de exámenes ──
-  let listHtml = '';
-  C.exams.forEach((exam, idx) => {{
-    const examMax = exam.n_questions ? exam.n_questions * exam.max_per_question : 100;
-    const isCompleted = exam.status === 'completed';
-    const statusBadge = isCompleted
-      ? '<span class="status-pill status-rec">✅ Completed</span>'
-      : '<span class="status-pill status-pending">⏳ Pending</span>';
-
-    listHtml += `<div class="exam-card">
-      <h3 class="exam-header collapsible-header" onclick="toggleSection('exam${{exam.id}}Content', 'exam${{exam.id}}Toggle')">
-        <span><strong>${{exam.title}}</strong> · ${{exam.date_label}} ${{statusBadge}}</span>
-        <span class="toggle-icon" id="exam${{exam.id}}Toggle">▶</span>
+  // ── C1 activity detail (collapsible per activity) ──
+  let c1Detail = '';
+  (C.c1_activities || []).forEach(act => {{
+    const done = act.status === 'completed';
+    const badge = done ? '<span class="status-pill status-rec">✅ Completed</span>'
+                       : '<span class="status-pill status-pending">⏳ Pending</span>';
+    c1Detail += `<div class="exam-card">
+      <h3 class="exam-header collapsible-header" onclick="toggleSection('act${{act.id}}Content','act${{act.id}}Toggle')">
+        <span><strong>${{act.label}}</strong> · ${{act.date_label}} ${{badge}}</span>
+        <span class="toggle-icon" id="act${{act.id}}Toggle">▶</span>
       </h3>
-      <div id="exam${{exam.id}}Content" class="exam-content" style="display:none;">`;
-
-    if (!isCompleted) {{
-      listHtml += `<p style="padding:24px; text-align:center; color:#94a3b8; font-style:italic;">
-        This exam has not been administered yet. Once it's done, scores will appear here.
-      </p>`;
+      <div id="act${{act.id}}Content" class="exam-content" style="display:none;">`;
+    if (!done) {{
+      c1Detail += `<p style="padding:24px;text-align:center;color:#94a3b8;font-style:italic;">
+        Pending — scores will appear here once the activity is graded.</p>`;
     }} else {{
-      // Por cada estudiante, mostrar sus respuestas + scores
-      studentsList.forEach(s => {{
-        const r = exam.responses[s];
-        if (!r) return;
-        const totalScore = r.scores.reduce((a, b) => a + b, 0);
-        listHtml += `<div class="student-block">
-          <h4 class="student-header collapsible-header" onclick="toggleSection('exam${{exam.id}}-${{s}}-content', 'exam${{exam.id}}-${{s}}-toggle')">
-            <span>👤 <strong>${{s}}</strong> <small style="color:#64748b">(${{r.full_name}})</small> — Total: <strong style="color:#305496">${{totalScore}}/${{examMax}}</strong></span>
-            <span class="toggle-icon" id="exam${{exam.id}}-${{s}}-toggle">▶</span>
+      cStudents.forEach(s => {{
+        const r = act.responses ? act.responses[s] : null;
+        const sc = act.scores[s];
+        c1Detail += `<div class="student-block">
+          <h4 class="student-header collapsible-header" onclick="toggleSection('act${{act.id}}-${{s}}-c','act${{act.id}}-${{s}}-t')">
+            <span>👤 <strong>${{s}}</strong>${{r ? ` <small style="color:#64748b">(${{r.full_name}})</small>` : ''}} — Score: <strong style="color:#305496">${{sc}} / ${{act.max}}</strong></span>
+            <span class="toggle-icon" id="act${{act.id}}-${{s}}-t">▶</span>
           </h4>
-          <div id="exam${{exam.id}}-${{s}}-content" class="student-answers" style="display:none;">`;
-        r.answers.forEach((ans, qi) => {{
-          const q = exam.questions[qi];
-          const score = r.scores[qi];
-          listHtml += `<div class="answer-block">
-            <div class="question-text"><strong>${{q}}</strong></div>
-            <div class="answer-text">${{ans || '<em style="color:#94a3b8">(No answer)</em>'}}</div>
-            <div class="answer-score">
-              <label>Score:</label>
-              <input type="number" min="0" max="${{exam.max_per_question}}" value="${{score}}" class="score-input" disabled>
-              <span class="score-max">/ ${{exam.max_per_question}}</span>
-            </div>
-          </div>`;
-        }});
-        listHtml += `</div></div>`;
+          <div id="act${{act.id}}-${{s}}-c" class="student-answers" style="display:none;">`;
+        if (r && act.questions) {{
+          act.questions.forEach((q, qi) => {{
+            c1Detail += `<div class="answer-block">
+              <div class="question-text"><strong>${{q}}</strong></div>
+              <div class="answer-text">${{r.answers[qi] || '<em style="color:#94a3b8">(No answer)</em>'}}</div>
+              <div class="answer-score"><label>Score:</label>
+                <input type="number" value="${{r.scores[qi]}}" class="score-input" disabled>
+                <span class="score-max">/ ${{act.max_per_question}}</span>
+              </div></div>`;
+          }});
+        }}
+        c1Detail += `</div></div>`;
       }});
     }}
-    listHtml += `</div></div>`;
+    c1Detail += `</div></div>`;
   }});
-  document.getElementById('c1ExamsList').innerHTML = listHtml;
+  document.getElementById('c1ActivityList').innerHTML = c1Detail;
+
+  // ── C2 Summary table ──
+  let c2Sum = `<thead><tr>
+    <th>Student</th>
+    <th>ICP V1 / 100</th>
+    <th>ICP V2 / 100</th>
+    <th>ICP V3 / 100</th>
+    <th>ICP V4 / 100</th>
+    <th>Average</th>
+    <th>% of C2 (10%)</th>
+  </tr></thead><tbody>`;
+  cStudents.forEach(s => {{
+    const subs = C.c2_submissions || [];
+    const scores = subs.map(sub => sub.scores[s]);
+    const done = scores.filter(v => v !== null && v !== undefined);
+    const avg = done.length ? done.reduce((a,b)=>a+b,0) / N_C2 : 0;
+    const pct = ((avg / 100) * W_C2).toFixed(2);
+    const cells = scores.map(v =>
+      v == null ? `<td class="cell-empty">—</td>` : `<td class="b-cell-done">${{v}}</td>`
+    ).join('');
+    c2Sum += `<tr><td class="student-name">${{s}}</td>${{cells}}
+      <td class="${{done.length ? 'total' : 'cell-empty'}}">${{done.length ? avg.toFixed(1) : '—'}}</td>
+      <td class="${{done.length ? 'total' : 'cell-empty'}}">${{done.length ? pct + ' / 10' : '—'}}</td>
+    </tr>`;
+  }});
+  c2Sum += '</tbody>';
+  document.getElementById('c2SummaryTable').innerHTML = c2Sum;
 }}
 
 function renderComponentBNoChart() {{
