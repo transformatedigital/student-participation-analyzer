@@ -1325,24 +1325,6 @@ function renderAll() {{
 
 function renderComponentC() {{
   const C = COMPONENT_C;
-  const studentsList = ['Aryang', 'Mega', 'Chilaka', 'Grace', 'Sthepen'];
-
-  // Calcular totales por alumno (suma de todos los exámenes completados)
-  const totals = {{}};
-  studentsList.forEach(s => totals[s] = {{ sum: 0, max: 0, n_done: 0 }});
-  C.exams.forEach(exam => {{
-    if (exam.status !== 'completed' || !exam.responses) return;
-    studentsList.forEach(s => {{
-      const r = exam.responses[s];
-      if (!r) return;
-      const examMax = exam.n_questions * exam.max_per_question;
-      const examScore = r.scores.reduce((a, b) => a + b, 0);
-      totals[s].sum += examScore;
-      totals[s].max += examMax;
-      totals[s].n_done += 1;
-    }});
-  }});
-
   const cStudents = ['Aryang', 'Mega', 'Chilaka', 'Grace', 'Sthepen'];
   const N_C1 = 2;   // C1.1 + C1.2
   const N_C2 = 4;   // ICP V1-V4
