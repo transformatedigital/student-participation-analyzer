@@ -933,7 +933,7 @@ def write_dashboard_html(per_student, classes, agg_data):
     </button>
     <button class="main-tab" onclick="showMainTab(this, 'D')">
       <span class="tab-letter">D</span>
-      <span class="tab-text">Final Term Submission Report<br><small>15% · Coming soon</small></span>
+      <span class="tab-text">Final Term Submission Report<br><small>15% · Active</small></span>
     </button>
     <button class="main-tab" onclick="showMainTab(this, 'E')">
       <span class="tab-letter">E</span>
@@ -1127,7 +1127,7 @@ def write_dashboard_html(per_student, classes, agg_data):
           <span class="form-btn-icon">🎓</span>
           <span class="form-btn-text">
             <strong>Professor &amp; TA's Evaluation Form</strong>
-            <small>B.2 · Internal form for Prof. &amp; TA (15%)</small>
+            <small>B.2 · Team Discussion — Prof. &amp; TA scoring (10%)</small>
           </span>
           <span class="form-btn-arrow">→</span>
         </a>
@@ -1137,11 +1137,11 @@ def write_dashboard_html(per_student, classes, agg_data):
     <div class="section">
       <h2>🧮 Component B Summary — Status overview per student</h2>
       <p style="color:#64748b; font-size:13px; margin-bottom:16px;">
-        Combined progress on B.1 (already received) and B.2 (pending Professor's evaluation).
+        B1 Pop-up Quiz (15%) + B2 Team Discussion (10%) = 25% total.
       </p>
       <table id="bSummaryTable" class="b-summary-table"></table>
       <p style="margin-top:12px; padding:12px; background:#fef3c7; border-left:4px solid #f59e0b; font-size:13px; color:#78350f;">
-        ⏳ <strong>B.2 (15%) is pending</strong> — once Professor Ileana provides her scores, the table below will be updated and totals here will recalculate automatically.
+        ⏳ <strong>B2 Team Discussion (10%) is pending</strong> — once Professor Ileana provides the Case Study scores, totals will recalculate automatically.
       </p>
     </div>
 
@@ -1169,23 +1169,14 @@ def write_dashboard_html(per_student, classes, agg_data):
     </div>
 
     <div class="section coming-soon">
-      <h2>🎓 B.2 — Professor &amp; TA Scores (pending)</h2>
+      <h2>🎓 B2 — Team Discussion Case Study (10%) · Pending</h2>
       <p style="color:#64748b; font-size:13px; margin-bottom:8px;">
-        Internal Google Form with extra questions. Scores follow the same 1–6 scale across 5 dimensions
-        (or custom scoring decided by Prof. Ileana).
+        B2.1 Case Study — Team A: Chilaka, Aryang · Team B: Sthepen, Mega, Grace<br>
+        Professor Ileana will provide individual scores once the case study is evaluated.
       </p>
-      <p style="padding:12px; background:#dbeafe; border-left:4px solid #305496; font-size:13px; color:#1e3a8a; margin:12px 0;">
-        📝 <strong>How to fill this:</strong> Once Prof. Ileana &amp; TA provide the scores, the cells below
-        (marked <code>—</code>) will be replaced with values 1–6 per dimension per presenter.
-        Total per student is computed as <code>(sum / 30) × 15</code> for the 15% weight.
-      </p>
-
-      <h3 style="margin-top:16px; font-size:15px; color:#1e293b;">Awaiting evaluation matrix</h3>
       <table id="b2PendingTable" class="b-pending-table"></table>
-
       <p style="color:#94a3b8; font-size:12px; margin-top:10px; font-style:italic;">
-        — Empty cells will be filled once scores are provided. The Component B Summary above will reflect the
-        final % once B.2 is complete.
+        — Empty cells will be filled once scores are provided.
       </p>
     </div>
   </div>
@@ -1636,7 +1627,7 @@ function renderComponentB(skipChart) {{
     ${{pendingDims.map(d => `<th>${{d}}</th>`).join('')}}
     <th>Extra notes</th>
     <th>Total / 30</th>
-    <th>% of B.2 (15)</th>
+    <th>% of B2 (10)</th>
   </tr></thead><tbody>`;
   studentsList.forEach(s => {{
     pendingHtml += `<tr>
