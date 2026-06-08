@@ -185,12 +185,33 @@ def get_component_b_data():
             "pct_b1": round((avg_total / 30) * 10, 2),  # B.1 = Cross-eval = 10%
             "by_dim": by_dim,
         }
+    b1_quizzes = [
+        {
+            "id": 1, "label": "B1.1 Pop-up Quiz 1",
+            "status": "completed",
+            "scores": {"Aryang": 100, "Mega": 100, "Chilaka": 100, "Grace": 100, "Sthepen": 100},
+            "max": 100,
+        },
+        {
+            "id": 2, "label": "B1.2 Pop-up Quiz 2",
+            "status": "pending",
+            "scores": {"Aryang": None, "Mega": None, "Chilaka": None, "Grace": None, "Sthepen": None},
+            "max": 100,
+        },
+        {
+            "id": 3, "label": "B1.3 Pop-up Quiz 3 (June 2)",
+            "status": "pending",
+            "scores": {"Aryang": None, "Mega": None, "Chilaka": None, "Grace": None, "Sthepen": None},
+            "max": 100,
+        },
+    ]
     return {
         "session": "2026-03-10 — Week 2: First Draft ICP Presentations",
         "evaluations": evals,
         "per_presenter": per_presenter,
         "summary": summary,
         "dimensions": DIMS,
+        "b1_quizzes": b1_quizzes,
     }
 
 
@@ -795,9 +816,9 @@ def write_dashboard_html(per_student, classes, agg_data):
       <span class="tab-letter">A</span>
       <span class="tab-text">Preparation, Participation &amp; Attendance<br><small>20% · Active</small></span>
     </button>
-    <button class="main-tab disabled" onclick="showMainTab(this, 'B')">
+    <button class="main-tab" onclick="showMainTab(this, 'B')">
       <span class="tab-letter">B</span>
-      <span class="tab-text">Pop-up Quiz / Team discussion<br><small>25% · Coming soon</small></span>
+      <span class="tab-text">Pop-up Quiz / Team discussion<br><small>25% · Active</small></span>
     </button>
     <button class="main-tab disabled" onclick="showMainTab(this, 'C')">
       <span class="tab-letter">C</span>
@@ -977,6 +998,14 @@ def write_dashboard_html(per_student, classes, agg_data):
     <div class="section">
       <h2 style="color:#1e293b;">📊 Component B — Pop-up Quiz / Team discussion (25%)</h2>
       <p style="color:#64748b; font-size:13px; margin-bottom:16px;">B.1 Pop-up Quiz (15%) + B.2 Team discussion (10%)</p>
+
+      <div class="section">
+        <h2>📝 B.1 — Pop-up Quiz (15%)</h2>
+        <p style="color:#64748b; font-size:13px; margin-bottom:16px;">
+          3 quizzes. Average of completed quizzes (each out of 100) → % of the 15% weight.
+        </p>
+        <div id="b1QuizzesSection"></div>
+      </div>
 
       <div class="form-buttons">
         <a href="https://forms.gle/jXEW3uPj94wppenQ6" target="_blank" rel="noopener" class="form-btn form-btn-b1">
@@ -1396,6 +1425,55 @@ function renderComponentB(skipChart) {{
   const B = COMPONENT_B;
   const sessEl = document.getElementById('b1Session');
   if (sessEl) sessEl.textContent = B.session;
+
+  // ── B.1 Pop-up Quizzes ──
+  const quizStudents = ['Aryang', 'Mega', 'Chilaka', 'Grace', 'Sthepen'];
+  const quizzes = B.b1_quizzes || [];
+  const N_QUIZZES = 3;
+  const B1_WEIGHT = 15;
+
+  // Summary table: average of completed quizzes → % of 15%
+  let qSumHtml = `<table class="b-summary-table" style="margin-bottom:20px;">
+    <thead><tr>
+      <th>Student</th>
+      <th>Quiz 1 / 100</th>
+      <th>Quiz 2 / 100</th>
+      <th>Quiz 3 / 100</th>
+      <th>Average</th>
+      <th>% of B.1 (15%)</th>
+    </tr></thead><tbody>`;
+  quizStudents.forEach(s => {{
+    const scores = quizzes.map(q => q.scores[s]);
+    const completed = scores.filter(v => v !== null && v !== undefined);
+    const avg = completed.length ? (completed.reduce((a, b) => a + b, 0) / N_QUIZZES) : 0;
+    const pct = ((avg / 100) * B1_WEIGHT).toFixed(2);
+    const cells = scores.map(v => {{
+      if (v === null || v === undefined) return `<td class="cell-empty">—</td>`;
+      return `<td class="b-cell-done">${{v}}</td>`;
+    }}).join('');
+    const avgDisplay = completed.length ? avg.toFixed(1) : '—';
+    const pctDisplay = completed.length ? `${{pct}} / ${{B1_WEIGHT}}` : '—';
+    qSumHtml += `<tr><td class="student-name">${{s}}</td>${{cells}}
+      <td class="${{completed.length ? 'total' : 'cell-empty'}}">${{avgDisplay}}</td>
+      <td class="${{completed.length ? 'total' : 'cell-empty'}}">${{pctDisplay}}</td>
+    </tr>`;
+  }});
+  qSumHtml += '</tbody></table>';
+
+  // Per-quiz status badges
+  let qDetailHtml = '';
+  quizzes.forEach(q => {{
+    const done = q.status === 'completed';
+    const badge = done
+      ? '<span class="status-pill status-rec">✅ Completed</span>'
+      : '<span class="status-pill status-pending">⏳ Pending</span>';
+    qDetailHtml += `<p style="margin:4px 0; font-size:13px; color:#475569;">
+      <strong>${{q.label}}</strong> ${{badge}}
+    </p>`;
+  }});
+
+  const quizEl = document.getElementById('b1QuizzesSection');
+  if (quizEl) quizEl.innerHTML = qSumHtml + qDetailHtml;
 
   // ── Component B Summary (B.1 obtained + B.2 pending) ──
   const studentsList = ['Aryang', 'Mega', 'Chilaka', 'Grace', 'Sthepen'];
