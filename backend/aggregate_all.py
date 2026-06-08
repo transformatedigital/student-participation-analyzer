@@ -114,8 +114,8 @@ def get_component_c_data():
     c1_activities = [
         {
             "id": "C1.1", "label": "C1.1 Reflection on Pop-up Quiz 1",
-            "date_label": "Tue, May 12 (Wk 11)", "status": "completed", "max": 100,
-            "scores": {"Aryang": 100, "Mega": 100, "Chilaka": 100, "Grace": 100, "Sthepen": 100},
+            "date_label": "Tue, May 12 (Wk 11)", "status": "pending", "max": 100,
+            "scores": {"Aryang": 0, "Mega": 0, "Chilaka": 0, "Grace": 0, "Sthepen": 0},
             "questions": c11_questions,
             "responses": c11_responses,
             "max_per_question": 25, "n_questions": 4,
@@ -140,6 +140,54 @@ def get_component_c_data():
         "weight_c1": 10.0,
         "weight_c2": 10.0,
     }
+
+
+def render_component_c_html():
+    """Generate static HTML tables for Component C (no JS dependency)."""
+    c = get_component_c_data()
+    students = ["Aryang", "Mega", "Chilaka", "Grace", "Sthepen"]
+    N_C1, N_C2, W = 2, 4, 10
+
+    def cell(v):
+        if v is None:
+            return '<td style="background:#fafafa;color:#94a3b8;text-align:center;font-weight:600;">—</td>'
+        color = "#ecfdf5" if v > 0 else "#fafafa"
+        txt_color = "#065f46" if v > 0 else "#94a3b8"
+        return f'<td style="background:{color};color:{txt_color};font-weight:600;text-align:center;">{v}</td>'
+
+    # C1 table
+    c1_html = '''<table class="b-summary-table">
+<thead><tr>
+  <th>Student</th><th>C1.1 / 100</th><th>C1.2 / 100</th><th>Average</th><th>% of C1 (10%)</th>
+</tr></thead><tbody>'''
+    for s in students:
+        scores = [a["scores"].get(s) for a in c["c1_activities"]]
+        done = [v for v in scores if v is not None]
+        avg = sum(done) / N_C1 if done else 0
+        pct = (avg / 100) * W
+        cells = "".join(cell(v) for v in scores)
+        avg_cell = f'<td class="total">{avg:.1f}</td>' if done else '<td style="color:#94a3b8;text-align:center;">—</td>'
+        pct_cell = f'<td class="total">{pct:.2f} / 10</td>' if done else '<td style="color:#94a3b8;text-align:center;">—</td>'
+        c1_html += f'<tr><td class="student-name">{s}</td>{cells}{avg_cell}{pct_cell}</tr>\n'
+    c1_html += "</tbody></table>"
+
+    # C2 table
+    c2_html = '''<table class="b-summary-table">
+<thead><tr>
+  <th>Student</th><th>ICP V1 / 100</th><th>ICP V2 / 100</th><th>ICP V3 / 100</th><th>ICP V4 / 100</th><th>Average</th><th>% of C2 (10%)</th>
+</tr></thead><tbody>'''
+    for s in students:
+        scores = [sub["scores"].get(s) for sub in c["c2_submissions"]]
+        done = [v for v in scores if v is not None]
+        avg = sum(done) / N_C2 if done else 0
+        pct = (avg / 100) * W
+        cells = "".join(cell(v) for v in scores)
+        avg_cell = f'<td class="total">{avg:.1f}</td>' if done else '<td style="color:#94a3b8;text-align:center;">—</td>'
+        pct_cell = f'<td class="total">{pct:.2f} / 10</td>' if done else '<td style="color:#94a3b8;text-align:center;">—</td>'
+        c2_html += f'<tr><td class="student-name">{s}</td>{cells}{avg_cell}{pct_cell}</tr>\n'
+    c2_html += "</tbody></table>"
+
+    return c1_html, c2_html
 
 
 def get_component_b_data():
@@ -447,6 +495,7 @@ def write_dashboard_html(per_student, classes, agg_data):
     embedded_classes = json.dumps(classes_summary, ensure_ascii=False)
     embedded_b = json.dumps(get_component_b_data(), ensure_ascii=False)
     embedded_c = json.dumps(get_component_c_data(), ensure_ascii=False)
+    c1_table, c2_table = render_component_c_html()
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -1108,8 +1157,7 @@ def write_dashboard_html(per_student, classes, agg_data):
         2 activities: C1.1 Reflection on Pop-up Quiz 1 · C1.2 GTC Framework Process Activities.
         Average of completed activities (each out of 100) → % of the 10% weight.
       </p>
-      <table id="c1SummaryTable" class="b-summary-table"></table>
-      <div id="c1ActivityList" style="margin-top:16px;"></div>
+      {c1_table}
     </div>
 
     <div class="section">
@@ -1118,7 +1166,7 @@ def write_dashboard_html(per_student, classes, agg_data):
         4 ICP versions: C2.1 ICP V1 · C2.2 ICP V2 · C2.3 ICP V3 · C2.4 ICP V4.
         Average of submitted versions (each out of 100) → % of the 10% weight.
       </p>
-      <table id="c2SummaryTable" class="b-summary-table"></table>
+      {c2_table}
     </div>
   </div>
 
