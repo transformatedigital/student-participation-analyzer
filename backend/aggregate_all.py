@@ -1012,7 +1012,7 @@ def write_dashboard_html(per_student, classes, agg_data):
           <span class="form-btn-icon">📝</span>
           <span class="form-btn-text">
             <strong>Student's Cross-evaluation Form</strong>
-            <small>B.1 · For students to evaluate peers (10%)</small>
+            <small>B.2 · Team Discussion — peer evaluation (10%)</small>
           </span>
           <span class="form-btn-arrow">→</span>
         </a>
@@ -1039,8 +1039,9 @@ def write_dashboard_html(per_student, classes, agg_data):
     </div>
 
     <div class="section">
-      <h2>🎤 B.1 — Student's Cross-evaluation (10%)</h2>
+      <h2>🤝 B.2 — Team Discussion / Cross-evaluation (10%)</h2>
       <p style="color:#64748b; font-size:13px; margin-bottom:16px;">
+        B2.1 Case Study — Team A: Chilaka, Aryang · Team B: Sthepen, Mega, Grace<br>
         Session: <strong id="b1Session"></strong>
       </p>
 
@@ -1060,8 +1061,8 @@ def write_dashboard_html(per_student, classes, agg_data):
       <table id="b1Comments" style="margin-top:8px"></table>
     </div>
 
-    <div class="section">
-      <h2>🎓 B.2 — Professor &amp; TA's Evaluation (15%)</h2>
+    <div class="section coming-soon">
+      <h2>🎓 B.2 — Professor &amp; TA Scores (pending)</h2>
       <p style="color:#64748b; font-size:13px; margin-bottom:8px;">
         Internal Google Form with extra questions. Scores follow the same 1–6 scale across 5 dimensions
         (or custom scoring decided by Prof. Ileana).
@@ -1475,28 +1476,31 @@ function renderComponentB(skipChart) {{
   const quizEl = document.getElementById('b1QuizzesSection');
   if (quizEl) quizEl.innerHTML = qSumHtml + qDetailHtml;
 
-  // ── Component B Summary (B.1 obtained + B.2 pending) ──
+  // ── Component B Summary (B1 Quiz 15% + B2 Case Study 10%) ──
   const studentsList = ['Aryang', 'Mega', 'Chilaka', 'Grace', 'Sthepen'];
   let sumHtml = `<thead><tr>
     <th>Student</th>
-    <th>B.1 — Cross-eval<br><small>10% max</small></th>
-    <th>B.2 — Prof. &amp; TA<br><small>15% max</small></th>
+    <th>B1 — Pop-up Quiz<br><small>15% max</small></th>
+    <th>B2 — Team Discussion<br><small>10% max</small></th>
     <th>Total B<br><small>25% max</small></th>
     <th>% of B obtained so far</th>
   </tr></thead><tbody>`;
   const sortedBySum = studentsList.map(s => {{
     const d = B.summary[s];
-    const b1 = d?.pct_b1 || 0;
-    return {{ s, b1 }};
-  }}).sort((a, b) => b.b1 - a.b1);
+    const b2 = d?.pct_b1 || 0;  // cross-eval data → B2 (10%)
+    const qScores = (B.b1_quizzes || []).map(q => q.scores[s]);
+    const qDone = qScores.filter(v => v !== null && v !== undefined);
+    const b1 = qDone.length ? ((qDone.reduce((a,b)=>a+b,0) / 3) / 100) * 15 : 0;
+    return {{ s, b1, b2 }};
+  }}).sort((a, b) => (b.b1 + b.b2) - (a.b1 + a.b2));
 
-  sortedBySum.forEach(({{ s, b1 }}) => {{
-    const totalSoFar = b1;
+  sortedBySum.forEach(({{ s, b1, b2 }}) => {{
+    const totalSoFar = b1 + b2;
     const pctOfB = (totalSoFar / 25) * 100;
     sumHtml += `<tr>
       <td class="student-name">${{s}}</td>
-      <td class="b-cell-done">${{b1.toFixed(2)}} / 10</td>
-      <td class="b-cell-pending">— pending</td>
+      <td class="b-cell-done">${{b1.toFixed(2)}} / 15</td>
+      <td class="b-cell-done">${{b2.toFixed(2)}} / 10</td>
       <td class="total">${{totalSoFar.toFixed(2)}} / 25</td>
       <td>
         <span class="pct-bar"><div style="width:${{pctOfB}}%"></div></span>
