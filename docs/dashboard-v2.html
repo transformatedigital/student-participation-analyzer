@@ -431,8 +431,9 @@ function clearSheet(){ localStorage.removeItem('v2_sheet_id'); STATE={roster:{},
 
 // ---------- init ----------
 renderAll(); // blank template first
-const saved=localStorage.getItem('v2_sheet_id');
-if(saved){ document.getElementById('sheetInput').value='https://docs.google.com/spreadsheets/d/'+saved; loadSheet(saved); }
+const urlParam = new URLSearchParams(location.search).get('sheet');
+const initial = urlParam ? extractSheetId(urlParam) : localStorage.getItem('v2_sheet_id');
+if(initial){ document.getElementById('sheetInput').value='https://docs.google.com/spreadsheets/d/'+initial; loadSheet(initial); }
 </script>
 </body>
 </html>
