@@ -20,16 +20,19 @@ source of truth. The Spring 2026 dashboard (`docs/dashboard.html`) stays untouch
 
 > The page reads the Sheet through Google's public `gviz` JSON endpoint. No server is needed — it works on plain GitHub Pages. Google caches sheet reads for up to ~1 minute, so edits can take a moment to appear; press **Refresh**.
 
-### Sheet tabs (do **not** rename tabs or header rows)
-| Tab | Columns | Meaning |
-|-----|---------|---------|
-| `Roster` | `Student`, `Name` | `Student` = stable key (Alumni1…). `Name` = real display name (optional). |
-| `ComponentA` | `A_total`, `A_adjust` | A out of 20 (from the audio pipeline or manual) + participation adjustment (blank = 0). |
-| `ComponentB` | `B1_q1..B1_q3`, `B2`, `Team` | Pop-up quizzes (/100 each), team score (/10), team label. |
-| `ComponentC` | `C1_1`, `C1_2`, `C2_v1..C2_v4` | Assignments + ICP V1–V4 (/100 each). |
-| `ComponentD` | `D_format,D_ref,D_problem,D_root,D_logical` (0–3), `D_ai_appendix` (5/0/−5), `D_override` (optional /100) | D1 rubric + AI appendix; override wins if set. |
-| `ComponentE` | `E_format,E_ref,E_problem,E_root,E_logical` (0–4) | E1 pitch rubric. |
-| `Attendance` | `W1..W16` | Tuesdays Sep 1 – Dec 15 2026; `1`/present, blank = absent. |
+### Sheet structure — ONE general table `Grades` (one row per student, fill across)
+The page reads a single tab named **`Grades`** (and falls back to the first sheet if a CSV import named it differently). Header row (do not rename):
+
+| Group | Columns | Meaning |
+|-------|---------|---------|
+| Identity | `Student`, `Name` | `Student` = stable key (Alumni1…). `Name` = real display name (e.g. Cesar Fonseca). |
+| **A** (20%) | `A1_prep` (/7.5), `A2_part` (/7.5), `A3_att` (/5), `A_adjust` | A_total = A1+A2+A3 + bonus. A1/A2/A3 come from the audio pipeline or are typed manually. |
+| **B** (25%) | `B1_q1..B1_q3` (/100), `B2` (/10), `Team` | Pop-up quizzes + team score + team label. |
+| **C** (20%) | `C1_1`, `C1_2`, `C2_v1..C2_v4` (/100) | Assignments + ICP V1–V4. |
+| **D** (15%) | `D_format,D_ref,D_problem,D_root,D_logical` (0–3), `D_ai_appendix` (5/0/−5), `D_override` (optional /100) | D1 rubric + AI appendix; override wins if set. |
+| **E** (20%) | `E_format,E_ref,E_problem,E_root,E_logical` (0–4) | E1 pitch rubric. |
+
+Optional second tab **`Attendance`**: `Student`, `W1..W16` (Tuesdays Sep 1 – Dec 15 2026; `1` = present, blank = absent).
 
 **Grade math (computed in the page):** Final = A(/20) + B(/25) + C(/20) + D(/15) + E(/20) = /100.
 **KAIST scale:** A+ 95–100 → adjusted to A0 (no A+ awarded) · A0 90–95 · A- 85–90 · B+ 80–85 · B0 75–80 …
